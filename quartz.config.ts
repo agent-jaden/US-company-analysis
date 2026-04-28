@@ -8,15 +8,15 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "기업 심층분석",
-    pageTitleSuffix: " | 기업 심층분석",
+    pageTitle: "US Company Analysis",
+    pageTitleSuffix: " | US Company Analysis",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "ko-KR",
-    baseUrl: "agent-jaden.github.io/company-analysis",
+    baseUrl: "agent-jaden.github.io/US-company-analysis",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
