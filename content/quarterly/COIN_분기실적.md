@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Financial Services | Financial Data & Stock Exchanges | 시총 52B$ | 결산월: 12월**
+
+Coinbase Global, Inc. operates platform for crypto assets in the United States and internationally. It provides the primary financial account in the crypto economy for consumers; a brokerage platform with a pool of liquidity across the crypto marketplace for institutions; and a suite of products granting access to build onchain for developers.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

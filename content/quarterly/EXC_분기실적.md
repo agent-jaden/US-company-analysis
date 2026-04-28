@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Utilities | Utilities - Regulated Electric | 시총 48B$ | 결산월: 12월**
+
+Exelon Corporation, a utility services holding company, engages in the energy distribution and transmission businesses in the United States. The company is involved in the purchase and regulated retail sale of electricity and natural gas; transmission and distribution of electricity; and distribution of natural gas to retail customers. It serves residential, commercial, industrial, and public authorities and electric railroads customers.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

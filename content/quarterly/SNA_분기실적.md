@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더
 
+**시총 20B$ | 결산월: 1월**
+
+Snap-on Incorporated manufactures and markets tools, equipment, diagnostics, and repair information and systems solutions for professional users worldwide. It operates through Commercial & Industrial Group, Snap-on Tools Group, Repair Systems & Information Group, and Financial Services segments. The company offers hand tools, such as wrenches, sockets, ratchet wrenches, pliers, screwdrivers, punches and chisels, saws and cutting tools, pruning tools, torque tools, and other similar products; power tools, including cordless, pneumatic, and hydraulic and corded tools; impact wrenches, ratchets, screwdrivers, drills, sanders, and grinders.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

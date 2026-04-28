@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Financial Services | Capital Markets | 시총 35B$ | 결산월: 12월**
+
+Interactive Brokers Group, Inc. operates as an automated electronic broker in the United States and internationally. The company engages in the execution, clearance, and settlement of trades in stocks, options, futures, foreign exchange instruments, bonds, precious metals, and cryptocurrencies; and the company provides custody, prime brokerage, securities, and margin lending services.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(M$) | 영업이익(M$) | 순이익(M$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

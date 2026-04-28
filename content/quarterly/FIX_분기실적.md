@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Industrials | Engineering & Construction | 시총 63B$ | 결산월: 12월**
+
+Comfort Systems USA, Inc., together with its subsidiaries, provides mechanical and electrical installation, renovation, maintenance, repair, and replacement services for the mechanical and electrical services industry in the United States. The company operates through two segments: Mechanical and Electrical. It offers heating, ventilation, and air conditioning systems, as well as plumbing, electrical, piping and controls, off-site construction, monitoring, and fire protection.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

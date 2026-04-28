@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Real Estate | REIT - Industrial | 시총 29B$ | 결산월: 12월**
+
+Extra Space Storage Inc., headquartered in Salt Lake City, Utah, is a self-administered and self-managed REIT and a member of the S&P 500. As of December 31, 2025, the Company owned and/or operated 4,281 self-storage stores in 43 states and Washington, D.C. Its stores comprise approximately 2.9 million units and approximately 330.4 million square feet of rentable space operating under the Extra Space brand.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(M$) | 영업이익(M$) | 순이익(M$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

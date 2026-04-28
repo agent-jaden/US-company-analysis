@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 12B$ | 결산월: 12월**
+
+Pinnacle West Capital Corporation, through its subsidiary, provides retail and wholesale electric services in the state of Arizona. The company engages in the generation, transmission, and distribution of electricity using nuclear, gas, oil, coal, and solar generating facilities. Its transmission facilities include overhead lines and underground lines; and distribution facilities consist of overhead lines and underground primary cables.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

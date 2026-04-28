@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Industrials | Security & Protection Services | 시총 13B$ | 결산월: 12월**
+
+Allegion plc engages in the provision of security products and solutions worldwide. It is operating through two segments: Allegion Americas and Allegion International. The company offers door controls, door control system, and exit devices; doors, glass and door systems, and accessories; electronic security products and access control systems, including time, attendance, and workforce productivity; and locks, locksets, portable locks, and key systems.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

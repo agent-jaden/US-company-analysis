@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Industrials | Conglomerates | 시총 134B$ | 결산월: 12월**
+
+Honeywell International Inc. engages in the aerospace technologies, industrial automation, building automation, and energy and sustainable solutions businesses in the United States, Europe, and internationally. The company's Aerospace Technologies segment offers auxiliary power units, propulsion engines, integrated avionics, connectivity services, electric power systems, management and technical services, environmental control and electric power systems, engine controls, flight safety, communications, navigation hardware, data and software applications, radar and surveillance systems, aircraft lighting, advanced systems and instruments, satellite and space components, and aircraft wheels and brakes; thermal systems; and spare parts; repair, overhaul, and maintenance services.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

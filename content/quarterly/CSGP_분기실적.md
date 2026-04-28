@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Real Estate | Real Estate Services | 시총 15B$ | 결산월: 12월**
+
+CoStar Group, Inc. provides information, analytics, and online marketplace services to real estate and related business communities in the United States, Australia, Canada, Europe, the Asia Pacific, and Latin America. It offers CoStar Property that provides inventory of office, industrial, retail, multifamily, hospitality, and student housing, and land properties; CoStar Leasing, a data on lease transactions and tools to manage user-entered lease data; CoStar Sales, a database of commercial real estate sales transactions; CoStar Owners provides detailed portfolio information; CoStar Markets to view and report on market and submarket trends; and CoStar Tenant that provides tenant information.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(M$) | 영업이익(M$) | 순이익(M$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

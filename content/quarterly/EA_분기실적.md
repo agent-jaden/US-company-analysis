@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더
 
+**Communication Services | Electronic Gaming & Multimedia | 시총 51B$ | 결산월: 3월**
+
+Electronic Arts Inc. develops, markets, publishes, and delivers games, content, and services for game consoles, PCs, and mobile phones worldwide. It develops and publishes games and services across various genres, such as sports, racing, first-person shooter, action, role-playing, and simulation; and live services offerings, including extra content and subscription offerings through its global football and American football franchises, such as EA SPORTS College Football and EA SPORTS Madden NFL, as well as based on its IP comprising The Sims, Apex Legends, and Battlefield.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

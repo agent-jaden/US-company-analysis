@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Industrials | Specialty Industrial Machinery | 시총 33B$ | 결산월: 12월**
+
+Ingersoll Rand Inc. provides various mission-critical air, fluid, clean energy, and medical technologies services and solutions worldwide. It operates in two segments, Industrial Technologies and Services, and Precision and Science Technologies.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 8월 | 분기 기준: 캘린더
 
+**Consumer Cyclical | Auto Parts | 시총 59B$ | 결산월: 8월**
+
+AutoZone, Inc. operates as a retailer and distributor of automotive replacement parts and accessories in the United States, Mexico, and Brazil. The company offers a product line for cars, sport utility vehicles, vans, and light duty trucks, including new and remanufactured automotive hard parts, maintenance items, accessories, and non-automotive products.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

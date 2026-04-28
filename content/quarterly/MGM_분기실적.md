@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Consumer Cyclical | Resorts & Casinos | 시총 10B$ | 결산월: 12월**
+
+MGM Resorts International, through its subsidiaries, operates as a gaming and entertainment company in the United States, China, and internationally. It operates through four segments: Las Vegas Strip Resorts, Regional Operations, MGM China, and MGM Digital. The company operates casino resorts that offer gaming, hotel, convention, dining, entertainment, retail, and other resort amenities, as well as online/digital games through its online platforms.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

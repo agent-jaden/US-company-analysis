@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Utilities | Utilities - Regulated Electric | 시총 19B$ | 결산월: 12월**
+
+Alliant Energy Corporation operates as a utility holding company that provides regulated electric and natural gas services in the United States. It operates through IPL and WPL segments. The company's IPL segment engages primarily in the generation and distribution of electricity and the distribution and transportation of natural gas to retail customers in select markets in Iowa.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

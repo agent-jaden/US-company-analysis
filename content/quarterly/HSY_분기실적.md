@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Consumer Defensive | Confectioners | 시총 38B$ | 결산월: 12월**
+
+The Hershey Company, together with its subsidiaries, engages in the manufacture and sale of confectionery products and pantry items in the United States and internationally. It operates through three segments: North America Confectionery, North America Salty Snacks, and International. The company offers chocolate and non-chocolate confectionery products; gum and mint refreshment products, including mints, chewing gums, and bubble gums; protein bars; pantry items, such as baking ingredients, toppings, beverages, and sundae syrups; and snack items comprising spreads, bars, snack bites, mixes, popcorn, and pretzels.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Financial Services | Insurance Brokers | 시총 12B$ | 결산월: 12월**
+
+Erie Indemnity Company operates as a managing attorney-in-fact for the subscribers at the Erie Insurance Exchange in the United States. It provides issuance and renewal services; sales related services, including agent compensation and sales and advertising support services; underwriting services that include underwriting and policy processing; and other services consist of customer services and administrative support services, as well as information technology services. The company was incorporated in 1925 and is based in Erie, Pennsylvania.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

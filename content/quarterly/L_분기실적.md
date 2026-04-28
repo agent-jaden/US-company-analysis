@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Financial Services | Insurance - Property & Casualty | 시총 23B$ | 결산월: 12월**
+
+Loews Corporation, through its subsidiaries, provides commercial property and casualty insurance in the United States and internationally. The company offers specialty insurance products, such as management and professional liability and other coverage products; surety and fidelity bonds; professional liability coverages and risk management services to various professional firms, including architects, real estate agents, and accounting and law firms; standard and excess property, marine and boiler, machinery coverages, workers' compensation, general and product liability, commercial auto, umbrella, excess and surplus coverages, specialized loss-sensitive insurance programs, total risk management services relating to claim and information services; directors and officers, errors and omissions, employment practices, fiduciary, fidelity, and cyber coverages, as well as for small and mid-size firms, public and privately held firms, and not-for-profit organizations; and insurance products to serve the health care industry, including professional and general liability, as well as associated casualty coverage to aging services, allied medical facilities, dentists, physicians, nurses, and other medical practitioners. It also provides warranty and alternative risk, and run-off long-term care insurance products; ethane supply and transportation services for petrochemical customers, as well as transports and stores natural gas and natural gas liquids; operates a chain of hotels; develops, manufactures, and markets a range of extrusion blow-molded and injection molded plastic containers; and manufactures commodities and differentiated plastic resins.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

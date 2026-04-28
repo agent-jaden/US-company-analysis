@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Healthcare | Diagnostics & Research | 시총 128B$ | 결산월: 12월**
+
+Danaher Corporation designs, manufactures, and markets professional, medical, research, and industrial products and services in the United States, China, and internationally. The company operates through Biotechnology, Life Sciences, and Diagnostics segments. The Biotechnology segment provides technologies, consumables, services, and solutions that advance, accelerate, and integrate the development and manufacture of therapeutics; cell line and cell culture media development services; cell culture media, process liquids and buffers for manufacturing, chromatography resins, filtration technologies, and aseptic fill finish; single-use hardware, consumables, and services, such as the design and installation of full manufacturing suites; lab filtration, separation, and purification; lab-scale protein purification and analytical tools; reagents, membranes, and services for diagnostic and assay development; and healthcare filtration solutions.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Utilities | Utilities - Regulated Gas | 시총 23B$ | 결산월: 12월**
+
+NiSource Inc., an energy holding company, operates as a regulated natural gas and electric utility company in the United States. It operates in two segments, Columbia Operations and NIPSCO Operations. The company provides natural gas to residential, commercial, and industrial customers through approximately 37,300 miles of distribution main pipeline and the associated individual customer service lines; and 310 miles of transmission main pipeline in Ohio, Pennsylvania, Virginia, Kentucky, and Maryland.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

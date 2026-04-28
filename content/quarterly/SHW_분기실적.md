@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 83B$ | 결산월: 12월**
+
+The Sherwin-Williams Company engages in the development, manufacture, distribution, and sale of paint, coatings, and related products to professional, industrial, commercial and retail customers. The company operates through three segments: Paint Stores Group, Consumer Brands Group, and Performance Coatings Group. The Paint Stores Group segment offers architectural paint and coatings; protective and marine products; and OEM product finishes and related products for architectural and industrial paint contractors, and do-it-yourself homeowners under the Sherwin-Williams brand.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

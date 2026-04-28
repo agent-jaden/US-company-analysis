@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 19B$ | 결산월: 12월**
+
+Tractor Supply Company operates as a rural lifestyle retailer in the United States. The company provides various merchandise, including livestock and equine feed and equipment, poultry, fencing, and sprayers and chemicals; companion animal products, such as food, treats, and equipment for dogs, cats, and other small animals, as well as dog wellness products; seasonal and recreation products comprising tractors and riders, lawn and garden, bird feeding, power equipment, and other recreational products; truck, tool, and hardware products, such as truck accessories, trailers, generators, lubricants, batteries, and hardware and tools; and clothing, gift, and décor products consist of clothing, footwear, toys, snacks, and decorative merchandise. It offers its products under the 4health, Paws & Claws, American Farmworks, Producer's Pride, Bit & Bridle, Red Shed, Blue Mountain, Redstone, C.E.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

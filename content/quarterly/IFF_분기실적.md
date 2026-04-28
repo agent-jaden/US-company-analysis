@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Basic Materials | Specialty Chemicals | 시총 18B$ | 결산월: 12월**
+
+International Flavors & Fragrances Inc., together with its subsidiaries, manufactures and markets food, beverage, health and biosciences, scent, and complementary adjacent products in the United States, and internationally. It operates in through Taste, Food Ingredients, Health & Biosciences, and Scent segments. The Taste segment offers savory products such as soups, sauces, meat, fish, poultry, snacks; beverages consists of juice drinks, carbonated or flavored beverages, spirits; sweets comprising, bakery products, candy, cereal, chewing gum; and dairy products, such as yogurt, ice cream, cheese, and other products, as well as spices and seasoning ingredients for meat, food service, convenience, alternative protein and culinary products.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

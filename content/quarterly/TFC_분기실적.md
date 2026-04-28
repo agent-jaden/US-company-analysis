@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 64B$ | 결산월: 12월**
+
+Truist Financial Corporation, a financial services company, provides banking and trust services in the Southeastern and Mid-Atlantic United States. The company operates through two segments, Consumer and Small Business Banking; and Wholesale Banking. Its deposit products include noninterest-bearing checking, interest-bearing checking, savings, and money market deposit accounts, as well as certificates of deposit and individual retirement accounts.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출($) | 영업이익($) | 순이익($) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

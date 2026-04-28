@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더
 
+**Industrials | Engineering & Construction | 시총 15B$ | 결산월: 9월**
+
+Jacobs Solutions Inc. engages in the infrastructure and advanced facilities, and consulting businesses in the United States, Europe, Canada, India, Asia, Australia, New Zealand, the Middle East, and Africa. The company provides consulting, planning, architecture, design, engineering, and infrastructure delivery services including project, program, and construction management and long-term operation of facilities.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

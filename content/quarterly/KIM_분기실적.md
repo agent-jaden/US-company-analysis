@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Real Estate | REIT - Retail | 시총 16B$ | 결산월: 12월**
+
+Kimco Realty Corporation is a real estate investment trust and leading owner and operator of high-quality, open-air, grocery-anchored shopping centers and mixed-use properties in the United States. The company's portfolio is strategically concentrated in the first-ring suburbs of the top major metropolitan markets, including high-barrier-to-entry coastal markets and Sun Belt cities. Its tenant mix is focused on essential, necessity-based goods and services that drive multiple shopping trips per week.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(M$) | 영업이익(M$) | 순이익(M$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

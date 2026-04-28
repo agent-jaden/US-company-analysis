@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Consumer Cyclical | Resorts & Casinos | 시총 36B$ | 결산월: 12월**
+
+Las Vegas Sands Corp., together with its subsidiaries, owns, develops, and operates integrated resorts in Macao and Singapore. It owns and operates The Venetian Macao Resort Hotel, The Londoner Macao, The Parisian Macao, The Plaza Macao and Four Seasons Hotel Macao, and The Sands Macao in Macao, the People's Republic of China; and Marina Bay Sands in Singapore. The company's integrated resorts feature accommodations, gaming, entertainment and retail malls, convention and exhibition facilities, celebrity chef restaurants, and other amenities.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

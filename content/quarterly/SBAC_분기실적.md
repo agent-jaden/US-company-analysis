@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 23B$ | 결산월: 12월**
+
+SBA Communications Corporation is a leading independent owner and operator of wireless communications infrastructure. It includes towers, buildings, rooftops, distributed antenna systems (DAS) and small cells. With a portfolio of more than 46,000 communications sites throughout the Americas and in Africa, SBA is listed on NASDAQ under the symbol SBAC.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(M$) | 영업이익(M$) | 순이익(M$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

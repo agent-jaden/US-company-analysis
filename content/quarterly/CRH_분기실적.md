@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Basic Materials | Building Materials | 시총 78B$ | 결산월: 12월**
+
+CRH plc, together with its subsidiaries, provides building materials solutions in Ireland, the United States, the United Kingdom, rest of Europe, and internationally. It operates through three segments: Americas Materials Solutions, Americas Building Solutions, and International Solutions. The company offers building materials for the construction and maintenance of public infrastructure, and commercial and residential buildings, as well as construction and renovation of transportation infrastructure, critical utility networks, commercial and residential buildings, and outdoor living spaces; paving and construction services; and produces and sells aggregates, cementitious materials, ready mixed concrete and mortars, and asphalt.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

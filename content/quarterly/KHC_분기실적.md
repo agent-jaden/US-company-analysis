@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Consumer Defensive | Packaged Foods | 시총 26B$ | 결산월: 12월**
+
+The Kraft Heinz Company, together with its subsidiaries, manufactures and markets food and beverage products in North America and internationally. Its products include condiments, sauces, dressings, and spreads; cheese, frozen potato products, and other frozen meals; meal kits, frozen snacks, and pickles; dry packaged desserts, refrigerated ready to eat desserts, and other dessert toppings; ready to drink and powdered beverages, and liquid concentrates; American sliced and recipe cheeses; mainstream coffee, coffee pods, and premium coffee; and cold cuts, bacon, and hot dogs. It offers its products under the Kraft, Oscar Mayer, Heinz, Philadelphia, Lunchables, Velveeta, Ore-Ida, Capri Sun, Maxwell House, Kool-Aid, Jell-O, ABC, Master, Quero, Golden Circle, Wattie's, Pudliszki, and Plasmon brands, as well as Bagel Bites, Claussen, A1, and Cool Whip.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

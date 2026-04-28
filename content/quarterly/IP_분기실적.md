@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Consumer Cyclical | Packaging & Containers | 시총 17B$ | 결산월: 12월**
+
+International Paper Company produces and sells renewable fiber-based packaging in North America, Latin America, Europe, South America, and North Africa. It operates through two segments, Packaging Solutions North America and Packaging Solutions EMEA. The company offers linerboard, medium, whitetop, and saturating kraft; and converts containerboard into corrugated boxes, bulk bins, shipping containers and specialty packaging through its converting facilities.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

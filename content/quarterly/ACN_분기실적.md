@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 8월 | 분기 기준: 캘린더
 
+**Technology | Information Technology Services | 시총 109B$ | 결산월: 8월**
+
+Accenture plc provides strategy and consulting, industry X, song, and technology and operation services in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It offers systems integration and application management; security; intelligent platform; infrastructure; software engineering; data, AI, cloud; and automation and global delivery services. The company also operates business processes for specific enterprise functions, including finance and accounting, sourcing and procurement, supply chain, marketing and sales, and human resources, as well as industry-specific services, such as platform trust and safety, banking, insurance, network and health services; and designs, manufactures, and assembles automation equipment, robotics, and other commercial hardware products.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

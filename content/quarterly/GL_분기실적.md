@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Financial Services | Insurance - Life | 시총 12B$ | 결산월: 12월**
+
+Globe Life Inc., through its subsidiaries, provides various life and supplemental health insurance products to lower middle- and middle-income families in the United States. It operates in three segments: Life Insurance, Supplemental Health Insurance, and Investments. The company offers whole, term, and other life insurance products, as well as life insurance for children; Medicare supplement and limited-benefit supplemental health insurance products, such as accident, cancer, critical illness, heart, intensive care, and other health products; and final expense, accidental death, mortgage protection, and hospital insurance products.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

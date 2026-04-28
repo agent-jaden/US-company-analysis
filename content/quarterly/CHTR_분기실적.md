@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Communication Services | Telecom Services | 시총 25B$ | 결산월: 12월**
+
+Charter Communications, Inc. operates as a broadband connectivity company in the United States. The company offers subscription-based internet, mobile, video, and voice services; broadband connectivity services, including fixed internet, WiFi, and mobile; Spectrum internet products; advanced WiFi services; and in-home WiFi, which provides customers with high performance wireless routers and managed WiFi services to enhance their wireless internet experience.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 60B$ | 결산월: 12월**
+
+United Rentals, Inc., through its subsidiaries, operates as an equipment rental company in the United States, Canada, Europe, Australia, and New Zealand. It operates through two segments, General Rentals and Specialty. The General Rentals segment rents general construction and industrial equipment, such as backhoes, skid-steer loaders, forklifts, earthmoving equipment, and material handling equipment; aerial work platforms, including boom and scissor lifts; and general tools and light equipment comprising pressure washers, water pumps, and power tools for construction and industrial companies, manufacturers, utilities, municipalities, homeowners, and government entities.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

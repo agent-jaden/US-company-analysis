@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Consumer Defensive | Farm Products | 시총 34B$ | 결산월: 12월**
+
+Archer-Daniels-Midland Company provides human and animal nutrition ingredients and solutions in the United States, Switzerland, the Cayman Islands, Brazil, Mexico, Canada, the United Kingdom, and internationally. It operates in three segments: Ag Services and Oilseeds; Carbohydrate Solutions; and Nutrition. The company engages in the origination, merchandising, transportation, and storage of agricultural raw materials, as well as the crushing and processing of oilseeds, including soybeans and soft seeds, such as cottonseed, sunflower seed, canola, rapeseed, and flaxseed; produces and markets vegetable oils and oilseed protein meals used by food, feed, energy, and industrial customers; sale of crude and partially refined vegetable oils; supplies peanuts and peanut-derived ingredients; and manufactures cotton cellulose pulp.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

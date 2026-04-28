@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Communication Services | Telecom Services | 시총 98B$ | 결산월: 12월**
+
+Comcast Corporation operates as a media and technology company worldwide. The company operates through Residential Connectivity & Platforms, Business Services Connectivity, Media, Studios, and Theme Parks segments. Its Residential Connectivity & Platforms segment provides residential broadband and wireless connectivity services, residential and business video services, sky-branded entertainment television networks, and advertising.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

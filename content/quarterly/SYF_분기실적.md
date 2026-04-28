@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 26B$ | 결산월: 12월**
+
+Synchrony Financial, together with its subsidiaries, operates as a consumer financial services company in the United States. The company provides credit products, such as credit cards, commercial credit products, and consumer installment loans. It also offers private label credit cards, dual and general purpose co-branded cards, short- and long-term installment loans, and consumer banking products; and deposit products, including certificates of deposit, individual retirement accounts, money market accounts, savings accounts, and sweep and affinity deposits, as well as accepts deposits through third-party firms.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출($) | 영업이익($) | 순이익($) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

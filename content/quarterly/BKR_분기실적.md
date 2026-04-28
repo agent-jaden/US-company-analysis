@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Energy | Oil & Gas Equipment & Services | 시총 68B$ | 결산월: 12월**
+
+Baker Hughes Company provides a portfolio of technologies and services to energy and industrial value chain. Its Oilfield Services & Equipment segment designs and manufactures exploration, appraisal, development, production, rejuvenation, and decommissioning products and related services for onshore and offshore oilfield operations. This segment also provides drilling services, drill bits, and drilling and completions fluids; completions, intervention, measurements, pressure pumping, and wireline services; artificial lift systems, and oilfield and industrial chemicals; subsea projects and services, flexible pipe systems, and surface pressure control systems; and integrated well services and solutions.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

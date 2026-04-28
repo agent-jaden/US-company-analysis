@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Financial Services | Insurance - Diversified | 시총 37B$ | 결산월: 12월**
+
+The Hartford Insurance Group, Inc., together with its subsidiaries, provides insurance and financial services to individual and business customers in the United States, the United Kingdom, and internationally. It operates through Business Insurance, Personal Insurance, Property & Casualty Other Operations, Employee Benefits and Hartford Funds. The company offers insurance coverage, including workers' compensation, property, automobile, general and professional liability, package business, umbrella, fidelity and surety, marine, livestock, accident, health, and reinsurance through regional offices, branches, sales and policyholder service centers, independent retail agents and brokers, wholesale agents, and reinsurance brokers.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

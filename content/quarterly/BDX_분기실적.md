@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더
 
+**Healthcare | Medical Instruments & Supplies | 시총 43B$ | 결산월: 9월**
+
+Becton, Dickinson and Company develops, manufactures, and sells medical supplies, devices, laboratory equipment, and diagnostic products for healthcare institutions, physicians, life science researchers, clinical laboratories, pharmaceutical industry, and the general public worldwide. It operates through Medical Essentials, Connected Care, BioPharma Systems, Interventional and Life Sciences segments. It provides peripheral intravenous (IV) and advanced peripheral catheters, central lines, acute dialysis catheters, vascular access technology, vascular care and preparation products, needle-free IV connectors and extensions sets, closed-system drug transfer devices, hazardous drug detections, hypodermic syringes and needles, anesthesia needles and trays, enteral syringes, and sharps disposal systems; IV medication safety and infusion therapy delivery systems, medication compounding workflow system, automated medication dispensing and supply management systems, informatics and analytics and pharmacy automation system, and medication inventory optimization and tracking system; hemodynamic monitoring system; and prefillable drug delivery systems.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

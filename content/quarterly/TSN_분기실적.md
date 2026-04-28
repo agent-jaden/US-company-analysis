@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더
 
+**시총 22B$ | 결산월: 10월**
+
+Tyson Foods, Inc., together with its subsidiaries, operates as a food company worldwide. It operates through four segments: Beef, Pork, Chicken, and Prepared Foods. The company processes live fed cattle and hogs; fabricates dressed beef and pork carcasses into primal and sub-primal meat cuts, as well as case ready beef and pork, and fully cooked meats; raises and processes chickens into fresh, frozen, and value-added chicken products, including breaded chicken strips, nuggets, patties, and other ready-to-fix or fully cooked chicken parts; and supplies poultry breeding stock.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

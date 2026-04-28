@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Financial Services | Financial Data & Stock Exchanges | 시총 31B$ | 결산월: 12월**
+
+Cboe Global Markets, Inc., through its subsidiaries, operates as a derivatives and securities exchange network that delivers cutting-edge trading, clearing, and investment solutions in the United States and internationally. It operates through five segments: Options, North American Equities, Europe and Asia Pacific, Futures, and Global FX. The Options segment includes options on market indices, as well as on the stocks of individual corporations and on trading solutions and products in multiple asset classes, including equities, derivatives, and FX, across North America, Europe, and Asia Pacific (ETPs), such as exchange-traded funds (ETFs) and exchange-traded notes (ETNs); and trading in listed options through a single system.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

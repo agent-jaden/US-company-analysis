@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Healthcare | Medical Instruments & Supplies | 시총 13B$ | 결산월: 12월**
+
+Align Technology, Inc. provides Invisalign clear aligners, Vivera retainers, and iTero intraoral scanners and services in the United States, Switzerland, and internationally. The company's Clear Aligner segment offers Invisalign comprehensive package to treat adults and teens malocclusion and features, and orthodontic needs of teenage or younger patients; and Invisalign First Phase I and Invisalign First Comprehensive Phase 2 package for younger patients between the ages of six and ten years with a mixture of primary/baby and permanent teeth.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

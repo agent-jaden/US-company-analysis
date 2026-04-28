@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Industrials | Building Products & Equipment | 시총 52B$ | 결산월: 12월**
+
+Carrier Global Corporation provides intelligent climate and energy solutions in the United States, Europe, the Asia Pacific, and internationally. It operates through four segments: Climate Solutions Americas; Climate Solutions Europe; Climate Solutions Asia Pacific, Middle East & Africa; and Climate Solutions Transportation. The company provides air conditioners, heating systems, heat pumps, home and building energy management systems, automation systems, aftermarket components, and repair and maintenance and rental services, as well as modernization and upgrades to meet the heating, cooling, and ventilation needs of residential and commercial customers.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

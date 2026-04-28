@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더
 
+**Consumer Cyclical | Packaging & Containers | 시총 18B$ | 결산월: 6월**
+
+Amcor plc, together with its subsidiaries, engages in the production and sale of packaging products in Europe, North America, Latin America, and the Asia Pacific. The company operates in two segments, Global Flexible Packaging Solutions and Global Rigid Packaging Solutions. The Global Flexible Packaging Solutions segment develops and supplies flexible packaging products, including polymer resin, aluminum, and fiber based flexible packaging products to the food and beverage, medical and pharmaceutical, fresh produce, snack food, personal care, and other industries.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

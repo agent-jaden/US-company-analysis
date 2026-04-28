@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Consumer Cyclical | Auto Parts | 시총 15B$ | 결산월: 12월**
+
+Aptiv PLC, an industrial technology company, provides hardware and software solutions to support automotive and other industries in North America, Europe, the Middle East, Africa, the Asia Pacific, and South America. It operates through three segments: Advanced Safety and User Experience, Engineered Components, and Electrical Distribution Systems. The company offers active safety, user experience and smart vehicle compute, and software products for vehicle safety and security, including intelligent sensors, compute platforms, and software tools and services.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

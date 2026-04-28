@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Healthcare | Medical Devices | 시총 13B$ | 결산월: 12월**
+
+Insulet Corporation develops, manufactures, and sells insulin delivery systems for people with insulin-dependent diabetes in the United States and internationally. The company offers Omnipod platform products comprising Omnipod 5 automated insulin delivery system, which includes a proprietary AID algorithm embedded in the pod that integrates with a third-party continuous glucose monitor to obtain glucose values through wireless Bluetooth communication; Omnipod DASH insulin management system that features a Bluetooth enabled pod that is controlled by a smartphone-like personal diabetes manager with a color touch screen user interface; and the Omnipod Insulin Management System. It also provides pods for Amgen for use in the Neulasta Onpro kit, which is a delivery system to help reduce the risk of infection after intense chemotherapy.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(M$) | 영업이익(M$) | 순이익(M$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

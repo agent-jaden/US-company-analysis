@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Healthcare | Biotechnology | 시총 19B$ | 결산월: 12월**
+
+Incyte Corporation, a biopharmaceutical company, engages in the discovery, development, and commercialization of therapeutics in the United States, Europe, Canada, and Japan. The company offers JAKAFI for the treatment of myelofibrosis (MF), polycythemia vera, and steroid-refractory acute graft-versus-host disease; ICLUSIG, a kinase inhibitor to treat chronic myeloid leukemia and Philadelphia-chromosome positive acute lymphoblastic leukemia; MONJUVI/ MINJUVI for the treatment of diffuse large B-cell lymphoma and Follicular Lymphoma; NIKTIMVO for the treatment of chronic graft-versus-host disease. It also provides INCA033989 for the treatment of essential thrombocythemia and MF;  INCA035784 for the treatment of anti-mutant calreticulin and myeloproliferative neoplasms (MPNs); INCB160058 for the treatment of MPNs; PEMAZYRE, a selective fibroblast growth factor receptor kinase inhibitor for the treatment of unresectable biliary tract cancer, metastatic cholangiocarcinoma, and myeloid/lymphoid neoplasms; ZYNYZ to treat adults with metastatic or recurrent locally advanced Merkel cell carcinoma.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

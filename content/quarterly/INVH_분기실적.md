@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Real Estate | REIT - Residential | 시총 16B$ | 결산월: 12월**
+
+Invitation Homes is a leading owner and operator of single-family homes for lease, offering residents high quality homes in sought after neighborhoods across the United States. As of December 31, 2025, we wholly own 86,192 homes for lease, jointly own 8,006 homes for lease, and provide professional third-party property and asset management services for an additional 15,866 homes, all of which are primarily located in 16 core markets across the country. These homes help meet the needs of a growing share of Americans who count on the ease, flexibility, and savings of leasing.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(M$) | 영업이익(M$) | 순이익(M$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Industrials | Building Products & Equipment | 시총 15B$ | 결산월: 12월**
+
+Masco Corporation provides home improvement and building products in North America, Europe, and internationally. The company's Plumbing Products segment offers faucets, showerheads, handheld showers, valves, bath hardware and accessories, bathing units, shower bases and enclosures, shower drains, steam shower systems, water filtration systems, and sinks and kitchen accessories; acrylic tubs, bath and shower enclosures, and shower bases and trays; spas, exercise pools, and aquatic fitness systems and saunas; brass, copper, and composite plumbing system component and other non-decorative plumbing products; water products; and thermoplastic products, extruded plastic profiles, and specialized fabrication products, as well as PEX tubing products. This segment provides its products under the DELTA, BRIZO, PEERLESS, HANSGROHE, AXOR, KRAUS, NEWPORT BRASS, GINGER, WALTEC, BRISTAN, HERITAGE, MIROLIN, HOT SPRING, CALDERA, FREEFLOW SPAS, FANTASY SPAS, AQUATERRA, LIFESMART, ENDLESS POOLS, TYLO, FINNLEO, HELO, BRASSCRAFT, PLUMBSHOP, and MASTER PLUMBER brands, as well as under private label to home center and online retailers, mass merchandisers, wholesalers and distributors, plumbers, building contractors, remodelers, smaller retailers, and consumers and homebuilders.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

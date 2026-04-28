@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 22B$ | 결산월: 12월**
+
+Quest Diagnostics Incorporated provides diagnostic testing and services in the United States. The company develops and delivers diagnostic information services, such as routine, non-routine and advanced clinical testing, anatomic pathology testing, and other diagnostic information services. It also provides services under the Quest Diagnostics brand, as well as under the AmeriPath, Dermpath Diagnostics, ExamOne, and Quanum brands to physicians, hospitals, patients and consumers, health plans, government agencies, employers, retailers, pharmaceutical companies and insurers commercial clinical laboratories, and accountable care organizations through a network of laboratories, patient service centers, phlebotomists in physician offices, call centers and mobile phlebotomists, nurses, and other health and wellness professionals.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

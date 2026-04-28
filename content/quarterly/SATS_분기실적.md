@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Communication Services | Telecom Services | 시총 35B$ | 결산월: 12월**
+
+EchoStar Corporation provides pay-tv services in the United States, Mexico, Canada, South and Central America, Asia, Africa, Australia, Europe, India, and the Middle East. The Pay-TV segment offers a direct broadcast and fixed satellite, owned and leased satellites, leased fiber optic networks, in-home services, and call center operation services; digital broadcast operations, including satellite uplinking/downlinking, transmission and, other services to third-party pay-TV providers; multichannel, live-linear and on-demand streaming over-the-top Internet-based domestic, international, Latino, and Freestream video programming services; and receiver systems. Its Wireless segment provides wireless communication services and products; and a range of wireless devices.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

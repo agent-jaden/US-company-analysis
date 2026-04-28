@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더
 
+**시총 16B$ | 결산월: 9월**
+
+PTC Inc. operates as software company in the Americas, Europe, and the Asia Pacific. The company provides Windchill, a suite that manages all aspects of the product development lifecycle(PLM) that provides real-time information sharing, dynamic data visualization, collaborate across geographically distributed teams, and enabling manufacturers to elevate product development, manufacturing, field service, and end-of-life processes; ThingWorx, an Industrial Internet of Things software; ServiceMax, a service lifecycle management solutions enable companies to asset uptime with optimized in-person and remote service and technician productivity with mobile tools, and deliver metrics; and Arena, a SaaS PLM solution enables product teams to collaborate virtually to share product and quality information with internal teams and supply chain partners and deliver products to customers.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(M$) | 영업이익(M$) | 순이익(M$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

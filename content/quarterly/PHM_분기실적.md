@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 24B$ | 결산월: 12월**
+
+PulteGroup, Inc., through its subsidiaries, engages in the homebuilding business in the United States. The company is involved in the acquisition and development of land primarily for residential purposes, as well as construction of housing; and sale of single-family detached homes; and attached homes, such as townhomes, condominiums, and duplexes under the Centex, Pulte Homes, Del Webb, DiVosta Homes, and John Wieland Homes and Neighborhoods brands. It also engages in the mortgage banking, title, and insurance agency operations.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

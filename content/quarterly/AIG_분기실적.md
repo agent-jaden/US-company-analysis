@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Financial Services | Insurance - Diversified | 시총 40B$ | 결산월: 12월**
+
+American International Group, Inc. provides insurance products for commercial, institutional, and individual customers in North America and internationally. It operates through three segments: North America Commercial, International Commercial, and Global Personal.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

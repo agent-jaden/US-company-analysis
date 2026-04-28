@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더
 
+**Consumer Defensive | Packaged Foods | 시총 19B$ | 결산월: 5월**
+
+General Mills, Inc. manufactures and markets branded consumer foods in the United States and internationally. The company operates through four segments: North America Retail; International; North America Pet; and North America Foodservice.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

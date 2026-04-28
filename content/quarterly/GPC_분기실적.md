@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Consumer Cyclical | Auto Parts | 시총 15B$ | 결산월: 12월**
+
+Genuine Parts Company distributes automotive and industrial replacement parts. The company operates in three segments: North America Automotive Parts Group, International Automotive Parts Group, and Industrial Parts Group. It distributes automotive replacement parts, accessories, tools, equipment, and related solutions for hybrid and electric vehicles, trucks, buses, motorcycles, farm equipment, and heavy-duty equipment.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

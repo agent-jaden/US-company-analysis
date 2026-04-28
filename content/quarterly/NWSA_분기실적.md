@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더
 
+**Communication Services | Entertainment | 시총 14B$ | 결산월: 6월**
+
+News Corporation, a media and information services company, creates and distributes authoritative and engaging content, and other products and services for consumers and businesses. It operates through five segments: Digital Real Estate Services, Dow Jones, Book Publishing, News Media, and Other. The company distributes content and data products through various media channels, such as newspapers, newswires, websites, mobile apps, newsletters, magazines, proprietary databases, live journalism, video, and podcasts under the MarketWatch, The Wall Street Journal, Barron's, Investor's Business Daily, Factiva, Dow Jones Risk & Compliance, Dow Jones Newswires, and Dow Jones Energy brands.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Industrials | Specialty Industrial Machinery | 시총 15B$ | 결산월: 12월**
+
+IDEX Corporation, together with its subsidiaries, provides applied solutions in the United States, North America, Europe, Asia, and internationally. It operates through three segments: Health & Science Technologies (HST), Fluid & Metering Technologies (FMT) and Fire & Safety/Diversified Products (FSDP). The HST segment designs, produces, and distributes a range of precision fluidics, positive displacement pumps, powder and liquid processing technologies, drying systems, micro-precision components, pneumatic components and sealing solutions, high performance molded and extruded sealing components, and custom mechanical and shaft seals.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(M$) | 영업이익(M$) | 순이익(M$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

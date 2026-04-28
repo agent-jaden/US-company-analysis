@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Industrials | Engineering & Construction | 시총 39B$ | 결산월: 12월**
+
+EMCOR Group, Inc. provides electrical and mechanical construction and facilities, building, and industrial services in the United States and the United Kingdom. It offers design, integration, installation, startup, operation, and maintenance services related to power transmission, distribution, and generation systems; energy solutions; premises electrical and lighting systems; process instrumentation; low-voltage systems; voice and data communications systems; roadway and transit lighting, signaling, and fiber optic lines; computerized traffic control systems, and signal and communication equipment; heating, ventilation, air conditioning, refrigeration, and geothermal solutions; clean-room process ventilation systems; fire protection and suppression systems; plumbing, process, and piping systems; control and filtration systems; water and wastewater treatment systems; central plant heating and cooling systems; crane and rigging; millwright; and steel fabrication, erection, and welding services.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

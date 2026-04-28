@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더
 
+**Industrials | Specialty Business Services | 시총 32B$ | 결산월: 7월**
+
+Copart, Inc. provides online auctions and vehicle remarketing services in the United States, the United Kingdom, Germany, Brazil, Canada, the United Arab Emirates, Spain, Finland, Oman, the Republic of Ireland, and Bahrain. It offers a range of services to process and sell vehicles over the internet through its virtual bidding third generation internet auction-style sales technology.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

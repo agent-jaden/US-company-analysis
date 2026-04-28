@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Communication Services | Advertising Agencies | 시총 24B$ | 결산월: 12월**
+
+Omnicom Group Inc., together with its subsidiaries, offers advertising, marketing, and corporate communications services. It provides a range of services in the areas of media and advertising, precision marketing, public relations, healthcare, branding and retail commerce, experiential, execution, and support. The company's services include advertising, branding, content marketing, crisis communications, customer data analytics and data-driven decision making, customer relationship management, decision sciences, digital experience design, digital transformation, e-commerce optimization, entertainment marketing, experiential marketing, field marketing, healthcare marketing and communications, in-store design, investor relations, and marketing research.Its services also comprise media planning and buying, merchandising and point of sale, mobile marketing, multi-cultural marketing, organizational communications, package design, performance marketing, product placement, promotional marketing, public affairs, public relations, retail media and e-commerce, shopper marketing, structured innovation, studio production, social media and influencer marketing, and sports and event marketing.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

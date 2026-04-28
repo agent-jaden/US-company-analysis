@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Real Estate | REIT - Specialty | 시총 34B$ | 결산월: 12월**
+
+Iron Mountain Incorporated is a global leader in information management services, and is trusted by more than 240,000 customers in 61 countries. It also includes approximately 95% of the Fortune 1000, to help unlock value and intelligence from their assets through services that transcend the physical and digital worlds. Their broad range of solutions address their information management, digital transformation, information security, data center and asset lifecycle management (ALM) needs.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

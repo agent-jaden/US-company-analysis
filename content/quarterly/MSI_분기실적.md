@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Technology | Communication Equipment | 시총 72B$ | 결산월: 12월**
+
+Motorola Solutions, Inc. provides public safety, government, defense, and enterprise security solutions in the United States, the United Kingdom, Canada, and internationally. It operates in two segments, Products and Systems Integration, and Software and Services.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

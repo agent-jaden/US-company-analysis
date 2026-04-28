@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Industrials | Building Products & Equipment | 시총 17B$ | 결산월: 12월**
+
+Lennox International Inc., together with its subsidiaries, designs, manufactures, and markets products for the heating, ventilation, air conditioning, and refrigeration markets in the United States, Canada, and internationally. The Home Comfort Solutions segment provides furnaces, air conditioners, heat pumps, packaged heating and cooling systems, indoor air quality equipment, comfort control products, and replacement parts and supplies; residential heating, ventilation, cooling equipment, and air conditioning; and evaporator coils, air handlers, and unit heaters under Lennox, Dave Lennox Signature Collection, Armstrong Air, Ducane, AirEase, Concord, MagicPak, Advanced Distributor Products, Allied, Elite Series, Supco, Linebacker, Elite series, Merit Series, Comfort Sync, Healthy Climate, Healthy Climate Solutions, iComfort, ComfortSense, and Lennox Stores name. The Building Climate Solutions segment offers unitary heating and air conditioning equipment, applied systems, controls, installation and service of commercial heating and cooling equipment, variable refrigerant flow commercial, curb, curb adapters, drop box diffusers, HVAC recycling, and salvage service.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

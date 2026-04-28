@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Consumer Cyclical | Packaging & Containers | 시총 13B$ | 결산월: 12월**
+
+Avery Dennison Corporation operates as a materials science and digital identification solutions company in the North America, Europe, the Middle East, North Africa, Asia, and Latin America. It offers pressure-sensitive label materials, which consist of papers, plastic films, and metal foils; performance tapes products, including mechanical fasteners, which are precision-extruded and injection-molded plastic devices; and other pressure-sensitive adhesive-based materials and converted products under the Fasson, JAC, and Avery Dennison brands. The company provides graphics and reflective products that include films and other products for the architectural, commercial sign, digital printing, and other related market segments; durable cast and reflective films to the construction, automotive, and fleet transportation markets; sign shops, commercial printers, and designers for pressure-sensitive materials; reflective films for traffic and safety applications; and pressure-sensitive vinyl and specialty materials for digital imaging, screen printing, and sign cutting applications under the Avery Dennison and Mactac brand names.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

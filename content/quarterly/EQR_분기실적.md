@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Real Estate | REIT - Residential | 시총 23B$ | 결산월: 12월**
+
+Equity Residential is committed to creating communities where people thrive. The Company, a member of the S&P 500, owns and manages 312 rental properties consisting of 85,190 apartment units in dynamic metro areas across the U.S. with a primary concentration in major coastal markets, diversified by a targeted presence in the high-growth metro areas of Atlanta, Austin, Dallas/Ft.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

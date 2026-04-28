@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 108B$ | 결산월: 12월**
+
+Vertex Pharmaceuticals Incorporated operates as a biotechnology company in the United States, Europe, and internationally. The company offers transformative medicines for people with serious diseases with a focus on specialty markets, such as cystic fibrosis (CF), sickle cell disease (SCD), transfusion dependent beta thalassemia (TDT), and acute pain. It markets TRIKAFTA/KAFTRIO for people with CF with at least one F508del mutation for 2 years of age and older; ALYFTREK for the treatment for people with CF 6 years of age and older; SYMDEKO/SYMKEVI for treatment of patients with CF 6 years of age and older; ORKAMBI for CF patients 1 year or older; and KALYDECO for the treatment of patients with 1 month or older who have CF with ivacaftor.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Healthcare | Healthcare Plans | 시총 75B$ | 결산월: 12월**
+
+The Cigna Group, together with its subsidiaries, provides insurance and related products and services in the United States. It operates through two segments: Evernorth Health Services and Cigna Healthcare. The Evernorth Health Services segment includes Pharmacy Benefit Services and Specialty and Care Services, offering pharmacy benefit management, drug claim adjudication, retail pharmacy network administration, benefit design consultation, drug utilization review, drug formulary management, pharmacy benefits, home delivery pharmacy, specialty pharmacy, specialty pharmaceutical distribution, and clinical programs for whole-person health outcomes.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

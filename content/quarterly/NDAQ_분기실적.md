@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Financial Services | Financial Data & Stock Exchanges | 시총 51B$ | 결산월: 12월**
+
+Nasdaq, Inc. operates as a technology company that serves capital markets and other industries in the United States and internationally. It operates through three segments: Capital Access Platforms, Financial Technology, and Market Services.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

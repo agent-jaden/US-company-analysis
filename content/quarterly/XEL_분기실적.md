@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 50B$ | 결산월: 12월**
+
+Xcel Energy Inc., through its subsidiaries, operates as an electric and natural gas delivery company in the United States. It operates through Regulated Electric Utility and Regulated Natural Gas Utility segments. The company generates, purchases, transmits, distributes, and sells electricity through its energy portfolio, including wind, nuclear, hydroelectric, biomass, and solar power from both owned generation facilities and PPAs, as well as its fossil fuel energy portfolio, such as coal and natural gas; sale and resale of wholesale transmission service; and engages in wholesale commodity and trading operations.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더
 
+**Consumer Cyclical | Restaurants | 시총 23B$ | 결산월: 5월**
+
+Darden Restaurants, Inc., together with its subsidiaries, owns and operates full-service restaurants in the United States and Canada. The company operates under Olive Garden, LongHorn Steakhouse, Cheddar's Scratch Kitchen, Chuy's, Yard House, Ruth's Chris Steak House, The Capital Grille, Seasons 52, Eddie V's Prime Seafood, Bahama Breeze, The Capital Burger, Darden and Darden Restaurants brand names. Darden Restaurants, Inc.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

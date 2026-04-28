@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Energy | Oil & Gas E&P | 시총 14B$ | 결산월: 12월**
+
+APA Corporation, an independent energy company, explores for, develops, and produces natural gas, crude oil, and natural gas liquids. The company has oil and gas operations in the United States, Egypt, and North Sea. It also has exploration and appraisal activities in Suriname, as well as holds interests in projects located in Uruguay and internationally.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출($) | 영업이익($) | 순이익($) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

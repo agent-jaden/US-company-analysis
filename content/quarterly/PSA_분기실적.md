@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 54B$ | 결산월: 12월**
+
+Public Storage, a member of the S&P 500, is a REIT that primarily acquires, develops, owns, and operates self-storage facilities. At December 31, 2025, we: (i) owned and/or operated 3,533 self-storage facilities located in 40 states with approximately 258 million net rentable square feet in the United States and (ii) owned a 35% common equity interest in Shurgard Self Storage Limited (Euronext Brussels: SHUR), which owned 332 self-storage facilities located in seven Western European countries with approximately 18 million net rentable square feet operated under the Shurgard brand. Our headquarters are in Frisco, Texas.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

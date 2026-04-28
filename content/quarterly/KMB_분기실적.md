@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Consumer Defensive | Household & Personal Products | 시총 33B$ | 결산월: 12월**
+
+Kimberly-Clark Corporation, together with its subsidiaries, manufactures and markets personal care products in the United States. It operates in two segments, North America and International Personal Care. The North America segment offers disposable diapers, training and youth pants, swimpants, baby wipes, feminine and incontinence care products, reusable underwear, facial and bathroom tissue, paper towels, napkins, wipers, tissue, towels, soaps and sanitizers, and other related products under the Huggies, Pull-Ups, Goodnites, Kotex, Poise, Depend, Kleenex, Scott, Cottonelle, Viva, Wypall , and other brand names.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

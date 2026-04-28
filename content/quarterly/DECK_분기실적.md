@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더
 
+**Consumer Cyclical | Footwear & Accessories | 시총 15B$ | 결산월: 3월**
+
+Deckers Outdoor Corporation, together with its subsidiaries, designs, markets, and distributes footwear, apparel, and accessories for casual lifestyle use and high-performance activities in the United States and internationally. The company offers premium footwear, apparel, and accessories under the UGG brand name; footwear, such as running, trail, hiking, fitness, and lifestyle shoes, as well as apparel and accessories under the HOKA brand name; and sandals, shoes, and boots under the Teva brand name. It also provides a casual footwear fashion line under the Koolaburra brand name; and footwear products under the AHNU brand name.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

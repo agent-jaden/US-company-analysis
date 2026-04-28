@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더
 
+**시총 123B$ | 결산월: 6월**
+
+Parker-Hannifin Corporation manufactures and sells motion and control technologies and systems for aerospace and defense, in-plant and industrial equipment, transportation, off-highway, energy, and HVAC and refrigeration markets in North America, Europe, Asia Pacific, and Latin America. The company operates through two segments: Diversified Industrial and Aerospace Systems. It offers various motion-control systems and components, such as active and passive vibration control, high purity sealing, coatings, high temperature sealing, cryogenic valves and fittings, HVAC/R controls and monitoring, elastomeric, fabric reinforced, metal, precision cut seals, hydrogen and natural gas filters, electric and hydraulic pumps and motors, industrial air, gas filtration, electric and hydraulic valves, miniature pumps and valves, electromagnetic interface shielding, pneumatic actuators, regulators and valves, electromechanical and hydraulic actuators, power take offs, electronics, drives and controllers, process filtration solutions, engine filtration solutions, rubber to substrate adhesives, fluid condition monitoring, sensors and diagnostics, fluid conveyance hose and tubing, structural adhesives, high pressure connectors, fittings, valves and regulators, thermal management, high purity fittings.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

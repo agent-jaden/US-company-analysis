@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Healthcare | Medical Devices | 시총 24B$ | 결산월: 12월**
+
+DexCom, Inc., a medical device company, focuses on the design, development, and commercialization of continuous glucose monitoring (CGM) systems for the management of diabetes and metabolic health in the United States and internationally. The company offers Dexcom G7 and G7 15 Day, an integrated continuous glucose monitoring system; Dexcom G6, a CGM system; Dexcom ONE+ to replace fingerstick blood glucose testing for diabetes treatment decisions; Stelo, a biosensor designed for adults with prediabetes and Type 2 diabetes who do not use insulin; Dexcom Share, a remote monitoring system; and Dexcom Follow application. It markets its products directly to endocrinologists, physicians, and diabetes educators.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

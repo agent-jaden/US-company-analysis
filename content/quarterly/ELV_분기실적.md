@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Healthcare | Healthcare Plans | 시총 77B$ | 결산월: 12월**
+
+Elevance Health, Inc., together with its subsidiaries, operates as a health benefits company in the United States. The company operates in four segments: Health Benefits, CarelonRx, Carelon Services, and Corporate & Other. It offers a variety of health plans and services to individual, employer group risk-based and fee-based, BlueCard, Medicare, Medicaid, and FEP members; health products; a broad array of fee-based administrative managed care services; and specialty and other insurance products and services, such as stop loss, dental, vision, and supplemental health insurance benefits.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

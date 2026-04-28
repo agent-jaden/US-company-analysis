@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Industrials | Specialty Industrial Machinery | 시총 13B$ | 결산월: 12월**
+
+Generac Holdings Inc. designs, manufactures, and distributes energy technology products and solutions worldwide. The company offers residential automatic standby generators, automatic transfer switch, air-cooled engine home standby generators, and liquid-cooled engine generators; Mobile Link, a remote monitoring system for home standby generators; propane tank monitoring solution; and smart home solutions, such as smart thermostats and a suite of home monitoring products.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더
 
+**Consumer Defensive | Beverages - Brewers | 시총 27B$ | 결산월: 2월**
+
+Constellation Brands, Inc., together with its subsidiaries, produces, imports, markets, and sells beer, wine, and spirits in the United States, Canada, Mexico, New Zealand, and Italy. It offers beer under the Corona Extra, Corona Familiar, Corona Sunbrew, Corona Light, Corona Non-Alcoholic, Corona Premier, Modelo Especial, Modelo Chelada, Modelo Negra, Modelo Spiked Aguas Frescas, Modelo Oro, Modelo Noche Especial, Victoria, Vicky Chamoy, and Pacifico brand names. The company also offers wine under the Sea Smoke, Schrader Cellars, Kim Crawford, Mount Veeder, Ruffino, My Favorite Neighbor, Robert Mondavi Winery, and The Prisoner Wine Company brand names; and spirits under the Casa Noble, High West, Mi CAMPO, and Nelson's Green Brier brand names.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

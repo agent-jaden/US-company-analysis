@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 24B$ | 결산월: 12월**
+
+Regions Financial Corporation, a financial holding company, provides various banking and related products and services to individual and corporate customers. It operates through three segments: Corporate Bank, Consumer Bank, and Wealth Management. The Corporate Bank segment offers commercial banking services, such as commercial and industrial, commercial real estate, and investor real estate lending; equipment lease financing; deposit products; capital markets activities, such as securities underwriting and placement; and loan syndication and placement, foreign exchange, derivatives, merger and acquisition, and other advisory services to corporate, middle market, and commercial real estate developers and investors.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출($) | 영업이익($) | 순이익($) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

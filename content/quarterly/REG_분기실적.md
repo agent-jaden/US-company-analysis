@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 15B$ | 결산월: 12월**
+
+Regency Centers Corporation is a fully integrated real estate company and self-administered and self-managed real estate investment trust that began its operations as a publicly-traded REIT in 1993. The Company conducts substantially all of its operations, and owns, directly or indirectly, substantially all of its assets. Our business consists of acquiring, developing, owning, and operating income-producing retail real estate principally located in suburban trade areas with compelling demographics within the United States of America.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(M$) | 영업이익(M$) | 순이익(M$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

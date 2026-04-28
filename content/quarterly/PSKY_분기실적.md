@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 12B$ | 결산월: 12월**
+
+Paramount Skydance Corporation operates as a media and entertainment company worldwide. It operates in three segments: Studios, Direct-to-Consumer, and TV Media. The company operates CBS Television Network, a domestic broadcast television network; CBS Stations, a television station; international free-to-air networks comprising Network 10, Channel 5, Telefe, and Chilevisión; and domestic premium and basic cable networks, such as Nickelodeon, MTV, CMT, Comedy Central, BET, Paramount+ with SHOWTIME, Paramount Network, The Smithsonian Channel, BET Media Group, CBS Sports Network, and international extensions of these brands.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

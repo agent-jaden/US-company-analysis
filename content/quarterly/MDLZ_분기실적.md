@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Consumer Defensive | Confectioners | 시총 74B$ | 결산월: 12월**
+
+Mondelez International, Inc., through its subsidiaries, manufactures, markets, and sells snack food and beverage products in Latin America, North America, Asia, the Middle East, Africa, and Europe. The company provides biscuits and baked snacks, including cookies, crackers, salted snacks, snack bars, and cakes and pastries; chocolates; and gums and candies, as well as various cheese, grocery, and powdered beverage products. Its brand portfolio includes Oreo, Ritz, LU, CLIF Bar, Tate's Bake Shop biscuits and baked snacks, Cadbury Dairy Milk, Milka, and Toblerone chocolate.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

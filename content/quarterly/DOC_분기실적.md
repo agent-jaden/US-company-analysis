@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Real Estate | REIT - Healthcare Facilities | 시총 11B$ | 결산월: 12월**
+
+Healthpeak Properties, Inc. is a Standard & Poor's 500 company that owns, operates, and develops high-quality real estate focused on healthcare discovery and delivery in the United States. Our company was originally founded in 1985.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(M$) | 영업이익(M$) | 순이익(M$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

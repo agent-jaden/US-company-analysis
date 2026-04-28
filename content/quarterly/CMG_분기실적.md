@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Consumer Cyclical | Restaurants | 시총 44B$ | 결산월: 12월**
+
+Chipotle Mexican Grill, Inc., together with its subsidiaries, owns and operates Chipotle Mexican Grill restaurants. It sells food and beverages, such as burritos, burrito bowls, quesadillas, tacos, and salads, as well as kids's meals, chips, and sides. It offers Mexican-inspired meals using responsibly sourced meats, such as chicken, beef, and pork branded as Responsibly Raised.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

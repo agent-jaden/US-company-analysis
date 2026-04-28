@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더
 
+**Technology | Information Technology Services | 시총 18B$ | 결산월: 6월**
+
+Broadridge Financial Solutions, Inc. provides investor communications and technology-driven solutions for the financial services industry in the United States and internationally. The company's Investor Communication Solutions segment handles the proxy materials distribution and voting processes for bank, broker-dealer, corporate issuer, and fund clients; and provides fund manager and a range of other regulatory communication solutions.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

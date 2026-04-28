@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더
 
+**시총 16B$ | 결산월: 1월**
+
+Trimble Inc. offers technology solutions and platform that enable office professionals and field workers to connect workflows and industry lifecycles in North America, Europe, the Asia Pacific, and internationally. The company provides architecture and interior design; building information modeling, engineering, and virtual design and construction; and construction and owner software products.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(M$) | 영업이익(M$) | 순이익(M$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

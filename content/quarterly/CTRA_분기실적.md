@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Energy | Oil & Gas E&P | 시총 26B$ | 결산월: 12월**
+
+Coterra Energy Inc., an independent oil and gas company, engages in the exploration, development, and production of oil, natural gas, and natural gas liquids in the United States. The company's properties include the Permian Basin, which covers approximately 345,000 net acres in the Delaware Basin in west Texas and southeast New Mexico, and an additional approximate of 49,000 net acres in the Delaware Basin in Lea County, New Mexico; Marcellus Shale properties, which covers approximately 186,000 net acres located in Susquehanna County, northeast Pennsylvania; and Anadarko Basin, which covers approximately 208,000 net acres located in the mid-continent region in Oklahoma. It also operates natural gas and saltwater gathering, and disposal systems in Texas.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

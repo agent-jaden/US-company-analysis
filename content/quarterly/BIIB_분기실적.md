@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Healthcare | Drug Manufacturers - General | 시총 27B$ | 결산월: 12월**
+
+Biogen Inc. discovers, develops, manufactures, and delivers therapies in the United States, Europe, Germany, Asia, and internationally. The company provides TECFIDERA, VUMERITY, AVONEX, PLEGRIDY, and TYSABRI for multiple sclerosis (MS); SPINRAZA for spinal muscular atrophy; SKYCLARYS to treat Friedreich's Ataxia; QALSODY for treating amyotrophic lateral sclerosis; FUMADERM to treat plaque psoriasis; BENEPALI, an etanercept biosimilar referencing ENBREL; IMRALDI, an adalimumab biosimilar referencing HUMIRA; FLIXABI, an infliximab biosimilar referencing REMICADE.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

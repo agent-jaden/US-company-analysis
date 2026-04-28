@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Utilities | Utilities - Regulated Water | 시총 26B$ | 결산월: 12월**
+
+American Water Works Company, Inc., through its subsidiaries, provides water and wastewater services in the United States. It offers water and wastewater services on military installations; and undertakes contracts with municipal customers, primarily to operate and manage water and wastewater facilities, as well as offers other related services. The company also operates approximately 80 surface water treatment plants; 520 groundwater treatment plants; 170 wastewater treatment plants; 55,000 miles of transmission, distribution, and collection mains and pipes; 1,200 groundwater wells; 1,800 water and wastewater pumping stations; 1,100 treated water storage facilities; and 75 dams.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

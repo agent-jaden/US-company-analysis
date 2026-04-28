@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Financial Services | Insurance - Reinsurance | 시총 14B$ | 결산월: 12월**
+
+Everest Group, Ltd., together with subsidiaries, provides reinsurance and insurance products in the United States, Europe, and internationally. It operates in two segment, Insurance and Reinsurance. The company writes property and casualty reinsurance; treaty and facultative reinsurance products; and specialty lines of business through reinsurance brokers, as well as directly with ceding companies; and writes property and casualty insurance directly, as well as through brokers, surplus lines, and general agents.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

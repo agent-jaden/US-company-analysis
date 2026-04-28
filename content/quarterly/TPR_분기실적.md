@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더
 
+**시총 30B$ | 결산월: 6월**
+
+Tapestry, Inc. provides accessories and lifestyle brand products in North America, Greater China, rest of Asia, and internationally. The company operates in three segments: Coach, Kate Spade, and Stuart Weitzman.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

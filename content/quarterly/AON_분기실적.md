@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Financial Services | Insurance Brokers | 시총 70B$ | 결산월: 12월**
+
+Aon plc operates as a professional services firm in the United States, rest of the Americas, the United Kingdom, Ireland, rest of Europe, the Middle East, Africa, and the Asia Pacific. It operates through Risk Capital and Human Capital segments. The company offers commercial risk solutions comprising retail and insurance brokerage, specialty solutions, global risk consulting, captives management, and affinity programs; health solutions, such as consulting and brokerage, consumer benefits, and talent advisory services; and wealth solutions, including retirement consulting and investments.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

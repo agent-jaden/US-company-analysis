@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Healthcare | Medical Care Facilities | 시총 99B$ | 결산월: 12월**
+
+HCA Healthcare, Inc., through its subsidiaries, provides health care services in the United States. The company owns, manages, and operates hospitals, ASCs, freestanding emergency care facilities, urgent care facilities, walk-in clinics, diagnostic and imaging centers, radiation and oncology therapy centers, as well as rehabilitation and physical therapy centers, physician practices, home health agencies, hospices, outpatient physical therapy providers, home and community-based services providers, and various other facilities. Its general and acute care hospitals offer medical and surgical services, including inpatient care, intensive care, cardiac care, diagnostic services, and emergency services; and outpatient services, such as outpatient surgery, laboratory, radiology, respiratory therapy, cardiology, and physical therapy.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Financial Services | Banks - Regional | 시총 34B$ | 결산월: 12월**
+
+Huntington Bancshares Incorporated operates as the bank holding company for The Huntington National Bank that provides commercial, consumer, and mortgage banking services. It offers financial products and services to consumer and business customers, including deposits, lending, payments, mortgage banking, dealer financing, investment management, trust, brokerage, insurance, and other financial products and services. The company also provides 24-Hour Grace, Asterisk-Free Checking, Money Scout, $50 Safety Zone, Standby Cash, Early Pay, Instant Access, Savings Goal Getter, And Huntington Heads Up; digitally powered consumer and business financial solutions to consumer finance, regional banking, branch banking, and wealth management customers; direct and indirect consumer loans; dealer finance loans and deposits; and private banking, wealth management and legacy planning through investment and portfolio management, fiduciary administration and trust, institutional custody, and full-service retail brokerage investment services.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(M$) | 영업이익(M$) | 순이익(M$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

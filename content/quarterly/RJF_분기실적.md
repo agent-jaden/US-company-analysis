@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더
 
+**시총 30B$ | 결산월: 9월**
+
+Raymond James Financial, Inc., a diversified financial services company, provides private client group, capital markets, asset management, banking, and other services to individuals, corporations, and municipalities in the United States, Canada, and Europe. The Private Client Group segment offers financial planning, investment advisory, securities transaction, investment services, portfolio management services, insurance and annuity products, and mutual funds; support to third-party mutual fund and annuity companies, including sales and marketing support, as well as distribution and accounting, and administrative services; margin loans; securities borrowing and lending services; and custodial, trade execution, research, and other support and services. The Capital Markets segment provides investment banking services, such as equity and debt underwriting, and merger and acquisition advisory; and fixed income and equity brokerage services.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

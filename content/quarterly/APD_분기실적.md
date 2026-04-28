@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더
 
+**Basic Materials | Specialty Chemicals | 시총 67B$ | 결산월: 9월**
+
+Air Products and Chemicals, Inc. provides atmospheric gases, process and specialty gases, equipment, and related services in the Americas, Asia, Europe, the Middle East, India, and internationally. The company produces atmospheric gases, including oxygen, nitrogen, and argon; process gases, such as hydrogen, helium, carbon dioxide, carbon monoxide, and syngas; and specialty gases for customers in various industries, including refining, chemical, metals, manufacturing, electronics, energy production, medical, food, chemical and petrochemical manufacturing, oil and gas recovery and processing, and steel and primary metals processing.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Real Estate | REIT - Residential | 시총 24B$ | 결산월: 12월**
+
+AvalonBay Communities, Inc., a member of the S&P 500, is an equity REIT. The firm develops, redevelops, acquires and manages communities in leading metropolitan areas in New England, the New York/New Jersey Metro area, the Mid-Atlantic, the Pacific Northwest, and Northern and Southern California, as well as in the Company's expansion regions of Raleigh-Durham and Charlotte, North Carolina, Southeast Florida, Dallas and Austin, Texas, and Denver, Colorado. As of December 31, 2025, the Company owned or held a direct or indirect ownership interest in 320 communities containing 98,694 apartment homes in 11 states and the District of Columbia, of which 24 communities were under development.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(M$) | 영업이익(M$) | 순이익(M$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

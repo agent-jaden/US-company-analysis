@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Technology | Scientific & Technical Instruments | 시총 19B$ | 결산월: 12월**
+
+Fortive Corporation designs, develops, manufactures, and markets products, software, and services in the United States, China, and internationally. It operates through Intelligent Operating Solutions and Advanced Healthcare Solutions segments. The Intelligent Operating Solutions segment provides advanced instrumentation, software, and services, including maintenance, repair, measurement and condition monitoring, facility and asset lifecycle software applications, and connected worker safety and compliance solutions for manufacturing, process industries, healthcare, utilities and power, communications and electronics, and other industries.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

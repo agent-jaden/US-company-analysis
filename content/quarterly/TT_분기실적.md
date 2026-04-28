@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**시총 107B$ | 결산월: 12월**
+
+Trane Technologies plc designs, manufactures, sells, and services of solutions for heating, ventilation, air conditioning, and custom and transport refrigeration. It offers air conditioners, exchangers, and handlers; airside and terminal devices; air sourced heat pumps; chillers; coils and condensers; auxiliary power, cold storage, and condensing units; controls contracting and commissioning, decarbonization programs, and gensets; dehumidifiers; energy and water efficiency programs; energy recovery ventilators and power solutions; energy storage; furnaces; home automation; humidifiers; HVAC performance-monitoring products; and indoor air quality assessments and related products for HVAC and transport solutions. The company also provides asset management, building management, bus air purification, bus and rail HVAC, container refrigeration, control, ductless, geothermal, data center and multi-pipe HVAC, package heating and cooling, rail refrigeration, residential air filtration, self and vehicle powered truck refrigeration, temporary heating and cooling, truck refrigeration, unitary, variable refrigerant flow, and trailer refrigeration systems.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |

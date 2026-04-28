@@ -2,6 +2,12 @@
 
 > 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
 
+**Consumer Defensive | Farm Products | 시총 24B$ | 결산월: 12월**
+
+Bunge Global SA operates as an agribusiness and food company worldwide. It operates through four segments: Soybean Processing and Refining, Softseed Processing and Refining, Other Oilseeds Processing and Refining, and Grain Merchandising and Milling. The Soybean Processing and Refining segment is involved in the purchase, storage, transportation, processing, distribution, refining, marketing, and sale of soybeans and soybean related products, as well as biodiesel and fertilizer production and distribution for the food, animal feed and biofuel industries.
+
+---
+
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
