@@ -6,24 +6,10 @@ export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
   afterBody: [
-    Component.Comments({
-      provider: "giscus",
-      options: {
-        repo: "agent-jaden/company-analysis",
-        repoId: "R_kgDOR8lhUw",
-        category: "Announcements",
-        categoryId: "DIC_kwDOR8lhU84C6gW2",
-        mapping: "pathname",
-        reactionsEnabled: true,
-        inputPosition: "bottom",
-        lang: "ko",
-      },
-    }),
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/jackyzha0/quartz",
-      "Discord Community": "https://discord.gg/cRFFHYye7t",
+      GitHub: "https://github.com/agent-jaden/US-company-analysis",
     },
   }),
 }
@@ -53,7 +39,7 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      filterFn: (node) => node.isFolder || !node.fullSlug.startsWith("수출입통계/HS"),
+      filterFn: (node) => node.isFolder || node.displayName !== "",
     }),
   ],
   right: [
@@ -78,7 +64,7 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      filterFn: (node) => node.isFolder || !node.fullSlug.startsWith("수출입통계/HS"),
+      filterFn: (node) => node.isFolder || node.displayName !== "",
     }),
   ],
   right: [],
