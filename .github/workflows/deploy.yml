@@ -40,7 +40,9 @@ jobs:
         run: npm ci
 
       - name: Build Quartz
-        run: npx quartz build
+        run: |
+          chmod +x ./quartz/bootstrap-cli.mjs
+          npx quartz build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
