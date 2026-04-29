@@ -1,8 +1,10 @@
 # PERUSAHAAN PERSEROAN PERSERO PT TELEKOMUNIKASI INDONESIA TBK (TLK) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 17B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 17B$ | 결산월: 12월**
+
+Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk provides information and communications technology, and telecommunications network services worldwide. The company operates through Mobile, Consumer, Enterprise, Wholesale and International Business, and Other segments. The Mobile segment offers mobile voice, SMS, mobile broadband, and value added services.
 
 ---
 

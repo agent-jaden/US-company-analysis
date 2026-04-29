@@ -1,8 +1,10 @@
 # PENSKE AUTOMOTIVE GROUP, INC. (PAG) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Consumer Cyclical | Auto & Truck Dealerships | 시총 11B$ | 결산월: 12월**
+
+Penske Automotive Group, Inc., a diversified transportation services company, operates automotive and commercial truck dealerships in the United States, the United Kingdom, Germany, Italy, Japan, Canada, Australia, New Zealand, and internationally. It operates through four segments: Retail Automotive, Retail Commercial Truck, Other, and Non-Automotive Investments. The company operates franchise dealerships under franchise agreements with various automotive manufacturers and distributors.
 
 ---
 

@@ -1,8 +1,8 @@
 # WILLIAMS COMPANIES, INC. (WMB) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 88B$ | 결산월: 12월**
+**Energy | Oil & Gas Midstream | 시총 88B$ | 결산월: 12월**
 
 The Williams Companies, Inc., together with its subsidiaries, operates as an energy infrastructure company primarily in the United States. It operates through Transmission, Power & Gulf, Northeast G&P, West, and Gas & NGL Marketing Services segments. The Transmission, Power & Gulf segment comprises Transco, NWP, and Mountain West interstate natural gas pipelines, and their related natural gas storage facilities, as well as natural gas gathering and processing; and crude oil production handling and transportation assets in the Gulf Coast region.
 

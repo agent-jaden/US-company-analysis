@@ -1,8 +1,10 @@
 # COCA-COLA EUROPACIFIC PARTNERS plc (CCEP) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
 
 **Consumer Defensive | Beverages - Non-Alcoholic | 시총 43B$ | 결산월: 12월**
+
+Coca-Cola Europacific Partners PLC, together with its subsidiaries, produces, distributes, and sells a range of non-alcoholic ready-to-drink beverages. It offers flavours, mixers, energy drinks, soft drinks, water, enhanced water, isotonic drinks, tea and coffee, juices, and other drinks. The company provides its products under the Coca-Cola Original Taste, Coca-Cola Zero Sugar, Diet Coke, Sprite, Sprite Zero Sugar, Fanta, Fanta Zero Sugar, Monster Energy, A&W, Absolut Vodka & SPRITE, Ades, Appletiser, aquaBona, Aquarius, BACARDÍ Mixed with Coca Cola RTD, Barista Bros, Bonaqua, BURN, Deep Spring, Dr Pepper, Dr Pepper Zero Sugar, Feral Brewing Co, Fuze Tea, Giancarlo Coffee, GLACEAU smartwater, Grinders, HALO, Jack Daniel's & Coca-Cola ready-to-drink, Kristal, L&P, MER, Minute Maid, Mother, Mount Franklin, Nordic Mist, Nutriboost, Oasis, Pulpy, pump, pumped, Reign, Rekorderlig Cider, Relentless, Royal, Royal Bliss, Schweppes, Schweppes Mix, SOCO, URGE, Vilas del Turbón, Voyage, Wilkins Pure, and Zephyr Coffee Co brands.
 
 ---
 

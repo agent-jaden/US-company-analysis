@@ -1,8 +1,10 @@
 # H World Group Ltd (HTHT) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 15B$ | 결산월: 12월**
+**Consumer Cyclical | Lodging | 시총 15B$ | 결산월: 12월**
+
+H World Group Limited develops leased and owned, manachised, and franchised hotels in the People's Republic of China. The company operates hotels under its own brands, such as HanTing Hotel, Ni Hao Hotel, Hi Inn, Elan Hotel, Zleep Hotels, Ibis Hotel, JI Hotel, Orange Hotel, Starway Hotel, Ibis Styles Hotel, CitiGO Hotel, Crystal Orange Hotel, IntercityHotel, Manxin Hotel, Mercure Hotel, Madison Hotel, Novotel Hotel, Joya Hotel, Blossom House, Steigenberger Hotels & Resorts, Jaz in the City, Grand Mercure, Steigenberger Icon, and Song Hotels. The company was formerly known as Huazhu Group Limited and changed its name to H World Group Limited in June 2022.
 
 ---
 

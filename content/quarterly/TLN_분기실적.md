@@ -1,8 +1,10 @@
 # Talen Energy Corp (TLN) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 17B$ | 결산월: 12월**
+**Utilities | Utilities - Independent Power Producers | 시총 17B$ | 결산월: 12월**
+
+Talen Energy Corporation, an independent power producer and infrastructure company, produces and sells electricity, capacity, and ancillary services into wholesale power markets in the United States. The company's plants generate power using a variety of fuels, such as nuclear, fossil, oil, natural gas, and coal power plants. It owns and operates approximately 13.1 GW of power infrastructure.
 
 ---
 

@@ -1,8 +1,8 @@
 # STANLEY BLACK & DECKER, INC. (SWK) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 1월**
+**Industrials | Tools & Accessories | 시총 12B$ | 결산월: 1월**
 
 Stanley Black & Decker, Inc. provides hand tools, power tools, outdoor products, and related accessories in the United States, Canada, Other Americas, Europe, and Asia. Its Tools & Outdoor segment offers professional grade corded and cordless electric power tools and equipment, including drills, impact wrenches and drivers, grinders, saws, routers, concrete prep and placement tools, and sanders; pneumatic tools and fasteners, such as nail guns, nails, staplers and staples, and concrete and masonry anchors; corded and cordless electric power tools; household power tools, hand-held vacuums, and small appliances; leveling and layout tools, planes, hammers, demolition tools, clamps, vises, knives, saws, chisels, and industrial and automotive tools; drill, screwdriver, router bits, abrasives, saw blades, and threading products; tool boxes, sawhorses, medical cabinets, and engineered storage solutions; and electric and gas-powered lawn and garden products.
 

@@ -1,8 +1,10 @@
 # ALAMOS GOLD INC (AGI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 18B$ | 결산월: 12월**
+**Basic Materials | Gold | 시총 18B$ | 결산월: 12월**
+
+Alamos Gold Inc. operates as a gold producer in Canada and Mexico. It primarily explores for gold deposits.
 
 ---
 

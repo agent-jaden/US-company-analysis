@@ -1,8 +1,8 @@
 # WELLTOWER INC. (WELL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 148B$ | 결산월: 12월**
+**Real Estate | REIT - Healthcare Facilities | 시총 148B$ | 결산월: 12월**
 
 Welltower Inc. is a S&P 500 company, is positioned at the center of the silver economy, focusing on rental housing for aging seniors across the United States, United Kingdom and Canada. Our portfolio of 2,000+ seniors and wellness housing communities are positioned at the intersection of housing and hospitality, creating vibrant communities for mature renters and older adults.
 

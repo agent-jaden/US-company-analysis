@@ -1,8 +1,8 @@
 # PACCAR INC (PCAR) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 67B$ | 결산월: 12월**
+**Industrials | Farm & Heavy Construction Machinery | 시총 67B$ | 결산월: 12월**
 
 PACCAR Inc designs, manufactures, and distributes light, medium, and heavy-duty commercial trucks in the United States, Canada, Australia, Mexico, Europe, Central and South America, and internationally. It operates through three segments: Truck, Parts, and Financial Services. The Truck segment designs, manufactures, and distributes trucks for the over-the-road and off-highway hauling of commercial and consumer goods; and diesel engine products.
 

@@ -1,8 +1,8 @@
 # Smurfit Westrock plc (SW) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 21B$ | 결산월: 12월**
+**Consumer Cyclical | Packaging & Containers | 시총 21B$ | 결산월: 12월**
 
 Smurfit Westrock Plc, together with its subsidiaries, manufactures, distributes, and sells containerboard, corrugated containers, and other paper-based packaging products in North America, South America, Europe, Asia, Africa, Australia, and internationally. The company produces containerboard and paperboard; packaging of corrugated containers; consumer packaging; and offers solid board, kraft paper, and graphic board, as well as other packaging products, such as solidboard packaging, paper sacks and bag-in-box. It produces linerboard and corrugated medium and paperboard; and other paper-based packaging, such as folding cartons, inserts, labels and displays.
 

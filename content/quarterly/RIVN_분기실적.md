@@ -1,8 +1,10 @@
 # Rivian Automotive, Inc. / DE (RIVN) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 21B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Manufacturers | 시총 21B$ | 결산월: 12월**
+
+Rivian Automotive, Inc., together with its subsidiaries, develops, manufactures, and sells category-defining electric vehicles. It operates through two segments, Automotive, and Software and Services. The company offers consumer vehicles, including a two-row, five-passenger pickup truck under the R1T brand; and a three-row, seven-passenger sport utility vehicle under the R1S name.
 
 ---
 

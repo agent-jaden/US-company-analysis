@@ -1,8 +1,10 @@
 # Coca-Cola Consolidated, Inc. (COKE) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 13B$ | 결산월: 12월**
+**Consumer Defensive | Beverages - Non-Alcoholic | 시총 13B$ | 결산월: 12월**
+
+Coca-Cola Consolidated, Inc., together with its subsidiaries, manufactures, markets, and distributes nonalcoholic beverages in the United States. It operates through Nonalcoholic Beverages and All Other segments. The company offers sparkling beverages; still beverages, including energy products; noncarbonated beverages, such as bottled water, ready to drink coffee and tea, enhanced water, juices, and sports drinks.
 
 ---
 

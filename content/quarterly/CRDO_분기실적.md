@@ -1,8 +1,10 @@
 # Credo Technology Group Holding Ltd (CRDO) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductors | 시총 33B$ | 결산월: 4월**
+
+Credo Technology Group Holding Ltd provides various high-speed connectivity solutions for optical and electrical Ethernet, and PCIe applications in the United States, Taiwan, Mainland China, Hong Kong, and internationally. It provides HiWire active electrical cables solutions, including HiWire CLOS, SPAN, SHIFT, and SWITCH; optical PAM4 digital signal processors; low-power line card PHY; serializer/deserializer (SerDes) chiplets; and SerDes IP, as well as integrated circuits. The company also offers intellectual property solutions consist of SerDes IP licensing.
 
 ---
 

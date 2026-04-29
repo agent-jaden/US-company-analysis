@@ -1,8 +1,10 @@
 # Pinnacle Financial Partners, Inc. (PNFP) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 15B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 15B$ | 결산월: 12월**
+
+Pinnacle Financial Partners, Inc. operates as the bank holding company for Pinnacle Bank that provides various banking products and services to individuals, businesses, and professional entities in the United States. It accepts various deposits, including savings, noninterest-bearing and interest-bearing checking, money market, and certificate of deposit accounts; and provides treasury management services, such as online wire origination, enhanced ACH origination, positive pay, zero balance and sweep accounts, automated bill pay services, electronic receivables processing, lockbox processing, and merchant card acceptance services, small business and commercial credit cards corporate purchasing cards, and virtual accounting/deposit escrow solutions.
 
 ---
 

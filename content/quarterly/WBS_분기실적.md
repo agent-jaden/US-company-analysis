@@ -1,8 +1,10 @@
 # WEBSTER FINANCIAL CORP (WBS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 12B$ | 결산월: 12월**
+
+Webster Financial Corporation operates as the bank holding company for Webster Bank, National Association that provides various financial products and services to businesses, individuals, and families in the United States. It operates through three segments: Commercial Banking, Healthcare Financial Services, and Consumer Banking. The company offers checking, savings, and money market accounts; time deposits; individual retirement account retirement savings; certificates of deposit; mortgages; home equity loans and lines of credit; business lines of credit; overdrafts; and term, commercial mortgages, student, PPA, SBA, and personal loans.
 
 ---
 

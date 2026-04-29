@@ -1,8 +1,10 @@
 # Toll Brothers, Inc. (TOL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 14B$ | 결산월: 10월**
+**Consumer Cyclical | Residential Construction | 시총 14B$ | 결산월: 10월**
+
+Toll Brothers, Inc., together with its subsidiaries, designs, builds, markets, sells, and arranges finance for a range of detached and attached homes in luxury residential communities in the United States. It designs, builds, markets, and sells condominiums through Toll Brothers City Living. The company also develops a range of single-story living and first-floor primary bedroom suite home designs, as well as communities with recreational amenities, such as golf courses, marinas, pool complexes, country clubs, and fitness and recreation centers; and develops, operates, rents apartments and student housing communities.
 
 ---
 

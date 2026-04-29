@@ -1,8 +1,8 @@
 # ZEBRA TECHNOLOGIES CORP (ZBRA) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Technology | Communication Equipment | 시총 11B$ | 결산월: 12월**
 
 Zebra Technologies Corporation, together with its subsidiaries, operates in the automatic identification and data capture solutions industry worldwide. It operates in two segments, Connected Frontline, and Asset Visibility and Automation. The company designs, manufactures, and sells printers that produce labels, wristbands, tickets, receipts, and plastic cards; dye-sublimination thermal card printers that produce images, which are used for personal identification, access control, and financial transactions; radio frequency identification device (RFID) printers that encode data into passive RFID transponders; accessories and options for printers, including carrying cases, vehicle mounts, and battery chargers; stock and customized thermal labels, receipts, ribbons, plastic cards, and RFID tags for printers; and electronic sensors and temperature-monitoring labels.
 

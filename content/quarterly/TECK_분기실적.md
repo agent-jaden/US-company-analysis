@@ -1,8 +1,10 @@
 # TECK RESOURCES LTD (TECK) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 30B$ | 결산월: 12월**
+**Basic Materials | Other Industrial Metals & Mining | 시총 30B$ | 결산월: 12월**
+
+Teck Resources Limited engages in research, exploration, development, processing, smelting, refining, and reclamation of mineral properties in Asia, the Americas, and Europe. It operates through Copper and Zinc segments. The company offers copper, zinc, and lead concentrates, as well as refined zinc, lead, and silver.
 
 ---
 

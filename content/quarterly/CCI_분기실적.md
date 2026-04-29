@@ -1,10 +1,10 @@
 # CROWN CASTLE INC. (CCI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | REIT - Specialty | 시총 36B$ | 결산월: 12월**
 
-Crown Castle Inc. owns, operates and leases approximately 40,000 cell towers and approximately 90,000 route miles of fiber supporting small cells and fiber solutions across every major U.S. market.
+Crown Castle Inc. owns, operates and leases approximately 40,000 cell towers and approximately 90,000 route miles of fiber. It primarily supports small cells and fiber solutions across every major U.S.
 
 ---
 

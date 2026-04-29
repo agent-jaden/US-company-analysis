@@ -1,8 +1,10 @@
 # Brookfield Infrastructure Partners L.P. (BIP) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 17B$ | 결산월: 12월**
+**Utilities | Utilities - Diversified | 시총 17B$ | 결산월: 12월**
+
+Brookfield Infrastructure Partners L.P. engages in the utilities, transport, midstream, and data businesses. The company provides transmission of energy and natural gas, and distribution; transport infrastructure including freight, toll road operations, transportation services and intermodal logistics; midstream infrastructure, such as midstream and storage services; and data transmission and distribution operations.
 
 ---
 

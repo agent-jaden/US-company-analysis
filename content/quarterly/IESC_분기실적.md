@@ -1,8 +1,10 @@
 # IES Holdings, Inc. (IESC) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 9월**
+**Industrials | Engineering & Construction | 시총 12B$ | 결산월: 9월**
+
+IES Holdings, Inc. designs and installs integrated electrical and technology systems and provides infrastructure products and services in the United States. The Communications segment designs, builds, and maintains communications infrastructure within data centers for co-location and managed hosting customers; corporate, educational, financial, hospitality, and healthcare buildings; e-commerce distribution centers; and high-tech manufacturing facilities.
 
 ---
 

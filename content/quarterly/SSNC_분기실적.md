@@ -1,8 +1,10 @@
 # SS&C Technologies Holdings Inc (SSNC) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 17B$ | 결산월: 12월**
+**Technology | Software - Application | 시총 17B$ | 결산월: 12월**
+
+SS&C Technologies Holdings, Inc., together with its subsidiaries, provides software products and software-enabled services to financial services and healthcare industries in the Americas, Europe, the Middle East, Africa, and Asia Pacific. The company owns and operates technology stack across securities accounting; front-office functions, such as trading and modeling; middle-office functions comprising portfolio management and reporting; back-office functions, such as accounting, performance measurement, reconciliation, reporting, processing and clearing, and compliance and tax reporting; and healthcare solutions consisting of claims adjudication, benefit management, care management, and business intelligence solutions. It also offers software-enabled services, such as SS&C GlobeOp, Global Investor and Distribution Solutions, SS&C Retirement Solutions, Calastone, Managed Services, Data Solutions, ALPS Advisors, and Virtual Data Rooms, as well as pharmacy, healthcare administration, and health outcomes optimization solutions.
 
 ---
 

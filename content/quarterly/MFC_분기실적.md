@@ -1,8 +1,10 @@
 # MANULIFE FINANCIAL CORP (MFC) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance - Life | 시총 65B$ | 결산월: 12월**
+
+Manulife Financial Corporation, together with its subsidiaries, provides financial products and services in the United States, Canada, Asia, and internationally. It operates through Wealth and Asset Management Businesses; Insurance and Annuity Products; and Corporate and Other segments. The Wealth and Asset Management Businesses segment offers investment advice and solutions to retirement, retail, and institutional clients through multiple distribution channels, including agents and brokers affiliated with the company, independent securities brokerage firms and financial advisors pension plan consultants, and banks.
 
 ---
 

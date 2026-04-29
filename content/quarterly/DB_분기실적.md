@@ -1,8 +1,10 @@
 # DEUTSCHE BANK AKTIENGESELLSCHAFT (DB) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
 
 **Financial Services | Banks - Regional | 시총 61B$ | 결산월: 12월**
+
+Deutsche Bank Aktiengesellschaft, a stock corporation, provides corporate and investment banking, private clients, and asset management products and services in Germany, the United Kingdom, the rest of Europe, the Americas, the Asia-Pacific, the Middle East, and Africa. It operates through Corporate Bank, Investment Bank, Private Bank, and Asset Management segments. The Corporate Bank segment offers cash management services, such as integrated payments and FX solutions; trade finance and lending offerings, including documentary and guarantee business, and structured trade finance and lending; and depository receipts, corporate trust, document custody, and securities services.
 
 ---
 

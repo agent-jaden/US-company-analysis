@@ -1,8 +1,10 @@
 # LATTICE SEMICONDUCTOR CORP (LSCC) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 16B$ | 결산월: 1월**
+**Technology | Semiconductors | 시총 16B$ | 결산월: 1월**
+
+Lattice Semiconductor Corporation, together with its subsidiaries, develops and sells semiconductor, silicon-based and silicon-enabling, evaluation boards, and development hardware products in Asia, Europe, and the Americas. It offers field programmable gate arrays (FPGA), which are regular arrays of logic that can be custom-configured by the user through software. The company's products include small FPGA platforms, including Lattice Nexus and Lattice Nexus 2; Lattice Avant, a mid-range FPGA platform; general purpose FPGA, such as Lattice Avant-G, Certus-NX, CertusPro, and Certus-N2; and specialized FPGAs, which includes Lattice Avant-E, Avant-X, SCP, MachXO, iCE, CrossLink,and CrossLinkPlus.
 
 ---
 

@@ -1,8 +1,10 @@
 # Lloyds Banking Group plc (LYG) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Banks - Regional | 시총 78B$ | 결산월: 12월**
+
+Lloyds Banking Group plc, together with its subsidiaries, provides a range of banking and financial products and services for retail and commercial customers in the United Kingdom. It operates in three segments: Retail; Commercial Banking; and Insurance, Pensions and Investments. The Retail segment offers a range of financial service products, including current accounts, savings, mortgages, credit cards, unsecured loans, motor finance, and leasing solutions to personal customers.
 
 ---
 

@@ -1,8 +1,10 @@
 # UNILEVER PLC (UL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
 
 **Consumer Defensive | Household & Personal Products | 시총 126B$ | 결산월: 12월**
+
+Unilever PLC operates as a fast-moving consumer goods company in the Asia Pacific, Africa, the Americas, and Europe. It operates through four segments: Beauty & Wellbeing, Personal Care, Home Care, and Foods. The Beauty & Wellbeing segment offers hair care, such as shampoo, conditioner, and styling; face, hand, and body moisturizer skin care products; and Prestige Beauty and Wellbeing products.
 
 ---
 

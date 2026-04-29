@@ -1,8 +1,10 @@
 # Maplebear Inc. (CART) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 10B$ | 결산월: 12월**
+**Consumer Cyclical | Internet Retail | 시총 10B$ | 결산월: 12월**
+
+Maplebear Inc., doing business as Instacart, operates as a technology and enablement partner for the grocery industry in the United States and internationally. The company offers Instacart Marketplace which helps retailers serve customers' needs by supporting fulfillment options, shopping occasions, and categories; Instacart Enterprise platform, an end-to-end technology solution for retailers across all aspects of business; and Instacart Ads, enables brands to learn more about general consumer behavior from discovery to purchase, offering insights about how to optimize advertising spend. It also provides advertising solutions, including sponsored product ads, display ads, coupons, and brand pages; and software-as-a-service.
 
 ---
 

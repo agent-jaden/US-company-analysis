@@ -1,8 +1,10 @@
 # NEUROCRINE BIOSCIENCES INC (NBIX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 13B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - Specialty & Generic | 시총 13B$ | 결산월: 12월**
+
+Neurocrine Biosciences, Inc. discovers, develops, and commercialize pharmaceuticals for neurological, psychiatric, endocrine, and immunological disorders in the United States and internationally. The company's products include INGREZZA for tardive dyskinesia and chorea associated with Huntington's disease; Orilissa tablets for endometriosis; Oriahnn capsules to treat uterine fibroids; and CRENESSITY to treat congenital adrenal hyperplasia, as well as offers products under the name of ALKINDI and Efmody.
 
 ---
 

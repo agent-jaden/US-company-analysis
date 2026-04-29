@@ -1,8 +1,10 @@
 # TPG Inc. (TPG) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 16B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 16B$ | 결산월: 12월**
+
+TPG Inc. operates as an alternative asset manager in the United States and internationally. The company provides investment management services to TPG Funds, limited partners, separately managed accounts and clients, and other vehicles; advisory, debt and equity arrangement, and underwriting and placement services; and capital structuring and other advice services.
 
 ---
 

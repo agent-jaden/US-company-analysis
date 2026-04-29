@@ -1,8 +1,10 @@
 # BROOKFIELD Corp /ON/ (BN) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Asset Management | 시총 100B$ | 결산월: 12월**
+
+Brookfield Corporation is a multi-asset manager focused on real estate, credit, renewable power and transition, infrastructure, venture capital, and private equity including growth capital and emerging growth investments. It manages a range of public and private investment products and services for institutional and retail clients. It typically makes investments in sizeable, premier assets across geographies and asset classes.
 
 ---
 

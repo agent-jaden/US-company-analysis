@@ -1,8 +1,10 @@
 # SharkNinja, Inc. (SN) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 16B$ | 결산월: 12월**
+**Consumer Cyclical | Furnishings, Fixtures & Appliances | 시총 16B$ | 결산월: 12월**
+
+SharkNinja, Inc., a product design and technology company, engages in the provision of various solutions for consumers in the United States, China, and internationally. It offers cleaning appliances, including corded and cordless vacuums, such as handheld and robotic vacuums, as well as other floorcare products comprising steam mops, wet/dry cleaning floor products, and carpet extraction; fans, coolers, frozen drink appliances, propane grills, and fire pits; and cooking and beverage appliances, such as air fryers, multi-cookers, outdoor and countertop grills and ovens, coffee systems, carbonation, cookware, cutlery, kettles, and toasters and bakeware products. The company also provides food preparation appliances, which include blenders, food processors, ice cream makers, juicers, and frozen drink appliances and coolers; haircare and skincare beauty appliances, as well as home environment products comprising air purifiers and fans.
 
 ---
 

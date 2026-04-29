@@ -1,8 +1,10 @@
 # Ubiquiti Inc. (UI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Communication Equipment | 시총 61B$ | 결산월: 6월**
+
+Ubiquiti Inc. develops networking technology for service providers, enterprises, and consumers in North America, Europe, the Middle East, Africa, Asia Pacific, South America. The company develops technology platforms for high-capacity distributed Internet access, unified information technology, and consumer electronics for professional, home, and personal use.
 
 ---
 

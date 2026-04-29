@@ -1,8 +1,10 @@
 # JBS N.V. (JBS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 17B$ | 결산월: 12월**
+**Consumer Defensive | Packaged Foods | 시총 17B$ | 결산월: 12월**
+
+JBS N.V., together with its subsidiaries, engages in the processing of animal proteins, encompassing activities related to beef, pork, lamb, and poultry worldwide. The company is involved in the production and marketing of prepared foods and other related products, as well as operations in leather, collagen, hygiene and beauty products, metal packaging, biodiesel, and other related businesses. It offers its products under the Seara, Doriana, Pilgrim's, Moy Park, Primo, Friboi, Maturatta, Swift, Ozo, Adaptable Meals, and other brand names.
 
 ---
 

@@ -1,8 +1,10 @@
 # KONINKLIJKE PHILIPS NV (PHG) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 26B$ | 결산월: 12월**
+**Healthcare | Medical Devices | 시총 26B$ | 결산월: 12월**
+
+Koninklijke Philips N.V. operates as a health technology company in North America, the Greater China, and internationally. It operates through Diagnosis & Treatment, Connected Care, and Personal Health segments.
 
 ---
 

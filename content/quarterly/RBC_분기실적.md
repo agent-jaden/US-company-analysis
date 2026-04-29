@@ -1,8 +1,10 @@
 # RBC Bearings INC (RBC) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 19B$ | 결산월: 3월**
+**Industrials | Tools & Accessories | 시총 19B$ | 결산월: 3월**
+
+RBC Bearings Incorporated manufactures and markets engineered precision bearings, components, and systems in the United States and internationally. It operates through two segments, Aerospace/Defense and Industrial. The company produces plain bearings with self-lubricating or metal-to-metal designs, including rod end bearings, spherical plain bearings, and journal bearings; roller bearings, such as tapered roller bearings, needle roller bearings, and needle bearing track rollers and cam followers, which are anti-friction products that are used in industrial applications and military aircraft platforms; and ball bearings that include high precision aerospace, airframe control, thin section, and industrial ball bearings that utilize high precision ball elements to reduce friction in high-speed applications.
 
 ---
 

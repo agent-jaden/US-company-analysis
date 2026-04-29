@@ -1,8 +1,10 @@
 # LINCOLN ELECTRIC HOLDINGS INC (LECO) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 14B$ | 결산월: 12월**
+**Industrials | Tools & Accessories | 시총 14B$ | 결산월: 12월**
+
+Lincoln Electric Holdings, Inc., through its subsidiaries, designs, develops, manufactures, and sells welding, cutting, and brazing products in the United States and internationally. It operates in three segments: Americas Welding, International Welding, and The Harris Products Group. The company offers brazing and soldering filler metals, arc welding equipment, plasma and oxyfuel cutting systems, wire feeding systems, fume control equipment, welding accessories, specialty gas regulators, and education solutions; and a portfolio of automated solutions and system integration services for joining, cutting, material handling, module assembly, and end of line testing, as well as involved in brazing and soldering alloys, and in the retail business.
 
 ---
 

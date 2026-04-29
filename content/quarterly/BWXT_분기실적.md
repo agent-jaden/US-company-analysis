@@ -1,8 +1,10 @@
 # BWX Technologies, Inc. (BWXT) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 20B$ | 결산월: 12월**
+**Industrials | Aerospace & Defense | 시총 20B$ | 결산월: 12월**
+
+BWX Technologies, Inc. manufactures and sells nuclear components in the United States, Canada, and internationally. The company operates through two segments, Government Operations and Commercial Operations.
 
 ---
 

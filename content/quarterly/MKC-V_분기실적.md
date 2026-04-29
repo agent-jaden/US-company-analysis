@@ -1,8 +1,10 @@
 # MCCORMICK & CO INC (MKC-V) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 13B$ | 결산월: 11월**
+**Consumer Defensive | Packaged Foods | 시총 13B$ | 결산월: 11월**
+
+McCormick & Company, Incorporated manufactures, markets, and distributes herbs, spices, seasoning mixes, condiments, and other flavorful products to the food industry. It operates in two segments, Consumer and Flavor Solutions. The Consumer segment offers spices, herbs, and seasonings, as well as condiments and sauces, and desserts.
 
 ---
 

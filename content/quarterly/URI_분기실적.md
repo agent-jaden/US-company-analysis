@@ -1,8 +1,8 @@
 # UNITED RENTALS, INC. (URI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 60B$ | 결산월: 12월**
+**Industrials | Rental & Leasing Services | 시총 60B$ | 결산월: 12월**
 
 United Rentals, Inc., through its subsidiaries, operates as an equipment rental company in the United States, Canada, Europe, Australia, and New Zealand. It operates through two segments, General Rentals and Specialty. The General Rentals segment rents general construction and industrial equipment, such as backhoes, skid-steer loaders, forklifts, earthmoving equipment, and material handling equipment; aerial work platforms, including boom and scissor lifts; and general tools and light equipment comprising pressure washers, water pumps, and power tools for construction and industrial companies, manufacturers, utilities, municipalities, homeowners, and government entities.
 

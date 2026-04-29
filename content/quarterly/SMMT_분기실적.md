@@ -1,8 +1,10 @@
 # Summit Therapeutics Inc. (SMMT) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 17B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 17B$ | 결산월: 12월**
+
+Summit Therapeutics Inc., a biopharmaceutical company, focuses on discovery, development, and commercialization of patient, physician, caregiver, and societal friendly medicinal therapies. Its lead development candidate is ivonescimab, a bispecific antibody for immunotherapy through blockade of PD-1 with the anti-angiogenesis for the treatment of non-small lung cancer (NSCLC) and colorectal cancer (CRC). The company has also combined ivonescimab with chemotherapy, which is in phase III clinical trial for the patients with epidermal growth factor receptor, mutated, and locally advanced or metastatic non-squamous NSCLC; first-line metastatic NSCLC; and first-line unresectable metastatic CRC.
 
 ---
 

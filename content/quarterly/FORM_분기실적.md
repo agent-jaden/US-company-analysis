@@ -1,8 +1,10 @@
 # FORMFACTOR INC (FORM) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Technology | Semiconductor Equipment & Materials | 시총 11B$ | 결산월: 12월**
+
+FormFactor, Inc. designs, manufactures, and sells probe cards, analytical probes, probe stations, thermal systems, cryogenic systems, and related services in the United States, South Korea, Taiwan, China, Japan, Singapore, Europe, Malaysia, and internationally. The company operates in two segments: Probe Cards and Systems segments.
 
 ---
 

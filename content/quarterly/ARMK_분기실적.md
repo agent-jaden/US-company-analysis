@@ -1,8 +1,10 @@
 # Aramark (ARMK) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 10월**
+**Industrials | Specialty Business Services | 시총 12B$ | 결산월: 10월**
+
+Aramark provides food and facilities services to education, healthcare, business and industry, sports, leisure, and corrections clients in the United States and internationally. The company operates in two segments, Food and Support Services United States, and Food and Support Services International. It offers food-related managed services, including dining, catering, food service management, and convenience-oriented retail services; non-clinical food and food-related support services, such as patient food and nutrition, retail food, environmental services, and procurement services; and plant operations and maintenance, custodial/housekeeping, energy management, grounds keeping, and capital project management services.
 
 ---
 

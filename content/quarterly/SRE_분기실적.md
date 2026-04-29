@@ -1,8 +1,8 @@
 # SEMPRA (SRE) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 60B$ | 결산월: 12월**
+**Utilities | Utilities - Diversified | 시총 60B$ | 결산월: 12월**
 
 Sempra engages in the regulated utilities business in the United States and Mexico. It operates through three segments: Sempra California, Sempra Texas Utilities, and Sempra Infrastructure. It also invests in and operates electric and gas utilities and other energy infrastructure that provides energy services to customers.
 

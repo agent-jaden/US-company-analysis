@@ -1,8 +1,10 @@
 # CNA FINANCIAL CORP (CNA) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 13B$ | 결산월: 12월**
+**Financial Services | Insurance - Property & Casualty | 시총 13B$ | 결산월: 12월**
+
+CNA Financial Corporation, an insurance holding company, primarily provides commercial property and casualty insurance products in the United States, Canada, the United Kingdom, Continental Europe, and internationally. It operates through Specialty, Commercial, International, and Life & Group segments. The company offers professional liability coverage and risk management services to various professional firms, including architects, real estate agents, and accounting and law firms; directors and officers, errors and omissions, employment practices, fiduciary, and fidelity and cyber coverage to small and mid-size firms, public and privately held firms, and not-for-profit organizations; professional and general liability, as well as associated casualty coverages for healthcare industry; surety and fidelity bonds; and warranty and alternative risks products.
 
 ---
 

@@ -1,8 +1,10 @@
 # ZILLOW GROUP, INC. (ZG) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Communication Services | Internet Content & Information | 시총 11B$ | 결산월: 12월**
+
+Zillow Group operates a real estate application and website that connects consumers with technology, agents and loan officers, and digital solutions in the United States. The company operates through four categories: Residential, Mortgages, Rentals, and Other. The Residential segment includes agent and software, as well as new construction marketing solutions and StreetEasy for sale products.
 
 ---
 

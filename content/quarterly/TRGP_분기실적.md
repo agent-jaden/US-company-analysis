@@ -1,8 +1,8 @@
 # Targa Resources Corp. (TRGP) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 52B$ | 결산월: 12월**
+**Energy | Oil & Gas Midstream | 시총 52B$ | 결산월: 12월**
 
 Targa Resources Corp., together with its subsidiaries, owns, operates, acquires, and develops a portfolio of complementary domestic infrastructure assets in North America. It operates in two segments, Gathering and Processing, and Logistics and Transportation. The company is involved in gathering, compressing, treating, processing, transporting, and selling natural gas; storing, fractionating, treating, transporting, and selling natural gas liquids (NGL) and NGL products, including services to liquefied petroleum gas exporters; and gathering, storing, terminaling, purchasing, and selling crude oil.
 

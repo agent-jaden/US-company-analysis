@@ -1,8 +1,10 @@
 # AGNC Investment Corp. (AGNC) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 13B$ | 결산월: 12월**
+**Real Estate | REIT - Mortgage | 시총 13B$ | 결산월: 12월**
+
+AGNC Investment Corp. provides private capital to housing market in the United States. It invests in residential mortgage pass-through securities and collateralized mortgage obligations for which the principal and interest payments are guaranteed by the United States government-sponsored enterprise or by the United States government agency.
 
 ---
 

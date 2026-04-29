@@ -1,8 +1,10 @@
 # Amer Sports, Inc. (AS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 21B$ | 결산월: 12월**
+**Consumer Cyclical | Leisure | 시총 21B$ | 결산월: 12월**
+
+Amer Sports, Inc. designs, manufactures, markets, distributes, and sells sports equipment, apparel, footwear, and accessories in Europe, the Middle East, Africa, the Americas, Mainland China, Hong Kong, Macau, Taiwan, and the Asia Pacific. It operates through three segments: Technical Apparel, Outdoor Performance, and Ball & Racquet Sports.
 
 ---
 

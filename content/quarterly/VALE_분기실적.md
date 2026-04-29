@@ -1,34 +1,36 @@
 # Vale S.A. (VALE) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: BRL
 
 **Basic Materials | Other Industrial Metals & Mining | 시총 73B$ | 결산월: 12월**
+
+Vale S.A., together with its subsidiaries, produces iron ore and nickel in Brazil, Asia, the Middle East, North Africa, Europe, the Americas, and Oceania. The company operates in two segments, Iron Ore Solutions and Vale Base Metals. It extracts, produces, and distributes iron ore, iron ore pellets, briquettes, nickel, copper, other ferrous products, and by-products, including gold, silver, cobalt, platinum-group metals, and other base metals, as well as low-carbon critical minerals.
 
 ---
 
 ### 분기별 실적 추이
 
-| 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
+| 분기 | 매출(BR$) | 영업이익(BR$) | 순이익(BR$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
 |:----:|-----------:|-------------:|-----------:|:--------:|:------------:|:----------:|
-| 2025Q4 | 11.06 | 3.50 | -3.84 | +9.2% | +24.4% | 적자축소 |
-| 2025Q3 | 10.42 | 3.37 | 2.69 | — | — | — |
-| 2025Q2 | 8.80 | 2.17 | 2.12 | — | — | — |
-| 2025Q1 | 8.12 | 2.21 | 1.39 | — | — | — |
-| 2024Q4 | 10.12 | 2.81 | -0.69 | — | — | — |
+| 2025Q4 | 11 | 3 | -4 | +9.2% | +24.4% | 적자축소 |
+| 2025Q3 | 10 | 3 | 3 | — | — | — |
+| 2025Q2 | 9 | 2 | 2 | — | — | — |
+| 2025Q1 | 8 | 2 | 1 | — | — | — |
+| 2024Q4 | 10 | 3 | -1 | — | — | — |
 
 #### 요약
 
 | 항목 | 값 |
 |------|-----|
 | 수록 분기 | 5개 |
-| 최고 영업이익 | 2025Q4 (3.50 B$) |
-| 최저 영업이익 | 2025Q2 (2.17 B$) |
-| 기간 합산 매출 | 48.53 B$ |
-| 기간 합산 영업이익 | 14.06 B$ |
+| 최고 영업이익 | 2025Q4 (3 BR$) |
+| 최저 영업이익 | 2025Q2 (2 BR$) |
+| 기간 합산 매출 | 49 BR$ |
+| 기간 합산 영업이익 | 14 BR$ |
 | 기간 평균 영업이익률 | 29.0% |
 
 ### 연간 실적 추이 (10년)
 
-| 연도 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
+| 연도 | 매출(BR$) | 영업이익(BR$) | 순이익(BR$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
 |:----:|-----------:|-------------:|-----------:|:--------:|:------------:|:----------:|
-| 2025 | 38.40 | 11.25 | 2.35 | — | — | — |
+| 2025 | 38 | 11 | 2 | — | — | — |

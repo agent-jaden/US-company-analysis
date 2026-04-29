@@ -1,8 +1,8 @@
 # TransDigm Group INC (TDG) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 65B$ | 결산월: 9월**
+**Industrials | Aerospace & Defense | 시총 65B$ | 결산월: 9월**
 
 TransDigm Group Incorporated designs, produces, and supplies aircraft components in the United States and internationally. The Power & Control segment offers mechanical/electro-mechanical actuators and controls, ignition systems and engine technology, specialized pumps and valves, power conditioning devices, specialized AC/DC electric motors and generators, batteries and chargers, databus and power controls, sensor products, switches and relay panels, hoists, winches and lifting devices, cargo loading and handling systems, delivery systems, and electronic components. Its Airframe segment provides engineered latching and locking devices, engineered rods, engineered connectors and elastomer sealing solutions, cockpit security components and systems, cockpit displays, lavatory components, seat belts and safety restraints, engineered and customized interior surfaces and related components, thermal protection and insulation products, lighting and control technology, parachutes, specialized flight, wind tunnel and jet engine testing services and equipment, and testing and instrumentation solutions, as well as engineered audio, radio, and antenna systems.
 

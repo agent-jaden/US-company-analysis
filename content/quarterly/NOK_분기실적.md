@@ -1,8 +1,10 @@
 # NOKIA CORP (NOK) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Communication Equipment | 시총 60B$ | 결산월: 12월**
+
+Nokia Oyj, together with its subsidiaries, provides mobile, fixed, and cloud network solutions in North and Latin America, Greater China, India, Asia Pacific, Europe, the Middle East, and Africa. It operates in four segments: Network Infrastructure, Mobile Networks, Cloud and Network Services, and Nokia Technologies. The company offers fixed network solutions, such as fiber and copper technologies, access infrastructure, in-home Wi-Fi solutions, and cloud and virtualization services; IP network solutions, which delivers IP edge routing and data center networking solutions for residential, mobile, enterprise, and cloud applications; and optical networks solutions, which provides optical transport networks for metro, regional, and long-haul applications.
 
 ---
 

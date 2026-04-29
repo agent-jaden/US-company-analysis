@@ -1,8 +1,10 @@
 # WATTS WATER TECHNOLOGIES INC (WTS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 10B$ | 결산월: 12월**
+**Industrials | Specialty Industrial Machinery | 시총 10B$ | 결산월: 12월**
+
+Watts Water Technologies, Inc., together with its subsidiaries, supplies products and solutions that manage and conserve the flow of fluids and energy into, through, and out of buildings in the commercial, industrial, and residential markets. The company offers residential and commercial flow control and protection products, including backflow preventers, water pressure regulators, temperature and pressure relief valves, thermostatic mixing valves, leak detection and protection products, commercial washroom solutions, hydration solutions, and emergency safety products and equipment for plumbing and hot water applications. It also provides heating, ventilation, and air conditioning and gas products comprising commercial, institutional, and industrial boilers; water heaters and heating solutions; hydronic and electric heating systems for under-floor radiant applications; custom heat and hot water solutions; hydronic pump groups for boiler manufacturers and alternative energy control packages; and flexible stainless-steel connectors for natural and liquid propane gas in commercial food service and residential applications.
 
 ---
 

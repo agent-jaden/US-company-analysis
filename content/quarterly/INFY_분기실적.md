@@ -1,8 +1,10 @@
 # Infosys Ltd (INFY) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Information Technology Services | 시총 50B$ | 결산월: 3월**
+
+Infosys Limited provides consulting, technology, outsourcing, and digital services worldwide. It provides digital marketing and digital workplace, digital commerce, digital experience and interactions, and metaverse; data analytics and AI, applied AI, generative AI, and sustainability; blockchain, engineering, and Internet of Things; enterprise agile DevOps, API economy and microservices, application modernization, cloud, digital process automation, digital supply chain, Microsoft business application and cloud business, service experience transformation, energy transition, Network Transformation Services, Infrastructure Services cyber security, and quality engineering solutions; Oracle, SAP, and Saleforce solutions; Topaz, an AI-first set of services, solutions, and platforms using generative AI technologies; and Aster, a set of AI-amplified marketing services, solutions, and platforms. The company also offers Finacle, a core banking solution; Edge suite of products; Panaya platform, Infosys Equinox, Infosys Live Enterprise Suite, Infosys Wingspan, Infosys Helix, Infosys Meridian, Infosys Polycloud, Infosys Cortex, and Stater digital platforms; and Infosys McCamish, an insurance platform.
 
 ---
 

@@ -1,8 +1,8 @@
 # TRAVELERS COMPANIES, INC. (TRV) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 65B$ | 결산월: 12월**
+**Financial Services | Insurance - Property & Casualty | 시총 65B$ | 결산월: 12월**
 
 The Travelers Companies, Inc., through its subsidiaries, provides a range of commercial and personal property, and casualty insurance products and services to businesses, government units, associations, and individuals in the United States, Canada, and internationally. It operates through three segments: Business Insurance, Bond & Specialty Insurance, and Personal Insurance. The Business Insurance segment offers workers' compensation, commercial automobile and property, general liability, commercial multi-peril, employers' liability, public and product liability, professional indemnity, marine, aviation, commercial property and automobile, onshore and offshore energy, construction, terrorism, personal accident, and kidnap and ransom insurance products.
 

@@ -1,8 +1,10 @@
 # ArcelorMittal (MT) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Steel | 시총 45B$ | 결산월: 12월**
+
+ArcelorMittal S.A., together with its subsidiaries, operates as integrated steel and mining companies in the Americas, Europe, Asia, and Africa. It offers semi-finished flat products, including slabs; finished flat products comprising plates, hot- and cold-rolled coils and sheets, hot-dipped and electro-galvanized coils and sheets, tinplate, and color coated coils and sheets; semi-finished long products, such as blooms and billets; finished long products consisting of bars, wire-rods, structural sections, rails, sheet piles, and wire-products; and seamless and welded pipes and tubes. The company also provides mining products, such as iron ore lumps, fines, concentrate, pellets, and sinter feeds; and coking coal.
 
 ---
 

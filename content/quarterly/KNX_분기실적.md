@@ -1,8 +1,10 @@
 # Knight-Swift Transportation Holdings Inc. (KNX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Industrials | Trucking | 시총 11B$ | 결산월: 12월**
+
+Knight-Swift Transportation Holdings Inc., together with its subsidiaries, operates as a freight transportation company in the United States and Mexico. The company operates through four segments: Truckload, LTL, Logistics, and Intermodal. The Truckload segment offers irregular route, dedicated, refrigerated, flatbed, expedited, and cross-border services.
 
 ---
 

@@ -1,8 +1,10 @@
 # ENTERPRISE PRODUCTS PARTNERS L.P. (EPD) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Midstream | 시총 83B$ | 결산월: 12월**
+
+Enterprise Products Partners L.P. provides midstream energy services to producers and consumers of natural gas, natural gas liquids (NGLs), crude oil, petrochemicals, and refined products. It operates in four segments: NGL Pipelines & Services; Crude Oil Pipelines & Services; Natural Gas Pipelines & Services; and Petrochemical & Refined Products Services.
 
 ---
 

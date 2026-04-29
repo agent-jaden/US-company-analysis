@@ -1,8 +1,10 @@
 # REGAL REXNORD CORP (RRX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 14B$ | 결산월: 12월**
+**Industrials | Specialty Industrial Machinery | 시총 14B$ | 결산월: 12월**
+
+Regal Rexnord Corporation provides sustainable solutions for power, transmit, and control motion products in the North America, Asia, Europe, and internationally. The company operates through Automation & Motion Control, Industrial Powertrain Solutions, and Power Efficiency Solutions. The Automation & Motion Control segment provides conveyor products, conveying automation subsystems, aerospace components, precision motion control solutions, miniature servo motors, controls, drives, and linear actuators, as well as power management products that include automatic transfer switches, paralleling switchgear, and customized modular electric pod solutions that comprise relevant power and thermal management content.
 
 ---
 

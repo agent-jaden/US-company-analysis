@@ -1,8 +1,10 @@
 # Globalstar, Inc. (GSAT) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 11B$ | 결산월: 12월**
+
+Globalstar, Inc. provides mobile satellite services in the United States, Canada, Europe, Central and South America, and internationally. It offers duplex two-way voice and data products, including mobile voice and data services and equipment for remote business continuity, recreational usage, safety, emergency preparedness and response, and other applications.
 
 ---
 

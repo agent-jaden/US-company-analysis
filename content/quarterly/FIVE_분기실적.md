@@ -1,8 +1,10 @@
 # FIVE BELOW, INC (FIVE) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 13B$ | 결산월: 1월**
+**Consumer Cyclical | Specialty Retail | 시총 13B$ | 결산월: 1월**
+
+Five Below, Inc. operates as a specialty value retailer in the United States. It offers assortment of classic and novelty candy bars, movie-size box candy, seasonal-related candy, gum, and snack food products, as well as sells chilled drinks through coolers; socks, jewelry, hair accessories, cozy loungewear, and t-shirts; personal care essentials, skincare, fragrance, and branded cosmetics; and party goods, decorations, gag gifts, greeting cards, and every day and special occasion merchandise products.
 
 ---
 

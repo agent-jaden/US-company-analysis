@@ -1,8 +1,10 @@
 # NOMURA HOLDINGS INC (NMR) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 22B$ | 결산월: 3월**
+**Financial Services | Capital Markets | 시총 22B$ | 결산월: 3월**
+
+Nomura Holdings, Inc. engages in the provision of investment, financing, and related services to individual, institutional, and government clients worldwide. It operates through three segments: Wealth Management, Investment Management, and Wholesale.
 
 ---
 

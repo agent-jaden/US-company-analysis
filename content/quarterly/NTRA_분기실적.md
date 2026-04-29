@@ -1,8 +1,10 @@
 # Natera, Inc. (NTRA) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 29B$ | 결산월: 12월**
+**Healthcare | Diagnostics & Research | 시총 29B$ | 결산월: 12월**
+
+Natera, Inc., a diagnostics company, engages in the development and commercialization of molecular testing services worldwide. It offers Signatera, a personalized ctDNA blood test for MRD assessment, early recurrence monitoring, and evaluation of treatment response in patients previously diagnosed with cancer; Latitude, a blood-based MRD test for colorectal cancer; Altera, a tissue based comprehensive genomic profiling test; and Empower, a hereditary cancer screening test. The company also provides Panorama, a non-invasive prenatal test; Horizon, a carrier screening test; Fetal Focus, a single-gene NIPT, or sgNIPT, that screens for 21 single-gene inherited conditions; and Vistara, a single-gene NIPT, which screens for 25 single-gene conditions.
 
 ---
 

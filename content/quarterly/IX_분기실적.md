@@ -1,8 +1,10 @@
 # ORIX CORP (IX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Financial Conglomerates | 시총 35B$ | 결산월: 3월**
+
+ORIX Corporation provides financial services in Japan, the United States, Asia, Europe, and Australasia. The company's Corporate Financial Services and Maintenance Leasing segment is involved in the finance and fee; and leasing and rental of automobiles, electronic measuring instruments, and ICT-related equipment businesses. Its Real Estate segment develops, rents, and manages real estate properties; operates facilities; provides real estate asset management services.
 
 ---
 

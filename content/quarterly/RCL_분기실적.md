@@ -1,8 +1,8 @@
 # ROYAL CARIBBEAN CRUISES LTD (RCL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 70B$ | 결산월: 12월**
+**Consumer Cyclical | Travel Services | 시총 70B$ | 결산월: 12월**
 
 Royal Caribbean Cruises Ltd. operates as a cruise company worldwide. The company operates cruises under the Royal Caribbean International, Celebrity Cruises, and Silversea Cruises brands, which comprise a range of itineraries.
 

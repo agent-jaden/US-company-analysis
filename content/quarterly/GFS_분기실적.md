@@ -1,8 +1,10 @@
 # GLOBALFOUNDRIES Inc. (GFS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 33B$ | 결산월: 12월**
+**Technology | Semiconductors | 시총 33B$ | 결산월: 12월**
+
+GLOBALFOUNDRIES Inc., a semiconductor foundry, provides range of mainstream wafer fabrication services and technologies in the United States, Europe, the Middle East, Africa, and internationally. It offers semiconductor devices, including microprocessors, mobile application processors, baseband processors, network processors, radio frequency modems, microcontrollers, and power management units. The company was incorporated in 2008 and is headquartered in Malta, New York.
 
 ---
 

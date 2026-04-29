@@ -1,8 +1,10 @@
 # ERICSSON LM TELEPHONE CO (ERIC) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Communication Equipment | 시총 37B$ | 결산월: 12월**
+
+Telefonaktiebolaget LM Ericsson (publ), together with its subsidiaries, provides mobile connectivity solutions to communications service providers, enterprises, and the public sector in the Americas, Europe, the Middle East, Africa, Northeast Asia, Southeast Asia, Oceania, and India. It operates through Networks; Cloud Software and Services; Enterprise; and Other segments. The Networks segment offers hardware, software, and service offerings for intelligent, reliable and flexible 5G networks.
 
 ---
 

@@ -1,8 +1,10 @@
 # Restaurant Brands International Limited Partnership (RSTRF) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 26B$ | 결산월: 12월**
+**Consumer Cyclical | Restaurants | 시총 26B$ | 결산월: 12월**
+
+Restaurant Brands International Limited Partnership operates and franchises quick service restaurants in the United States and internationally. The company operates through six segments: Tim Hortons, Burger King, Popeyes Louisiana Kitchen, Firehouse Subs, International, and Restaurant Holdings. Its restaurants offers coffee and other beverages, baked goods, and food products under the Tim Hortons brand name; hamburgers, chicken, and other specialty sandwiches under the Burger King brand name; fried bone-in chicken, chicken sandwiches, chicken tenders, wings, fried shrimp, and regional items under the Popeyes brand name; and sandwiches, subs piled with meats and cheese, chili, soups, and other sides under the Firehouse Sub brand name.
 
 ---
 

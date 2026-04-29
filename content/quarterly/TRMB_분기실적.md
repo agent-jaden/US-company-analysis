@@ -1,8 +1,8 @@
 # TRIMBLE INC. (TRMB) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 16B$ | 결산월: 1월**
+**Technology | Scientific & Technical Instruments | 시총 16B$ | 결산월: 1월**
 
 Trimble Inc. offers technology solutions and platform that enable office professionals and field workers to connect workflows and industry lifecycles in North America, Europe, the Asia Pacific, and internationally. The company provides architecture and interior design; building information modeling, engineering, and virtual design and construction; and construction and owner software products.
 

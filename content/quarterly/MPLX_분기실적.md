@@ -1,8 +1,10 @@
 # MPLX LP (MPLX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Midstream | 시총 55B$ | 결산월: 12월**
+
+MPLX LP owns and operates midstream energy infrastructure and logistics assets primarily in the United States. It operates in two segments, Crude Oil and Products Logistics; and Natural Gas and NGL Services. The company is involved in the gathering, processing, and transportation of natural gas; gathering, transportation, fractionation, storage, and marketing of natural gas liquids; gathering, storage, transportation, and distribution of crude oil and refined products, as well as other hydrocarbon-based products and renewables; and sale of residue gas and condensate.
 
 ---
 

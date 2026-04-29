@@ -1,8 +1,10 @@
 # HECLA MINING CO/DE/ (HL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Basic Materials | Other Precious Metals & Mining | 시총 12B$ | 결산월: 12월**
+
+Hecla Mining Company, together with its subsidiaries, provides precious and base metals in the United States, Canada, Japan, Korea, China, and internationally. The company mines for silver, gold, lead, and zinc concentrates, as well as carbon material containing silver and gold for custom smelters, metal traders, and third-party processors; and unrefined doré containing silver and gold. The company was incorporated in 1891 and is headquartered in Coeur d'Alene, Idaho.
 
 ---
 

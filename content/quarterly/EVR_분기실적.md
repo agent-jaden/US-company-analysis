@@ -1,8 +1,10 @@
 # Evercore Inc. (EVR) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 14B$ | 결산월: 12월**
+**Financial Services | Capital Markets | 시총 14B$ | 결산월: 12월**
+
+Evercore Inc., together with its subsidiaries, operates as an independent investment banking firm in the Americas, Europe, Middle East, Africa, and Asia-Pacific. The company operates through two segments, Investment Banking & Equities, and Investment Management. The Investment Banking & Equities segment offers strategic advisory services, such as mergers, and acquisitions, strategic, defense, and shareholder advisory, special committee assignments, and real estate strategic advisory; private capital advisory and fundraising, market risk management and hedging, private capital markets and debt advisory, liability management and restructuring, and equity capital markets execution and advisory services; and research, sales, and trading professionals services on a content-led platform to its institutional investor clients.
 
 ---
 

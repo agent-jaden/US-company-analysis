@@ -1,8 +1,10 @@
 # On Holding AG (ONON) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CHF
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CHF
 
-**시총 12B$ | 결산월: 12월**
+**Consumer Cyclical | Footwear & Accessories | 시총 12B$ | 결산월: 12월**
+
+On Holding AG, together with its subsidiaries, develops and distributes performance sports products under the On brand in Switzerland, the rest of Europe, the Middle East, Africa, the United States, the rest of the Americas, and the Asia-Pacific. The company offers athletic footwear, apparel, and accessories for performance running, performance outdoor, performance all day, performance training, performance tennis, and young movers. It sells its products to athletes and active customers through wholesale and direct-to-consumer channels; run specialty, general sporting goods, outdoor, luxury, street fashion, and lifestyle retailers; owned retail stores; and e-commerce platforms.
 
 ---
 

@@ -1,23 +1,29 @@
 # CAPITAL ONE FINANCIAL CORP (COF) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+
+**Financial Services | Credit Services | 시총 123B$ | 결산월: 12월**
+
+Capital One Financial Corporation operates as the financial services holding company for the Capital One, National Association, which engages in the provision of various financial products and services in the United States, Canada, and the United Kingdom. It operates through three segments: Credit Card, Consumer Banking, and Commercial Banking. The company accepts checking accounts, money market deposits, negotiable order of withdrawals, savings deposits, time deposits, and sweep accounts.
+
+---
 
 ### 분기별 실적 추이
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
 |:----:|-----------:|-------------:|-----------:|:--------:|:------------:|:----------:|
-| 2025Q4 | 2.45 | — | 2.13 | +51.9% | — | +94.7% |
-| 2025Q3 | 2.28 | — | 3.19 | +57.8% | — | +79.6% |
-| 2025Q2 | 1.84 | — | -4.28 | +25.6% | — | 적자전환 |
-| 2025Q1 | 1.49 | — | 1.40 | +7.1% | — | +9.7% |
-| 2024Q4 | 1.61 | — | 1.10 | +9.1% | — | +55.2% |
-| 2024Q3 | 1.45 | — | 1.78 | -1.9% | — | -0.7% |
-| 2024Q2 | 1.47 | — | 0.60 | +3.7% | — | -58.3% |
-| 2024Q1 | 1.39 | — | 1.28 | +8.8% | — | +33.3% |
-| 2023Q4 | 1.48 | — | 0.71 | +8.4% | — | -42.7% |
-| 2023Q3 | 1.48 | — | 1.79 | +4.2% | — | +5.7% |
-| 2023Q2 | 1.42 | — | 1.43 | +0.6% | — | -29.5% |
-| 2023Q1 | 1.28 | — | 0.96 | +3.6% | — | -60.0% |
+| 2025Q4 (10월-12월) | 2.45 | — | 2.13 | +51.9% | — | +94.7% |
+| 2025Q3 (7월-9월) | 2.28 | — | 3.19 | +57.8% | — | +79.6% |
+| 2025Q2 (4월-6월) | 1.84 | — | -4.28 | +25.6% | — | 적자전환 |
+| 2025Q1 (1월-3월) | 1.49 | — | 1.40 | +7.1% | — | +9.7% |
+| 2024Q4 (10월-12월) | 1.61 | — | 1.10 | +9.1% | — | +55.2% |
+| 2024Q3 (7월-9월) | 1.45 | — | 1.78 | -1.9% | — | -0.7% |
+| 2024Q2 (4월-6월) | 1.47 | — | 0.60 | +3.7% | — | -58.3% |
+| 2024Q1 (1월-3월) | 1.39 | — | 1.28 | +8.8% | — | +33.3% |
+| 2023Q4 (10월-12월) | 1.48 | — | 0.71 | +8.4% | — | -42.7% |
+| 2023Q3 (7월-9월) | 1.48 | — | 1.79 | +4.2% | — | +5.7% |
+| 2023Q2 (4월-6월) | 1.42 | — | 1.43 | +0.6% | — | -29.5% |
+| 2023Q1 (1월-3월) | 1.28 | — | 0.96 | +3.6% | — | -60.0% |
 
 #### 요약
 

@@ -1,8 +1,10 @@
 # Banco Santander (Brasil) S.A. (BSBR) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Banks - Regional | 시총 44B$ | 결산월: 12월**
+
+Banco Santander (Brasil) S.A., together with its subsidiaries, provides various banking products and services to individuals, small and medium enterprises, and corporate customers in Brazil and internationally. It operates in two segments, Commercial Banking and Global Wholesale Banking. The company offers payment and loyalty products, including credit and debit cards; payroll and real estate loans; home equity financing solutions; microfinance programs; consortiums; agribusiness products, such as credit, securities and other products; call center and digital solutions; nonperforming assets; and insurance products comprising life, personal accident, vehicle, property, and credit insurance, as well as insurance for travel and banking transactions.
 
 ---
 

@@ -1,8 +1,10 @@
 # Rocket Lab Corp (RKLB) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Aerospace & Defense | 시총 48B$ | 결산월: 12월**
+
+Rocket Lab Corporation, a space company, provides launch services and space systems solutions in the United States, Canada, Japan, and internationally. The company operates through launch services and space systems segments. The company provides launch services, spacecraft design services, spacecraft components, spacecraft manufacturing, optical systems, and other spacecraft and on-orbit management solutions and constellation management services, as well as designs and manufactures small and medium-class rockets and develops flight and ground software.
 
 ---
 

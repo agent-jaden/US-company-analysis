@@ -1,8 +1,8 @@
 # TJX COMPANIES INC /DE/ (TJX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 175B$ | 결산월: 2월**
+**Consumer Cyclical | Apparel Retail | 시총 175B$ | 결산월: 2월**
 
 The TJX Companies, Inc., together with its subsidiaries, operates as an off-price apparel and home fashions retailer worldwide. It operates through four segments: Marmaxx, HomeGoods, TJX Canada, and TJX International. The company provides family apparel comprising footwear; accessories, such as beauty and jewelry; home fashion products, including home basics, decorative accessories and giftware, as well as furniture, rugs, lighting, soft home, decorative accessories, tabletop, and cookware; pet and gourmet food; and other merchandise.
 

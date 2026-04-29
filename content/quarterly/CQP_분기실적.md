@@ -1,8 +1,10 @@
 # Cheniere Energy Partners, L.P. (CQP) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 30B$ | 결산월: 12월**
+**Energy | Oil & Gas Midstream | 시총 30B$ | 결산월: 12월**
+
+Cheniere Energy Partners, L.P., through its subsidiaries, provides liquefied natural gas (LNG) to integrated energy companies, utilities, and energy trading companies in the United States and internationally. The company owns and operates natural gas liquefaction and export facility at the Sabine Pass LNG Terminal located in Cameron Parish, Louisiana. It also owns Creole Trail Pipeline, a natural gas supply pipeline that interconnects the Sabine Pass LNG terminal with various interstate and intrastate pipelines.
 
 ---
 

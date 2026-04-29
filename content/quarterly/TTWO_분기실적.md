@@ -1,8 +1,8 @@
 # TAKE TWO INTERACTIVE SOFTWARE INC (TTWO) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 40B$ | 결산월: 3월**
+**Communication Services | Electronic Gaming & Multimedia | 시총 40B$ | 결산월: 3월**
 
 Take-Two Interactive Software, Inc. develops, publishes, and markets interactive entertainment solutions for consumers worldwide. The company develops and publishes action/adventure products under the Grand Theft Auto, LA Noire, Max Payne, Midnight Club, and Red Dead Redemption names, as well as other franchises.
 

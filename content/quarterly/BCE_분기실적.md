@@ -1,8 +1,10 @@
 # BCE INC (BCE) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CAD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CAD
 
-**시총 22B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 22B$ | 결산월: 12월**
+
+BCE Inc., a communications company, provides wireless, wireline, internet, streaming services, and television (TV) services to residential, business, and wholesale customers in Canada. The company operates through three segments: Bell Communication and Technology Services Canada, Bell Communication and Technology Services United States, and Bell Media. The Bell Communication and Technology Services Canada segment provides wireless products and services, including mobile data and voice plans, streaming services, and devices; wireline products and services comprising data, including internet access, internet protocol television, cloud-based services, and AI-driven and business solutions, as well as voice, and other communication services and products, satellite TV and connectivity services for residential, small and medium-sized business, and large enterprise customers.
 
 ---
 

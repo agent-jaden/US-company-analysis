@@ -1,8 +1,10 @@
 # BORGWARNER INC (BWA) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Parts | 시총 11B$ | 결산월: 12월**
+
+BorgWarner Inc., together with its subsidiaries, provides technology solutions for combustion, hybrid, and electric vehicles worldwide. The company operates through the Turbos & Thermal Technologies; Drivetrain & Morse Systems; PowerDrive Systems; and Battery & Charging Systems segments. It offers turbochargers, eBoosters, eTurbos, emissions systems, thermal systems, gasoline ignition technology, smart remote actuators, powertrain sensors, cabin heaters, battery heaters, and battery cooling systems.
 
 ---
 

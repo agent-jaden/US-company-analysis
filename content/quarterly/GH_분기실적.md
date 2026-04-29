@@ -1,8 +1,10 @@
 # Guardant Health, Inc. (GH) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Healthcare | Diagnostics & Research | 시총 12B$ | 결산월: 12월**
+
+Guardant Health, Inc., a precision oncology company, provides blood and tissue tests, and data sets in the United States and internationally. The company offers Guardant360 CDx test, a liquid biopsy test for tumor mutation profiling; Guardant360 Liquid test, which measures 740+ genes and supports all guideline-recommended biomarkers; Guardant Reveal test, a blood test that utilizes circulating tumor DNA to detect cancer at the molecular level; and Guardant360 Tissue test, a molecular profiling test for tumor tissue that provides genomic, transcriptomic, and epigenomic insights. It also provides Shield blood test for colorectal cancer screening in adults.
 
 ---
 

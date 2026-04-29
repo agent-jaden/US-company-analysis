@@ -1,8 +1,8 @@
 # TE Connectivity plc (TEL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 61B$ | 결산월: 9월**
+**Technology | Electronic Components | 시총 61B$ | 결산월: 9월**
 
 TE Connectivity plc, together with its subsidiaries, manufactures and sells connectivity and sensor solutions in Europe, the Middle East, Africa, the AsiaPacific, and the Americas. The company operates through two reportable segments, Transportation Solutions and Industrial Solutions. It provides antennas, application tooling, cable assemblies, connectors, electromagnetic compatibility/electromagnetic interference solutions, energy and power, fiber optics, heat shrink tubing, identification and labeling, medical components, passive components, relays and contactors, sensors, switches, terminals and splices, wires and cables, and wire protection and management solutions.
 

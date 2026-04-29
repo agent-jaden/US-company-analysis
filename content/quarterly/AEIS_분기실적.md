@@ -1,8 +1,10 @@
 # ADVANCED ENERGY INDUSTRIES INC (AEIS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 15B$ | 결산월: 12월**
+**Industrials | Electrical Equipment & Parts | 시총 15B$ | 결산월: 12월**
+
+Advanced Energy Industries, Inc. provides precision power conversion, measurement, and control solutions in the United States, Asia, Europe, and internationally. The company's plasma power products offer solutions to enable innovation for semiconductor and thin film plasma processes, such as dry etch and deposition.
 
 ---
 

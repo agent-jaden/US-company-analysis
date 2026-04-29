@@ -1,8 +1,10 @@
 # MP Materials Corp. / DE (MP) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Basic Materials | Other Industrial Metals & Mining | 시총 12B$ | 결산월: 12월**
+
+MP Materials Corp., together with its subsidiaries, produces rare earth materials in the Western Hemisphere. It operates in two segments, Materials and Magnetics. The Materials segment owns and operates the Mountain Pass Rare Earth Mine and Processing facility located near Mountain Pass, San Bernardino County, California.
 
 ---
 

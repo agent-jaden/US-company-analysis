@@ -1,8 +1,10 @@
 # ZTO Express (Cayman) Inc. (ZTO) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 19B$ | 결산월: 12월**
+**Industrials | Integrated Freight & Logistics | 시총 19B$ | 결산월: 12월**
+
+ZTO Express (Cayman) Inc. provides express delivery and other value-added logistics services in the People's Republic of China. It also offers less-than-truckload (LTL) logistics services; integrated logistics solutions for warehousing, distribution, and transportation; and freight forwarding services.
 
 ---
 

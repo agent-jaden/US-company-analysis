@@ -1,8 +1,10 @@
 # KRATOS DEFENSE & SECURITY SOLUTIONS, INC. (KTOS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Industrials | Aerospace & Defense | 시총 12B$ | 결산월: 12월**
+
+Kratos Defense & Security Solutions, Inc., a technology company, provides technology, hardware, products, system, and software for the defense, national security, and commercial markets in the United States, other North America, the Asia Pacific, the Middle East, Europe, and Internationally. The company operates through Kratos Government Solutions and Unmanned Systems segments. It offers virtualized ground systems for satellites and space vehicles, including software for command and control, telemetry, and tracking and control; jet powered unmanned aerial drone systems and hypersonic vehicles and rocket systems; propulsion systems for drones, missiles, loitering munitions, supersonic systems, spacecraft and launch systems, command, control, communication, computing, combat, and intelligence surveillance and reconnaissance; and microwave electronic products for missile, radar, missile defense, space, and satellite; and counter unmanned aircraft systems, directed energy, communication and other systems, and virtual and augmented reality training systems for the warfighter.
 
 ---
 

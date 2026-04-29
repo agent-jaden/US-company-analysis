@@ -1,8 +1,10 @@
 # Viper Energy, Inc. (VNOM) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 18B$ | 결산월: 12월**
+**Energy | Oil & Gas Midstream | 시총 18B$ | 결산월: 12월**
+
+Viper Energy, Inc. owns, acquires, and exploits oil and natural gas properties in North America. It focuses on owning and acquiring mineral and royalty interests in the Permian Basin.
 
 ---
 

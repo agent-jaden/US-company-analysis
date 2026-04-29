@@ -1,8 +1,10 @@
 # Crane Co (CR) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Industrials | Specialty Industrial Machinery | 시총 11B$ | 결산월: 12월**
+
+Crane Company, together with its subsidiaries, engages in the manufacture and sale of engineered industrial products in the United States, Canada, the United Kingdom, Continental Europe, and internationally. The company operates in two segments, Aerospace & Advanced Technologies and Process Flow Technologies. The Aerospace & Electronics segment supplies critical components and systems, including original equipment and aftermarket parts for commercial aerospace, as well as the military aerospace, defense, and space markets.
 
 ---
 

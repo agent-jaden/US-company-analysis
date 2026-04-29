@@ -1,8 +1,10 @@
 # Sprott Physical Silver Trust (PSLV) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 16B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 16B$ | 결산월: 12월**
+
+Sprott Physical Silver Trust is an exchange traded commodity launched and managed by Sprott Asset Management LP. The fund invests in the commodity markets. It primarily invests in physical silver bullion in London Good Delivery bar form.
 
 ---
 

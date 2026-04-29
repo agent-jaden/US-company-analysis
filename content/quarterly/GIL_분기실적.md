@@ -1,8 +1,10 @@
 # Gildan Activewear Inc. (GIL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Consumer Cyclical | Apparel Manufacturing | 시총 11B$ | 결산월: 12월**
+
+Gildan Activewear Inc. manufactures and sells various apparel products. The company provides various activewear products, including T-shirts, fleece tops and bottoms, sports shirts, polos, and tank tops under Gildan, Hanes, Gildan Performance, Gildan Hammer, Gildan Softstyle, Gildan Heavy Cotton, Gildan Ultra Cotton, Gildan DryBlend, Gildan HeavyBlend, Comfort Colors, American Apparel, ALLPRO, ComfortWash, BEEFY, Bonds and Champion brands.
 
 ---
 

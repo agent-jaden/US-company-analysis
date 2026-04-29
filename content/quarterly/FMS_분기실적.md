@@ -1,8 +1,10 @@
 # Fresenius Medical Care AG (FMS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Healthcare | Medical Care Facilities | 시총 12B$ | 결산월: 12월**
+
+Fresenius Medical Care AG provides dialysis and related services for individuals with renal diseases in Germany, the United States, and internationally. The company offers dialysis treatment and related laboratory and diagnostic services through a network of outpatient dialysis clinics; materials, training, and patient support services comprising clinical monitoring, follow-up assistance, and arranging for delivery of the supplies to the patient's residence; and dialysis services under contract to hospitals in the United States for the hospitalized end-stage renal disease (ESRD) patients and for patients suffering from acute kidney failure. The company operates through Care Delivery and Care Enablement segments.
 
 ---
 

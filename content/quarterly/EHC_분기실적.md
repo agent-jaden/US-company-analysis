@@ -1,8 +1,10 @@
 # Encompass Health Corp (EHC) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 10B$ | 결산월: 12월**
+**Healthcare | Medical Care Facilities | 시총 10B$ | 결산월: 12월**
+
+Encompass Health Corporation operates inpatient rehabilitation hospitals in the United States and Puerto Rico. The company offers specialized rehabilitative treatment, using technology and therapy, on an inpatient basis for patients recovering from a major injury or illness and seeking to regain functional ability, independence, and quality of life; medical, nursing, therapy, and ancillary services; and rehabilitative care to patients who are recovering from conditions, such as stroke and other neurological disorders, cardiac and pulmonary conditions, brain and spinal cord injuries, complex orthopedic conditions, and amputations. It offers services through the Medicare program to the federal government, managed care plans and private insurers, state governments, and other patients.
 
 ---
 

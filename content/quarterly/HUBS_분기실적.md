@@ -1,8 +1,10 @@
 # HUBSPOT INC (HUBS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Technology | Software - Application | 시총 12B$ | 결산월: 12월**
+
+HubSpot, Inc., together with its subsidiaries, provides a cloud-based customer relationship management (CRM) platform for businesses in the Americas, Europe, and the Asia Pacific. The company's CRM platform includes Marketing Hub, a toolset for marketing automation and email, social media, SEO, AEO, and reporting and analytics; Sales Hub offers email templates and tracking, conversations and live chat, meeting and call scheduling, lead and website visit alerts, lead scoring, sales automation, pipeline management, quoting, forecasting, and reporting; Service Hub, a service software designed to help businesses manage, respond, and connect with customers; and Content Hub that helps business with website pages, business blogging, video and podcast hosting, smart content, landing pages and forms, SEO recommendations, forms and lead flow, web analytics reporting, calls-to-action, and file manager. It offers Operations Hub, which provides programmable automation, data sync, data curation, and data quality tools; and Commerce Hub, a B2B commerce suite that provides payment links, invoices, quotes, subscription management, and automation and revenue reporting; and breeze, an AI that powers the customer platform that provides AI-powered insights, automation, content generation, and data enrichment, as well as Breeze Assistant, a go-to-market assistant to boost productivity and make work easier; and Breeze Agents, which helps teams automate work end-to-end from strategy to execution.
 
 ---
 

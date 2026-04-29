@@ -1,8 +1,10 @@
 # SOMNIGROUP INTERNATIONAL INC. (SGI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 17B$ | 결산월: 12월**
+**Consumer Cyclical | Furnishings, Fixtures & Appliances | 시총 17B$ | 결산월: 12월**
+
+Somnigroup International Inc., together with its subsidiaries, designs, manufactures, distributes, and retails bedding products in the United States and internationally. It provides mattresses, foundations and adjustable foundations, and adjustable bases, as well as other products comprising pillows and other accessories under the Tempur-Pedic, Sealy, Stearns & Foster, and Sleepy's brands. The company operates a portfolio of retail brands, including Mattress Firm, Dreams, Tempur-Pedic retail stores, and SOVA; and licenses Sealy, Tempur, and Stearns & Foster brands, as well as technology and trademarks to other manufacturers.
 
 ---
 

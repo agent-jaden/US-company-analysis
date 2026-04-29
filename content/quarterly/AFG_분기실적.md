@@ -1,8 +1,10 @@
 # AMERICAN FINANCIAL GROUP INC (AFG) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Financial Services | Insurance - Property & Casualty | 시총 11B$ | 결산월: 12월**
+
+American Financial Group, Inc., an insurance holding company, provides property and casualty insurance products in the United States. It operates through Property and Casualty Insurance and Other segments. The company offers property and transportation insurance products, such as physical damage and liability coverage for buses and trucks, other specialty transportation niches, inland and ocean marine, agricultural-related products, and other commercial property coverages; specialty casualty insurance, including primarily excess and surplus, executive and professional liability, general liability, umbrella and excess liability, and specialty coverage in targeted markets, as well as customized programs for small to mid-sized businesses and workers compensation insurance; and specialty financial insurance products comprising risk management insurance programs for lending and leasing institutions, fidelity and surety products, and trade credit insurance.
 
 ---
 

@@ -1,8 +1,10 @@
 # Grab Holdings Ltd (GRAB) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 16B$ | 결산월: 12월**
+**Technology | Software - Application | 시총 16B$ | 결산월: 12월**
+
+Grab Holdings Limited operates the Grab superapp in Cambodia, Indonesia, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam. The company offers delivery services on its platform, such as GrabFood, a food ordering and delivery booking service; Dine-Out for table reservations; GrabMart, a goods ordering and delivery booking service; GrabAds, an online advertising solution; GrabExpress, a package delivery booking service; Grab for Business platform, a unified management portal for corporate clients. It also provides GrabKios, a network of agents; GrabCar, which enables a private hire driver-partner to register with Grab and accept bookings through its driver-partner application; and GrabTaxi, which enables a taxi driver-partner to register with Grab and accept bookings through the Grab driver-partner application.
 
 ---
 

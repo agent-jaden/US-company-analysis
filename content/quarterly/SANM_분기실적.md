@@ -1,8 +1,10 @@
 # SANMINA CORP (SANM) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 10B$ | 결산월: 10월**
+**Technology | Electronic Components | 시총 10B$ | 결산월: 10월**
+
+Sanmina Corporation provides integrated manufacturing solutions, components, products and repair, logistics, and after-market services in the Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company operates through two businesses: Integrated Manufacturing Solutions; and Components, Products and Services. The company offers product design and engineering, including concept development, detailed design, prototyping, validation, preproduction, manufacturing design release, and product industrialization; assembly and test services; direct order fulfillment and logistics services; after-market product service and support; and supply chain management services, as well as engaging in the manufacture of components, subassemblies, and complete systems; and direct order fulfilment and logistics services.
 
 ---
 

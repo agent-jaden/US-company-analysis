@@ -1,8 +1,10 @@
 # TELUS CORP (TU) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 19B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 19B$ | 결산월: 12월**
+
+TELUS Corporation, together with its subsidiaries, operates as a telecommunications company in Canada and internationally. It operates through TELUS Technology Solutions, TELUS Health, and TELUS Digital Experience segments. The company offer technology solutions comprising mobile and fixed voice and data telecommunications services and products; and agriculture and consumer goods services, such as software, data management and data analytics-driven smart-food chain, and consumer goods technologies, as well as sells mobile technologies equipment.
 
 ---
 

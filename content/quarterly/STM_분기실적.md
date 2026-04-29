@@ -1,8 +1,10 @@
 # STMicroelectronics N.V. (STM) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductors | 시총 45B$ | 결산월: 12월**
+
+STMicroelectronics N.V., together with its subsidiaries, designs, develops, manufactures, and sells semiconductor products in Europe, the Middle East, Africa, the Americas, and the Asia Pacific. The company operates through Analog products, MEMS and Sensors Group (AM&S); Power and Discrete products (P&D); Embedded Processing (EMP); and RF Products (D&RF) segments. It offers industrial application-specific integrated circuits (ASICs) and application-specific standard products (ASSPs); power management solutions; custom analog ICs, wireless charging solutions; galvanic isolated gate and LED drivers; converters, transistors, intelligent power switches, clocks and timers, comparators, and current-sense amplifiers; micro-electro-mechanical systems (MEMS) sensors, including accelerometers, gyroscopes, magnetic sensors, pressure, temperature, presence detection, biosensors, machine learning, and edge AI processing smart sensors, as well as thermal and piezoelectric actuators; and optical sensing solutions.
 
 ---
 

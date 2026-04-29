@@ -1,8 +1,10 @@
 # Chewy, Inc. (CHWY) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 2월**
+**Consumer Cyclical | Internet Retail | 시총 11B$ | 결산월: 2월**
+
+Chewy, Inc., together with its subsidiaries, engages in the e-commerce business in the United States. It offers pet food and treats, pet supplies and pet medications, and other pet-health products, as well as pet services. The company serves its customer through its retail websites and mobile applications, including Autoship subscription program.
 
 ---
 

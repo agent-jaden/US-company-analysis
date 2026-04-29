@@ -1,8 +1,10 @@
 # KINROSS GOLD CORP (KGC) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Gold | 시총 39B$ | 결산월: 12월**
+
+Kinross Gold Corporation, together with its subsidiaries, engages in the acquisition, exploration, and development of gold properties principally in the United States, Brazil, Chile, Canada, and Mauritania. It is also involved in the extraction and processing of gold-containing ores; reclamation of gold mining properties; and production and sale of silver. The company was founded in 1993 and is headquartered in Toronto, Canada.
 
 ---
 

@@ -1,8 +1,10 @@
 # Reddit, Inc. (RDDT) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 31B$ | 결산월: 12월**
+**Communication Services | Internet Content & Information | 시총 31B$ | 결산월: 12월**
+
+Reddit, Inc. operates a digital community in the United States and internationally. The company's platform enables user to engage in conversations, explore passions, research new hobbies, exchange goods and services, create new communities and experiences, share laughs, and find belonging.
 
 ---
 

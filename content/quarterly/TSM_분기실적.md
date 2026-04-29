@@ -1,34 +1,49 @@
 # TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD (TSM) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: TWD
 
-**시총 2100B$ | 결산월: 12월**
+**Technology | Semiconductors | 시총 2100B$ | 결산월: 12월**
+
+Taiwan Semiconductor Manufacturing Company Limited, together with its subsidiaries, manufactures, packages, tests, and sells integrated circuits and other semiconductor devices in Taiwan, China, Europe, the Middle East, Africa, Japan, the United States, and internationally. It provides various wafer fabrication processes, such as processes to manufacture complementary metal- oxide-semiconductor (CMOS) logic, mixed-signal, radio frequency, embedded memory, bipolar CMOS mixed-signal, and others. The company also involved in providing customer and engineering support services; manufacturing of masks; investment in technology start-up companies; research, designing, developing, manufacturing, packaging, testing, and sale of color filters; and investment activities.
 
 ---
 
 ### 분기별 실적 추이
 
-| 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
+| 분기 | 매출(BNT$) | 영업이익(BNT$) | 순이익(BNT$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
 |:----:|-----------:|-------------:|-----------:|:--------:|:------------:|:----------:|
-| 2025Q4 | 1,046.09 | 564.91 | 485.47 | +20.5% | +32.7% | +34.9% |
-| 2025Q3 | 989.92 | 500.68 | 452.30 | — | — | — |
-| 2025Q2 | 933.79 | 463.42 | 398.27 | — | — | — |
-| 2025Q1 | 839.25 | 407.09 | 361.56 | — | — | — |
-| 2024Q4 | 868.46 | 425.70 | 359.79 | — | — | — |
+| 2026Q1 | 1,146 | 664 | 578 | +36.5% | +63.1% | +60.0% |
+| 2025Q4 | 1,056 | 569 | 511 | +21.6% | +33.7% | +36.3% |
+| 2025Q3 | 990 | 501 | 452 | +30.3% | +38.8% | +39.1% |
+| 2025Q2 | 934 | 463 | 398 | +38.6% | +61.7% | +60.7% |
+| 2025Q1 | 839 | 407 | 362 | +41.6% | +63.5% | +60.3% |
+| 2024Q4 | 868 | 426 | 375 | +38.8% | +63.6% | +57.0% |
+| 2024Q3 | 760 | 361 | 325 | +39.0% | +58.2% | +54.2% |
+| 2024Q2 | 674 | 287 | 248 | +40.1% | +41.9% | +36.3% |
+| 2024Q1 | 593 | 249 | 225 | +16.5% | +7.7% | -3.5% |
 
 #### 요약
 
 | 항목 | 값 |
 |------|-----|
-| 수록 분기 | 5개 |
-| 최고 영업이익 | 2025Q4 (564.91 B$) |
-| 최저 영업이익 | 2025Q1 (407.09 B$) |
-| 기간 합산 매출 | 4,677.52 B$ |
-| 기간 합산 영업이익 | 2,361.80 B$ |
-| 기간 평균 영업이익률 | 50.5% |
+| 수록 분기 | 9개 |
+| 최고 영업이익 | 2026Q1 (664 BNT$) |
+| 최저 영업이익 | 2024Q1 (249 BNT$) |
+| 기간 합산 매출 | 7,859 BNT$ |
+| 기간 합산 영업이익 | 3,926 BNT$ |
+| 기간 평균 영업이익률 | 50.0% |
 
 ### 연간 실적 추이 (10년)
 
-| 연도 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
+| 연도 | 매출(BNT$) | 영업이익(BNT$) | 순이익(BNT$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
 |:----:|-----------:|-------------:|-----------:|:--------:|:------------:|:----------:|
-| 2025 | 3,809.05 | 1,936.10 | 1,697.60 | — | — | — |
+| 2025 | 3,819 | 1,940 | 1,723 | +31.9% | +46.8% | +46.8% |
+| 2024 | 2,894 | 1,322 | 1,173 | +33.9% | +43.5% | +35.6% |
+| 2023 | 2,162 | 921 | 865 | -4.5% | -17.8% | -5.7% |
+| 2022 | 2,264 | 1,121 | 918 | +42.6% | +70.7% | +58.9% |
+| 2021 | 1,587 | 657 | 578 | +18.5% | +16.7% | +11.8% |
+| 2020 | 1,339 | 563 | 517 | +25.2% | +35.4% | +34.7% |
+| 2019 | 1,070 | 416 | 384 | +3.7% | +5.0% | +5.9% |
+| 2018 | 1,031 | 396 | 363 | +5.5% | -1.1% | +2.1% |
+| 2017 | 977 | 400 | 355 | +3.1% | +3.8% | +5.7% |
+| 2016 | 948 | 385 | 336 | — | — | — |

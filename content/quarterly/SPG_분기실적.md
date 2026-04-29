@@ -1,8 +1,8 @@
 # SIMON PROPERTY GROUP INC. (SPG) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 77B$ | 결산월: 12월**
+**Real Estate | REIT - Retail | 시총 77B$ | 결산월: 12월**
 
 Simon Property Group, Inc. (NYSE:SPG) is a self-administered and self-managed real estate investment trust (REIT). Simon Property Group, L.P., or the Operating Partnership, is our majority-owned partnership subsidiary that owns all of our real estate properties and other assets.
 

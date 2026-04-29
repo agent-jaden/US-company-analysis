@@ -1,8 +1,10 @@
 # Jazz Pharmaceuticals plc (JAZZ) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 13B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 13B$ | 결산월: 12월**
+
+Jazz Pharmaceuticals plc identifies, develops, and commercializes pharmaceutical products in the United States, Europe, and internationally. The company offers Xywav to treat cataplexy or excessive daytime sleepiness (EDS) with narcolepsy and idiopathic hypersomnia (IH); Epidiolex for seizures associated with Lennox-Gastaut syndrome (LGS), Dravet syndrome (DS), or tuberous sclerosis complex (TSC); Rylaze for the treatment of acute lymphoblastic leukemia or lymphoblastic lymphoma; Enrylaze to treat acute lymphoblastic leukemia and lymphoblastic lymphoma; Zepzelca for the treatment of metastatic small cell lung cancer with disease progression on or after platinum-based chemotherapy; Ziihera to treat HER2-positive biliary tract cancers; Modeyso for the treatment of diffuse midline glioma harboring an H3 K27M mutation; and Defitelio to treat severe veno-occlusive disease. It also develops Zanidatamab in Phase 3 trial to treat HER2-positive gastroesophageal adenocarcinoma (GEA) and biliary tract cancers (BTC); Dordaviprone to treat H3 K27M-mutant diffuse glioma; and Vyxeos for the treatment of newly-diagnosed therapy-related acute myeloid leukemia.
 
 ---
 

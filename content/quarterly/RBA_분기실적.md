@@ -1,8 +1,10 @@
 # RB GLOBAL INC. (RBA) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 20B$ | 결산월: 12월**
+**Industrials | Specialty Business Services | 시총 20B$ | 결산월: 12월**
+
+RB Global, Inc. operates a marketplace that provides insights, services, and transaction solutions for buyers and sellers of commercial assets and vehicles worldwide. The company's marketplace brands include Ritchie Bros., an auctioneer of commercial assets and vehicles; IAA, a digital marketplace that connects vehicle buyers and sellers; Rouse, which provides asset management, data-driven intelligence, and performance benchmarking system; SmartEquip, a technology platform that supports customers' management of the equipment lifecycle; and Veritread, an online marketplace for heavy haul transport solution.
 
 ---
 

@@ -1,8 +1,10 @@
 # AMKOR TECHNOLOGY, INC. (AMKR) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 19B$ | 결산월: 12월**
+**Technology | Semiconductor Equipment & Materials | 시총 19B$ | 결산월: 12월**
+
+Amkor Technology, Inc. provides outsourced semiconductor packaging and test services in the United States, Japan, Europe, and the Asia Pacific. It offers turnkey packaging and test services, including semiconductor wafer bump, wafer probe, wafer back-grind, package design, packaging, burn-in, system-level and final test, and drop shipment services; flip chip scale package products for smartphones, tablets, and other mobile consumer electronic devices; flip chip stacked chip scale packages that are used to stack memory digital baseband, and as applications processors in mobile devices; flip-chip ball grid array packages for various networking, storage, computing, automotive, and consumer applications; and memory products for system memory or platform data storage.
 
 ---
 

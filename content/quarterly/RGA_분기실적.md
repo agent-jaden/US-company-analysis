@@ -1,8 +1,10 @@
 # REINSURANCE GROUP OF AMERICA INC (RGA) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 14B$ | 결산월: 12월**
+**Financial Services | Insurance - Reinsurance | 시총 14B$ | 결산월: 12월**
+
+Reinsurance Group of America, Incorporated provides life and health, and asset-intensive reinsurance in the United States, Latin America, Canada, Europe, the Middle East, Africa, Asia, and Australia. It offers individual and group life and health, disability, long-term care, and critical illness reinsurance; and financial solutions, such as asset-intensive reinsurance, longevity reinsurance, stable value products, pension risk transfer transactions, and capital solutions. The company also provides reinsurance for mortality, morbidity, lapse, and investment-related risks; coinsurance of payout annuities; underwritten annuities; funding agreement backed note program and other capital motivated solutions; and superannuation.
 
 ---
 

@@ -1,8 +1,10 @@
 # FIRST HORIZON CORP (FHN) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 12B$ | 결산월: 12월**
+
+First Horizon Corporation operates as the bank holding company for First Horizon Bank that provides various financial services. It operates through Regional Banking, Specialty Banking, and Corporate segments. The company offers commercial banking, business banking, consumer banking, private client investment, wealth management, financial planning, trust and asset management services, asset-based lending, commercial real estate, equipment finance/leasing, energy finance, international banking, healthcare finance, transportation and logistics finance, treasury management solutions, and loan syndications services.
 
 ---
 

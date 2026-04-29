@@ -1,8 +1,8 @@
 # ITT INC. (ITT) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 19B$ | 결산월: 12월**
+**Industrials | Specialty Industrial Machinery | 시총 19B$ | 결산월: 12월**
 
 ITT Inc., together with its subsidiaries, manufactures and sells engineered critical components and customized technology solutions for the transportation, industrial, and energy markets. The company operates three segments: Motion Technologies, Industrial Process, and Connect & Control Technologies. The Motion Technologies segment manufactures brake pads, shock absorbers, energy absorption components, and damping technologies primarily for the transportation industry, including passenger cars, trucks, light and heavy-duty commercial and military vehicles, buses, and trains.
 

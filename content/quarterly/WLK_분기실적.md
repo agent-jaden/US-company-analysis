@@ -1,8 +1,10 @@
 # WESTLAKE CORP (WLK) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 14B$ | 결산월: 12월**
+**Basic Materials | Specialty Chemicals | 시총 14B$ | 결산월: 12월**
+
+Westlake Corporation manufactures and markets performance and essential materials, and housing and infrastructure products in the United States, Canada, Germany, China, Mexico, Brazil, France, Italy, and internationally. It operates through two segments, Performance and Essential Materials and The Housing and Infrastructure Products. The Performance and Essential Materials segment offers ethylene, polyethylene, chlor-alkali, chlorinated derivative products, ethylene dichloride, vinyl chloride monomer, polyvinyl chloride (PVC), epoxy specialty resins, and base epoxy resins and intermediaries.
 
 ---
 

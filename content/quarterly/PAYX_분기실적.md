@@ -1,8 +1,8 @@
 # PAYCHEX INC (PAYX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 32B$ | 결산월: 5월**
+**Technology | Software - Application | 시총 32B$ | 결산월: 5월**
 
 Paychex, Inc., together with its subsidiaries, provides human capital management solutions (HCM) for payroll, employee benefits, human resources (HR), and insurance services for small to medium-sized businesses in the United States, Europe, and India. It offers payroll processing services; payroll tax administration services; employee payment services; and regulatory compliance services. The company provides retirement solutions, such as plan implementation, ongoing compliance with government regulations, employee and employer reporting, participant and employer online access, electronic funds transfer, and other administrative services; HCM solutions from recruiting and hiring to retirement; and talent management and talent acquisition services.
 

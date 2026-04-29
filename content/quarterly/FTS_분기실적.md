@@ -1,8 +1,10 @@
 # Fortis Inc. (FTS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 29B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 29B$ | 결산월: 12월**
+
+Fortis Inc. operates as an electric and gas utility company in Canada, the United States, and the Caribbean countries. The company generates, transmits, and distributes electricity to approximately 459,000 retail customers in southeastern Arizona, including the greater Tucson metropolitan area; and 107,000 retail customers in southeastern Arizona with an aggregate capacity of 3, 443 megawatts (MW).
 
 ---
 

@@ -1,8 +1,8 @@
 # QUEST DIAGNOSTICS INC (DGX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 22B$ | 결산월: 12월**
+**Healthcare | Diagnostics & Research | 시총 22B$ | 결산월: 12월**
 
 Quest Diagnostics Incorporated provides diagnostic testing and services in the United States. The company develops and delivers diagnostic information services, such as routine, non-routine and advanced clinical testing, anatomic pathology testing, and other diagnostic information services. It also provides services under the Quest Diagnostics brand, as well as under the AmeriPath, Dermpath Diagnostics, ExamOne, and Quanum brands to physicians, hospitals, patients and consumers, health plans, government agencies, employers, retailers, pharmaceutical companies and insurers commercial clinical laboratories, and accountable care organizations through a network of laboratories, patient service centers, phlebotomists in physician offices, call centers and mobile phlebotomists, nurses, and other health and wellness professionals.
 

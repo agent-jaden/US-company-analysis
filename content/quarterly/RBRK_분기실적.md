@@ -1,8 +1,10 @@
 # Rubrik, Inc. (RBRK) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 1월**
+**Technology | Software - Infrastructure | 시총 11B$ | 결산월: 1월**
+
+Rubrik, Inc. provides data security solutions to individuals and businesses worldwide. The company offers enterprise data protection, unstructured data protection, cloud data protection, SaaS data protection solutions, and identity provider services protection; data threat analytics; data security posture; identity recovery and resilience services; and cyber recovery solutions.
 
 ---
 

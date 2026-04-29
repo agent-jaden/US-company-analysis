@@ -1,8 +1,10 @@
 # MUELLER INDUSTRIES INC (MLI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 15B$ | 결산월: 12월**
+**Industrials | Metal Fabrication | 시총 15B$ | 결산월: 12월**
+
+Mueller Industries, Inc. manufactures and sells copper, brass, and aluminum products in the United States, the United Kingdom, Canada, Asia and the Middle East, and Mexico. It operates through three segments: Piping Systems, Industrial Metals, and Climate.
 
 ---
 

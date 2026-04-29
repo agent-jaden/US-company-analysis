@@ -1,8 +1,10 @@
 # Wheaton Precious Metals Corp. (WPM) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Gold | 시총 62B$ | 결산월: 12월**
+
+Wheaton Precious Metals Corp. operates as a precious metal streaming company. It explores for gold, silver, palladium, platinum, and cobalt deposits in Canada, the United States, Mexico, Portugal, Sweden, the United Kingdom, Argentina, Chile, Brazil, Peru, Ecuador, Colombia, Côte d'Ivoire, Ethiopia, and South Africa.
 
 ---
 

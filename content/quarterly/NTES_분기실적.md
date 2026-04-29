@@ -1,8 +1,10 @@
 # NetEase, Inc. (NTES) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Electronic Gaming & Multimedia | 시총 71B$ | 결산월: 12월**
+
+NetEase, Inc. engages in online games, music streaming, online intelligent learning services, and internet content services businesses in China and internationally. The company operates through Games and Related Value-Added Services; Youdao; NetEase Cloud Music; and Innovative Businesses and Others segments.
 
 ---
 

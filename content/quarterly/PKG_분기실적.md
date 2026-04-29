@@ -1,8 +1,8 @@
 # PACKAGING CORP OF AMERICA (PKG) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 19B$ | 결산월: 12월**
+**Consumer Cyclical | Packaging & Containers | 시총 19B$ | 결산월: 12월**
 
 Packaging Corporation of America manufactures and sells containerboard and uncoated freesheet (UFS) paper products in North America. The company operates through Packaging and Paper segments. The Packaging segment offers various linerboard and corrugated packaging products, such as conventional shipping containers used to protect and transport manufactured goods; multi-color boxes and displays that help to merchandise the packaged product in retail locations; and honeycomb protective packaging products, as well as packaging for meat, fresh fruit and vegetables, processed food, beverages, and other industrial and consumer products.
 

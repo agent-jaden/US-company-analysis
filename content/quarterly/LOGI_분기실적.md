@@ -1,8 +1,10 @@
 # LOGITECH INTERNATIONAL S.A. (LOGI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 14B$ | 결산월: 3월**
+**Technology | Computer Hardware | 시총 14B$ | 결산월: 3월**
+
+Logitech International S.A., through its subsidiaries, designs, manufactures, and markets software-enabled hardware solutions that connect people to working, creating, and gaming worldwide. The company offers products for gamers and streamers, including mice, steering wheels, headsets, keyboards, microphones, and streaming services; corded and cordless keyboards and keyboard-and-mouse combinations; pointing devices, such as wireless mice and wireless mouse products; conference room cameras, such as ConferenceCams; controllers for video conferencing room solutions; PC-based webcams, including streaming cameras and VC webcams; tablet accessories that includes keyboards for tablets; PC and VC headsets, in-ear headphones, and premium wireless earbuds; and mobile speakers and PC speakers, as well as portable wireless Bluetooth speakers. It sells its products to a network of distributors, retailers, and e-tailers who resell to retailers, value-added resellers, systems integrators, and other distributors.
 
 ---
 

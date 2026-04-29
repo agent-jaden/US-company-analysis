@@ -1,8 +1,10 @@
 # Allison Transmission Holdings Inc (ALSN) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Parts | 시총 11B$ | 결산월: 12월**
+
+Allison Transmission Holdings, Inc., together with its subsidiaries, designs, manufactures, and sells fully automatic transmissions for medium- and heavy-duty commercial vehicles and medium- and heavy-tactical U.S. defense vehicles, and electrified propulsion systems worldwide. It offers transmissions for various applications, including distribution, refuse, construction, fire, and emergency on-highway trucks; school and transit buses; motor homes; energy, mining, and construction of off-highway vehicles and equipment; and wheeled and tracked defense vehicles.
 
 ---
 

@@ -1,8 +1,10 @@
 # ROYAL BANK OF CANADA (RY) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: CAD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: CAD
 
 **Financial Services | Banks - Diversified | 시총 246B$ | 결산월: 10월**
+
+Royal Bank of Canada operates as a diversified financial service company worldwide. Its Personal Banking segment offers home equity financing, personal lending, chequing and savings accounts, private banking, auto financing, mutual funds, GICs, credit cards, and payment products and solutions. The company's Commercial Banking segments provides lending, deposit and transaction banking products and services.
 
 ---
 

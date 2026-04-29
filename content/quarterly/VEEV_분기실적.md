@@ -1,8 +1,10 @@
 # VEEVA SYSTEMS INC (VEEV) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 26B$ | 결산월: 1월**
+**Healthcare | Health Information Services | 시총 26B$ | 결산월: 1월**
+
+Veeva Systems Inc. provides cloud-based software for the life sciences industry in North America, Europe, the Asia Pacific, the Middle East, Africa, and Latin America. The company offers Veeva Commercial Cloud comprising Veeva Vault CRM Suite for pharmaceutical and biotechnology companies; Veeva Medical that provides source of medical content across multiple channels and geographies; Veeva PromoMats, an end-to-end content and digital asset management solution; and Veeva Crossix, an analytics platform for pharmaceutical brands.
 
 ---
 

@@ -1,8 +1,8 @@
 # REALTY INCOME CORP (O) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 59B$ | 결산월: 12월**
+**Real Estate | REIT - Retail | 시총 59B$ | 결산월: 12월**
 
 Realty Income Corporation, an S&P 500 company, is real estate partner to the world's leading companies. We serve our clients as a full-service real estate capital provider. As of December 31, 2025, we have a portfolio of over 15,500 properties in all 50 states of the United States (U.S.), the United Kingdom (U.K.), and eight other countries in Europe.
 

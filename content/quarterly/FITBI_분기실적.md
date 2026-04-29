@@ -1,8 +1,10 @@
 # FIFTH THIRD BANCORP (FITBI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 18B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 18B$ | 결산월: 12월**
+
+Fifth Third Bancorp operates as the bank holding company for Fifth Third Bank, National Association that engages in the provision of a range of financial products and services in the United States. It operates through three segments: Commercial Banking, Consumer and Small Business Banking, and Wealth and Asset Management. The Commercial Banking segment offers credit intermediation, cash management, and financial services; lending and depository products; and cash management, foreign exchange and international trade finance, derivatives and capital markets services, asset-based lending, real estate finance, public finance, commercial leasing, and syndicated finance for business, government, and professional customers.
 
 ---
 

@@ -1,8 +1,8 @@
 # RESMED INC (RMD) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 32B$ | 결산월: 6월**
+**Healthcare | Medical Instruments & Supplies | 시총 32B$ | 결산월: 6월**
 
 ResMed Inc. develops, manufactures, distributes, and markets medical devices and cloud-based software applications to diagnose, treat, and manage respiratory disorders in the United States and internationally. The company operates in two segments, Sleep and Breathing Health, and Residential Care Software.
 

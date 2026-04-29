@@ -1,8 +1,10 @@
 # UL Solutions Inc. (ULS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 18B$ | 결산월: 12월**
+**Industrials | Specialty Business Services | 시총 18B$ | 결산월: 12월**
+
+UL Solutions Inc., together with its subsidiaries, provides testing, inspection and certification services and related software and advisory services worldwide. It operates through three segments: Industrial, Consumer, and Software and Advisory. The Industrial segment provides testing, inspection, and certification services across various end markets, including energy, industrial automation, engineered materials, and built environment, as well as stakeholders, such as manufacturers, building and asset owners, end users, and regulators.
 
 ---
 

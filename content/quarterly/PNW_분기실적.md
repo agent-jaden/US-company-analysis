@@ -1,8 +1,8 @@
 # PINNACLE WEST CAPITAL CORP (PNW) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 12B$ | 결산월: 12월**
 
 Pinnacle West Capital Corporation, through its subsidiary, provides retail and wholesale electric services in the state of Arizona. The company engages in the generation, transmission, and distribution of electricity using nuclear, gas, oil, coal, and solar generating facilities. Its transmission facilities include overhead lines and underground lines; and distribution facilities consist of overhead lines and underground primary cables.
 

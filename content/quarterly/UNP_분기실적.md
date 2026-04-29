@@ -1,8 +1,8 @@
 # UNION PACIFIC CORP (UNP) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 160B$ | 결산월: 12월**
+**Industrials | Railroads | 시총 160B$ | 결산월: 12월**
 
 Union Pacific Corporation, through its subsidiary, Union Pacific Railroad Company, operates in the railroad business in the United States. It offers transportation services for grain and grain products, fertilizers, food and refrigerated products, and coal and renewables to grain processors, animal feeders, and ethanol and renewable biofuel producers; and construction products, industrial chemicals, plastics, forest products, specialized products, metals and ores, petroleum, liquid petroleum gases, soda ash, and sand, as well as finished automobiles, automotive parts, and merchandise in intermodal containers. The company was founded in 1862 and is headquartered in Omaha, Nebraska.
 

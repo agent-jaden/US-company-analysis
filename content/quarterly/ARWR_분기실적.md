@@ -1,8 +1,10 @@
 # ARROWHEAD PHARMACEUTICALS, INC. (ARWR) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 10B$ | 결산월: 9월**
+**Healthcare | Biotechnology | 시총 10B$ | 결산월: 9월**
+
+Arrowhead Pharmaceuticals, Inc. develops medicines for the treatment of intractable diseases in the United States. Its pipeline includes Plozasiran to reduce production of apolipoprotein C-III in Phase 3 studies; Zodasiran to reduce production of angiopoietin-like protein 3 in Phase 3 clinical trials; ARO-DIMER-PA, a dual functional RNAi molecule in a Phase 1/2a clinical trials; and ARO-PNPLA3, an investigational RNAi therapeutic in Phase 1 clinical trials.
 
 ---
 

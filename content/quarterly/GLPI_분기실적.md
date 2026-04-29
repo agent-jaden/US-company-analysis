@@ -1,8 +1,10 @@
 # Gaming & Leisure Properties, Inc. (GLPI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 13B$ | 결산월: 12월**
+**Real Estate | REIT - Specialty | 시총 13B$ | 결산월: 12월**
+
+Gaming and Leisure Properties, Inc. is engaged in the business of acquiring, financing, and owning real estate property to be leased to gaming operators in triple-net lease arrangements, pursuant to which the tenant is responsible for all facility maintenance, insurance required in connection with the leased properties and the business conducted on the leased properties, taxes levied on or with respect to the leased properties and all utilities and other services necessary or appropriate for the leased properties and the business conducted on the leased properties. Gaming and Leisure Properties, Inc.
 
 ---
 

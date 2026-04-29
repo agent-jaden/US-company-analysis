@@ -1,8 +1,10 @@
 # SOUTHERN COPPER CORP/ (SCCO) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Copper | 시총 147B$ | 결산월: 12월**
+
+Southern Copper Corporation engages in mining, exploring, smelting, and refining copper and other minerals in Mexico, the United States, Peru, Brazil, Chile, and Other American countries. The company is involved in the mining, milling, and flotation of copper ore to produce copper and molybdenum concentrates; smelting of copper concentrates to produce blister and anode copper; refining of anode copper to produce copper cathodes; production of copper-molybdenum concentrates and sulfuric acid; production of refined silver, gold, and other materials; and mining and processing of copper, molybdenum, zinc, silver, gold and lead. It operates the Toquepala and Cuajone open-pit mines, smelter, and refinery in Peru; La Caridad, an open-pit copper mine, as well as copper ore concentrator; and SX-EW plant, a smelter, refinery, and rod plant in Mexico.
 
 ---
 

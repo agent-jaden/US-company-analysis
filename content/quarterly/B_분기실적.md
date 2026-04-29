@@ -1,8 +1,10 @@
 # BARRICK MINING CORP (B) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Gold | 시총 68B$ | 결산월: 12월**
+
+Barrick Mining Corporation engages in the exploration, development, production, and sale of mineral properties. It explores for gold, copper, silver, and energy materials. The company was formerly known as Barrick Gold Corporation and changed its name to Barrick Mining Corporation in May 2025.
 
 ---
 

@@ -1,8 +1,10 @@
 # Everpure, Inc. (PSTG) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 22B$ | 결산월: 1월**
+**Technology | Computer Hardware | 시총 22B$ | 결산월: 1월**
+
+Everpure, Inc. provides data storage and management technologies, products, and services in the United States and internationally. Its Purity software is shared across its products and provides enterprise-class data services, such as always-on data reduction, data protection, and encryption, as well as storage protocols, such as block, file, and object.
 
 ---
 

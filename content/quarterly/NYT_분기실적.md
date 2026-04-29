@@ -1,8 +1,10 @@
 # NEW YORK TIMES CO (NYT) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 13B$ | 결산월: 12월**
+**Communication Services | Publishing | 시총 13B$ | 결산월: 12월**
+
+The New York Times Company, together with its subsidiaries, creates, collects, and distributes news and information worldwide. It operates through two segments, The New York Times Group and The Athletic. It offers The New York Times (The Times) through company's mobile application, website, printed newspaper, and associated content, such as podcast.
 
 ---
 

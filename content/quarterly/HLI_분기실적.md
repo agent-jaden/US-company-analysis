@@ -1,8 +1,10 @@
 # HOULIHAN LOKEY, INC. (HLI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 3월**
+**Financial Services | Capital Markets | 시총 11B$ | 결산월: 3월**
+
+Houlihan Lokey, Inc., an investment banking company, provides merger and acquisition (M&A), capital market, financial restructurings and liability management, and financial and valuation advisory services worldwide. The company operates in three segments: Corporate Finance (CF), Financial Restructuring (FR), and Financial and Valuation Advisory (FVA). The CF segment offers general financial advisory services; and advises public and private institutions, including financial sponsors on buy-side and sell-side M&A transactions, debt and equity financings in both the private and public markets, and other corporate finance transactions.
 
 ---
 

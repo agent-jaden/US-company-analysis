@@ -1,8 +1,10 @@
 # Medline Inc. (MDLN) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Medical Instruments & Supplies | 시총 38B$ | 결산월: 12월**
+
+Medline Inc. manufactures med-surg products serving the hospital, surgery centers, physician offices, post-acute facilities, and nursing home sites of care in the United States and Internationally. It operates through two segments: Medline Brand and Supply Chain Solutions.
 
 ---
 

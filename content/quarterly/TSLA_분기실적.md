@@ -1,8 +1,8 @@
 # Tesla, Inc. (TSLA) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 1422B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Manufacturers | 시총 1422B$ | 결산월: 12월**
 
 Tesla, Inc. designs, develops, manufactures, leases, and sells electric vehicles, and energy generation and storage systems in the United States, China, and internationally. The company operates in two segments, Automotive; and Energy Generation and Storage.
 

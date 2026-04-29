@@ -1,8 +1,10 @@
 # BioNTech SE (BNTX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 26B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 26B$ | 결산월: 12월**
+
+BioNTech SE, together with its subsidiaries, engages in the development and commercialization of immunotherapies in Germany. The company offers BNT162, an mRNA vaccine for the treatment of SARS-CoV-2 virus. It also develops oncology drugs under Phase III clinical trial, including Gotistobart for metastatic non-small cell lung cancer, Pumitamig for small cell lung cancer and advanced/metastatic triple-negative breast cancer, and Trastuzumab pamirtecan for metastatic breast cancer and epirubicin and cyclophosphamide; and drugs under Phase 2/3 clinical trial, such as BNT113 for human papillomavirus and head and neck squamous cell carcinoma, as well as Pumitamig for metastatic colorectal and non-small cell lung cancer.
 
 ---
 

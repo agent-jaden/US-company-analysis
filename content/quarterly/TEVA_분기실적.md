@@ -1,8 +1,10 @@
 # TEVA PHARMACEUTICAL INDUSTRIES LTD (TEVA) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Drug Manufacturers - Specialty & Generic | 시총 36B$ | 결산월: 12월**
+
+Teva Pharmaceutical Industries Limited develops, manufactures, markets, and distributes generic and other medicines, and biopharmaceutical products in the United States, Europe, Israel, and internationally. It offers generic medicines in various dosage forms, such as tablets, capsules, injectables, inhalants, liquids, transdermal patches, ointments, and creams; sterile products, hormones, high-potency drugs, and cytotoxic substances in parenteral and solid dosage forms; and generic products with medical devices and combination products. The company also focuses on the central nervous system (CNS), respiratory, and oncology areas.
 
 ---
 

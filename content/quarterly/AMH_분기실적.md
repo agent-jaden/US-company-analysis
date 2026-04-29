@@ -1,8 +1,10 @@
 # American Homes 4 Rent (AMH) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Real Estate | REIT - Residential | 시총 11B$ | 결산월: 12월**
+
+American Homes 4 Rent (AMH or the General Partner) is an internally managed Maryland real estate investment trust (REIT). American Homes 4 Rent, L.P., a Delaware limited partnership and its consolidated subsidiaries (collectively, the Operating Partnership or the OP) is the entity through which the Company conducts substantially all of its business and owns, directly or through subsidiaries, substantially all of its assets. References to the Company, we, our and us mean collectively AMH, the Operating Partnership and those entities/subsidiaries owned or controlled by AMH and/or the Operating Partnership.
 
 ---
 

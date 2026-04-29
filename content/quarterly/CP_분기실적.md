@@ -1,8 +1,10 @@
 # CANADIAN PACIFIC KANSAS CITY LTD/CN (CP) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Railroads | 시총 78B$ | 결산월: 12월**
+
+Canadian Pacific Kansas City Limited, together with its subsidiaries, owns and operates a transcontinental freight railway in Canada, the United States, and Mexico. The transports bulk commodities, including grain, coal, potash, fertilizers, and sulphur; merchandise freight consists of industrial and consumer products, such as forest products, energy, chemicals and plastics, metals, minerals, consumer products, and automotive; and intermodal traffic comprising retail goods in overseas containers. The company also provides rail and intermodal transportation services through a network of approximately 20,000 miles serving business centers.
 
 ---
 

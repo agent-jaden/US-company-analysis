@@ -1,8 +1,8 @@
 # ROCKWELL AUTOMATION, INC (ROK) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 46B$ | 결산월: 9월**
+**Industrials | Specialty Industrial Machinery | 시총 46B$ | 결산월: 9월**
 
 Rockwell Automation, Inc., together with its subsidiaries, provides industrial automation and digital transformation solutions in North America, Europe, the Middle East, Africa, the Asia Pacific, and Latin America. It operates in three segments: Intelligent Devices, Software & Control, and Lifecycle Services. The company offers drives, motion, advanced material handling, safety, sensing, industrial components, hardware, software, and configured-to-order products; and control and visualization software and hardware, digital twin, simulation and information software, network and security infrastructure, and custom-engineered systems.
 

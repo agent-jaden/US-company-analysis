@@ -1,8 +1,10 @@
 # SUN COMMUNITIES INC (SUI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 16B$ | 결산월: 5월**
+**Real Estate | REIT - Residential | 시총 16B$ | 결산월: 5월**
+
+Sun Communities, Inc. is a REIT that, as of September 30, 2025, owned, operated, or had an interest in a portfolio of 501 developed properties. It comprises approximately 174,680 developed sites in the United States, Canada, and the United Kingdom.
 
 ---
 

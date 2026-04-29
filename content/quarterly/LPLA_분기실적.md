@@ -1,8 +1,10 @@
 # LPL Financial Holdings Inc. (LPLA) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 26B$ | 결산월: 12월**
+**Financial Services | Capital Markets | 시총 26B$ | 결산월: 12월**
+
+LPL Financial Holdings Inc., together with its subsidiaries, provides an integrated platform of brokerage and investment advisory services to independent financial advisors and financial advisors at institutions in the United States. The company's brokerage offerings include variable and fixed annuities, mutual funds, equities, fixed income, alternative investments, retirement and 529 education savings plans, and insurance; and client cash programs consist of Federal Deposit Insurance Corporation (FDIC) insured bank sweep vehicles, and a client cash and money market account. It also provides fee-based platforms that provide access to mutual funds, exchange traded funds, stocks, bonds, certain options strategies, unit investment trusts, institutional money managers, and no-load multi-manager variable annuities.
 
 ---
 

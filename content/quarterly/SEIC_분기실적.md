@@ -1,8 +1,10 @@
 # SEI INVESTMENTS CO (SEIC) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 11B$ | 결산월: 12월**
+
+SEI Investments Company is a publicly owned asset management holding company. Through its subsidiaries, the firm provides wealth management, retirement and investment solutions, asset management, asset administration, investment processing outsourcing solutions, financial services, and investment advisory services to its clients. It provides its services to private banks, independent financial advisers, institutional investors, investment managers, investment advisors, wealth management organizations, corporations, retirement scheme sponsors, not-for-profit organizations, hedge fund managers, registered investment advisers, independent broker-dealers, financial planners, life insurance agents, defined-benefit schemes, defined-contribution schemes, endowments, foundations, and board-designated fund, through its subsidiaries.
 
 ---
 

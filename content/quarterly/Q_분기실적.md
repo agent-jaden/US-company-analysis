@@ -1,8 +1,8 @@
 # Qnity Electronics, Inc. (Q) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 30B$ | 결산월: 12월**
+**Technology | Semiconductor Equipment & Materials | 시총 30B$ | 결산월: 12월**
 
 Qnity Electronics, Inc. provides materials and solutions to the semiconductor and electronics industries in the United States, rest of Americas, Europe, the Middle East, Africa, Asia Pacific, China, South Korea, Taiwan, and internationally. The company operates in two segments, Semiconductor Technologies and Interconnect Solutions.
 

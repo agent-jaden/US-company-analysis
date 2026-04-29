@@ -1,8 +1,10 @@
 # NatWest Group plc (NWG) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Banks - Regional | 시총 62B$ | 결산월: 12월**
+
+NatWest Group plc, together with its subsidiaries, provides banking and financial products and services in the United Kingdom and internationally. It operates through the Retail Banking, Private Banking, and Commercial & Institutional segments. The Retail Banking segment offers a range of banking products and related financial services, such as current accounts, mortgages, personal unsecured lending, and personal deposits, as well as mobile and online banking services.
 
 ---
 

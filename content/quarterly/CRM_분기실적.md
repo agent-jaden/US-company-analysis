@@ -1,8 +1,8 @@
 # Salesforce, Inc. (CRM) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 147B$ | 결산월: 1월**
+**Technology | Software - Application | 시총 147B$ | 결산월: 1월**
 
 Salesforce, Inc. provides customer relationship management technology services that connect companies and customers together in the United States, Europe, and the Asia Pacific. The company offers Agentforce, which enables customers to build, deploy, and manage enterprise-grade, autonomous AI agents at scale, enabling humans and agents to work together; Agentforce Sales, an integrated platform that brings together the power of humans with AI agents to help sales teams for selling, managing, and automating entire sales processes; Agentforce Service, which enables companies in every industry to bring all of their customer, employee, IT, and field service needs onto one integrated AI-powered platform; Data 360, a data engine that gives AI agents their context and serves as the foundation for how customers unify service offerings, making their data actionable for both humans and agents; Informatica, an AI-powered data management platform that enables customers to discover, integrate, govern, and deliver trusted data at scale across hybrid and multi-cloud environments; and Slack, a conversational interface for the agentic enterprise where people and agents work together, connecting knowledge, actions, and data in real time.
 

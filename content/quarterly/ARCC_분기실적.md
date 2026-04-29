@@ -1,8 +1,10 @@
 # ARES CAPITAL CORP (ARCC) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 13B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 13B$ | 결산월: 12월**
+
+Ares Capital Corporation is a business development company specializing in growth capital, acquisition, recapitalization, mezzanine debt, restructurings, rescue financing, and leveraged buyout transactions of middle market companies. It also makes growth capital and general refinancing. It prefers to make investments in companies engaged in the basic and growth manufacturing, business services, consumer products, health care products and services, and information technology service sectors.
 
 ---
 
@@ -10,6 +12,7 @@
 
 | 분기 | 매출($) | 영업이익($) | 순이익($) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
 |:----:|-----------:|-------------:|-----------:|:--------:|:------------:|:----------:|
+| 2026Q1 | — | — | 92,000,000 | — | — | -61.8% |
 | 2025Q4 | — | — | 293,000,000 | — | — | -17.9% |
 | 2025Q3 | — | — | 404,000,000 | — | — | +2.5% |
 | 2025Q2 | — | — | 361,000,000 | — | — | +12.1% |
@@ -18,16 +21,12 @@
 | 2024Q3 | — | — | 394,000,000 | — | — | -21.2% |
 | 2024Q2 | — | — | 322,000,000 | — | — | -2.7% |
 | 2024Q1 | — | — | 449,000,000 | — | — | +61.5% |
-| 2023Q4 | — | — | 413,000,000 | — | — | +137.4% |
-| 2023Q3 | — | — | 500,000,000 | — | — | +380.8% |
-| 2023Q2 | — | — | 331,000,000 | — | — | +198.2% |
-| 2023Q1 | — | — | 278,000,000 | — | — | +31.8% |
 
 #### 요약
 
 | 항목 | 값 |
 |------|-----|
-| 수록 분기 | 12개 |
+| 수록 분기 | 9개 |
 | 기간 합산 매출 | 0 $ |
 | 기간 합산 영업이익 | 0 $ |
 | 기간 평균 영업이익률 | 0.0% |

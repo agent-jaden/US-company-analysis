@@ -1,8 +1,8 @@
 # Verisk Analytics, Inc. (VRSK) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 23B$ | 결산월: 12월**
+**Industrials | Consulting Services | 시총 23B$ | 결산월: 12월**
 
 Verisk Analytics, Inc. engages in the provision of data analytics and technology solutions to the insurance industry in the United States and internationally. The company offers underwriting solutions, including forms, rules, and loss costs services that provides policy language, prospective loss costs, policy writing and rating rules, and underwriting solutions for risk selection and segmentation, pricing, and workflow optimization; underwriting data and analytics solutions, which provides property and auto specific rating, and underwriting information solutions; catastrophe modelling  and risk solutions; life insurance solutions for transforming current workflows in life insurance underwriting, claim insights, policy administration, unclaimed property/equity, compliance and fraud detection, and actuarial and portfolio modelling; specialty business solutions, which provides full end-to-end management of insurance and reinsurance business; and international underwriting solutions.
 

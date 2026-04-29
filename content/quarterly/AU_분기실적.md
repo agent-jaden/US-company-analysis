@@ -1,8 +1,10 @@
 # AngloGold Ashanti PLC (AU) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Gold | 시총 50B$ | 결산월: 12월**
+
+AngloGold Ashanti plc operates as a gold mining company in Africa, Australia, and the Americas. It explores for gold, as well as by-products, including silver and sulphuric acid. The company's flagship property includes 100% owned the Geita mine located in the Lake Victoria goldfields of the Geita region in northwestern Tanzania.
 
 ---
 

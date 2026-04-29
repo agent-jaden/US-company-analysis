@@ -1,8 +1,10 @@
 # Waste Connections, Inc. (WCN) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Waste Management | 시총 41B$ | 결산월: 12월**
+
+Waste Connections, Inc. provides non-hazardous waste collection, transfer, and disposal services in the United States and Canada. It offers collection services to residential, commercial, municipal, industrial, and exploration and production (E&P) customers; landfill disposal services; and recycling services for various recyclable materials, including compost, cardboard, mixed paper, plastic containers, glass bottles, and ferrous and aluminum metals.
 
 ---
 

@@ -1,8 +1,10 @@
 # Medpace Holdings, Inc. (MEDP) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Healthcare | Diagnostics & Research | 시총 12B$ | 결산월: 12월**
+
+Medpace Holdings, Inc. provides clinical research-based drug and medical device development services in North America, Europe, Asia, South America, Africa, and Australia. The company offers a suite of services supporting the clinical development process from Phase I to Phase IV in various therapeutic areas.
 
 ---
 

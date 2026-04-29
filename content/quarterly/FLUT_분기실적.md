@@ -1,8 +1,10 @@
 # Flutter Entertainment plc (FLUT) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 19B$ | 결산월: 12월**
+**Consumer Cyclical | Gambling | 시총 19B$ | 결산월: 12월**
+
+Flutter Entertainment plc operates as a sports betting and gaming company in the United States, the United Kingdom, Ireland, Australia, Italy, and internationally. It provides sportsbooks; iGaming products, such as blackjack, roulette, slot machines, poker, and rummy, as well as lottery products; and sports betting products, which include Betfair betting exchanges, daily fantasy sports, and horse racing wagering under the TVG brand. The company offers sports betting and gaming services through fanduel.com, tvg.com, betfair.com, paddypower.com, and paddypower.ie, sportsbet.com.au, pokerstars.com, betfair.com, sisal.it, maxbet.rs, and adjarabet.com websites under the FanDuel, Sky Betting & Gaming, Sportsbet, PokerStars, Paddy Power, Sisal, tombola, Betfair, TVG, Adjarabet, and MaxBet brands, as well as live poker tours and events.
 
 ---
 

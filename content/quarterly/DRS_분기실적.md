@@ -1,8 +1,10 @@
 # Leonardo DRS, Inc. (DRS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Industrials | Aerospace & Defense | 시총 11B$ | 결산월: 12월**
+
+Leonardo DRS, Inc., together with its subsidiaries, provides defense electronic products and systems, and military support services worldwide. It operates through Advanced Sensing and Computing and Integrated Mission Systems segments. The Advanced Sensing and Computing segment designs, develops, and manufacture sensing and network computing technology that enables real-time situational awareness required for enhanced operational decision making and execution; and offers sensing capabilities span applications, such as missions requiring advanced detection, precision targeting and surveillance sensing, long range electro-optic/infrared, signals intelligence, and other intelligence systems including electronic warfare, ground vehicle sensing, active electronically scanned array tactical radars, dismounted soldier, and space sensing.
 
 ---
 

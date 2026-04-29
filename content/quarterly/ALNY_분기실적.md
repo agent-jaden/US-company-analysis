@@ -1,8 +1,10 @@
 # ALNYLAM PHARMACEUTICALS, INC. (ALNY) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 41B$ | 결산월: 12월**
+
+Alnylam Pharmaceuticals, Inc. discovers, develops, manufactures, and commercializes therapeutics based on ribonucleic acid interference in the United States, Europe, and internationally. The company offers ONPATTRO for hereditary transthyretin-mediated (hATTR) amyloidosis; AMVUTTRA for ATTR and hATTR amyloidosis; Leqvio for hypercholesterolemia; Qfitlia for hemophilia A or B; GIVLAARI for acute hepatic porphyria; and OXLUMO for primary hyperoxaluria type 1.
 
 ---
 

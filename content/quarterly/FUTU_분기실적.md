@@ -1,8 +1,10 @@
 # Futu Holdings Ltd (FUTU) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 22B$ | 결산월: 12월**
+**Financial Services | Capital Markets | 시총 22B$ | 결산월: 12월**
+
+Futu Holdings Limited engages in the provision of digitalized securities brokerage and wealth management product distribution service in Hong Kong and internationally. It offers online financial services, including securities and derivative trades brokerage, margin financing and fund distribution services through its Futubull and Moomoo digital platforms. The company also provides financial information and online community services; online wealth management services under the Money Plus brand name through its Futubull and moomoo platforms, which provides its client access to mutual funds, private funds, bonds, structured products, and other wealth management products; market data and information services; and NiuNiu Community, an open forum for users and clients to share insights, ask questions, and exchange ideas.
 
 ---
 

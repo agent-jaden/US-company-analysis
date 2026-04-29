@@ -1,8 +1,10 @@
 # CREDICORP LTD (BAP) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 25B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 25B$ | 결산월: 12월**
+
+Credicorp Ltd., together with its subsidiaries, provides various banking services and products in Peru, Bermuda, Colombia, Bolivia, Panama, Chile, the United States, the Cayman Islands, and Mexico. It operates through Universal Banking; Insurance, Medical Services, and Pensions; Microfinance; and Investment Management and Advisory segments. The company grants various credits and financial instruments to individuals and legal entities; and various deposits and current accounts.
 
 ---
 
@@ -10,11 +12,11 @@
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
 |:----:|-----------:|-------------:|-----------:|:--------:|:------------:|:----------:|
-| 2025Q3 | 6.15 | 6.15 | 1.74 | +14.0% | +14.0% | +14.1% |
+| 2025Q4 | 6.08 | 6.08 | 1.59 | +11.0% | +11.0% | +40.9% |
+| 2025Q3 | 6.15 | 6.15 | 1.74 | — | — | — |
 | 2025Q2 | 6.11 | 6.11 | 1.82 | — | — | — |
 | 2025Q1 | 5.61 | 5.61 | 1.78 | — | — | — |
 | 2024Q4 | 5.48 | 5.48 | 1.13 | — | — | — |
-| 2024Q3 | 5.39 | 5.39 | 1.52 | — | — | — |
 
 #### 요약
 
@@ -22,12 +24,13 @@
 |------|-----|
 | 수록 분기 | 5개 |
 | 최고 영업이익 | 2025Q3 (6.15 B$) |
-| 최저 영업이익 | 2024Q3 (5.39 B$) |
-| 기간 합산 매출 | 28.74 B$ |
-| 기간 합산 영업이익 | 28.74 B$ |
+| 최저 영업이익 | 2024Q4 (5.48 B$) |
+| 기간 합산 매출 | 29.43 B$ |
+| 기간 합산 영업이익 | 29.43 B$ |
 | 기간 평균 영업이익률 | 100.0% |
 
 ### 연간 실적 추이 (10년)
 
 | 연도 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
 |:----:|-----------:|-------------:|-----------:|:--------:|:------------:|:----------:|
+| 2025 | 23.95 | 23.95 | 6.93 | — | — | — |

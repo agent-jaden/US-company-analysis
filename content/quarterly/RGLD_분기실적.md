@@ -1,8 +1,10 @@
 # ROYAL GOLD INC (RGLD) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 21B$ | 결산월: 12월**
+**Basic Materials | Gold | 시총 21B$ | 결산월: 12월**
+
+Royal Gold, Inc., together with its subsidiaries, acquires and manages precious metal streams, royalties, and related interests in North America, South and Central America, Europe, the Middle East, Africa, and the Australia Pacific. It operates through Acquisition and Management of Stream Interests and Acquisition and Management of Royalty Interests segments. The company engages in the acquisition of existing stream and royalty interests; and the financing of projects that are in production, development, or in the exploration stage in exchange for stream or royalty interests, which consists of gold, silver, copper, nickel, zinc, lead, molybdenum, diamonds, uranium, iron, platinum, palladium, rhodium, lithium, titanium, cobalt, barite, tungsten, and coal.
 
 ---
 

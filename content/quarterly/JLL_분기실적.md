@@ -1,8 +1,10 @@
 # JONES LANG LASALLE INC (JLL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 16B$ | 결산월: 12월**
+**Real Estate | Real Estate Services | 시총 16B$ | 결산월: 12월**
+
+Jones Lang LaSalle Incorporated operates as a commercial real estate and investment management company. It engages in buying, building, occupying, managing, and investing in office, industrial, hotel, multi-family, retail and data center properties in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company also offers agency leasing, tenant representation, property management, advisory, and consulting services; and debt advisory, loan sales and servicing, value and risk advisory, equity and funds placement, merger and acquisition, corporate advisory, and investment sales and advisory services.
 
 ---
 

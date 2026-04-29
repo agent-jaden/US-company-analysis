@@ -1,8 +1,8 @@
 # Otis Worldwide Corp (OTIS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 30B$ | 결산월: 12월**
+**Industrials | Specialty Industrial Machinery | 시총 30B$ | 결산월: 12월**
 
 Otis Worldwide Corporation engages in manufacturing, installation, and servicing of elevators and escalators in the United States, China, and internationally. The company operates in two segments, New Equipment and Service. The New Equipment segment designs, manufactures, sells, and installs a range of passenger and freight elevators, as well as escalators and moving walkways for residential and commercial buildings, and infrastructure projects.
 

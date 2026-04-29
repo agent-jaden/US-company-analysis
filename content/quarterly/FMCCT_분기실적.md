@@ -1,8 +1,10 @@
 # FEDERAL HOME LOAN MORTGAGE CORP (FMCCT) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 59B$ | 결산월: 12월**
+**Financial Services | Mortgage Finance | 시총 59B$ | 결산월: 12월**
+
+Federal Home Loan Mortgage Corporation operates in the secondary mortgage market in the United States. The company operates through two segments: Single-Family and Multifamily. The Single-Family segment purchases, securitizes, and guarantees single-family loans; and manages single-family mortgage credit and market risk, as well as manages mortgage-related investments portfolio, single-family securitization activities, and treasury functions.
 
 ---
 

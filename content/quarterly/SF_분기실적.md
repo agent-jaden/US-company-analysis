@@ -1,8 +1,10 @@
 # STIFEL FINANCIAL CORP (SF) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Financial Services | Capital Markets | 시총 12B$ | 결산월: 12월**
+
+Stifel Financial Corp. operates as the bank holding company for Stifel, Nicolaus & Company, Incorporated that provides retail and institutional wealth management, and investment banking services to individual, corporations, municipalities, and institutions in the United States, the United Kingdom, Canada, and internationally. It operates in three segments: Global Wealth Management, Institutional Group, and Other.
 
 ---
 

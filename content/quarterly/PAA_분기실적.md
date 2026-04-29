@@ -1,8 +1,10 @@
 # PLAINS ALL AMERICAN PIPELINE LP (PAA) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 15B$ | 결산월: 12월**
+**Energy | Oil & Gas Midstream | 시총 15B$ | 결산월: 12월**
+
+Plains All American Pipeline, L.P., through its subsidiaries, engages in the pipeline transportation, terminalling, storage, and gathering of crude oil and natural gas liquids (NGL) in the United States and Canada. The company operates through two segments, Crude Oil and NGL. The Crude Oil segment offers gathering and transporting crude oil through pipelines, trucks, and on barges or railcars.
 
 ---
 

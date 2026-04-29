@@ -1,8 +1,10 @@
 # TORONTO DOMINION BANK (TD) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: CAD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: CAD
 
 **Financial Services | Banks - Diversified | 시총 177B$ | 결산월: 10월**
+
+The Toronto-Dominion Bank, together with its subsidiaries, provides various financial products and services in Canada, the United States, and internationally. It operates through four segments: Canadian Personal and Commercial Banking; U.S. Retail; Wealth Management and Insurance; and Wholesale Banking.
 
 ---
 

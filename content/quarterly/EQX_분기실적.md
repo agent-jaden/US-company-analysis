@@ -1,8 +1,10 @@
 # Equinox Gold Corp. (EQX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Basic Materials | Gold | 시총 11B$ | 결산월: 12월**
+
+Equinox Gold Corp. engages in the acquisition, exploration, development, and operation of mineral properties in the Americas. It primarily explores gold and silver deposits.
 
 ---
 

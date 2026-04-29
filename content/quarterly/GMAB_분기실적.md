@@ -1,8 +1,10 @@
 # GENMAB A/S (GMAB) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 16B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 16B$ | 결산월: 12월**
+
+Genmab A/S, a biotechnology company, develops antibody-based products and product candidates for the treatment of cancer and other diseases in Denmark. The company markets EPKINLY and TEPKINLY for adult patients with relapsed or refractory (R/R) diffuse large b-cell lymphoma (DLBCL), large B-cell lymphoma, and follicular lymphoma (FL); and Tivdak for adult patients with recurrent/metastatic cervical cancer with disease progression on or after chemotherapy. It is also developing Epcoritamab for R/R DLBCL and FL, first line DLBCL and FL, B-cell non-Hodgkin lymphoma, R/R chronic lymphocytic leukemia and Richter's syndrome, and aggressive mature B-cell neoplasms in pediatric patients; tisotumab vedotin for solid tumors; Acasunlimab for solid tumors and non-small cell lung cancer (NSCLC); Rinatabart Sesutecan for platinum resistant ovarian cancer and solid tumors; GEN1059, GEN1055, and GEN1057 for solid tumors; and GEN1286 for advanced solid tumors.
 
 ---
 

@@ -1,8 +1,10 @@
 # AXIA Energia S.A. (AXIA) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 28B$ | 결산월: 12월**
+**Utilities | Utilities - Renewable | 시총 28B$ | 결산월: 12월**
+
+AXIA Energia SA, through its subsidiaries, engages in the generation, transmission, distribution, and commercialization of electricity in Brazil. The company generates electricity through hydroelectric, wind farms, and solar power plants. It also owns hydroelectric plants with a total capacity of 43,072.7 MW; 798.7 MW wind power plants; and 67,030.74 km of transmission lines.
 
 ---
 

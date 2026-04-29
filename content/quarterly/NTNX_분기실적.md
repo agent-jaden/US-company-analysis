@@ -1,8 +1,10 @@
 # Nutanix, Inc. (NTNX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 7월**
+**Technology | Software - Infrastructure | 시총 11B$ | 결산월: 7월**
+
+Nutanix, Inc. provides an enterprise cloud platform in North America, Europe, the Asia Pacific, the Middle East, Latin America, and Africa. It offers hyperconverged infrastructure software; Nutanix Cloud Platform, which is designed to enable organizations to build hybrid multicloud infrastructure; Nutanix cloud infrastructure, is a distributed HCI for enterprise IT applications, includes Nutanix AOS; Nutanix AHV; Nutanix data services for Kubernetes; flow network security; flow virtual networking provides software-defined networking with multi-tenant isolation; Nutanix Cloud Clusters; Nutanix central provides management of the Nutanix hybrid multicloud environment; and Nutanix prism, is the unified control plane and UI; Nutanix Cloud Manager, is a unified management solution; NCM Intelligent Operations; NCM Self-Service and Orchestration; NCM Cost Governance; and Nutanix Security Central unifies cloud security operations.
 
 ---
 

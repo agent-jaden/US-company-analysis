@@ -1,8 +1,8 @@
 # WATERS CORP /DE/ (WAT) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 29B$ | 결산월: 12월**
+**Healthcare | Diagnostics & Research | 시총 29B$ | 결산월: 12월**
 
 Waters Corporation provides analytical workflow solutions in Asia, the Americas, and Europe. The company operates through two segments, Waters and TA. The company designs, manufactures, sells, and services liquid chromatography, as well as mass spectrometry (MS) technology systems and supports products, including chromatography columns, and other consumable products.
 

@@ -1,8 +1,10 @@
 # Revolution Medicines, Inc. (RVMD) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 28B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 28B$ | 결산월: 12월**
+
+Revolution Medicines, Inc., a clinical-stage precision oncology company, develops novel targeted therapies for RAS-addicted cancers. The company's research and development pipeline consist of RAS(ON) inhibitors that binds RAS variants to be used as monotherapy in combination with other RAS(ON) inhibitors and/or in combination with RAS companion inhibitors or other therapeutic agents, and RAS companion inhibitors to suppress cooperating targets and pathways that sustain RAS-addicted cancers. Its RAS(ON) inhibitors include daraxonrasib (RMC-6236), elironrasib G12C (RMC-6291) which is in early clinical development for the treatment of solid tumors, and zoldonrasib G12D (RMC-9805), which are in phase 3 registrational trial evaluating the combination of daraxonrasib with zoldonrasib in patients with 1L PDAC; and development candidates comprise RMC-5127 (G12V) which is in clinical trial, RMC-0708 (Q61H), that is in clinical trial; and RMC-8839 (G13C).
 
 ---
 

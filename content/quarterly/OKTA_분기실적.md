@@ -1,8 +1,10 @@
 # Okta, Inc. (OKTA) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 13B$ | 결산월: 1월**
+**Technology | Software - Infrastructure | 시총 13B$ | 결산월: 1월**
+
+Okta, Inc. operates as an identity partner in the United States and internationally. It offers Single Sign-on to secure access to cloud and on-premises applications from any device; Adaptive MFA for a risk-based layer of security for an organization's cloud, mobile, and web applications; API Access Management, which enables organizations to secure APIs as systems; Access Gateway, which extends the Okta platform to hybrid IT environments; Okta Device Access, which extends Okta platform's secure access management to the device login experience; Universal Directory for a cloud-based system of record.
 
 ---
 

@@ -1,8 +1,10 @@
 # AMBEV S.A. (ABEV) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Defensive | Beverages - Brewers | 시총 45B$ | 결산월: 12월**
+
+Ambev S.A., through its subsidiaries, engages in the production, distribution, and sale of beer, draft beer, soft drinks, malt and food, and other beverages in Brazil, Central America and Caribbean, Latin America South, and Canada. The company offers beer, ready-to-drink cocktails and spritzers, soft drinks, water, teas, and isotonic drinks under the Brahma, Skol, Antarctica, Original, Quilmes, Andes Origen, Patricia, Paceha, Huari, Pilsen, Presidente, Balboa, Guaraná Antarctica, and Beats brands. It sells its products to distributors, supermarkets, and retailers within a broad distribution network.
 
 ---
 

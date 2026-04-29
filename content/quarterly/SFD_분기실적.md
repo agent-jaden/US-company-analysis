@@ -1,8 +1,10 @@
 # SMITHFIELD FOODS INC (SFD) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Consumer Defensive | Packaged Foods | 시총 11B$ | 결산월: 12월**
+
+Smithfield Foods, Inc., together with its subsidiaries, produces various packaged meats and fresh pork products in the United States and internationally. It operates through Packaged Meats, Fresh Pork, Hog Production, and Other segments. The Packaged Meats segment processes fresh meat into various packaged meats products, including bacon, sausage, hot dogs, deli and lunch meats, dry sausage products, ham products, ready-to-eat products, and prepared foods to retail and foodservice customers.
 
 ---
 

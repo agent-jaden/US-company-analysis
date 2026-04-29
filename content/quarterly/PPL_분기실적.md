@@ -1,8 +1,8 @@
 # PPL Corp (PPL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 29B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 29B$ | 결산월: 12월**
 
 PPL Corporation provides electricity and natural gas to approximately 3.6 million customers in the United States. It operates in three segments: Kentucky Regulated, Pennsylvania Regulated, and Rhode Island Regulated. The company engages in the transmission and distribution of electricity in eastern and central Pennsylvania; generation, transmission, distribution, and sale of electricity in Kentucky, Virginia, and Rhode Island; distribution and sale of natural gas in Kentucky and Rhode Island; sale of wholesale electricity in Kentucky; and generation of electricity from power plants in Kentucky.
 

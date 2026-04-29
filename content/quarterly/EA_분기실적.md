@@ -1,6 +1,6 @@
 # ELECTRONIC ARTS INC. (EA) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Electronic Gaming & Multimedia | 시총 51B$ | 결산월: 3월**
 

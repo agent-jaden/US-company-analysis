@@ -1,8 +1,10 @@
 # Cheniere Energy, Inc. (LNG) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Midstream | 시총 55B$ | 결산월: 12월**
+
+Cheniere Energy, Inc., an energy infrastructure company, primarily engages in the liquefied natural gas (LNG) related businesses in the United States. The company owns and operates the Sabine Pass LNG terminal in Cameron Parish, Louisiana; and the Corpus Christi LNG terminal near Corpus Christi, Texas. It also owns and operates the Creole Trail pipeline, a 94-mile natural gas supply pipeline that interconnects the Sabine Pass LNG Terminal with several large interstate and intrastate pipelines; and the Corpus Christi pipeline, a 21-mile natural gas supply pipeline that interconnects the Corpus Christi LNG terminal with interstate and intrastate natural gas pipelines.
 
 ---
 

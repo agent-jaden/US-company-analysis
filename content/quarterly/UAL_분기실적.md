@@ -1,8 +1,8 @@
 # United Airlines Holdings, Inc. (UAL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 30B$ | 결산월: 12월**
+**Industrials | Airlines | 시총 30B$ | 결산월: 12월**
 
 United Airlines Holdings, Inc., through its subsidiaries, provides air transportation services in the United States, Canada, Atlantic, the Pacific, and Latin America. It transports people and cargo through its mainline and regional fleets. The company also offers ground handling, flight academy, frequent flyer award non-travel redemptions, and maintenance services for third parties.
 

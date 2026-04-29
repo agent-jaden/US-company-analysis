@@ -1,8 +1,10 @@
 # CGI INC (GIB) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 16B$ | 결산월: 9월**
+**Technology | Information Technology Services | 시총 16B$ | 결산월: 9월**
+
+CGI Inc. provides information technology and business process services in Western and Southern Europe, the United States, Canada, Scandinavia, Northwest and Central-East Europe, the United Kingdom, Australia, Germany, Finland, Poland, Baltics, and the Asia Pacific. It offers end-to-end services and solutions, including business and strategic IT consulting; systems integration, such as data integration, AI and automation integration, cloud integration, Internet of Things, enterprise application integration, application programming interface integration, and legacy system modernization; managed IT and business process; and application services comprising application management, DevSecOps, application modernization and rationalization, and quality engineering and assurance.
 
 ---
 

@@ -1,8 +1,10 @@
 # CENOVUS ENERGY INC. (CVE) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Integrated | 시총 50B$ | 결산월: 12월**
+
+Cenovus Energy Inc., together with its subsidiaries, develops, produces, refines, transports, and markets crude oil, natural gas, and refined petroleum products in Canada, the United States, and China. It operates through Upstream and Downstream segments. The company is involved in the development and production of bitumen and heavy oil; owns and operates pipeline gathering systems and terminals; operation of assets rich in NGLs and natural gas in Alberta and British Columbia; and offshore operations, exploration, and development activities in the East Coast of Canada and the Asia Pacific region.
 
 ---
 

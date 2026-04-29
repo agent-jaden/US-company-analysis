@@ -1,8 +1,10 @@
 # WATSCO INC (WSO) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 19B$ | 결산월: 12월**
+**Industrials | Industrial Distribution | 시총 19B$ | 결산월: 12월**
+
+Watsco, Inc., together with its subsidiaries, engages in the distribution of air conditioning, heating, and refrigeration equipment, and related parts and supplies in the United States, Canada, Latin America, and the Caribbean. It distributes equipment, including residential ducted and ductless air conditioners, such as gas, electric, and oil furnaces; commercial air conditioning and heating equipment systems; and other specialized equipment. The company also offers parts comprising replacement compressors, evaporator coils, motors, and other component parts; and supplies, such as thermostats, insulation materials, refrigerants, ductworks, grills, registers, sheet metals, tools, copper tubing, concrete pads, tapes, adhesives, and other ancillary supplies, as well as plumbing and bathroom remodeling supplies.
 
 ---
 

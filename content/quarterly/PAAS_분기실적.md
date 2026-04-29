@@ -1,8 +1,10 @@
 # PAN AMERICAN SILVER CORP (PAAS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 23B$ | 결산월: 12월**
+**Basic Materials | Gold | 시총 23B$ | 결산월: 12월**
+
+Pan American Silver Corp. engages in the exploration, mine development, extraction, processing, refining, and reclamation of mines in Chile, Peru, Brazil, Mexico, Canada, Argentina, Bolivia, and Guatemala. The Silver segment includes the La Colorada, Juanicipio, Cerro Moro, Huaron, and San Vicente mines.
 
 ---
 

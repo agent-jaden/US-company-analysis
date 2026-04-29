@@ -1,8 +1,8 @@
 # PENTAIR plc (PNR) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 15B$ | 결산월: 12월**
+**Industrials | Specialty Industrial Machinery | 시총 15B$ | 결산월: 12월**
 
 Pentair plc provides various water solutions in the United States, Western Europe, China, Latin America, the Middle East, Southeast Asia, Australia, and Canada. It operates through three segments: Flow, Water Solutions, and Pool. The Flow segment designs, manufactures, and sells fluid treatment and pump products and systems, including pressure vessels, gas recovery solutions, membrane bioreactors, wastewater reuse systems and advanced membrane filtration, separation systems, specialty insertion valves, water disposal pumps, water supply pumps, fluid transfer pumps, turbine pumps, solid handling pumps, and agricultural spray nozzles.
 

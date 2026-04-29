@@ -1,8 +1,10 @@
 # NOVA LTD. (NVMI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 17B$ | 결산월: 12월**
+**Technology | Semiconductor Equipment & Materials | 시총 17B$ | 결산월: 12월**
+
+Nova Ltd. engages in the design, development, production, and sale of process control systems used in the manufacture of semiconductors in Taiwan, the United States, China, Korea, and internationally. The company's product portfolio includes a set of metrology platforms for dimensional, films, and materials and chemical metrology measurements for process control for various semiconductor manufacturing process steps, such as lithography, Etch, chemical mechanical planarization, deposition, electrochemical plating, and advanced packaging.
 
 ---
 

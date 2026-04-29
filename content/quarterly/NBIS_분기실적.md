@@ -1,8 +1,10 @@
 # Nebius Group N.V. (NBIS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Internet Content & Information | 시총 37B$ | 결산월: 12월**
+
+Nebius Group N.V., a technology company, engages in building full-stack infrastructure to service the global AI industry in the Netherlands, Europe, North America, and Israel. The company offers Nebius builds full-stack infrastructure for AI, including large-scale GPU clusters, cloud platforms, and tools and services for developers. It also provides Toloka, a data partner for various stages of generative AI development; TripleTen, an edtech platform for re-skilling individuals for careers in technolgy; and Avride, which develops autonomous driving technology for self-driving cars and delivery robotics.
 
 ---
 

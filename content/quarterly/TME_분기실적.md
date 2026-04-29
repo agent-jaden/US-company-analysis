@@ -1,8 +1,10 @@
 # Tencent Music Entertainment Group (TME) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 15B$ | 결산월: 12월**
+**Communication Services | Internet Content & Information | 시총 15B$ | 결산월: 12월**
+
+Tencent Music Entertainment Group operates online music entertainment platforms that provides music streaming, online karaoke, and live streaming services in the People's Republic of China. It provides QQ Music, Kugou Music, and Kuwo Music that enable users to discover, enjoy, and share music in personalized ways; long-form audio content, including audiobooks, podcasts and talk shows, as well as music-oriented video content comprising music videos, live performances, and short videos; and WeSing, which enables users to sing along from its library of karaoke songs and share their performances in audio or video formats with friends. The company also delivers music-centric live streaming services primarily through the Live Streaming tab on QQ Music, Kugou Music, Kuwo Music, WeSing, Kugou Live, and Kuwo Live that provides an interactive online stage for performers and users to showcase their talent and engage with audience base; and Lazy Audio, an audio platform.
 
 ---
 

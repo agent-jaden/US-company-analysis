@@ -1,8 +1,10 @@
 # Tradeweb Markets Inc. (TW) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 24B$ | 결산월: 12월**
+**Financial Services | Capital Markets | 시총 24B$ | 결산월: 12월**
+
+Tradeweb Markets Inc. builds and operates electronic marketplaces in the United States and internationally. The company offers marketplaces that facilitate trading products across various asset classes, including rates, credit, equities, and money markets.
 
 ---
 

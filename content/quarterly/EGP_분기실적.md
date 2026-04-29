@@ -1,8 +1,10 @@
 # EASTGROUP PROPERTIES INC (EGP) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Real Estate | REIT - Industrial | 시총 11B$ | 결산월: 12월**
+
+EastGroup Properties, Inc. a member of the S&P Mid-Cap 400 and Russell 2000 Indexes. It is a self-administered equity real estate investment trust focused on the development, acquisition and operation of industrial properties in high-growth markets throughout the United States with an emphasis in the states of Texas, Florida, California, Arizona and North Carolina.
 
 ---
 

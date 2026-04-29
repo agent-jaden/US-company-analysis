@@ -1,8 +1,10 @@
 # Sunoco LP (SUN) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Energy | Oil & Gas Refining & Marketing | 시총 12B$ | 결산월: 12월**
+
+Sunoco LP, together with its subsidiaries, engages in the energy infrastructure and distribution of motor fuels in the United States. It operates in four segments: Fuel Distribution, Pipeline Systems, Refinery, and Terminals. The Fuel Distribution segment distributes motor fuels and other petroleum products, such as propane and lubricating oil to third-party dealers and distributors, independent operators of commission agent locations, other commercial consumers of motor fuel, and retail locations; and leases real estate properties.
 
 ---
 

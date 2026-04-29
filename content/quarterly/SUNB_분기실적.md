@@ -1,8 +1,10 @@
 # Sunbelt Rentals Holdings, Inc. (SUNB) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 31B$ | 결산월: 4월**
+**Industrials | Rental & Leasing Services | 시총 31B$ | 결산월: 4월**
+
+Sunbelt Rentals Holdings, Inc., together with its subsidiaries, engages in the construction, industrial, and general equipment rental business under the Sunbelt Rentals brand name in the United States, the United Kingdom, and Canada. It provides pumps, power generation, heating, cooling, scaffolding, traffic management, temporary flooring, structures and fencing, trench shoring, and lifting solutions. The company offers its products and services for airports, highways and bridges, office buildings, data centres, schools and universities, shopping centres, residential, remodeling, manufacturing plants, and green energy applications in the construction markets; maintenance, repair, and operations of office and apartment complexes, data and shopping centers, and golf courses, as well as industrial, entertainment and conference venues; entertainment and special events, such as national and sporting events, concerts, film and television production, theme parks, festivals, farmers' markets, local 5k runs, and cycle races; emergency response and restoration applications comprising fire, hurricanes, flooding, tornadoes, winter storms, residential emergencies, health emergencies, alternative care facilities, points of distribution, and healthcare testing facilities; and state and local government facilities, including government, hospitals, parks and recreation departments, and schools and universities, as well as for pavement/kerb repairs.
 
 ---
 

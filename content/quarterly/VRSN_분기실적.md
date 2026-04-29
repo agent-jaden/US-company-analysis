@@ -1,8 +1,8 @@
 # VERISIGN INC/CA (VRSN) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 24B$ | 결산월: 12월**
+**Technology | Software - Infrastructure | 시총 24B$ | 결산월: 12월**
 
 VeriSign, Inc., together with its subsidiaries, provides internet infrastructure and domain name registry services that enables internet navigation for various recognized domain names worldwide. The company provides root zone maintainer services, operating two of thirteen internet root servers; and offering registration services and authoritative resolution for the .com and .net domains, which supports global e-commerce. It operates directory for .name and .cc; and back-end systems for .edu, domain names.
 

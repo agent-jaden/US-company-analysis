@@ -1,8 +1,10 @@
 # ECOPETROL S.A. (EC) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 28B$ | 결산월: 12월**
+**Energy | Oil & Gas Integrated | 시총 28B$ | 결산월: 12월**
+
+Ecopetrol S.A. operates as an integrated energy company. It operates through four segments: Exploration and Production; Transport and Logistics; Refining and Petrochemicals; and Electric Power Transmission and Toll Roads Concessions.
 
 ---
 

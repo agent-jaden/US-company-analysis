@@ -1,8 +1,10 @@
 # Coeur Mining, Inc. (CDE) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 20B$ | 결산월: 12월**
+**Basic Materials | Gold | 시총 20B$ | 결산월: 12월**
+
+Coeur Mining, Inc. operates as a gold and silver producer in the United States, Canada, and Mexico. The company operates through Palmarejo, Rochester, Kensington, Wharf, Silvertip, and Las Chispas segments.
 
 ---
 

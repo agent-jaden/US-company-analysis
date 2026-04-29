@@ -1,8 +1,10 @@
 # RENAISSANCERE HOLDINGS LTD (RNR) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 13B$ | 결산월: 12월**
+**Financial Services | Insurance - Reinsurance | 시총 13B$ | 결산월: 12월**
+
+RenaissanceRe Holdings Ltd., together with its subsidiaries, provides reinsurance and insurance products in the United States and internationally. The company operates through Property, and Casualty and Specialty segments. The Property segment writes property catastrophe excess of loss reinsurance contracts to insure insurance and reinsurance companies against natural and man-made catastrophes, including hurricanes, earthquakes, typhoons, and tsunamis, as well as winter storms, freezes, floods, fires, windstorms, tornadoes, explosions, and acts of terrorism; and other property class of products, such as proportional reinsurance, property per risk, property reinsurance, binding facilities, and regional U.S.
 
 ---
 

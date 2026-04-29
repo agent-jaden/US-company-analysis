@@ -1,8 +1,10 @@
 # APi Group Corp (APG) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 21B$ | 결산월: 12월**
+**Industrials | Engineering & Construction | 시총 21B$ | 결산월: 12월**
+
+APi Group Corporation provides fire and life safety, security, elevator and escalator, and specialty services worldwide. It operates in two segments, Safety Services and Specialty Services. The company offers fire protection solutions; electronic security systems; and elevators and escalators, including the design, installation, inspection, service, and monitoring of life safety systems to high tech services, advanced manufacturing, healthcare, fulfillment and distribution centers, and critical infrastructure end markets.
 
 ---
 

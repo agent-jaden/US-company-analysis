@@ -1,8 +1,10 @@
 # CNH Industrial N.V. (CNH) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 13B$ | 결산월: 12월**
+**Industrials | Farm & Heavy Construction Machinery | 시총 13B$ | 결산월: 12월**
+
+CNH Industrial N.V., an equipment company, engages in the develops, manufacture, and sale agricultural and construction equipment in North America, Europe, the Middle East, Africa, South America, and the Asia Pacific. The company operates through three segments: Agriculture, Construction, and Financial Services. The Agriculture segment develops, manufactures, distributes, and supports agriculture equipment, implements, and precision agriculture solutions, such as tractors, harvesters, hay and forage equipment, seeding and planting equipment, and self-propelled sprayers under Case IH, New Holland, STEYR, and Raven brands.
 
 ---
 

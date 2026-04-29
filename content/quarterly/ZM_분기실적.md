@@ -1,8 +1,10 @@
 # Zoom Communications, Inc. (ZM) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 27B$ | 결산월: 1월**
+**Technology | Software - Application | 시총 27B$ | 결산월: 1월**
+
+Zoom Communications, Inc. provides an Artificial Intelligence-first open work platform for human connection in the Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company offers Zoom Meetings that offers HD video, voice, chat, and content sharing through mobile devices, desktops, laptops, telephones, and conference room systems; Zoom Phone, a cloud phone system; and Zoom Team Chat enables users to share messages, images, files, and content in desktop, laptop, tablet, and mobile devices.
 
 ---
 

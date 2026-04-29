@@ -1,8 +1,8 @@
 # Xylem Inc. (XYL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 30B$ | 결산월: 12월**
+**Industrials | Specialty Industrial Machinery | 시총 30B$ | 결산월: 12월**
 
 Xylem Inc., together with its subsidiaries, engages in the design, manufacture, and servicing of engineered products and solutions for utility, industrial, and residential and commercial building services settings worldwide. It operates through Water Infrastructure; Applied Water; Measurement and Control Solutions; and Water Solutions and Services segments. The company offers water, wastewater, and storm water pumps and controls and systems; filtration, disinfection, and biological treatment equipment under the Flygt, Ionpure, Leopold, Neptune Benson, Sanitare, Wallace & Tiernan, and Wedeco brands; and pumps, valves, heat exchangers, controls, and dispensing equipment used for water and focuses on the residential, commercial and industrial markets under the Rule, Bell & Gossett, Flojet, Goulds Water Technology, Jabsco, and Lowara brands.
 

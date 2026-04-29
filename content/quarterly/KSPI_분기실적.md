@@ -1,8 +1,10 @@
 # Joint Stock Co Kaspi.kz (KSPI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 17B$ | 결산월: 12월**
+**Technology | Software - Infrastructure | 시총 17B$ | 결산월: 12월**
+
+Joint Stock Company Kaspi.kz, together with its subsidiaries, provides payments, marketplace, and fintech solutions for consumers and merchants in Kazakhstan, Azerbaijan, and Ukraine. The company operates through three segments: Payments, Marketplace, and Fintech. The Payments segment offers a platform that facilities transactions between and among merchants and consumers.
 
 ---
 

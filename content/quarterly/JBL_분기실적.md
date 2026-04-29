@@ -1,6 +1,6 @@
 # JABIL INC (JBL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 8월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 8월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Electronic Components | 시총 36B$ | 결산월: 8월**
 

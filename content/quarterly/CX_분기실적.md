@@ -1,8 +1,10 @@
 # CEMEX SAB DE CV (CX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 18B$ | 결산월: 12월**
+**Basic Materials | Building Materials | 시총 18B$ | 결산월: 12월**
+
+CEMEX, S.A.B. de C.V., together with its subsidiaries, engages in the production, marketing, distribution, and sale of cement, ready-mix concrete, aggregates, urbanization solutions, and other construction materials and services worldwide. It offers gray ordinary portland, white portland, and blended cement products; masonry or mortar products; standard ready-mix, architectural and decorative, rapid-setting, fiber-reinforced, fluid-fill, roller-compacted, self-consolidating, pervious, and antibacterial, and other concrete products; aggregate products, including crushed stone and manufactured sand, gravel, sand, and recycled concrete; and vertua products.
 
 ---
 

@@ -1,8 +1,10 @@
 # Circle Internet Group, Inc. (CRCL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 24B$ | 결산월: 12월**
+**Financial Services | Capital Markets | 시총 24B$ | 결산월: 12월**
+
+Circle Internet Group, Inc. operates as a platform, network, and market infrastructure for stablecoin and blockchain applications. The company provides various platform including Arc Blockchain and Developer Infrastructure, an open, layer-1 blockchain network purpose-built to bring real world economic activity onchain; Circle Digital Assets and Services, which includes circle digital assets, USDC, EURC, and USYC, as well as circle mint and xreserve, related liquidity, custody, and trust infrastructure; and Circle Applications, which includes circle payments network and stablefx, applications that use circle digital assets to deliver real-world utility on the arc network and across the broader multichain ecosystem.
 
 ---
 

@@ -1,8 +1,8 @@
 # W.W. GRAINGER, INC. (GWW) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 55B$ | 결산월: 12월**
+**Industrials | Industrial Distribution | 시총 55B$ | 결산월: 12월**
 
 W.W. Grainger, Inc., together with its subsidiaries, distributes maintenance, repair, and operating products and services primarily in North America, Japan, and the United Kingdom. The company operates through two segments, High-Touch Solutions North America and Endless Assortment.
 

@@ -1,8 +1,10 @@
 # TAKEDA PHARMACEUTICAL CO LTD (TAK) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Drug Manufacturers - Specialty & Generic | 시총 52B$ | 결산월: 12월**
+
+Takeda Pharmaceutical Company Limited engages in the research, development, manufacture, marketing, and out-licensing of pharmaceutical products in Japan and internationally. It offers pharmaceutical products in the areas of gastroenterology, rare diseases, plasma-derived therapies, immunology, oncology, and neuroscience. The company provides its products under the Entyvio, Gattex/Revestive, Takecab/Vocinti, EOHILIA, Alofisel, Dexilant, Pantoloc/Controloc, Adynovate/Adynovi, Feiba Fiber, Recombinate, Hemofil, Immunate, Immunine, Takhzyro, Livtencity, ADZYNMA, Elaprase, Replagal, Advate, Flexbumin, Vpriv, Gammagard Liquid/Kiovig, Hyqvia, Cuvitru, Exkivity, FRUZAQLA, Ninlaro, Velcade, Azilva, Iclusig, Leuplin/Enantone, Adcetris, vyvanse/elvanse, Trintellix, QDENGA, and Alunbrig brands.
 
 ---
 

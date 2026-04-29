@@ -1,8 +1,8 @@
 # S&P Global Inc. (SPGI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 131B$ | 결산월: 12월**
+**Financial Services | Financial Data & Stock Exchanges | 시총 131B$ | 결산월: 12월**
 
 S&P Global Inc., together with its subsidiaries, provides benchmarks, data, analytics, and workflow solutions in the global capital, energy and commodity, and automotive markets. It operates through five segments: S&P Global Market Intelligence, S&P Global Ratings, S&P Global Energy, S&P Global Mobility, and S&P Dow Jones Indices. The S&P Global Market Intelligence segment provides multi-asset-class data and analytics integrated with purpose-built workflow solutions.
 

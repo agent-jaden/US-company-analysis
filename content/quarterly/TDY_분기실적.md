@@ -1,8 +1,8 @@
 # TELEDYNE TECHNOLOGIES INC (TDY) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 30B$ | 결산월: 1월**
+**Technology | Scientific & Technical Instruments | 시총 30B$ | 결산월: 1월**
 
 Teledyne Technologies Incorporated provides enabling technologies for industrial growth markets in the United States, Europe, Asia, and internationally. The Digital Imaging provides visible spectrum sensors and digital cameras; and infrared, ultraviolet, visible, and X-ray spectra products, as well as micro electromechanical systems and semiconductors, including analog-to-digital and digital-to-analog converters. This segment offers cooled and uncooled infrared or thermal products, including sensors, camera cores, and camera systems; high-resolution, low-dose X-ray sensors, high-power microwave, and high-energy X-ray subsystems; and instruments for the measurement of physical properties and maritime products, as well as develops and manufactures multi-spectrum electro-optic/infrared imaging systems and associated products, such as lasers, optics, and radars, CBRNE (Chemical, Biological, Radiological, Nuclear and Explosive detectors), and unmanned air and ground systems.
 

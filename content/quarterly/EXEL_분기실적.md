@@ -1,8 +1,10 @@
 # EXELIXIS, INC. (EXEL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 1월**
+**Healthcare | Biotechnology | 시총 11B$ | 결산월: 1월**
+
+Exelixis, Inc., an oncology company, focuses on the discovery, development, and commercialization of new medicines for difficult-to-treat cancers in the United States. The company offers CABOMETYX tablets for the treatment of patients with advanced renal cell carcinoma who received prior anti-angiogenic therapy; and COMETRIQ capsules for the treatment of progressive and metastatic medullary thyroid cancer. Its CABOMETYX and COMETRIQ are derived from cabozantinib, an inhibitor of multiple tyrosine kinases, including MET, AXL, RET, and VEGF receptors.
 
 ---
 

@@ -1,8 +1,10 @@
 # FLEX LTD. (FLEX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 33B$ | 결산월: 3월**
+**Technology | Electronic Components | 시총 33B$ | 결산월: 3월**
+
+Flex Ltd. provides technology innovation, supply chain, and manufacturing solutions to data center, communications, enterprise, consumer, automotive, industrial, healthcare, industrial, and power industries. The company operates through two segments, Flex Agility Solutions (FAS) and Flex Reliability Solutions (FRS).
 
 ---
 

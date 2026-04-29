@@ -1,8 +1,10 @@
 # Polestar Automotive Holding UK PLC (PSNYW) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 32B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Manufacturers | 시총 32B$ | 결산월: 12월**
+
+Polestar Automotive Holding UK PLC engages in the research and development, marketing, commercialization, and sale of battery electric vehicles in Europe, North America, the Asia-Pacific, the Middle East, and internationally. The company offers battery electric vehicles, including Polestar 2 (PS2); Polestar 3 (PS3); Polestar 4 (PS4); Polestar 5 (PS5); and Polestar 6 (PS6), a roadster. It also provides licenses and royalties; software and performance engineered kits; and carbon credits.
 
 ---
 

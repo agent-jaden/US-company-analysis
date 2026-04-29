@@ -1,8 +1,10 @@
 # Roblox Corp (RBLX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Electronic Gaming & Multimedia | 시총 41B$ | 결산월: 12월**
+
+Roblox Corporation operates an immersive platform for connection and communication in the United States and internationally. It offers Roblox Client, an application that allows users to explore immersive experience; Roblox Studio, a free toolset that allows developers and creators to build, publish, and operate immersive experiences and other content; and Roblox Cloud, which provides services and infrastructure that power the platform. Roblox Corporation was incorporated in 2004 and is headquartered in San Mateo, California.
 
 ---
 

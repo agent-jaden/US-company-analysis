@@ -1,8 +1,10 @@
 # BIOMARIN PHARMACEUTICAL INC (BMRN) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 10B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 10B$ | 결산월: 12월**
+
+BioMarin Pharmaceutical Inc., a biotechnology company, engages in the development and commercialization of therapies for life-threatening rare diseases and medical conditions in the United States, Europe, Latin America, the Middle East, the Asia Pacific, and internationally. The company's products include VIMIZIM, an enzyme replacement therapy for the treatment of mucopolysaccharidosis (MPS) IV type A, a lysosomal storage disorder; VOXZOGO, a once daily injection analog of c-type natriuretic peptide (CNP) for the treatment of achondroplasia; NAGLAZYME, a recombinant form of N- acetylgalactosamine 4-sulfatase for patients with MPS VI; and PALYNZIQ, a PEGylated recombinant phenylalanine (Phe) ammonia lyase enzyme delivered through subcutaneous injection to reduce blood Phe concentrations. It also develops BRINEURA, a recombinant human tripeptidyl peptidase 1 for the treatment of patients with ceroid lipofuscinosis type 2, a form of Batten disease; ALDURAZYME, a purified protein designed to be identical to a naturally occurring form of the human enzyme alpha-L-iduronidase; and KUVAN, a proprietary synthetic oral form of 6R-BH4 that is used to treat patients with phenylketonuria, an inherited metabolic disease.
 
 ---
 

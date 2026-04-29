@@ -1,8 +1,10 @@
 # ARCH CAPITAL GROUP LTD. (ACGLO) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Financial Services | Insurance - Diversified | 시총 12B$ | 결산월: 12월**
+
+Arch Capital Group Ltd., together with its subsidiaries, provides insurance, reinsurance, and mortgage insurance products in the United States, Canada, Bermuda, the United Kingdom, Europe, and Australia. The company operates through three segments: Insurance, Reinsurance, and Mortgage. The Insurance segment offers commercial automobile; commercial multiperil; financial and professional line liability; admitted, excess, and surplus casualty lines; property and short-tail specialty; workers compensation; and casualty insurance.
 
 ---
 

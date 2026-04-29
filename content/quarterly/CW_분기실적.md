@@ -1,8 +1,10 @@
 # CURTISS WRIGHT CORP (CW) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 26B$ | 결산월: 12월**
+**Industrials | Aerospace & Defense | 시총 26B$ | 결산월: 12월**
+
+Curtiss-Wright Corporation, together with its subsidiaries, provides engineered products, solutions, and services mainly to aerospace and defense, commercial nuclear power, process, and industrial markets worldwide. It operates through three segments: Aerospace & Industrial, Defense Electronics, and Naval & Power. The Aerospace & Industrial segment offers industrial and specialty vehicle products, such as power management electronics, traction inverters, transmission shifters, and control systems; sensors, controls, and electro-mechanical actuation components used on commercial and military aircraft; and surface technology services including shot peening, laser peening, and engineered coatings.
 
 ---
 

@@ -1,8 +1,10 @@
 # TechnipFMC plc (FTI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 30B$ | 결산월: 12월**
+**Energy | Oil & Gas Equipment & Services | 시총 30B$ | 결산월: 12월**
+
+TechnipFMC plc engages in the oil and natural gas projects, technologies, systems, and services businesses in Europe, Central Asia, North America, Latin America, the Asia Pacific, Africa, the Middle East, and internationally. It operates through two segments, Subsea and Surface Technologies. The Subsea segment engages in design, engineering, procurement, manufacturing, fabrication, installation, and life of field services for subsea systems, subsea field infrastructure, and subsea pipeline systems used in oil and natural gas production and transportation.
 
 ---
 

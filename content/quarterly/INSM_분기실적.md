@@ -1,8 +1,10 @@
 # INSMED Inc (INSM) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 29B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 29B$ | 결산월: 12월**
+
+Insmed Incorporated develops and commercializes therapies for patients with serious and rare diseases in the United States, Europe, Japan, and internationally. The company offers ARIKAYCE for the treatment of refractory nontuberculous mycobacterial lung infections, as well as is in phase 3 clinical trial for the treatment of mycobacterium avium complex lung disease as part of a combination antibacterial drug regimen for adult patients. It also develops brensocatib, an oral reversible inhibitor of dipeptidyl peptidase 1(DPP1) that is in phase 3 clinical trial for the treatment of bronchiectasis; and in phase 2 clinical trial for the treatment of chronic rhinosinusitis without nasal polyps and hidradenitis suppurativa.
 
 ---
 

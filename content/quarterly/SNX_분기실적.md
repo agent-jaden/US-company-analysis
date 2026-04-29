@@ -1,8 +1,10 @@
 # TD SYNNEX CORP (SNX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 18B$ | 결산월: 11월**
+**Technology | Electronics & Computer Distribution | 시총 18B$ | 결산월: 11월**
+
+TD SYNNEX Corporation operates as a distributor and solutions aggregator for the information technology (IT) ecosystem in the United States, Europe, and internationally. It offers endpoint solutions, including personal computing devices and peripherals, mobile phones and accessories, printers, and supplies; and advanced solutions comprising data center technologies, such as hybrid cloud, security, storage, networking, servers, software, converged and hyper-converged infrastructure, and hyperscale infrastructure. The company also provides design, integration, test and other production value-added solutions, such as thermal testing, power-draw efficiency testing, burn-in, quality, and logistics support; logistics and field services; depot repair and customer management services; and cloud services, including public cloud solutions in productivity and collaboration, infrastructure as a service, platform as a service, software as a service, security, mobility, AI, and other hybrid solutions.
 
 ---
 

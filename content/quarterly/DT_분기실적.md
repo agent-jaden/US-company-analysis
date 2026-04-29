@@ -1,8 +1,10 @@
 # Dynatrace, Inc. (DT) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 3월**
+**Technology | Software - Application | 시총 11B$ | 결산월: 3월**
+
+Dynatrace, Inc. engages in the advancement of observability for digital businesses, which transforms the complexity of modern digital ecosystems in North America, Europe, the Middle East, Africa, the Asia Pacific, and Latin America. It operates Dynatrace, an AI-powered observability platform, which provides solutions, including infrastructure, application, threat, and AI observability; digital experience; log analytics; application security; software delivery; and business analytics.
 
 ---
 

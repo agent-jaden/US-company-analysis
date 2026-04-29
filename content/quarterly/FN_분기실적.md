@@ -1,8 +1,10 @@
 # Fabrinet (FN) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 25B$ | 결산월: 6월**
+**Technology | Electronic Components | 시총 25B$ | 결산월: 6월**
+
+Fabrinet provides optical packaging and precision optical, electro-mechanical, and electronic manufacturing services in North America, the Asia-Pacific, and Europe. The company offers a range of advanced optical and electro-mechanical capabilities in the manufacturing process, including process design and engineering, supply chain management, manufacturing, printed circuit board assembly, packaging, integration, final assembly, and testing. Its products include switching products, including reconfigurable optical add-drop multiplexers, optical amplifiers, modulators, and other optical components and modules that enable network managers to route voice, video, and data communications traffic through fiber optic cables at various wavelengths, speeds, and over various distances.
 
 ---
 

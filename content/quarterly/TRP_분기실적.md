@@ -1,8 +1,10 @@
 # TC ENERGY CORP (TRP) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Midstream | 시총 64B$ | 결산월: 12월**
+
+TC Energy Corporation operates as an energy infrastructure company in Canada, the United States, and Mexico. It operates through four segments: Canadian Natural Gas Pipelines; U.S. Natural Gas Pipelines; Mexico Natural Gas Pipelines; and Power and Energy Solutions.
 
 ---
 

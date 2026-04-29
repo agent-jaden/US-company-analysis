@@ -1,8 +1,8 @@
 # Texas Pacific Land Corp (TPL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 30B$ | 결산월: 12월**
+**Energy | Oil & Gas E&P | 시총 30B$ | 결산월: 12월**
 
 Texas Pacific Land Corporation engages in the land and resource management, and water services and operations businesses. The Land and Resource Management segment manages surface acres of land, and oil and gas royalty interest in Permian Basin. This segment also engages in easements, such as transporting oil, gas and related hydrocarbons, power line and utility, and subsurface wellbore easements.
 

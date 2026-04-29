@@ -1,8 +1,10 @@
 # LATAM AIRLINES GROUP S.A. (LTM) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 14B$ | 결산월: 12월**
+**Industrials | Airlines | 시총 14B$ | 결산월: 12월**
+
+LATAM Airlines Group S.A., together with its subsidiaries, provides passenger and cargo air transportation services in Chile, Argentina, Peru, Colombia, Ecuador, Brazil, the United States, other Latin American countries, the Caribbean, Europe, and Oceania. As of December 31, 2024, the company provides passenger transport services to 160 destinations in 27 countries; and operated 371 fleet of aircraft. The company was formerly known as LAN Airlines S.A.
 
 ---
 

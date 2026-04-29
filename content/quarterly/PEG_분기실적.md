@@ -1,8 +1,8 @@
 # PUBLIC SERVICE ENTERPRISE GROUP INC (PEG) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 40B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 40B$ | 결산월: 12월**
 
 Public Service Enterprise Group Incorporated, through its subsidiaries, operates in electric and gas utility, and nuclear generation businesses in the United States. It operates through PSE&G and PSEG Power segments. The PSE&G segment transmits electricity; distributes electricity and natural gas to residential, commercial, and industrial customers; and appliance services and repairs to customers through its service territory, as well as invests in solar generation projects, and energy efficiency and related programs.
 

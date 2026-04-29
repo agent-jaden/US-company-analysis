@@ -1,8 +1,10 @@
 # Performance Food Group Co (PFGC) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 14B$ | 결산월: 6월**
+**Consumer Defensive | Food Distribution | 시총 14B$ | 결산월: 6월**
+
+Performance Food Group Company, through its subsidiaries, engages in the marketing and distribution of food and food-related products in North America. It operates through three segments: Foodservice, Convenience, and Specialty. The company offers beef, pork, poultry, and seafood; frozen food and refrigerated products; dry groceries comprising cleaning and kitchen supplies and disposables; candy, snacks, and beverages; and fresh products, groceries, dairy, bread, beverages, general merchandise, and health and beauty care products, as well as cigarettes and other nicotine products.
 
 ---
 

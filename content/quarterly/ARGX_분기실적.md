@@ -1,8 +1,10 @@
 # ARGENX SE (ARGX) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 49B$ | 결산월: 12월**
+
+argenx SE, a commercial-stage biopharma company, develops various therapies for the treatment of autoimmune diseases in the United States, Japan, China, the Netherlands, and internationally. The company offers VYVGART for the treatment of gMG and immune thrombocytopenia (ITP), and VYVGART HYTRULO for the treatment of gMG and chronic inflammatory demyelinating polyneuropathy (CIDP). It also develops efgartigimod for the treatment of seronegative gMG, ocular myasthenia gravis (MG), primary ITP, grave's disease, myositis, Sjögren's disease, systemic sclerosis, and AMR; empasiprubart for MMN, delayed graft function, and CIDP; and adimanebart for congenital myasthenic syndrome and spinal muscular atrophy.
 
 ---
 

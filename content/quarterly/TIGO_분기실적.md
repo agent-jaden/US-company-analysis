@@ -1,8 +1,10 @@
 # MILLICOM INTERNATIONAL CELLULAR SA (TIGO) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 14B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 14B$ | 결산월: 12월**
+
+Millicom International Cellular S.A. engages in the provision cable and mobile services in Latin America. The company offers mobile services, including mobile data and voice, and short message services; and mobile financial services, such as payments, money transfers, international remittances, savings, real-time loans, and micro-insurance.
 
 ---
 

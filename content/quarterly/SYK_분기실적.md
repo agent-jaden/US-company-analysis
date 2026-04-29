@@ -1,8 +1,8 @@
 # STRYKER CORP (SYK) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 126B$ | 결산월: 12월**
+**Healthcare | Medical Devices | 시총 126B$ | 결산월: 12월**
 
 Stryker Corporation operates as a medical technology company in the United States and internationally. It operates through two segments, MedSurg and Neurotechnology, and Orthopaedics. The MedSurg and Neurotechnology segment offers surgical equipment, patient and caregiver safety technologies, navigation systems, endoscopic and communications systems, patient handling, emergency medical equipment and intensive care disposable products, clinical communication and artificial intelligence-assisted virtual care platform technology, and minimally invasive products for the treatment of acute ischemic and hemorrhagic stroke and venous thromboembolism; traditional brain and open skull based surgical procedures products; and orthobiologic and biosurgery products, including synthetic bone grafts and vertebral augmentation products.
 

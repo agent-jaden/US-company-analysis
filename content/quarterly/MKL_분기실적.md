@@ -1,8 +1,10 @@
 # MARKEL GROUP INC. (MKL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 24B$ | 결산월: 12월**
+**Financial Services | Insurance - Property & Casualty | 시총 24B$ | 결산월: 12월**
+
+Markel Group Inc. engages in the insurance business in the United States, the United Kingdom, Bermuda, Germany, rest of the European Union, Canada, and the Asia Pacific. It operates through Markel Insurance, Industrial, Financial, and Consumer and Other segments.
 
 ---
 

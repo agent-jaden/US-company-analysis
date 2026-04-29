@@ -1,8 +1,10 @@
 # AECOM (ACM) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 9월**
+**Industrials | Engineering & Construction | 시총 11B$ | 결산월: 9월**
+
+AECOM, together with its subsidiaries, provides professional infrastructure consulting services for governments, businesses, and organizations internationally. The company operates in three segments: Americas, International, and AECOM Capital. The company offers advisory, planning, consulting, architectural and engineering design, construction and program management services, and investment and development services to public and private clients in major end markets such as transportation, facilities, water, environmental, and energy.
 
 ---
 

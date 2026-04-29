@@ -1,8 +1,10 @@
 # Enlight Renewable Energy Ltd. (ENLT) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Utilities | Utilities - Renewable | 시총 12B$ | 결산월: 12월**
+
+Enlight Renewable Energy Ltd operates a renewable energy platform in Israel, the Middle East, North Africa, Europe, the United States, and internationally. The company develops, finances, constructs, owns, and operates utility-scale renewable energy projects. It develops wind energy and solar energy projects, as well as energy storage projects.
 
 ---
 

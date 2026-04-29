@@ -1,8 +1,10 @@
 # IONIS PHARMACEUTICALS INC (IONS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 12B$ | 결산월: 12월**
+
+Ionis Pharmaceuticals, Inc., a commercial-stage biotechnology company, provides RNA-targeted medicines in the United States. The company offers TRYNGOLZA reduces triglyceride levels in adults with familial chylomicronemia syndrome (FCS) and acute pancreatitis; DAWNZERA for prophylaxis to prevent attacks of hereditary angioedema in adults; WAINUA for the treatment of the polyneuropathy of hereditary transthyretin-medicated amyloidosis (ATTRv-PN) in adults; and SPINRAZA for pediatric and adult patients with spinal muscular atrophy (SMA). It also provides QALSODY for the treatment of Amyotrophic Lateral Sclerosis (ALS); TEGSEDI for the treatment of ATTRv-PN in adults; and WAYLIVRA for treatment for FCS and familial partial lipodystrophy.
 
 ---
 

@@ -1,8 +1,8 @@
 # UNIVERSAL HEALTH SERVICES INC (UHS) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Healthcare | Medical Care Facilities | 시총 11B$ | 결산월: 12월**
 
 Universal Health Services, Inc., through its subsidiaries, owns and operates acute care hospitals, and outpatient and behavioral health care facilities in the United States. It operates through Acute Care Hospital Services and Behavioral Health Care Services segments. The company's hospitals offer general and specialty surgery, internal medicine, obstetrics, emergency room care, radiology, oncology, diagnostic and coronary care, pediatric, pharmacy, and/or behavioral health services.
 

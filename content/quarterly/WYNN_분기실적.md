@@ -1,8 +1,8 @@
 # WYNN RESORTS LTD (WYNN) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 11B$ | 결산월: 12월**
+**Consumer Cyclical | Resorts & Casinos | 시총 11B$ | 결산월: 12월**
 
 Wynn Resorts, Limited designs, develops, and operates integrated resorts. It operates in four segments: Wynn Palace, Wynn Macau, Las Vegas Operations, and Encore Boston Harbor. The Wynn Palace segment operates casino space, private gaming salons, and sky casinos; a luxury hotel tower with suites and villas, as well as a health club, spa, salon, and pool; food and beverage outlets; retail space; meeting and convention space; and a performance lake, an immersive entertainment center, Western and Asian art displays, and a gondola ride.
 

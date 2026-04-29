@@ -1,8 +1,10 @@
 # Hydro One Ltd (HRNNF) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 26B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 26B$ | 결산월: 12월**
+
+Hydro One Limited operates as an electricity transmission and distribution company in Ontario. It operates through three segments: Transmission, Distribution, and Other. The company owns and operates approximately 30,000 circuit kilometers of high-voltage transmission lines and approximately 126,000 circuit kilometers primary low-voltage distribution lines.
 
 ---
 

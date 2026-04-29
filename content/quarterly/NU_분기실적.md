@@ -1,0 +1,36 @@
+# Nu Holdings Ltd. (NU) 분기 실적 히스토리
+
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+
+**Financial Services | Banks - Regional | 시총 71B$ | 결산월: 12월**
+
+Nu Holdings Ltd. provides digital banking platform in Brazil, Mexico, Colombia, the Cayman Islands, and the United States. The company provides spending solutions comprising Nu credit and prepaid card, a digitally enabled card that acts as a credit and a prepaid card; Nubank+ Tier, an evolution of the Nu experience; Ultraviolet credit and prepaid card, a premium metal credit card; mobile payment solutions for NuAccount customers to make and receive transfers, pay bills, and make everyday purchases through their mobile phones; and Nu Shopping, an integrated marketplace that enables customers to purchase goods and services from various ecommerce retailers.
+
+---
+
+### 분기별 실적 추이
+
+| 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
+|:----:|-----------:|-------------:|-----------:|:--------:|:------------:|:----------:|
+| 2025Q4 | 3.14 | 3.14 | 0.89 | +48.7% | +48.7% | +61.5% |
+| 2025Q3 | 2.73 | 2.73 | 0.78 | — | — | — |
+| 2025Q2 | 2.51 | 2.51 | 0.64 | — | — | — |
+| 2025Q1 | 2.25 | 2.25 | 0.56 | — | — | — |
+| 2024Q4 | 2.11 | 2.11 | 0.55 | — | — | — |
+
+#### 요약
+
+| 항목 | 값 |
+|------|-----|
+| 수록 분기 | 5개 |
+| 최고 영업이익 | 2025Q4 (3.14 B$) |
+| 최저 영업이익 | 2024Q4 (2.11 B$) |
+| 기간 합산 매출 | 12.74 B$ |
+| 기간 합산 영업이익 | 12.74 B$ |
+| 기간 평균 영업이익률 | 100.0% |
+
+### 연간 실적 추이 (10년)
+
+| 연도 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
+|:----:|-----------:|-------------:|-----------:|:--------:|:------------:|:----------:|
+| 2025 | 10.63 | 10.63 | 2.87 | — | — | — |

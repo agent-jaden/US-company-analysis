@@ -1,8 +1,10 @@
 # VICOR CORP (VICR) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 12월**
+**Technology | Electronic Components | 시총 12B$ | 결산월: 12월**
+
+Vicor Corporation, together with its subsidiaries, designs, develops, manufactures, and markets modular power components and power systems for converting electrical power for use in electrically powered devices in the United States, Europe, the Asia Pacific, and internationally. The company offers a range of brick-format DC-DC converters; complementary components that provide AC line rectification, input filtering, power factor correction, and transient protection; and input and output voltage, and output power products, as well as sells electrical and mechanical accessories. It also designs, sells, and services custom power system solutions.
 
 ---
 

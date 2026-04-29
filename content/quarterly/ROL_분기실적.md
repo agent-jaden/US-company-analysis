@@ -1,8 +1,8 @@
 # ROLLINS INC (ROL) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 27B$ | 결산월: 12월**
+**Consumer Cyclical | Personal Services | 시총 27B$ | 결산월: 12월**
 
 Rollins, Inc., through its subsidiaries, provides pest and wildlife control services and protection to residential and commercial customers in the United States and internationally. The company offers pest control services to residential properties protecting from common pests, including rodents, insects, and wildlife. It also provides workplace pest control solutions for customers across various end markets, such as healthcare, food service, and logistics.
 

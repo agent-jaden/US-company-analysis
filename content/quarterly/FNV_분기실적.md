@@ -1,8 +1,10 @@
 # FRANCO NEVADA Corp (FNV) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Gold | 시총 46B$ | 결산월: 12월**
+
+Franco-Nevada Corporation operates as a royalty and stream company focused on precious metals in South America, Central America, Mexico, the United States, Canada, Australia, Europe, and Africa. The company operates through Precious Metals, Other Mining and Energy segments. It also manages its portfolio with a focus on precious metals, such as gold, silver, and platinum group metals; and engages in the sale of crude oil, natural gas, and natural gas liquids through a third-party marketing agent.
 
 ---
 

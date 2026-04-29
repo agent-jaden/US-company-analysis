@@ -1,8 +1,10 @@
 # BJ's Wholesale Club Holdings, Inc. (BJ) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 1월**
+**Consumer Defensive | Discount Stores | 시총 12B$ | 결산월: 1월**
+
+BJ's Wholesale Club Holdings, Inc., together with its subsidiaries, operates membership warehouse clubs on the eastern half of the United States. The company offers groceries, fresh food, general merchandise, gasoline, and other ancillary services. It sells its products through its clubs; the BJs.com website; and its mobile app.
 
 ---
 

@@ -1,8 +1,10 @@
 # DR REDDYS LABORATORIES LTD (RDY) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 12B$ | 결산월: 3월**
+**Healthcare | Drug Manufacturers - Specialty & Generic | 시총 12B$ | 결산월: 3월**
+
+Dr. Reddy's Laboratories Limited, together with its subsidiaries, operates as an integrated pharmaceutical company North America, Europe, India, Russia, and internationally. It operates through Global Generics, Pharmaceutical Services and Active Ingredients (PSAI), and Others segment.
 
 ---
 

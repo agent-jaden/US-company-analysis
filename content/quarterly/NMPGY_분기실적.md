@@ -1,8 +1,10 @@
 # Navios Maritime Holdings Inc. (NMPGY) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 13B$ | 결산월: 12월**
+**Industrials | Marine Shipping | 시총 13B$ | 결산월: 12월**
+
+Navios Maritime Holdings Inc. operates as a seaborne shipping and logistics company. The company owns port storage and transfer facilities; owns and operates ocean-going vessels to support the transportation needs of its customers in the South American coastal-trade business.
 
 ---
 
