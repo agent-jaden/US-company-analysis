@@ -1,10 +1,12 @@
 # BEST BUY CO INC (BBY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Specialty Retail | 시총 12B$ | 결산월: 1월**
+**Consumer Cyclical | Specialty Retail | 시총 12B$ (#851위) | 결산월: 1월**
 
-Best Buy Co., Inc. offers technology products and solutions in the United States, Canada, and internationally. The company provides computing and mobile phone products, such as desktops, notebooks, and peripherals; mobile phones comprising related mobile network carrier commissions; networking products; tablets covering e-readers; smartwatches; and consumer electronics consisting of digital imaging, health and fitness products, portable audio comprising headphones and portable speakers, and smart home products, as well as home theaters that includes home theater accessories, soundbars, and televisions.
+Best Buy는 미국, 캐나다 및 해외에서 기술 제품과 솔루션을 제공한다. 데스크톱·노트북·주변기기, 휴대폰, 네트워킹 제품, 태블릿, 스마트워치, 디지털 이미징, 헬스·피트니스, 휴대용 오디오, 스마트홈, 홈시어터 액세서리·사운드바·TV 등을 판매한다.
+
+*Best Buy Co., Inc. offers technology products and solutions in the United States, Canada, and internationally. The company provides computing and mobile phone products, such as desktops, notebooks, and peripherals; mobile phones comprising related mobile network carrier commissions; networking products; tablets covering e-readers; smartwatches; and consumer electronics consisting of digital imaging, health and fitness products, portable audio comprising headphones and portable speakers, and smart home products, as well as home theaters that includes home theater accessories, soundbars, and televisions.*
 
 ---
 

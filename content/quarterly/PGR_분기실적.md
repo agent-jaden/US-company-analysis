@@ -1,10 +1,12 @@
 # PROGRESSIVE CORP/OH/ (PGR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Property & Casualty | 시총 118B$ | 결산월: 12월**
+**Financial Services | Insurance - Property & Casualty | 시총 118B$ (#137위) | 결산월: 12월**
 
-The Progressive Corporation operates as an insurance company in the United States. It writes insurance for personal autos and special lines products, including motorcycles, RVs, and watercraft; and personal residential property insurance for homeowners and renters. The company also writes auto-related liability and physical damage insurance for comprising dump trucks, log trucks, garbage trucks, tractors, trailers, straight trucks, tow trucks and wreckers, vans, pick-up trucks, and autos; business-related general liability and commercial property insurance for small businesses; and workers' compensation insurance for the transportation industry.
+Progressive는 미국에서 보험 사업을 영위하는 회사다. 개인용 자동차, 오토바이, RV, 수상레저기구, 주택·임차인 보험을 제공하며 상업용 차량, 소기업 일반배상·상업재산, 운송업 산재보험도 취급한다.
+
+*The Progressive Corporation operates as an insurance company in the United States. It writes insurance for personal autos and special lines products, including motorcycles, RVs, and watercraft; and personal residential property insurance for homeowners and renters. The company also writes auto-related liability and physical damage insurance for comprising dump trucks, log trucks, garbage trucks, tractors, trailers, straight trucks, tow trucks and wreckers, vans, pick-up trucks, and autos; business-related general liability and commercial property insurance for small businesses; and workers' compensation insurance for the transportation industry.*
 
 ---
 

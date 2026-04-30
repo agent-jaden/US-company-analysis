@@ -1,10 +1,12 @@
 # Evergy, Inc. (EVRG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 19B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 19B$ (#646위) | 결산월: 12월**
 
-Evergy, Inc., together with its subsidiaries, engages in the generation, transmission, distribution, and sale of electricity in the United States. The company generates electricity through coal, landfill gas, uranium, and natural gas and oil sources, as well as solar, wind, and other renewable sources. It serves residences, commercial firms, industrials, municipalities, and other electric utilities.
+Evergy, Inc.는 자회사를 통해 미국 내에서 전력을 생산, 송전, 배전 및 판매하는 유틸리티 기업입니다. 석탄, 천연가스, 원자력 등 전통적인 발전원과 태양광, 풍력 등의 재생 에너지를 혼합하여 주거, 상업, 산업 고객 및 지방자치단체에 전기를 안정적으로 공급합니다.
+
+*Evergy, Inc., together with its subsidiaries, engages in the generation, transmission, distribution, and sale of electricity in the United States. The company generates electricity through coal, landfill gas, uranium, and natural gas and oil sources, as well as solar, wind, and other renewable sources. It serves residences, commercial firms, industrials, municipalities, and other electric utilities.*
 
 ---
 

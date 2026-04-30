@@ -1,10 +1,12 @@
 # Owens Corning (OC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Building Products & Equipment | 시총 10B$ | 결산월: 12월**
+**Industrials | Building Products & Equipment | 시총 10B$ (#975위) | 결산월: 12월**
 
-Owens Corning provides residential and commercial building products in the United States, Europe, the Asia Pacific, and internationally. It operates through three segments: Roofing, Insulation, and Doors. The company offers laminate and strip asphalt roofing shingles, roofing components, and oxidized asphalt.
+Owens Corning은 미국, 유럽, 아시아태평양 및 해외에서 주거용·상업용 건축 제품을 제공한다. Roofing, Insulation, Doors 부문을 통해 asphalt roofing shingle, 지붕 부품, oxidized asphalt, 단열재와 문 제품을 공급한다.
+
+*Owens Corning provides residential and commercial building products in the United States, Europe, the Asia Pacific, and internationally. It operates through three segments: Roofing, Insulation, and Doors. The company offers laminate and strip asphalt roofing shingles, roofing components, and oxidized asphalt.*
 
 ---
 

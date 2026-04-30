@@ -1,10 +1,12 @@
 # COCA COLA CO (KO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Beverages - Non-Alcoholic | 시총 325B$ | 결산월: 12월**
+**Consumer Defensive | Beverages - Non-Alcoholic | 시총 325B$ (#37위) | 결산월: 12월**
 
-The Coca-Cola Company, a beverage company, manufactures and sells various nonalcoholic beverages in the United States and internationally. The company provides Trademark Coca-Cola, sparkling soft drinks and flavors; water, sports, coffee, and tea; juice, value-added dairy, and plant-based beverages; and emerging beverages. It also offers beverage concentrates and syrups, as well as fountain syrups to fountain retailers comprising restaurants and convenience stores.
+The Coca-Cola Company는 미국 및 전 세계에서 다양한 무알콜 음료를 제조하고 판매하는 음료 기업입니다. Trademark Coca-Cola를 포함한 탄산음료, 생수, 스포츠 음료, 주스 등 완제품 음료를 제공할 뿐만 아니라 식당과 편의점을 위한 음료 농축액과 시럽도 공급합니다.
+
+*The Coca-Cola Company, a beverage company, manufactures and sells various nonalcoholic beverages in the United States and internationally. The company provides Trademark Coca-Cola, sparkling soft drinks and flavors; water, sports, coffee, and tea; juice, value-added dairy, and plant-based beverages; and emerging beverages. It also offers beverage concentrates and syrups, as well as fountain syrups to fountain retailers comprising restaurants and convenience stores.*
 
 ---
 

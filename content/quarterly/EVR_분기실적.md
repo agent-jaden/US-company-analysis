@@ -1,10 +1,12 @@
 # Evercore Inc. (EVR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Capital Markets | 시총 14B$ | 결산월: 12월**
+**Financial Services | Capital Markets | 시총 14B$ (#792위) | 결산월: 12월**
 
-Evercore Inc., together with its subsidiaries, operates as an independent investment banking firm in the Americas, Europe, Middle East, Africa, and Asia-Pacific. The company operates through two segments, Investment Banking & Equities, and Investment Management. The Investment Banking & Equities segment offers strategic advisory services, such as mergers, and acquisitions, strategic, defense, and shareholder advisory, special committee assignments, and real estate strategic advisory; private capital advisory and fundraising, market risk management and hedging, private capital markets and debt advisory, liability management and restructuring, and equity capital markets execution and advisory services; and research, sales, and trading professionals services on a content-led platform to its institutional investor clients.
+Evercore는 미주, 유럽, 중동, 아프리카, 아시아태평양에서 독립 투자은행으로 운영된다. Investment Banking & Equities와 Investment Management 부문을 통해 M&A, 전략·방어·주주 자문, 특수위원회, 부동산 전략자문, 사모자본 조달, 헤지, 부채자문·구조조정, ECM, 리서치·세일즈·트레이딩 서비스를 제공한다.
+
+*Evercore Inc., together with its subsidiaries, operates as an independent investment banking firm in the Americas, Europe, Middle East, Africa, and Asia-Pacific. The company operates through two segments, Investment Banking & Equities, and Investment Management. The Investment Banking & Equities segment offers strategic advisory services, such as mergers, and acquisitions, strategic, defense, and shareholder advisory, special committee assignments, and real estate strategic advisory; private capital advisory and fundraising, market risk management and hedging, private capital markets and debt advisory, liability management and restructuring, and equity capital markets execution and advisory services; and research, sales, and trading professionals services on a content-led platform to its institutional investor clients.*
 
 ---
 

@@ -1,10 +1,12 @@
 # WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP (WAB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Railroads | 시총 45B$ | 결산월: 12월**
+**Industrials | Railroads | 시총 45B$ (#345위) | 결산월: 12월**
 
-Westinghouse Air Brake Technologies Corporation provides locomotives, equipment, systems, and services for the freight rail and passenger transit industries worldwide. It operates in two segments, Freight and Transit. It offers diesel-electric and liquid natural gas-powered locomotives; engines, electric motors, and propulsion systems; and marine and mining products.
+Westinghouse Air Brake Technologies는 전 세계 화물철도와 여객 운송 산업에 기관차, 장비, 시스템, 서비스를 제공한다. Freight와 Transit 부문을 운영하며 디젤전기 및 LNG 동력 기관차, 엔진, 전기모터, 추진 시스템, 해양·광산용 제품을 공급한다.
+
+*Westinghouse Air Brake Technologies Corporation provides locomotives, equipment, systems, and services for the freight rail and passenger transit industries worldwide. It operates in two segments, Freight and Transit. It offers diesel-electric and liquid natural gas-powered locomotives; engines, electric motors, and propulsion systems; and marine and mining products.*
 
 ---
 

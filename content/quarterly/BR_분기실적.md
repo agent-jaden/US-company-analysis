@@ -1,10 +1,12 @@
 # BROADRIDGE FINANCIAL SOLUTIONS, INC. (BR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Information Technology Services | 시총 18B$ | 결산월: 6월**
+**Technology | Information Technology Services | 시총 18B$ (#661위) | 결산월: 6월**
 
-Broadridge Financial Solutions, Inc. provides investor communications and technology-driven solutions for the financial services industry in the United States and internationally. The company's Investor Communication Solutions segment handles the proxy materials distribution and voting processes for bank, broker-dealer, corporate issuer, and fund clients; and provides fund manager and a range of other regulatory communication solutions.
+Broadridge Financial Solutions는 미국과 해외 금융서비스 산업에 투자자 커뮤니케이션과 기술 기반 솔루션을 제공한다. Investor Communication Solutions 부문은 은행, 브로커딜러, 기업 발행사, 펀드 고객을 대상으로 의결권 자료 배포, 투표 프로세스, 펀드매니저 및 규제 커뮤니케이션 솔루션을 지원한다.
+
+*Broadridge Financial Solutions, Inc. provides investor communications and technology-driven solutions for the financial services industry in the United States and internationally. The company's Investor Communication Solutions segment handles the proxy materials distribution and voting processes for bank, broker-dealer, corporate issuer, and fund clients; and provides fund manager and a range of other regulatory communication solutions.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Chubb Ltd (CB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Property & Casualty | 시총 126B$ | 결산월: 12월**
+**Financial Services | Insurance - Property & Casualty | 시총 126B$ (#123위) | 결산월: 12월**
 
-Chubb Limited provides insurance and reinsurance products worldwide. It operates in six segments: North America Commercial Property and Casualty (P&C) Insurance, North America Personal P&C Insurance, North America Agricultural Insurance, Overseas General Insurance, Global Reinsurance, and Life Insurance. The company offers property and general liability, workers' compensation, and umbrella; professional and management liability; environmental, health, and international coverages; and claims and risk management products and services, loss control, and engineering and complex claims management.
+Chubb는 전 세계에서 보험과 재보험 상품을 제공한다. 북미 상업·개인 손해보험, 농업보험, 해외 일반보험, 글로벌 재보험, 생명보험 부문을 통해 재산, 일반배상, 산재, 전문직·경영진 책임, 환경·건강·국제 보험과 리스크 관리 서비스를 제공한다.
+
+*Chubb Limited provides insurance and reinsurance products worldwide. It operates in six segments: North America Commercial Property and Casualty (P&C) Insurance, North America Personal P&C Insurance, North America Agricultural Insurance, Overseas General Insurance, Global Reinsurance, and Life Insurance. The company offers property and general liability, workers' compensation, and umbrella; professional and management liability; environmental, health, and international coverages; and claims and risk management products and services, loss control, and engineering and complex claims management.*
 
 ---
 

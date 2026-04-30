@@ -1,10 +1,12 @@
 # Ulta Beauty, Inc. (ULTA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Specialty Retail | 시총 24B$ | 결산월: 1월**
+**Consumer Cyclical | Specialty Retail | 시총 24B$ (#553위) | 결산월: 1월**
 
-Ulta Beauty, Inc. operates as a specialty beauty retailer in the United States, Mexico, and Kuwait. The company offers branded and private label beauty products, including cosmetics, fragrance, haircare, skincare, bath and body products, professional hair products, and salon styling tools through its Ulta Beauty stores, shop-in-shops, Ulta.com website, and its mobile applications.
+Ulta Beauty, Inc.는 미국, 멕시코, 쿠웨이트 등지에서 화장품, 향수, 헤어케어 및 스킨케어 제품을 판매하는 프리미엄 전문 뷰티 소매업체입니다. 브랜드 매장, 숍인숍(shop-in-shops), 온라인 웹사이트 및 모바일 앱을 통해 자체 상표와 다양한 유명 브랜드 뷰티 제품 및 살롱용 도구를 제공합니다.
+
+*Ulta Beauty, Inc. operates as a specialty beauty retailer in the United States, Mexico, and Kuwait. The company offers branded and private label beauty products, including cosmetics, fragrance, haircare, skincare, bath and body products, professional hair products, and salon styling tools through its Ulta Beauty stores, shop-in-shops, Ulta.com website, and its mobile applications.*
 
 ---
 

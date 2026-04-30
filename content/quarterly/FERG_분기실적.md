@@ -1,10 +1,12 @@
 # Ferguson Enterprises Inc. /DE/ (FERG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Industrial Distribution | 시총 53B$ | 결산월: 12월**
+**Industrials | Industrial Distribution | 시총 53B$ (#311위) | 결산월: 12월**
 
-Ferguson Enterprises Inc. distributes essential water and air solutions to specialized professional in the United States and Canada. The company provides various products and services, including plumbing; pipe, valves, and fittings; heating, ventilation, and air conditioning; appliances; lighting; and water and wastewater solutions to residential and non-residential customers.
+Ferguson Enterprises는 미국과 캐나다의 전문 고객에게 필수적인 물과 공기 관련 솔루션을 유통한다. 주거용 및 비주거용 고객을 대상으로 배관, 파이프·밸브·피팅, HVAC, 가전, 조명, 상하수도 솔루션과 관련 서비스를 제공한다.
+
+*Ferguson Enterprises Inc. distributes essential water and air solutions to specialized professional in the United States and Canada. The company provides various products and services, including plumbing; pipe, valves, and fittings; heating, ventilation, and air conditioning; appliances; lighting; and water and wastewater solutions to residential and non-residential customers.*
 
 ---
 

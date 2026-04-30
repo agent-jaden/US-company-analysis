@@ -1,10 +1,12 @@
 # CINTAS CORP (CTAS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Business Services | 시총 70B$ | 결산월: 5월**
+**Industrials | Specialty Business Services | 시총 70B$ (#245위) | 결산월: 5월**
 
-Cintas Corporation engages in the provision of corporate identity uniforms and related business services primarily in the United States, Canada, and Latin America. It operates through Uniform Rental and Facility Services, First Aid and Safety Services, and All Other segments. The company rents and services uniforms and other garments, including flame resistant clothing, mats, mops and shop towels, and other ancillary items; and provides restroom cleaning services and supplies, as well as sells uniforms.
+Cintas Corporation은 미국과 캐나다 등을 중심으로 기업용 유니폼 렌탈 및 관련 비즈니스 시설 관리 서비스를 제공합니다. 내화성 작업복 대여, 바닥 매트 공급뿐만 아니라 응급 처치 용품, 화장실 청소 솔루션 등 기업 환경 유지에 필요한 종합 서비스를 운영합니다.
+
+*Cintas Corporation engages in the provision of corporate identity uniforms and related business services primarily in the United States, Canada, and Latin America. It operates through Uniform Rental and Facility Services, First Aid and Safety Services, and All Other segments. The company rents and services uniforms and other garments, including flame resistant clothing, mats, mops and shop towels, and other ancillary items; and provides restroom cleaning services and supplies, as well as sells uniforms.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Unity Software Inc. (U) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 12B$ | 결산월: 12월**
+**Technology | Software - Application | 시총 12B$ (#893위) | 결산월: 12월**
 
-Unity Software Inc. operates a platform to develop, deploy, and grow games and interactive experiences for mobile phones, PCs, consoles, and extended reality devices in the United States, China, Hong Kong, Taiwan, Europe, the Middle East, Africa, the Asia Pacific, Canada, and Latin America. The company's platform offers artificial intelligence solutions that support developers through the entire development lifecycle, which includes prototyping, live service operation, user acquisition, and monetization.
+Unity Software Inc.는 모바일, PC, 콘솔 및 확장 현실(XR) 기기 전반에서 게임과 인터랙티브 3D 콘텐츠를 제작, 배포 및 수익화할 수 있는 강력한 엔진 플랫폼을 제공합니다. 개발 초기 단계부터 운영, 사용자 확보 및 인앱 광고까지 게임 수명 주기 전체를 지원하는 AI 기반 통합 툴셋을 지원합니다.
+
+*Unity Software Inc. operates a platform to develop, deploy, and grow games and interactive experiences for mobile phones, PCs, consoles, and extended reality devices in the United States, China, Hong Kong, Taiwan, Europe, the Middle East, Africa, the Asia Pacific, Canada, and Latin America. The company's platform offers artificial intelligence solutions that support developers through the entire development lifecycle, which includes prototyping, live service operation, user acquisition, and monetization.*
 
 ---
 

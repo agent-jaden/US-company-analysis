@@ -1,10 +1,12 @@
 # NUCOR CORP (NUE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Steel | 시총 49B$ | 결산월: 12월**
+**Basic Materials | Steel | 시총 49B$ (#331위) | 결산월: 12월**
 
-Nucor Corporation engages in the manufacture and sale of steel and steel products. The company operates in three segments: Steel Mills, Steel Products, and Raw Materials. The Steel Mills segment produces hot-rolled, cold-rolled, and galvanized sheet steel products; plate steel products; wide-flange beams, beam blanks, and H-piling and sheet piling structural steel products; and bar steel products, such as blooms, billets, concrete reinforcing and merchant bars, and engineered special bar quality products.
+Nucor는 철강과 철강 제품을 제조·판매한다. Steel Mills, Steel Products, Raw Materials 부문을 운영하며 열연·냉연·도금 강판, 후판, wide-flange beam, H-piling, sheet piling, 봉강, bloom, billet, 철근, merchant bar, 특수봉강 제품을 생산한다.
+
+*Nucor Corporation engages in the manufacture and sale of steel and steel products. The company operates in three segments: Steel Mills, Steel Products, and Raw Materials. The Steel Mills segment produces hot-rolled, cold-rolled, and galvanized sheet steel products; plate steel products; wide-flange beams, beam blanks, and H-piling and sheet piling structural steel products; and bar steel products, such as blooms, billets, concrete reinforcing and merchant bars, and engineered special bar quality products.*
 
 ---
 

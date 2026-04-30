@@ -1,10 +1,12 @@
 # EQT Corp (EQT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas E&P | 시총 37B$ | 결산월: 12월**
+**Energy | Oil & Gas E&P | 시총 37B$ (#405위) | 결산월: 12월**
 
-EQT Corporation engages in the exploration, production, gathering, and transmission of hydrocarbons and natural gas. The company sells natural gas, natural gas liquids, and oil to marketers, utilities, and industrial customers located in the Appalachian Basin. It also provides marketing services and contractual pipeline capacity management services, as well as engages in risk management and hedging activities.
+EQT는 탄화수소와 천연가스의 탐사, 생산, 수집, 송전 사업을 영위한다. Appalachian Basin 지역의 마케터, 유틸리티, 산업 고객에게 천연가스, NGL, 원유를 판매하며 마케팅 서비스, 계약 기반 파이프라인 용량 관리, 리스크 관리와 헤지 활동도 수행한다.
+
+*EQT Corporation engages in the exploration, production, gathering, and transmission of hydrocarbons and natural gas. The company sells natural gas, natural gas liquids, and oil to marketers, utilities, and industrial customers located in the Appalachian Basin. It also provides marketing services and contractual pipeline capacity management services, as well as engages in risk management and hedging activities.*
 
 ---
 

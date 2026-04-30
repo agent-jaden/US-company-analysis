@@ -1,10 +1,12 @@
 # PENTAIR plc (PNR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Industrial Machinery | 시총 15B$ | 결산월: 12월**
+**Industrials | Specialty Industrial Machinery | 시총 15B$ (#750위) | 결산월: 12월**
 
-Pentair plc provides various water solutions in the United States, Western Europe, China, Latin America, the Middle East, Southeast Asia, Australia, and Canada. It operates through three segments: Flow, Water Solutions, and Pool. The Flow segment designs, manufactures, and sells fluid treatment and pump products and systems, including pressure vessels, gas recovery solutions, membrane bioreactors, wastewater reuse systems and advanced membrane filtration, separation systems, specialty insertion valves, water disposal pumps, water supply pumps, fluid transfer pumps, turbine pumps, solid handling pumps, and agricultural spray nozzles.
+Pentair plc는 미주, 유럽, 아시아 등 전 세계에 스마트 수처리 솔루션을 제공하는 수자원 관리 전문 기업입니다. 유체 흐름(Flow), 수질 솔루션, 수영장 관리의 세 부문을 통해 고성능 펌프, 여과 시스템, 폐수 재사용 및 농업용 스프레이 노즐 등 다양한 용도의 유체 처리 시스템을 설계하고 판매합니다.
+
+*Pentair plc provides various water solutions in the United States, Western Europe, China, Latin America, the Middle East, Southeast Asia, Australia, and Canada. It operates through three segments: Flow, Water Solutions, and Pool. The Flow segment designs, manufactures, and sells fluid treatment and pump products and systems, including pressure vessels, gas recovery solutions, membrane bioreactors, wastewater reuse systems and advanced membrane filtration, separation systems, specialty insertion valves, water disposal pumps, water supply pumps, fluid transfer pumps, turbine pumps, solid handling pumps, and agricultural spray nozzles.*
 
 ---
 

@@ -1,10 +1,12 @@
 # LINDE PLC (LIN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Specialty Chemicals | 시총 237B$ | 결산월: 12월**
+**Basic Materials | Specialty Chemicals | 시총 237B$ (#56위) | 결산월: 12월**
 
-Linde plc operates as an industrial gas company worldwide. It offers atmospheric gases, including oxygen, nitrogen, argon, and rare gases; and process gases, such as hydrogen, helium, carbon dioxide, carbon monoxide, electronic gases, specialty gases, and acetylene. The company also engages in designing and constructing of turnkey process plants for third-party customers, as well as for the gas businesses in various locations comprising air separation, hydrogen, synthesis, olefin, and natural gas plants.
+Linde plc는 산소, 질소, 아르곤 등의 대기 가스와 수소, 헬륨, 이산화탄소 등의 공정 가스를 전 세계에 제공하는 산업용 가스 기업입니다. 또한, 제3자 고객 및 가스 사업부를 위해 공기 분리, 수소 및 천연가스 플랜트 등 턴키 방식의 공정 플랜트 설계 및 건설 사업도 수행합니다.
+
+*Linde plc operates as an industrial gas company worldwide. It offers atmospheric gases, including oxygen, nitrogen, argon, and rare gases; and process gases, such as hydrogen, helium, carbon dioxide, carbon monoxide, electronic gases, specialty gases, and acetylene. The company also engages in designing and constructing of turnkey process plants for third-party customers, as well as for the gas businesses in various locations comprising air separation, hydrogen, synthesis, olefin, and natural gas plants.*
 
 ---
 

@@ -1,10 +1,12 @@
 # CONSOLIDATED EDISON INC (ED) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 40B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 40B$ (#377위) | 결산월: 12월**
 
-Consolidated Edison, Inc., through its subsidiaries, engages in the regulated electric, gas, and steam delivery businesses in the United States. The company offers electric services to approximately 3.7 million customers in New York City and Westchester County; gas to approximately 1.1 million customers in Manhattan, the Bronx, parts of Queens, and Westchester County; and steam to approximately 1,490 customers in parts of Manhattan. It also supplies electricity to approximately 0.3 million customers in southeastern New York and northern New Jersey; and gas to approximately 0.1 million customers in southeastern New York.
+Consolidated Edison은 자회사를 통해 미국에서 규제 전력, 가스, 증기 공급 사업을 운영한다. 뉴욕시와 Westchester County의 약 3.7 million 전력 고객, Manhattan·Bronx·Queens 일부와 Westchester County의 약 1.1 million 가스 고객, Manhattan 일부의 증기 고객에게 서비스를 제공한다.
+
+*Consolidated Edison, Inc., through its subsidiaries, engages in the regulated electric, gas, and steam delivery businesses in the United States. The company offers electric services to approximately 3.7 million customers in New York City and Westchester County; gas to approximately 1.1 million customers in Manhattan, the Bronx, parts of Queens, and Westchester County; and steam to approximately 1,490 customers in parts of Manhattan. It also supplies electricity to approximately 0.3 million customers in southeastern New York and northern New Jersey; and gas to approximately 0.1 million customers in southeastern New York.*
 
 ---
 

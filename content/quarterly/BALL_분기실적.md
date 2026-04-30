@@ -1,10 +1,12 @@
 # BALL Corp (BALL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Packaging & Containers | 시총 16B$ | 결산월: 12월**
+**Consumer Cyclical | Packaging & Containers | 시총 16B$ (#720위) | 결산월: 12월**
 
-Ball Corporation supplies aluminum packaging products for the beverage, personal care, and household products industries in the United States, Brazil, and internationally. The company manufactures and sells aluminum beverage containers to fillers of carbonated soft drinks, beer, energy drinks, and other beverages. It manufactures and sells extruded aluminum aerosol containers, recloseable aluminum bottles, aluminum cups, and aluminum slugs.
+Ball Corporation은 미국, 브라질 및 전 세계 음료, 퍼스널 케어 및 생활용품 산업에 알루미늄 포장재를 공급하는 기업입니다. 탄산음료, 맥주 등을 위한 알루미늄 캔 외에도 압출 알루미늄 에어로졸 용기, 재사용 가능한 알루미늄 병 및 컵을 제조하여 판매합니다.
+
+*Ball Corporation supplies aluminum packaging products for the beverage, personal care, and household products industries in the United States, Brazil, and internationally. The company manufactures and sells aluminum beverage containers to fillers of carbonated soft drinks, beer, energy drinks, and other beverages. It manufactures and sells extruded aluminum aerosol containers, recloseable aluminum bottles, aluminum cups, and aluminum slugs.*
 
 ---
 

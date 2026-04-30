@@ -1,10 +1,12 @@
 # NIO Inc. (NIO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
 
-**Consumer Cyclical | Auto Manufacturers | 시총 16B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Manufacturers | 시총 16B$ (#734위) | 결산월: 12월**
 
-NIO Inc. designs, develops, manufactures, and sells smart electric vehicles in China, Europe, and internationally. It offers five and six-seater electric SUVs, as well as smart electric sedans.
+NIO Inc.는 중국, 유럽 및 전 세계 시장에서 프리미엄 스마트 전기차를 설계, 개발, 제조 및 판매하는 기업입니다. 고성능 기술이 탑재된 5인승 및 6인승 전기 SUV와 스마트 전기 세단 라인업을 주력으로 제공하고 있습니다.
+
+*NIO Inc. designs, develops, manufactures, and sells smart electric vehicles in China, Europe, and internationally. It offers five and six-seater electric SUVs, as well as smart electric sedans.*
 
 ---
 

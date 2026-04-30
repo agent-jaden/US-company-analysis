@@ -1,10 +1,12 @@
 # PTC INC. (PTC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 16B$ | 결산월: 9월**
+**Technology | Software - Application | 시총 16B$ (#721위) | 결산월: 9월**
 
-PTC Inc. operates as software company in the Americas, Europe, and the Asia Pacific. The company provides Windchill, a suite that manages all aspects of the product development lifecycle(PLM) that provides real-time information sharing, dynamic data visualization, collaborate across geographically distributed teams, and enabling manufacturers to elevate product development, manufacturing, field service, and end-of-life processes; ThingWorx, an Industrial Internet of Things software; ServiceMax, a service lifecycle management solutions enable companies to asset uptime with optimized in-person and remote service and technician productivity with mobile tools, and deliver metrics; and Arena, a SaaS PLM solution enables product teams to collaborate virtually to share product and quality information with internal teams and supply chain partners and deliver products to customers.
+PTC Inc.는 미주, 유럽, 아시아 태평양 지역에서 제조 산업을 위한 디지털 혁신 소프트웨어를 제공합니다. 제품 수명주기 관리(PLM) 솔루션인 Windchill 및 Arena, 산업용 IoT 플랫폼인 ThingWorx, 현장 서비스 관리 시스템인 ServiceMax 등을 통해 제품 설계부터 제조, 유지보수까지 전 과정을 최적화합니다.
+
+*PTC Inc. operates as software company in the Americas, Europe, and the Asia Pacific. The company provides Windchill, a suite that manages all aspects of the product development lifecycle(PLM) that provides real-time information sharing, dynamic data visualization, collaborate across geographically distributed teams, and enabling manufacturers to elevate product development, manufacturing, field service, and end-of-life processes; ThingWorx, an Industrial Internet of Things software; ServiceMax, a service lifecycle management solutions enable companies to asset uptime with optimized in-person and remote service and technician productivity with mobile tools, and deliver metrics; and Arena, a SaaS PLM solution enables product teams to collaborate virtually to share product and quality information with internal teams and supply chain partners and deliver products to customers.*
 
 ---
 

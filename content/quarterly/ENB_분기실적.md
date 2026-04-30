@@ -1,10 +1,12 @@
 # ENBRIDGE INC (ENB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Midstream | 시총 114B$ | 결산월: 12월**
+**Energy | Oil & Gas Midstream | 시총 114B$ (#140위) | 결산월: 12월**
 
-Enbridge Inc., together with its subsidiaries, operates as an energy infrastructure company. The company operates through four segments: Liquids Pipelines, Gas Transmission, Gas Distribution and Storage, and Renewable Power Generation. The Liquids Pipelines segment operates pipelines and related terminals to transport, store, and export various grades of crude oil and other liquid hydrocarbons in Canada and the United States.
+Enbridge는 에너지 인프라 기업으로 Liquids Pipelines, Gas Transmission, Gas Distribution and Storage, Renewable Power Generation 부문을 운영한다. Liquids Pipelines 부문은 캐나다와 미국에서 원유 및 기타 액체 탄화수소의 운송, 저장, 수출을 위한 파이프라인과 터미널을 운영한다.
+
+*Enbridge Inc., together with its subsidiaries, operates as an energy infrastructure company. The company operates through four segments: Liquids Pipelines, Gas Transmission, Gas Distribution and Storage, and Renewable Power Generation. The Liquids Pipelines segment operates pipelines and related terminals to transport, store, and export various grades of crude oil and other liquid hydrocarbons in Canada and the United States.*
 
 ---
 

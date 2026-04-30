@@ -1,10 +1,12 @@
 # AerCap Holdings N.V. (AER) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Rental & Leasing Services | 시총 23B$ | 결산월: 12월**
+**Industrials | Rental & Leasing Services | 시총 23B$ (#576위) | 결산월: 12월**
 
-AerCap Holdings N.V. engages in the lease, financing, sale, and management of commercial flight equipment in the United States, China, and internationally. The company engages in aircraft and engine asset management services, such as remarketing aircraft and engines for lease or sale; collecting rental and supplemental maintenance rent payments, monitoring aircraft maintenance, monitoring and enforcing contract compliance, and accepting delivery and redelivery of aircraft and engines; conducting ongoing lessee financial performance reviews.
+AerCap은 미국, 중국 및 해외에서 상업용 항공 장비의 임대, 금융, 판매, 관리를 수행한다. 항공기와 엔진의 리마케팅, 임대료·정비충당금 수취, 정비 상태와 계약 준수 관리, 항공기·엔진 인도 및 반납, 임차인 재무상태 점검 등 자산관리 서비스를 제공한다.
+
+*AerCap Holdings N.V. engages in the lease, financing, sale, and management of commercial flight equipment in the United States, China, and internationally. The company engages in aircraft and engine asset management services, such as remarketing aircraft and engines for lease or sale; collecting rental and supplemental maintenance rent payments, monitoring aircraft maintenance, monitoring and enforcing contract compliance, and accepting delivery and redelivery of aircraft and engines; conducting ongoing lessee financial performance reviews.*
 
 ---
 

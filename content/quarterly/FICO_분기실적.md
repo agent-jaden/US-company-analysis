@@ -1,10 +1,12 @@
 # FAIR ISAAC CORP (FICO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 24B$ | 결산월: 9월**
+**Technology | Software - Application | 시총 24B$ (#545위) | 결산월: 9월**
 
-Fair Isaac Corporation provides analytics software in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It operates through two segments, Scores and Software. The Scores segment offers business-to-business scoring solutions and services that give clients access to predictive credit and other scores that can be integrated into their transaction streams and decision-making processes, as well as business-to-consumer scoring solutions comprising myFICO.com subscription offerings.
+Fair Isaac Corporation은 미주, 유럽, 아시아 태평양 등 전 세계 금융 및 비즈니스 시장에 분석 소프트웨어와 솔루션을 제공합니다. 기업의 거래 및 의사결정 프로세스에 통합할 수 있는 예측형 B2B 신용 평가 점수와 myFICO.com을 통한 개인 소비자 대상 신용 정보 구독 서비스를 지원합니다.
+
+*Fair Isaac Corporation provides analytics software in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It operates through two segments, Scores and Software. The Scores segment offers business-to-business scoring solutions and services that give clients access to predictive credit and other scores that can be integrated into their transaction streams and decision-making processes, as well as business-to-consumer scoring solutions comprising myFICO.com subscription offerings.*
 
 ---
 

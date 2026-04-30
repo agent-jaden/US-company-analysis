@@ -1,10 +1,12 @@
 # HASBRO, INC. (HAS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Leisure | 시총 13B$ | 결산월: 12월**
+**Consumer Cyclical | Leisure | 시총 13B$ (#809위) | 결산월: 12월**
 
-Hasbro, Inc. operates as a toy and game company in the United States, Europe, Canada, Mexico, Latin America, Australia, China, and Hong Kong. The company offers trading cards and collectibles, action figures, arts and crafts and creative play products, dolls, play sets, preschool toys, plush products, vehicles and toy-related specialty products, sports action products and accessories, and other consumer products; and licensed products, such as apparel, publishing products, home goods and electronics, and toy products.
+Hasbro는 미국, 유럽, 캐나다, 멕시코, 라틴아메리카, 호주, 중국, 홍콩에서 장난감과 게임 사업을 운영한다. 트레이딩 카드, 수집품, 액션 피규어, 창작 놀이 제품, 인형, 플레이세트, 유아용 장난감, 봉제완구, 차량·스포츠 액션 제품과 의류·출판·홈굿즈·전자제품 등 라이선스 상품을 제공한다.
+
+*Hasbro, Inc. operates as a toy and game company in the United States, Europe, Canada, Mexico, Latin America, Australia, China, and Hong Kong. The company offers trading cards and collectibles, action figures, arts and crafts and creative play products, dolls, play sets, preschool toys, plush products, vehicles and toy-related specialty products, sports action products and accessories, and other consumer products; and licensed products, such as apparel, publishing products, home goods and electronics, and toy products.*
 
 ---
 

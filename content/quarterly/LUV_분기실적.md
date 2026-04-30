@@ -1,10 +1,12 @@
 # SOUTHWEST AIRLINES CO (LUV) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Airlines | 시총 19B$ | 결산월: 12월**
+**Industrials | Airlines | 시총 19B$ (#653위) | 결산월: 12월**
 
-Southwest Airlines Co. operates as a passenger airline company that provides scheduled air transportation services in the United States and internationally. It also provides Rapid Rewards loyalty program; SWABIZ, an online booking tool; and inflight entertainment platform that includes movies-on-demand live and on-demand television, flight tracker, and additional curated content, as well as a variety of premium snacks and coffee.
+Southwest Airlines Co.는 미국 국내선 및 일부 국제선에서 정기 여객 항공 운송 서비스를 제공하는 주요 항공사입니다. 항공권 예매 외에도 마일리지 프로그램인 Rapid Rewards와 기업용 온라인 예약 도구인 SWABIZ를 운영하며, 차별화된 기내 엔터테인먼트 플랫폼을 지원합니다.
+
+*Southwest Airlines Co. operates as a passenger airline company that provides scheduled air transportation services in the United States and internationally. It also provides Rapid Rewards loyalty program; SWABIZ, an online booking tool; and inflight entertainment platform that includes movies-on-demand live and on-demand television, flight tracker, and additional curated content, as well as a variety of premium snacks and coffee.*
 
 ---
 

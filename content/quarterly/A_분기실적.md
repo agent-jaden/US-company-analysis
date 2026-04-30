@@ -1,10 +1,12 @@
 # AGILENT TECHNOLOGIES, INC. (A) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Diagnostics & Research | 시총 33B$ | 결산월: 10월**
+**Healthcare | Diagnostics & Research | 시총 33B$ (#440위) | 결산월: 10월**
 
-Agilent Technologies, Inc. provides application focused solutions to the life sciences, diagnostics, and applied chemical markets worldwide. The company operates through three segments: Life Sciences and Diagnostics Markets, Agilent CrossLab, and Applied Markets.
+Agilent Technologies는 전 세계 생명과학, 진단, 응용화학 시장에 특화 솔루션을 제공한다. Life Sciences and Diagnostics Markets, Agilent CrossLab, Applied Markets 부문을 통해 분석기기, 진단·연구 솔루션, 실험실 서비스와 소모품을 공급한다.
+
+*Agilent Technologies, Inc. provides application focused solutions to the life sciences, diagnostics, and applied chemical markets worldwide. The company operates through three segments: Life Sciences and Diagnostics Markets, Agilent CrossLab, and Applied Markets.*
 
 ---
 

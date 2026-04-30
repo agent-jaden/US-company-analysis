@@ -1,10 +1,12 @@
 # Oklo Inc. (OKLO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Independent Power Producers | 시총 13B$ | 결산월: 12월**
+**Utilities | Utilities - Independent Power Producers | 시총 13B$ (#816위) | 결산월: 12월**
 
-Oklo Inc. develops advanced fission power plants to provide clean, reliable, and affordable energy at scale to customers in the United States. The company's primary offering is the Aurora powerhouse, which is designed to produce between 15 and up to 75 megawatts of electricity.
+Oklo는 미국 고객에게 대규모로 청정하고 신뢰성 있으며 경제적인 에너지를 공급하기 위한 advanced fission 발전소를 개발한다. 주력 제품은 15~75MW 전력을 생산하도록 설계된 Aurora powerhouse다.
+
+*Oklo Inc. develops advanced fission power plants to provide clean, reliable, and affordable energy at scale to customers in the United States. The company's primary offering is the Aurora powerhouse, which is designed to produce between 15 and up to 75 megawatts of electricity.*
 
 ---
 

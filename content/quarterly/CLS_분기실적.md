@@ -1,10 +1,12 @@
 # CELESTICA INC (CLS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Electronic Components | 시총 49B$ | 결산월: 12월**
+**Technology | Electronic Components | 시총 49B$ (#333위) | 결산월: 12월**
 
-Celestica Inc., together with its subsidiaries, provides supply chain solutions in Asia, North America, and internationally. It operates through two segments, Advanced Technology Solutions, and Connectivity and Cloud Solutions. The company offers a range of product manufacturing and related supply chain services, including design and development, new product introduction, engineering services, component sourcing, electronics manufacturing and assembly, testing, mechanical assembly, systems integration, precision machining, logistics, asset management, product licensing, and after-market repair and return services.
+Celestica는 아시아, 북미 등에서 공급망 솔루션을 제공한다. Advanced Technology Solutions와 Connectivity and Cloud Solutions 부문을 통해 설계·개발, 신제품 도입, 엔지니어링, 부품 조달, 전자 제조·조립, 테스트, 정밀가공, 물류, 자산관리, 사후 수리·반품 서비스를 제공한다.
+
+*Celestica Inc., together with its subsidiaries, provides supply chain solutions in Asia, North America, and internationally. It operates through two segments, Advanced Technology Solutions, and Connectivity and Cloud Solutions. The company offers a range of product manufacturing and related supply chain services, including design and development, new product introduction, engineering services, component sourcing, electronics manufacturing and assembly, testing, mechanical assembly, systems integration, precision machining, logistics, asset management, product licensing, and after-market repair and return services.*
 
 ---
 

@@ -1,10 +1,12 @@
 # CVS HEALTH Corp (CVS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Healthcare Plans | 시총 100B$ | 결산월: 12월**
+**Healthcare | Healthcare Plans | 시총 100B$ (#159위) | 결산월: 12월**
 
-CVS Health Corporation provides health solutions in the United States. The company operates through Health Care Benefits, Health Services, and Pharmacy & Consumer Wellness segments. The Health Care Benefits segment offers traditional, voluntary, and consumer-directed health insurance products and related services, including medical, pharmacy, dental and behavioral health plans, medical management capabilities, Medicare Advantage and Medicare Supplement plans, PDPS and Medicaid health care management services.
+CVS Health는 미국에서 건강관리 솔루션을 제공하는 헬스케어 기업이다. Health Care Benefits, Health Services, Pharmacy & Consumer Wellness 부문을 통해 의료·약국·치과·행동건강 보험, Medicare Advantage, Medicare Supplement, Medicaid 관리 서비스와 약국·소비자 건강 서비스를 제공한다.
+
+*CVS Health Corporation provides health solutions in the United States. The company operates through Health Care Benefits, Health Services, and Pharmacy & Consumer Wellness segments. The Health Care Benefits segment offers traditional, voluntary, and consumer-directed health insurance products and related services, including medical, pharmacy, dental and behavioral health plans, medical management capabilities, Medicare Advantage and Medicare Supplement plans, PDPS and Medicaid health care management services.*
 
 ---
 

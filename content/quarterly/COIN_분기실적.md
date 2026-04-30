@@ -1,10 +1,12 @@
 # Coinbase Global, Inc. (COIN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Financial Data & Stock Exchanges | 시총 52B$ | 결산월: 12월**
+**Financial Services | Financial Data & Stock Exchanges | 시총 52B$ (#313위) | 결산월: 12월**
 
-Coinbase Global, Inc. operates platform for crypto assets in the United States and internationally. It provides the primary financial account in the crypto economy for consumers; a brokerage platform with a pool of liquidity across the crypto marketplace for institutions; and a suite of products granting access to build onchain for developers.
+Coinbase Global은 미국과 해외에서 암호자산 플랫폼을 운영한다. 소비자에게는 크립토 경제의 주요 금융 계정을, 기관에는 암호자산 시장의 유동성에 접근하는 중개 플랫폼을, 개발자에게는 onchain 구축을 위한 제품군을 제공한다.
+
+*Coinbase Global, Inc. operates platform for crypto assets in the United States and internationally. It provides the primary financial account in the crypto economy for consumers; a brokerage platform with a pool of liquidity across the crypto marketplace for institutions; and a suite of products granting access to build onchain for developers.*
 
 ---
 

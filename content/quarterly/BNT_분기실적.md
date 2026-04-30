@@ -1,10 +1,12 @@
 # Brookfield Wealth Solutions Ltd. (BNT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Diversified | 시총 12B$ | 결산월: 12월**
+**Financial Services | Insurance - Diversified | 시총 12B$ (#857위) | 결산월: 12월**
 
-Brookfield Wealth Solutions Ltd., through its subsidiaries, provides retirement services, wealth protection products, and capital solutions to individuals and institutions. It operates through Annuities, Property and Casualty (P&C), Life Insurance segments. The Annuities segment offers retail and institutional annuities, including fixed index, fixed rate, single premium immediate, and variable annuities, as well as pension risk transfer.
+Brookfield Wealth Solutions Ltd.는 개인과 기관을 대상으로 은퇴 설계 서비스, 자산 보호 상품, 자본 솔루션을 제공합니다. 연금, 손해보험(P&C), 생명보험 부문을 통해 고정 및 변액 연금, 연금 위험 이전(PRT) 등 다양한 소매 및 기관용 금융 상품을 지원합니다.
+
+*Brookfield Wealth Solutions Ltd., through its subsidiaries, provides retirement services, wealth protection products, and capital solutions to individuals and institutions. It operates through Annuities, Property and Casualty (P&C), Life Insurance segments. The Annuities segment offers retail and institutional annuities, including fixed index, fixed rate, single premium immediate, and variable annuities, as well as pension risk transfer.*
 
 ---
 

@@ -1,10 +1,12 @@
 # AES CORP (AES) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Diversified | 시총 10B$ | 결산월: 12월**
+**Utilities | Utilities - Diversified | 시총 10B$ (#960위) | 결산월: 12월**
 
-The AES Corporation, together with its subsidiaries, operates as a power generation and utility company. It operates through four segments: Renewables, Utilities, Energy Infrastructure, and New Energy Technologies. The company owns and/or operates power plants to generate and sell power to customers, such as utilities, industrial users, and other intermediaries; owns and/or operates utilities to generate or purchase, distribute, transmit, and sell electricity to end-user customers in the residential, commercial, industrial, and governmental sectors; and generates and sells electricity on the wholesale market, as well as investments in technologies to support leading-edge greener energy solutions.
+AES는 자회사와 함께 발전 및 유틸리티 사업을 운영한다. Renewables, Utilities, Energy Infrastructure, New Energy Technologies 부문을 통해 발전소를 보유·운영해 전력을 생산·판매하고, 주거·상업·산업·정부 고객에게 전력 송배전 서비스를 제공하며 친환경 에너지 기술에도 투자한다.
+
+*The AES Corporation, together with its subsidiaries, operates as a power generation and utility company. It operates through four segments: Renewables, Utilities, Energy Infrastructure, and New Energy Technologies. The company owns and/or operates power plants to generate and sell power to customers, such as utilities, industrial users, and other intermediaries; owns and/or operates utilities to generate or purchase, distribute, transmit, and sell electricity to end-user customers in the residential, commercial, industrial, and governmental sectors; and generates and sells electricity on the wholesale market, as well as investments in technologies to support leading-edge greener energy solutions.*
 
 ---
 

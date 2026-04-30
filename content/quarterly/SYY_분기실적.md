@@ -1,10 +1,12 @@
 # SYSCO CORP (SYY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Food Distribution | 시총 36B$ | 결산월: 6월**
+**Consumer Defensive | Food Distribution | 시총 36B$ (#413위) | 결산월: 6월**
 
-Sysco Corporation, through its subsidiaries, engages in the marketing and distribution of various food and related products to the foodservice or food-away-from-home industry in the United States, Canada, the United Kingdom, France, and internationally. It operates through U.S. Foodservice Operations, International Foodservice Operations, SYGMA, and Other segments.
+Sysco는 자회사를 통해 미국, 캐나다, 영국, 프랑스 및 해외의 외식·푸드서비스 산업에 식품과 관련 제품을 마케팅·유통한다. U.S. Foodservice Operations, International Foodservice Operations, SYGMA, Other 부문을 통해 식자재 공급망 서비스를 운영한다.
+
+*Sysco Corporation, through its subsidiaries, engages in the marketing and distribution of various food and related products to the foodservice or food-away-from-home industry in the United States, Canada, the United Kingdom, France, and internationally. It operates through U.S. Foodservice Operations, International Foodservice Operations, SYGMA, and Other segments.*
 
 ---
 

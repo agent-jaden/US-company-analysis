@@ -1,10 +1,12 @@
 # Summit Therapeutics Inc. (SMMT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Biotechnology | 시총 17B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 17B$ (#688위) | 결산월: 12월**
 
-Summit Therapeutics Inc., a biopharmaceutical company, focuses on discovery, development, and commercialization of patient, physician, caregiver, and societal friendly medicinal therapies. Its lead development candidate is ivonescimab, a bispecific antibody for immunotherapy through blockade of PD-1 with the anti-angiogenesis for the treatment of non-small lung cancer (NSCLC) and colorectal cancer (CRC). The company has also combined ivonescimab with chemotherapy, which is in phase III clinical trial for the patients with epidermal growth factor receptor, mutated, and locally advanced or metastatic non-squamous NSCLC; first-line metastatic NSCLC; and first-line unresectable metastatic CRC.
+Summit Therapeutics는 환자, 의사, 간병인, 사회에 친화적인 치료제의 발굴·개발·상업화에 집중하는 바이오제약 기업이다. 주요 후보물질 ivonescimab은 PD-1 차단과 항혈관신생 작용을 결합한 이중특이성 항체로, 비소세포폐암과 대장암 치료를 목표로 하며 화학요법 병용 임상 3상도 진행 중이다.
+
+*Summit Therapeutics Inc., a biopharmaceutical company, focuses on discovery, development, and commercialization of patient, physician, caregiver, and societal friendly medicinal therapies. Its lead development candidate is ivonescimab, a bispecific antibody for immunotherapy through blockade of PD-1 with the anti-angiogenesis for the treatment of non-small lung cancer (NSCLC) and colorectal cancer (CRC). The company has also combined ivonescimab with chemotherapy, which is in phase III clinical trial for the patients with epidermal growth factor receptor, mutated, and locally advanced or metastatic non-squamous NSCLC; first-line metastatic NSCLC; and first-line unresectable metastatic CRC.*
 
 ---
 

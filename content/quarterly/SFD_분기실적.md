@@ -1,10 +1,12 @@
 # SMITHFIELD FOODS INC (SFD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Packaged Foods | 시총 11B$ | 결산월: 12월**
+**Consumer Defensive | Packaged Foods | 시총 11B$ (#907위) | 결산월: 12월**
 
-Smithfield Foods, Inc., together with its subsidiaries, produces various packaged meats and fresh pork products in the United States and internationally. It operates through Packaged Meats, Fresh Pork, Hog Production, and Other segments. The Packaged Meats segment processes fresh meat into various packaged meats products, including bacon, sausage, hot dogs, deli and lunch meats, dry sausage products, ham products, ready-to-eat products, and prepared foods to retail and foodservice customers.
+Smithfield Foods는 자회사를 통해 미국과 해외에서 다양한 포장육과 신선 돼지고기 제품을 생산한다. Packaged Meats, Fresh Pork, Hog Production, Other 부문을 운영하며 베이컨, 소시지, 핫도그, 델리·런치미트, 건조 소시지, 햄, ready-to-eat 제품과 간편식품을 리테일 및 푸드서비스 고객에게 공급한다.
+
+*Smithfield Foods, Inc., together with its subsidiaries, produces various packaged meats and fresh pork products in the United States and internationally. It operates through Packaged Meats, Fresh Pork, Hog Production, and Other segments. The Packaged Meats segment processes fresh meat into various packaged meats products, including bacon, sausage, hot dogs, deli and lunch meats, dry sausage products, ham products, ready-to-eat products, and prepared foods to retail and foodservice customers.*
 
 ---
 

@@ -1,10 +1,12 @@
 # NEUROCRINE BIOSCIENCES INC (NBIX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Drug Manufacturers - Specialty & Generic | 시총 13B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - Specialty & Generic | 시총 13B$ (#831위) | 결산월: 12월**
 
-Neurocrine Biosciences, Inc. discovers, develops, and commercialize pharmaceuticals for neurological, psychiatric, endocrine, and immunological disorders in the United States and internationally. The company's products include INGREZZA for tardive dyskinesia and chorea associated with Huntington's disease; Orilissa tablets for endometriosis; Oriahnn capsules to treat uterine fibroids; and CRENESSITY to treat congenital adrenal hyperplasia, as well as offers products under the name of ALKINDI and Efmody.
+Neurocrine Biosciences는 미국과 해외에서 신경계, 정신질환, 내분비, 면역질환 치료제를 발굴·개발·상업화한다. INGREZZA, Orilissa, Oriahnn, CRENESSITY와 ALKINDI, Efmody 제품을 통해 지연성 운동이상증, 헌팅턴병 관련 무도증, 자궁내막증, 자궁근종, 선천성 부신과형성증 등을 치료한다.
+
+*Neurocrine Biosciences, Inc. discovers, develops, and commercialize pharmaceuticals for neurological, psychiatric, endocrine, and immunological disorders in the United States and internationally. The company's products include INGREZZA for tardive dyskinesia and chorea associated with Huntington's disease; Orilissa tablets for endometriosis; Oriahnn capsules to treat uterine fibroids; and CRENESSITY to treat congenital adrenal hyperplasia, as well as offers products under the name of ALKINDI and Efmody.*
 
 ---
 

@@ -1,10 +1,12 @@
 # L3HARRIS TECHNOLOGIES, INC. /DE/ (LHX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 60B$ | 결산월: 1월**
+**Industrials | Aerospace & Defense | 시총 60B$ (#285위) | 결산월: 1월**
 
-L3Harris Technologies, Inc. provides mission-critical solutions for government and commercial customers worldwide. It operates through three segments: Space & Mission Systems (SMS), Communications & Spectrum Dominance (CSD), and Missile Solutions (MSL).
+L3Harris Technologies는 전 세계 정부 및 상업 고객에게 임무수행에 필수적인 솔루션을 제공한다. Space & Mission Systems, Communications & Spectrum Dominance, Missile Solutions 부문을 통해 우주·임무 시스템, 통신·전자전, 미사일 관련 솔루션을 운영한다.
+
+*L3Harris Technologies, Inc. provides mission-critical solutions for government and commercial customers worldwide. It operates through three segments: Space & Mission Systems (SMS), Communications & Spectrum Dominance (CSD), and Missile Solutions (MSL).*
 
 ---
 

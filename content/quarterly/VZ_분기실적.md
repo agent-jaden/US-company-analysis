@@ -1,10 +1,12 @@
 # VERIZON COMMUNICATIONS INC (VZ) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Telecom Services | 시총 197B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 197B$ (#70위) | 결산월: 12월**
 
-Verizon Communications Inc., through its subsidiaries, engages in the provision of communications, technology, information, and streaming products and services to consumers, businesses, and governmental entities worldwide. It operates in two segments, Verizon Consumer Group (Consumer) and Verizon Business Group (Business). The Consumer segment provides wireless services across the wireless networks in the United States under the Verizon and TracFone brands and through wholesale and other arrangements; and fixed wireless access (FWA) broadband through its wireless networks, as well as related equipment and devices, such as smartphones, tablets, smartwatches, and other wireless-enabled connected devices.
+Verizon Communications Inc.는 전 세계 소비자, 기업 및 정부 기관에 통신, 기술, 정보 및 스트리밍 서비스를 제공합니다. 소비자 그룹과 비즈니스 그룹 두 부문으로 나뉘어 무선 통신 서비스, 고정 무선 접속(FWA) 브로드밴드 및 관련 스마트 기기를 판매합니다.
+
+*Verizon Communications Inc., through its subsidiaries, engages in the provision of communications, technology, information, and streaming products and services to consumers, businesses, and governmental entities worldwide. It operates in two segments, Verizon Consumer Group (Consumer) and Verizon Business Group (Business). The Consumer segment provides wireless services across the wireless networks in the United States under the Verizon and TracFone brands and through wholesale and other arrangements; and fixed wireless access (FWA) broadband through its wireless networks, as well as related equipment and devices, such as smartphones, tablets, smartwatches, and other wireless-enabled connected devices.*
 
 ---
 

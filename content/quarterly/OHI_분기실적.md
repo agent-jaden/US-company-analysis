@@ -1,10 +1,12 @@
 # OMEGA HEALTHCARE INVESTORS INC (OHI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Healthcare Facilities | 시총 14B$ | 결산월: 12월**
+**Real Estate | REIT - Healthcare Facilities | 시총 14B$ (#779위) | 결산월: 12월**
 
-Omega Healthcare Investors, Inc. is a Real Estate Investment Trust. The firm is providing financing and capital to the long-term healthcare industry in the United States and the United Kingdom with a focus on skilled nursing and assisted living facilities, including care homes in the United Kingdom.
+Omega Healthcare Investors는 미국과 영국의 장기 헬스케어 산업에 금융과 자본을 제공하는 REIT다. skilled nursing, assisted living 시설과 영국 care home에 집중해 의료·요양 부동산 투자를 수행한다.
+
+*Omega Healthcare Investors, Inc. is a Real Estate Investment Trust. The firm is providing financing and capital to the long-term healthcare industry in the United States and the United Kingdom with a focus on skilled nursing and assisted living facilities, including care homes in the United Kingdom.*
 
 ---
 

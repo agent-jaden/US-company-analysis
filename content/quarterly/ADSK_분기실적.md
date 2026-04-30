@@ -1,10 +1,12 @@
 # Autodesk, Inc. (ADSK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 50B$ | 결산월: 1월**
+**Technology | Software - Application | 시총 50B$ (#328위) | 결산월: 1월**
 
-Autodesk, Inc. engages in the provision of 3D design, engineering, and entertainment technology solutions worldwide. The company offers AutoCAD Civil 3D, a surveying, design, analysis, and documentation solution; Autodesk Build, a toolset for managing, sharing, and accessing project documents for streamlined workflows between the office, trailer, and jobsite; Revit, a software built for building information modeling to help professionals design, build, and maintain energy-efficient buildings; Autodesk BIM Collaborate Pro, cloud-based design collaboration and design management software; BuildingConnected, a SaaS preconstruction solution; and Tandem, a cloud-based platform that transforms the built asset lifecycle.
+Autodesk는 전 세계에서 3D 설계, 엔지니어링, 엔터테인먼트 기술 솔루션을 제공한다. AutoCAD Civil 3D, Autodesk Build, Revit, Autodesk BIM Collaborate Pro, BuildingConnected, Tandem 등을 통해 설계·시공·문서관리·BIM 협업·건설 자산 수명주기 관리를 지원한다.
+
+*Autodesk, Inc. engages in the provision of 3D design, engineering, and entertainment technology solutions worldwide. The company offers AutoCAD Civil 3D, a surveying, design, analysis, and documentation solution; Autodesk Build, a toolset for managing, sharing, and accessing project documents for streamlined workflows between the office, trailer, and jobsite; Revit, a software built for building information modeling to help professionals design, build, and maintain energy-efficient buildings; Autodesk BIM Collaborate Pro, cloud-based design collaboration and design management software; BuildingConnected, a SaaS preconstruction solution; and Tandem, a cloud-based platform that transforms the built asset lifecycle.*
 
 ---
 

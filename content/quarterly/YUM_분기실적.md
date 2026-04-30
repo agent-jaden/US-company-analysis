@@ -1,10 +1,12 @@
 # YUM BRANDS INC (YUM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Restaurants | 시총 43B$ | 결산월: 12월**
+**Consumer Cyclical | Restaurants | 시총 43B$ (#362위) | 결산월: 12월**
 
-Yum! Brands, Inc., together with its subsidiaries, develops, operates, and franchises traditional and non-traditional quick service restaurants in the United States, China, and internationally. The company operates in four segments: KFC Division, Taco Bell Division, Pizza Hut Division, and Habit Burger & Grill Division.
+Yum! Brands는 미국, 중국 및 해외에서 전통적·비전통적 quick service restaurant을 개발, 운영, 프랜차이즈한다. KFC, Taco Bell, Pizza Hut, Habit Burger & Grill 부문을 통해 글로벌 외식 브랜드 포트폴리오를 운영한다.
+
+*Yum! Brands, Inc., together with its subsidiaries, develops, operates, and franchises traditional and non-traditional quick service restaurants in the United States, China, and internationally. The company operates in four segments: KFC Division, Taco Bell Division, Pizza Hut Division, and Habit Burger & Grill Division.*
 
 ---
 

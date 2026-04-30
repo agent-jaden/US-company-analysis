@@ -1,10 +1,12 @@
 # AKAMAI TECHNOLOGIES INC (AKAM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 14B$ | 결산월: 12월**
+**Technology | Software - Infrastructure | 시총 14B$ (#782위) | 결산월: 12월**
 
-Akamai Technologies, Inc. engages in the provision of security, delivery, and cloud computing solutions in the United States and internationally. It offers security solutions that include web application and application programming interfaces (API) protection solutions, which protect web, API, and mobile app traffic from attacks; Bot & Abuse portfolio, which provides solutions to help customers protect against threats; full account lifecycle protections including the ability to defend against account takeover and opening abuse, adversarial bot protection, protection against credential stuffing, inventory scalping, and hoarding; and solutions designed to stop persistent scrapers from stealing content; API security, which discovers, audits, and monitors API; and microservice and application component protection that analyzes and protects application traffic that moves between application components.
+Akamai Technologies는 미국과 해외에서 보안, 전송, 클라우드 컴퓨팅 솔루션을 제공한다. 웹·API·모바일 트래픽 보호, bot 및 abuse 방어, 계정 탈취·credential stuffing 방지, API 보안, 스크래퍼 차단, 마이크로서비스와 애플리케이션 구성요소 보호 솔루션을 제공한다.
+
+*Akamai Technologies, Inc. engages in the provision of security, delivery, and cloud computing solutions in the United States and internationally. It offers security solutions that include web application and application programming interfaces (API) protection solutions, which protect web, API, and mobile app traffic from attacks; Bot & Abuse portfolio, which provides solutions to help customers protect against threats; full account lifecycle protections including the ability to defend against account takeover and opening abuse, adversarial bot protection, protection against credential stuffing, inventory scalping, and hoarding; and solutions designed to stop persistent scrapers from stealing content; API security, which discovers, audits, and monitors API; and microservice and application component protection that analyzes and protects application traffic that moves between application components.*
 
 ---
 

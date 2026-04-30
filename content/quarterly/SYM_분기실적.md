@@ -1,10 +1,12 @@
 # Symbotic Inc. (SYM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Industrial Machinery | 시총 36B$ | 결산월: 9월**
+**Industrials | Specialty Industrial Machinery | 시총 36B$ (#416위) | 결산월: 9월**
 
-Symbotic Inc., an automation technology company, develops technologies to enhance operating efficiencies in modern warehouses. The company automates the processing of pallets, cases, and individual items in warehouses. Its systems enhance operations at the front end of the supply chain.
+Symbotic은 현대식 창고의 운영 효율을 높이는 자동화 기술을 개발하는 기업이다. 팔레트, 박스, 개별 품목의 창고 내 처리를 자동화해 공급망 전단의 물류 운영을 개선하는 시스템을 제공한다.
+
+*Symbotic Inc., an automation technology company, develops technologies to enhance operating efficiencies in modern warehouses. The company automates the processing of pallets, cases, and individual items in warehouses. Its systems enhance operations at the front end of the supply chain.*
 
 ---
 

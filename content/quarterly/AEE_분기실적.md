@@ -1,10 +1,12 @@
 # AMEREN CORP (AEE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 31B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 31B$ (#455위) | 결산월: 12월**
 
-Ameren Corporation, together with its subsidiaries, operates as a public utility holding company in the United States. The company operates through four segments: Ameren Missouri, Ameren Illinois Electric Distribution, Ameren Illinois Natural Gas, and Ameren Transmission. It engages in the rate-regulated electric generation, transmission, and distribution business and natural gas transmission and distribution business.
+Ameren은 자회사를 통해 미국에서 공익 유틸리티 지주회사로 운영된다. Ameren Missouri, Ameren Illinois Electric Distribution, Ameren Illinois Natural Gas, Ameren Transmission 부문을 통해 요금 규제 전력 발전·송전·배전과 천연가스 송전·배급 사업을 수행한다.
+
+*Ameren Corporation, together with its subsidiaries, operates as a public utility holding company in the United States. The company operates through four segments: Ameren Missouri, Ameren Illinois Electric Distribution, Ameren Illinois Natural Gas, and Ameren Transmission. It engages in the rate-regulated electric generation, transmission, and distribution business and natural gas transmission and distribution business.*
 
 ---
 

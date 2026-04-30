@@ -1,10 +1,12 @@
 # Ovintiv Inc. (OVV) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas E&P | 시총 16B$ | 결산월: 12월**
+**Energy | Oil & Gas E&P | 시총 16B$ (#722위) | 결산월: 12월**
 
-Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas exploration and production company in North America. The company operates through USA Operations and Canadian Operations segments. It is involved in the exploration, development, production, and marketing of oil, NGLs, natural gas and other related activities in the Permian in West Texas and Anadarko in West-central Oklahoma in the United States, as well as in northwest Alberta and northeast British Columbia.
+Ovintiv Inc.는 북미 지역에서 석유 및 천연가스를 탐사, 개발, 생산하는 에너지 기업입니다. 미국 사업부와 캐나다 사업부로 나뉘어 텍사스의 Permian Basin, 오클라호마의 Anadarko, 그리고 캐나다 앨버타 등 주요 지역에서 원유와 천연가스 추출 및 마케팅 활동을 전개합니다.
+
+*Ovintiv Inc., together with its subsidiaries, operates as an oil and natural gas exploration and production company in North America. The company operates through USA Operations and Canadian Operations segments. It is involved in the exploration, development, production, and marketing of oil, NGLs, natural gas and other related activities in the Permian in West Texas and Anadarko in West-central Oklahoma in the United States, as well as in northwest Alberta and northeast British Columbia.*
 
 ---
 

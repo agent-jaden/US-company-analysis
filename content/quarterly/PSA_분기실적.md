@@ -1,10 +1,12 @@
 # Public Storage (PSA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Industrial | 시총 54B$ | 결산월: 12월**
+**Real Estate | REIT - Industrial | 시총 54B$ (#307위) | 결산월: 12월**
 
-Public Storage, a member of the S&P 500, is a REIT that primarily acquires, develops, owns, and operates self-storage facilities. At December 31, 2025, we: (i) owned and/or operated 3,533 self-storage facilities located in 40 states with approximately 258 million net rentable square feet in the United States and (ii) owned a 35% common equity interest in Shurgard Self Storage Limited (Euronext Brussels: SHUR), which owned 332 self-storage facilities located in seven Western European countries with approximately 18 million net rentable square feet operated under the Shurgard brand. Our headquarters are in Frisco, Texas.
+Public Storage는 S&P 500에 포함된 REIT로, self-storage 시설의 취득, 개발, 보유, 운영을 주력으로 한다. 2025년 12월 31일 기준 미국 40개 주에서 3,533개 self-storage 시설과 약 258 million net rentable square feet를 보유·운영하며, 서유럽 7개국에서 Shurgard 브랜드로 운영되는 Shurgard Self Storage 지분 35%도 보유한다.
+
+*Public Storage, a member of the S&P 500, is a REIT that primarily acquires, develops, owns, and operates self-storage facilities. At December 31, 2025, we: (i) owned and/or operated 3,533 self-storage facilities located in 40 states with approximately 258 million net rentable square feet in the United States and (ii) owned a 35% common equity interest in Shurgard Self Storage Limited (Euronext Brussels: SHUR), which owned 332 self-storage facilities located in seven Western European countries with approximately 18 million net rentable square feet operated under the Shurgard brand. Our headquarters are in Frisco, Texas.*
 
 ---
 

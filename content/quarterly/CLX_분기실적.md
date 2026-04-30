@@ -1,10 +1,12 @@
 # CLOROX CO /DE/ (CLX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Household & Personal Products | 시총 12B$ | 결산월: 6월**
+**Consumer Defensive | Household & Personal Products | 시총 12B$ (#888위) | 결산월: 6월**
 
-The Clorox Company manufactures and markets consumer and professional products worldwide. The company operates through four segments: Health and Wellness, Household, Lifestyle, and International. The Health and Wellness segment offers home care cleaning and disinfecting products, bleach, clog removers, and laundry additives under the Clorox, Clorox2, Pine-Sol, Scentiva, Tilex, Liquid-Plumr, Poett, and Formula 409 brands; professional cleaning and disinfecting products under the CloroxPro and Clorox Healthcare brands; professional food service products under the Hidden Valley brand in the United States.
+The Clorox Company는 전 세계 소비자와 전문가를 위해 생활용품과 소독 제품을 제조하고 마케팅하는 소비재 기업입니다. Clorox, Pine-Sol 등의 청소 용품, CloroxHealthcare의 전문가용 소독제, 그리고 Hidden Valley 등의 식품 브랜드를 통해 위생과 일상생활에 밀접한 제품을 판매합니다.
+
+*The Clorox Company manufactures and markets consumer and professional products worldwide. The company operates through four segments: Health and Wellness, Household, Lifestyle, and International. The Health and Wellness segment offers home care cleaning and disinfecting products, bleach, clog removers, and laundry additives under the Clorox, Clorox2, Pine-Sol, Scentiva, Tilex, Liquid-Plumr, Poett, and Formula 409 brands; professional cleaning and disinfecting products under the CloroxPro and Clorox Healthcare brands; professional food service products under the Hidden Valley brand in the United States.*
 
 ---
 

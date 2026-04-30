@@ -1,10 +1,12 @@
 # Interactive Brokers Group, Inc. (IBKR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Capital Markets | 시총 35B$ | 결산월: 12월**
+**Financial Services | Capital Markets | 시총 35B$ (#422위) | 결산월: 12월**
 
-Interactive Brokers Group, Inc. operates as an automated electronic broker in the United States and internationally. The company engages in the execution, clearance, and settlement of trades in stocks, options, futures, foreign exchange instruments, bonds, precious metals, and cryptocurrencies; and the company provides custody, prime brokerage, securities, and margin lending services.
+Interactive Brokers Group은 미국과 해외에서 자동화 전자 브로커로 운영된다. 주식, 옵션, 선물, 외환, 채권, 귀금속, 암호화폐 거래의 실행·청산·결제를 제공하며 수탁, prime brokerage, 증권 및 마진 대출 서비스도 운영한다.
+
+*Interactive Brokers Group, Inc. operates as an automated electronic broker in the United States and internationally. The company engages in the execution, clearance, and settlement of trades in stocks, options, futures, foreign exchange instruments, bonds, precious metals, and cryptocurrencies; and the company provides custody, prime brokerage, securities, and margin lending services.*
 
 ---
 

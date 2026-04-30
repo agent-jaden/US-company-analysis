@@ -1,10 +1,12 @@
 # TRUIST FINANCIAL CORP (TFC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Regional | 시총 64B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 64B$ (#266위) | 결산월: 12월**
 
-Truist Financial Corporation, a financial services company, provides banking and trust services in the Southeastern and Mid-Atlantic United States. The company operates through two segments, Consumer and Small Business Banking; and Wholesale Banking. Its deposit products include noninterest-bearing checking, interest-bearing checking, savings, and money market deposit accounts, as well as certificates of deposit and individual retirement accounts.
+Truist Financial은 미국 남동부와 중부 대서양 지역에서 은행 및 신탁 서비스를 제공하는 금융회사다. Consumer and Small Business Banking, Wholesale Banking 부문을 운영하며 무이자·이자부 당좌계좌, 저축·머니마켓 예금, 양도성예금증서, 개인퇴직계좌 등을 제공한다.
+
+*Truist Financial Corporation, a financial services company, provides banking and trust services in the Southeastern and Mid-Atlantic United States. The company operates through two segments, Consumer and Small Business Banking; and Wholesale Banking. Its deposit products include noninterest-bearing checking, interest-bearing checking, savings, and money market deposit accounts, as well as certificates of deposit and individual retirement accounts.*
 
 ---
 

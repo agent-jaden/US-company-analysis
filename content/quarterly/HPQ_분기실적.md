@@ -1,10 +1,12 @@
 # HP INC (HPQ) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Computer Hardware | 시총 18B$ | 결산월: 10월**
+**Technology | Computer Hardware | 시총 18B$ (#666위) | 결산월: 10월**
 
-HP Inc. provides personal computing, printing, 3D printing, hybrid work, gaming, and other related technologies in the United States and internationally. The company operates through three segments: Personal Systems, Printing, and Corporate Investments.
+HP는 미국과 해외에서 개인용 컴퓨팅, 프린팅, 3D 프린팅, 하이브리드 업무, 게이밍 및 관련 기술을 제공한다. Personal Systems, Printing, Corporate Investments 부문을 통해 PC, 프린터, 주변기기와 관련 솔루션을 운영한다.
+
+*HP Inc. provides personal computing, printing, 3D printing, hybrid work, gaming, and other related technologies in the United States and internationally. The company operates through three segments: Personal Systems, Printing, and Corporate Investments.*
 
 ---
 

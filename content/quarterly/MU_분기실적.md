@@ -1,10 +1,12 @@
 # MICRON TECHNOLOGY INC (MU) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 8월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 592B$ | 결산월: 9월**
+**Technology | Semiconductors | 시총 592B$ (#18위) | 결산월: 8월**
 
-Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, Hong Kong, Europe, and internationally. It operates through the Cloud Memory Business Unit; Core Data Center Business Unit; Mobile and Client Business Unit; and Automotive and Embedded Business Unit segments.
+Micron Technology, Inc.는 미국, 대만, 중국, 유럽 등 전 세계에서 메모리 및 스토리지 제품을 설계, 개발, 제조 및 판매합니다. 클라우드 메모리, 핵심 데이터센터, 모바일 및 클라이언트, 자동차 및 임베디드 등 4개의 사업 부문을 통해 운영됩니다.
+
+*Micron Technology, Inc. designs, develops, manufactures, and sells memory and storage products in the United States, Taiwan, Japan, Mainland China, Hong Kong, Europe, and internationally. It operates through the Cloud Memory Business Unit; Core Data Center Business Unit; Mobile and Client Business Unit; and Automotive and Embedded Business Unit segments.*
 
 ---
 
@@ -12,13 +14,13 @@ Micron Technology, Inc. designs, develops, manufactures, and sells memory and st
 
 | 분기 | 매출(B$) | 영업이익(B$) | 순이익(B$) | 매출 YoY | 영업이익 YoY | 순이익 YoY |
 |:----:|-----------:|-------------:|-----------:|:--------:|:------------:|:----------:|
-| 2026Q1 (11월-2월) | 23.86 | 16.14 | 13.79 | +196.3% | +810.0% | +770.8% |
-| 2025Q4 (8월-11월) | 13.64 | 6.14 | 5.24 | +56.7% | +182.2% | +180.2% |
-| 2025Q3 (5월-8월) | 11.31 | 3.65 | 3.20 | +46.0% | +140.1% | +260.9% |
-| 2025Q2 (2월-5월) | 9.30 | 2.17 | 1.89 | +36.6% | +201.7% | +467.8% |
-| 2025Q1 (11월-2월) | 8.05 | 1.77 | 1.58 | +38.3% | +828.3% | +99.6% |
-| 2024Q4 (8월-11월) | 8.71 | 2.17 | 1.87 | +84.3% | 흑자전환 | 흑자전환 |
-| 2024Q3 (5월-8월) | 7.75 | 1.52 | 0.89 | +93.3% | 흑자전환 | 흑자전환 |
+| 2026Q1 (12월-2월) | 23.86 | 16.14 | 13.79 | +196.3% | +810.0% | +770.8% |
+| 2025Q4 (9월-11월) | 13.64 | 6.14 | 5.24 | +56.7% | +182.2% | +180.2% |
+| 2025Q3 (6월-8월) | 11.31 | 3.65 | 3.20 | +46.0% | +140.1% | +260.9% |
+| 2025Q2 (3월-5월) | 9.30 | 2.17 | 1.89 | +36.6% | +201.7% | +467.8% |
+| 2025Q1 (12월-2월) | 8.05 | 1.77 | 1.58 | +38.3% | +828.3% | +99.6% |
+| 2024Q4 (9월-11월) | 8.71 | 2.17 | 1.87 | +84.3% | 흑자전환 | 흑자전환 |
+| 2024Q3 (6월-8월) | 7.75 | 1.52 | 0.89 | +93.3% | 흑자전환 | 흑자전환 |
 | 2024Q2 (3월-5월) | 6.81 | 0.72 | 0.33 | +81.5% | 흑자전환 | 흑자전환 |
 | 2024Q1 (12월-2월) | 5.82 | 0.19 | 0.79 | +57.7% | 흑자전환 | 흑자전환 |
 

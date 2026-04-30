@@ -1,10 +1,12 @@
 # METLIFE INC (MET) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Life | 시총 51B$ | 결산월: 12월**
+**Financial Services | Insurance - Life | 시총 51B$ (#320위) | 결산월: 12월**
 
-MetLife, Inc., a financial services company, provides insurance, annuities, employee benefits, and asset management services worldwide. It operates in six segments: Group Benefits; Retirement and Income Solutions; Asia; Latin America; Europe, the Middle East and Africa; and MetLife Holdings. The company offers life, dental, group short-and long-term disability, paid family and medical leave, individual disability, accidental death and dismemberment, accident and health, vision, and pet insurance, as well as prepaid legal plans; administrative services-only arrangements to employers; and general and separate account, and synthetic guaranteed interest contracts, as well as private floating rate funding agreements.
+MetLife는 전 세계에서 보험, 연금, 직원복지, 자산관리 서비스를 제공하는 금융서비스 기업이다. 생명보험, 치과, 단체 장단기 장애보험, 유급 가족·의료휴가, 개인 장애보험, 사고·건강·시력·반려동물 보험, 법률 선불 플랜과 고용주 대상 행정서비스를 제공한다.
+
+*MetLife, Inc., a financial services company, provides insurance, annuities, employee benefits, and asset management services worldwide. It operates in six segments: Group Benefits; Retirement and Income Solutions; Asia; Latin America; Europe, the Middle East and Africa; and MetLife Holdings. The company offers life, dental, group short-and long-term disability, paid family and medical leave, individual disability, accidental death and dismemberment, accident and health, vision, and pet insurance, as well as prepaid legal plans; administrative services-only arrangements to employers; and general and separate account, and synthetic guaranteed interest contracts, as well as private floating rate funding agreements.*
 
 ---
 

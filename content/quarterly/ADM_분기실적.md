@@ -1,10 +1,12 @@
 # Archer-Daniels-Midland Co (ADM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Farm Products | 시총 34B$ | 결산월: 12월**
+**Consumer Defensive | Farm Products | 시총 34B$ (#425위) | 결산월: 12월**
 
-Archer-Daniels-Midland Company provides human and animal nutrition ingredients and solutions in the United States, Switzerland, the Cayman Islands, Brazil, Mexico, Canada, the United Kingdom, and internationally. It operates in three segments: Ag Services and Oilseeds; Carbohydrate Solutions; and Nutrition. The company engages in the origination, merchandising, transportation, and storage of agricultural raw materials, as well as the crushing and processing of oilseeds, including soybeans and soft seeds, such as cottonseed, sunflower seed, canola, rapeseed, and flaxseed; produces and markets vegetable oils and oilseed protein meals used by food, feed, energy, and industrial customers; sale of crude and partially refined vegetable oils; supplies peanuts and peanut-derived ingredients; and manufactures cotton cellulose pulp.
+Archer-Daniels-Midland는 미국, 스위스, 브라질, 멕시코, 캐나다, 영국 등에서 인간·동물 영양 원료와 솔루션을 제공한다. 농산물 원료의 조달·판매·운송·저장, 대두·유지종자 가공, 식품·사료·에너지·산업용 식물성 오일과 단백박 생산, 땅콩 원료와 면화 셀룰로오스 펄프 제조를 수행한다.
+
+*Archer-Daniels-Midland Company provides human and animal nutrition ingredients and solutions in the United States, Switzerland, the Cayman Islands, Brazil, Mexico, Canada, the United Kingdom, and internationally. It operates in three segments: Ag Services and Oilseeds; Carbohydrate Solutions; and Nutrition. The company engages in the origination, merchandising, transportation, and storage of agricultural raw materials, as well as the crushing and processing of oilseeds, including soybeans and soft seeds, such as cottonseed, sunflower seed, canola, rapeseed, and flaxseed; produces and markets vegetable oils and oilseed protein meals used by food, feed, energy, and industrial customers; sale of crude and partially refined vegetable oils; supplies peanuts and peanut-derived ingredients; and manufactures cotton cellulose pulp.*
 
 ---
 

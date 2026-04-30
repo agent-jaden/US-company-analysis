@@ -1,10 +1,12 @@
 # NEXTERA ENERGY INC (NEE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 198B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 198B$ (#68위) | 결산월: 12월**
 
-NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, distributes, and sells electric power to retail and wholesale customers in North America. It operates through Florida Power & Light Company (FPL) and NEER segments. The company generates electricity from wind, solar, nuclear, natural gas, and other clean energy assets.
+NextEra Energy, Inc.는 북미 지역의 소매 및 도매 고객에게 전력을 생산, 저장, 전송 및 판매하는 에너지 기업입니다. 풍력, 태양광, 원자력, 천연가스 등 다양한 청정 에너지 자원을 활용하여 전력을 생산하며, FPL 및 NEER 부문을 통해 사업을 운영합니다.
+
+*NextEra Energy, Inc., through its subsidiaries, generates, stores, transmits, distributes, and sells electric power to retail and wholesale customers in North America. It operates through Florida Power & Light Company (FPL) and NEER segments. The company generates electricity from wind, solar, nuclear, natural gas, and other clean energy assets.*
 
 ---
 

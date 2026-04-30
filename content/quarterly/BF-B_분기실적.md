@@ -1,10 +1,12 @@
 # BROWN FORMAN CORP (BF-B) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Beverages - Wineries & Distilleries | 시총 13B$ | 결산월: 4월**
+**Consumer Defensive | Beverages - Wineries & Distilleries | 시총 13B$ (#841위) | 결산월: 4월**
 
-Brown-Forman Corporation, together with its subsidiaries, manufactures, distills, bottles, imports, exports, markets, and sells a variety of alcohol beverages. It provides spirits, wines, whiskey spirits, whiskey-based flavored liqueurs, ready-to-drink cocktails, ready-to-pour products, vodkas, tequilas, gin, brandy, rum, bourbons, and liqueurs. The company offers its products primarily under the Jack Daniel's, Woodford Reserve, Old Forester, Gentleman Jack, Herradura, el Jimador, Fords Gin, The Glendronach, Benriach, Glenglassaugh, and Slane brands.
+Brown-Forman은 자회사를 통해 다양한 주류를 제조, 증류, 병입, 수입, 수출, 마케팅, 판매한다. Jack Daniel's, Woodford Reserve, Old Forester, Gentleman Jack, Herradura, el Jimador, Fords Gin, The Glendronach, Benriach, Glenglassaugh, Slane 브랜드로 위스키, RTD 칵테일, 보드카, 테킬라, 진, 브랜디, 럼, 리큐어 등을 제공한다.
+
+*Brown-Forman Corporation, together with its subsidiaries, manufactures, distills, bottles, imports, exports, markets, and sells a variety of alcohol beverages. It provides spirits, wines, whiskey spirits, whiskey-based flavored liqueurs, ready-to-drink cocktails, ready-to-pour products, vodkas, tequilas, gin, brandy, rum, bourbons, and liqueurs. The company offers its products primarily under the Jack Daniel's, Woodford Reserve, Old Forester, Gentleman Jack, Herradura, el Jimador, Fords Gin, The Glendronach, Benriach, Glenglassaugh, and Slane brands.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Atlassian Corp (TEAM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 18B$ | 결산월: 6월**
+**Technology | Software - Application | 시총 18B$ (#660위) | 결산월: 6월**
 
-Atlassian Corporation provides a collaboration software that enables organizations to connect all teams through a system of work that unlocks productivity at scale worldwide. Its product portfolio includes Jira, a project management platform for planning, tracking, and managing work; Confluence, a connected workspace to create, organize, and share team knowledge, documents, and collaboration content; Loom, an asynchronous video communication tool to record and share videos; Jira Service Management, an intuitive service management solution for IT, HR, and other teams; and Rovo, an AI offering that assists teams with its Search, Chat and Agent capabilities. The company also offers Bitbucket, a git-based source code management platform for professional development teams; Compass, a developer portal that provides a unified view of engineering components; Jira Product Discovery, a tool to capture, prioritize, and roadmap product ideas; Jira Align, an enterprise agility solution that connects business and technology teams to align strategy with execution; Focus, a strategy hub for leadership teams; and Talent, a workforce planning app.
+Atlassian은 전 세계 조직이 팀을 연결하고 생산성을 높일 수 있도록 협업 소프트웨어를 제공한다. Jira, Confluence, Loom, Jira Service Management, Rovo, Bitbucket, Compass, Jira Product Discovery, Jira Align 등 프로젝트 관리, 문서 협업, 비동기 영상 커뮤니케이션, IT 서비스관리, AI 검색·챗·에이전트 기능을 제공한다.
+
+*Atlassian Corporation provides a collaboration software that enables organizations to connect all teams through a system of work that unlocks productivity at scale worldwide. Its product portfolio includes Jira, a project management platform for planning, tracking, and managing work; Confluence, a connected workspace to create, organize, and share team knowledge, documents, and collaboration content; Loom, an asynchronous video communication tool to record and share videos; Jira Service Management, an intuitive service management solution for IT, HR, and other teams; and Rovo, an AI offering that assists teams with its Search, Chat and Agent capabilities. The company also offers Bitbucket, a git-based source code management platform for professional development teams; Compass, a developer portal that provides a unified view of engineering components; Jira Product Discovery, a tool to capture, prioritize, and roadmap product ideas; Jira Align, an enterprise agility solution that connects business and technology teams to align strategy with execution; Focus, a strategy hub for leadership teams; and Talent, a workforce planning app.*
 
 ---
 

@@ -1,10 +1,12 @@
 # STRYKER CORP (SYK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Devices | 시총 126B$ | 결산월: 12월**
+**Healthcare | Medical Devices | 시총 126B$ (#124위) | 결산월: 12월**
 
-Stryker Corporation operates as a medical technology company in the United States and internationally. It operates through two segments, MedSurg and Neurotechnology, and Orthopaedics. The MedSurg and Neurotechnology segment offers surgical equipment, patient and caregiver safety technologies, navigation systems, endoscopic and communications systems, patient handling, emergency medical equipment and intensive care disposable products, clinical communication and artificial intelligence-assisted virtual care platform technology, and minimally invasive products for the treatment of acute ischemic and hemorrhagic stroke and venous thromboembolism; traditional brain and open skull based surgical procedures products; and orthobiologic and biosurgery products, including synthetic bone grafts and vertebral augmentation products.
+Stryker는 미국과 해외에서 의료기술 제품을 제공하는 기업이다. MedSurg and Neurotechnology, Orthopaedics 부문을 통해 수술 장비, 환자·의료진 안전 기술, 내비게이션·내시경 시스템, 응급·중환자 소모품, AI 기반 가상진료 플랫폼, 뇌졸중·혈전 치료용 최소침습 제품, 정형외과·바이오서저리 제품을 공급한다.
+
+*Stryker Corporation operates as a medical technology company in the United States and internationally. It operates through two segments, MedSurg and Neurotechnology, and Orthopaedics. The MedSurg and Neurotechnology segment offers surgical equipment, patient and caregiver safety technologies, navigation systems, endoscopic and communications systems, patient handling, emergency medical equipment and intensive care disposable products, clinical communication and artificial intelligence-assisted virtual care platform technology, and minimally invasive products for the treatment of acute ischemic and hemorrhagic stroke and venous thromboembolism; traditional brain and open skull based surgical procedures products; and orthobiologic and biosurgery products, including synthetic bone grafts and vertebral augmentation products.*
 
 ---
 

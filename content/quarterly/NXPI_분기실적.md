@@ -1,10 +1,12 @@
 # NXP Semiconductors N.V. (NXPI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 60B$ | 결산월: 12월**
+**Technology | Semiconductors | 시총 60B$ (#286위) | 결산월: 12월**
 
-NXP Semiconductors N.V. provides semiconductor products in the United States, Germany, Japan, South Korea, Taiwan, Singapore, the Netherlands, Mainland China, Hong Kong, and internationally. The company's product portfolio includes microcontrollers; application processors; communication processors; wireless connectivity solutions, such as near field communications, ultra-wideband, Bluetooth low-energy, Zigbee, Thread, and Wi-Fi and Wi-Fi/Bluetooth integrated SoCs; analog and interface products; radio frequency devices, and security controllers, as well as semiconductor-based environmental and inertial sensors, including pressure, inertial, magnetic, and gyroscopic sensors.
+NXP Semiconductors는 미국, 독일, 일본, 한국, 대만, 싱가포르, 네덜란드, 중국 본토, 홍콩 등에서 반도체 제품을 제공한다. 마이크로컨트롤러, 애플리케이션·통신 프로세서, NFC·UWB·Bluetooth low-energy·Zigbee·Thread·Wi-Fi 연결 솔루션, 아날로그·인터페이스 제품, RF 장치, 보안 컨트롤러, 압력·관성·자기·자이로 센서 등을 공급한다.
+
+*NXP Semiconductors N.V. provides semiconductor products in the United States, Germany, Japan, South Korea, Taiwan, Singapore, the Netherlands, Mainland China, Hong Kong, and internationally. The company's product portfolio includes microcontrollers; application processors; communication processors; wireless connectivity solutions, such as near field communications, ultra-wideband, Bluetooth low-energy, Zigbee, Thread, and Wi-Fi and Wi-Fi/Bluetooth integrated SoCs; analog and interface products; radio frequency devices, and security controllers, as well as semiconductor-based environmental and inertial sensors, including pressure, inertial, magnetic, and gyroscopic sensors.*
 
 ---
 

@@ -1,10 +1,12 @@
 # General Motors Co (GM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Auto Manufacturers | 시총 70B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Manufacturers | 시총 70B$ (#242위) | 결산월: 12월**
 
-General Motors Company designs, builds, and sells trucks, crossovers, cars, and automobile parts worldwide. It operates through GM North America, GM International, and GM Financial segments. The company markets its vehicles primarily under the Buick, Cadillac, Chevrolet, GMC, Baojun, and Wuling brand names.
+General Motors Company는 전 세계적으로 트럭, 크로스오버, 승용차 및 자동차 부품을 설계, 제조 및 판매하는 글로벌 자동차 제조업체입니다. Chevrolet, Cadillac, GMC 등 대표 브랜드를 통해 차량을 시장에 공급하며 자동차 할부 및 금융 부문도 함께 운영합니다.
+
+*General Motors Company designs, builds, and sells trucks, crossovers, cars, and automobile parts worldwide. It operates through GM North America, GM International, and GM Financial segments. The company markets its vehicles primarily under the Buick, Cadillac, Chevrolet, GMC, Baojun, and Wuling brand names.*
 
 ---
 

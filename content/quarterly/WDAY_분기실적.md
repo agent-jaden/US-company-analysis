@@ -1,10 +1,12 @@
 # Workday, Inc. (WDAY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 30B$ | 결산월: 1월**
+**Technology | Software - Application | 시총 30B$ (#465위) | 결산월: 1월**
 
-Workday, Inc. provides enterprise cloud applications in the United States and internationally. The company offers a suite of financial management applications to maintain accounting information; manage financial processes, such as payables and receivables; identify real-time financial, operational, and management insights; perform financial consolidation; reduce time-to-close; promote internal control and auditability; and achieve consistency across finance operations.
+미국 및 전 세계 기업을 대상으로 재무 및 인적 자원 관리를 위한 엔터프라이즈 클라우드 애플리케이션을 제공합니다. 회계 정보 유지, 재무 프로세스 관리, 실시간 데이터 분석 및 내부 통제 기능을 통해 기업의 재무 운영 일관성과 효율성을 높여줍니다.
+
+*Workday, Inc. provides enterprise cloud applications in the United States and internationally. The company offers a suite of financial management applications to maintain accounting information; manage financial processes, such as payables and receivables; identify real-time financial, operational, and management insights; perform financial consolidation; reduce time-to-close; promote internal control and auditability; and achieve consistency across finance operations.*
 
 ---
 

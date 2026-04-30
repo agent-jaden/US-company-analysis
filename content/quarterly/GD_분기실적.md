@@ -1,10 +1,12 @@
 # GENERAL DYNAMICS CORP (GD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 85B$ | 결산월: 12월**
+**Industrials | Aerospace & Defense | 시총 85B$ (#195위) | 결산월: 12월**
 
-General Dynamics Corporation operates as an aerospace and defense company worldwide. It operates through four segments: Aerospace, Marine Systems, Combat Systems, and Technologies. The Aerospace segment produces and sells business jets; and offers aircraft maintenance and repair, management, aircraft-on-ground support, customer support and custom completion services, modifications, upgrades, and lifecycle sustainment support services.
+General Dynamics는 전 세계에서 항공우주·방산 사업을 영위한다. Aerospace, Marine Systems, Combat Systems, Technologies 부문을 운영하며 Aerospace 부문은 비즈니스 제트기를 생산·판매하고 항공기 정비·수리, 운항중단 지원, 고객지원, 개조·업그레이드, 수명주기 지원 서비스를 제공한다.
+
+*General Dynamics Corporation operates as an aerospace and defense company worldwide. It operates through four segments: Aerospace, Marine Systems, Combat Systems, and Technologies. The Aerospace segment produces and sells business jets; and offers aircraft maintenance and repair, management, aircraft-on-ground support, customer support and custom completion services, modifications, upgrades, and lifecycle sustainment support services.*
 
 ---
 

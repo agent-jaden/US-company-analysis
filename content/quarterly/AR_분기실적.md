@@ -1,10 +1,12 @@
 # ANTERO RESOURCES Corp (AR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas E&P | 시총 12B$ | 결산월: 12월**
+**Energy | Oil & Gas E&P | 시총 12B$ (#883위) | 결산월: 12월**
 
-Antero Resources Corporation, an independent oil and natural gas company, engages in the development, production, exploration, and acquisition of natural gas, natural gas liquids (NGLs), and oil properties in the United States. It operates in three segments: Exploration and Production; Marketing; and Equity Method Investment in Antero Midstream. As of December 31, 2025, the company had approximately 537,000 net acres in the Appalachian Basin; and approximately 168,000 net acres in the Upper Devonian Shale.
+Antero Resources Corporation은 미국에서 천연가스, 천연가스 액체(NGL) 및 원유를 개발하고 생산하는 독립 에너지 기업입니다. 탐사 및 생산, 마케팅, 미드스트림 투자의 세 부문을 통해 애팔래치아 분지의 방대한 셰일 가스 매장량을 기반으로 사업을 운영합니다.
+
+*Antero Resources Corporation, an independent oil and natural gas company, engages in the development, production, exploration, and acquisition of natural gas, natural gas liquids (NGLs), and oil properties in the United States. It operates in three segments: Exploration and Production; Marketing; and Equity Method Investment in Antero Midstream. As of December 31, 2025, the company had approximately 537,000 net acres in the Appalachian Basin; and approximately 168,000 net acres in the Upper Devonian Shale.*
 
 ---
 

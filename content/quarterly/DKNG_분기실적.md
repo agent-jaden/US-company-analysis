@@ -1,10 +1,12 @@
 # DraftKings Inc. (DKNG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Gambling | 시총 12B$ | 결산월: 12월**
+**Consumer Cyclical | Gambling | 시총 12B$ (#890위) | 결산월: 12월**
 
-DraftKings Inc. operates as a digital sports entertainment and gaming company in the United States and internationally. The company offers online and retail sports betting, daily fantasy sports, digital lottery couriers, prediction markets, and other products, as well as retails sportsbooks.
+DraftKings Inc.는 미국 및 글로벌 시장에서 디지털 스포츠 엔터테인먼트 및 게이밍 플랫폼을 운영하는 선도 기업입니다. 온라인 및 오프라인 스포츠 베팅, 데일리 판타지 스포츠 게임, iGaming 카지노 서비스 등 사용자가 즐길 수 있는 다양한 예측 베팅 솔루션을 제공합니다.
+
+*DraftKings Inc. operates as a digital sports entertainment and gaming company in the United States and internationally. The company offers online and retail sports betting, daily fantasy sports, digital lottery couriers, prediction markets, and other products, as well as retails sportsbooks.*
 
 ---
 

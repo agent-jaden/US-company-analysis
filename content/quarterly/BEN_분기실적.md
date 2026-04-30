@@ -1,10 +1,12 @@
 # FRANKLIN RESOURCES INC (BEN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Asset Management | 시총 14B$ | 결산월: 9월**
+**Financial Services | Asset Management | 시총 14B$ (#774위) | 결산월: 9월**
 
-Franklin Resources, Inc. is a publicly owned asset investment manager. Through its subsidiaries, the firm provides its services to individuals, institutions, pension plans, trusts, and partnerships.
+Franklin Resources는 상장 자산운용사다. 자회사를 통해 개인, 기관, 연금, 신탁, 파트너십 고객에게 투자운용 서비스를 제공한다.
+
+*Franklin Resources, Inc. is a publicly owned asset investment manager. Through its subsidiaries, the firm provides its services to individuals, institutions, pension plans, trusts, and partnerships.*
 
 ---
 

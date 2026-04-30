@@ -1,10 +1,12 @@
 # FASTENAL CO (FAST) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Industrial Distribution | 시총 52B$ | 결산월: 12월**
+**Industrials | Industrial Distribution | 시총 52B$ (#312위) | 결산월: 12월**
 
-Fastenal Company, together with its subsidiaries, engages in the wholesale distribution of industrial and construction supplies in the United States, Canada, Mexico, and internationally. It offers fasteners, and related industrial and construction supplies under the Fastenal name. The company's fastener products include threaded fasteners, bolts, nuts, screws, studs, and related washers that are used in manufactured products and construction projects, as well as in the maintenance and repair of machines.
+Fastenal은 미국, 캐나다, 멕시코 및 해외에서 산업·건설용 자재를 도매 유통한다. Fastenal 브랜드로 나사산 체결부품, 볼트, 너트, 스크루, 스터드, 와셔 등 제조·건설·기계 유지보수에 쓰이는 fastener와 관련 산업용품을 공급한다.
+
+*Fastenal Company, together with its subsidiaries, engages in the wholesale distribution of industrial and construction supplies in the United States, Canada, Mexico, and internationally. It offers fasteners, and related industrial and construction supplies under the Fastenal name. The company's fastener products include threaded fasteners, bolts, nuts, screws, studs, and related washers that are used in manufactured products and construction projects, as well as in the maintenance and repair of machines.*
 
 ---
 

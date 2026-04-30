@@ -1,10 +1,12 @@
 # DOVER Corp (DOV) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Industrial Machinery | 시총 30B$ | 결산월: 12월**
+**Industrials | Specialty Industrial Machinery | 시총 30B$ (#460위) | 결산월: 12월**
 
-Dover Corporation provides equipment and components, consumable supplies, aftermarket parts, software and digital solutions, and support services worldwide. The company's Engineered Products segment provides various equipment, component, software, solution, and services that are used in vehicle aftermarket, aerospace and defense, industrial winch and hoist, and fluid dispensing end-market. This segment offers software solutions and services used in light and heavy-duty vehicle lifts, wheel service equipment, vehicle diagnostics, and vehicle collision repair solutions; winches, hoists, bearings, drives, and electric monitoring system; and radio frequency and microwave filters and switches, and signal intelligence solutions, as well as soldering and fluid dispensing solutions.
+전 세계적으로 차량 애프터마켓, 항공우주, 국방 및 유체 분배 시장 등에 사용되는 장비, 부품, 소모품 및 소프트웨어 솔루션을 제공합니다. 차량 진단 및 수리, 윈치 및 호이스트 시스템, 무선 주파수 필터 등 다양한 특수 엔지니어링 제품과 서비스를 지원합니다.
+
+*Dover Corporation provides equipment and components, consumable supplies, aftermarket parts, software and digital solutions, and support services worldwide. The company's Engineered Products segment provides various equipment, component, software, solution, and services that are used in vehicle aftermarket, aerospace and defense, industrial winch and hoist, and fluid dispensing end-market. This segment offers software solutions and services used in light and heavy-duty vehicle lifts, wheel service equipment, vehicle diagnostics, and vehicle collision repair solutions; winches, hoists, bearings, drives, and electric monitoring system; and radio frequency and microwave filters and switches, and signal intelligence solutions, as well as soldering and fluid dispensing solutions.*
 
 ---
 

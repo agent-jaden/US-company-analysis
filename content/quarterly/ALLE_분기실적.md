@@ -1,10 +1,12 @@
 # Allegion plc (ALLE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Security & Protection Services | 시총 13B$ | 결산월: 12월**
+**Industrials | Security & Protection Services | 시총 13B$ (#835위) | 결산월: 12월**
 
-Allegion plc engages in the provision of security products and solutions worldwide. It is operating through two segments: Allegion Americas and Allegion International. The company offers door controls, door control system, and exit devices; doors, glass and door systems, and accessories; electronic security products and access control systems, including time, attendance, and workforce productivity; and locks, locksets, portable locks, and key systems.
+Allegion은 전 세계에서 보안 제품과 솔루션을 제공한다. Allegion Americas와 Allegion International 부문을 통해 도어 제어장치, 출입문·유리·도어 시스템, 전자보안·출입통제, 근태·인력 생산성 솔루션, 잠금장치와 key system을 제공한다.
+
+*Allegion plc engages in the provision of security products and solutions worldwide. It is operating through two segments: Allegion Americas and Allegion International. The company offers door controls, door control system, and exit devices; doors, glass and door systems, and accessories; electronic security products and access control systems, including time, attendance, and workforce productivity; and locks, locksets, portable locks, and key systems.*
 
 ---
 

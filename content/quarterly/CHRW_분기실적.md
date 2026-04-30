@@ -1,10 +1,12 @@
 # C. H. ROBINSON WORLDWIDE, INC. (CHRW) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Integrated Freight & Logistics | 시총 22B$ | 결산월: 12월**
+**Industrials | Integrated Freight & Logistics | 시총 22B$ (#584위) | 결산월: 12월**
 
-C.H. Robinson Worldwide, Inc., together with its subsidiaries, provides freight transportation and related logistics and supply chain services in the United States and internationally. It operates in two segments, North American Surface Transportation and Global Forwarding.
+C.H. Robinson Worldwide는 미국과 해외에서 화물 운송, 물류, 공급망 서비스를 제공한다. North American Surface Transportation과 Global Forwarding 부문을 통해 육상 운송, 포워딩, 물류관리 서비스를 운영한다.
+
+*C.H. Robinson Worldwide, Inc., together with its subsidiaries, provides freight transportation and related logistics and supply chain services in the United States and internationally. It operates in two segments, North American Surface Transportation and Global Forwarding.*
 
 ---
 

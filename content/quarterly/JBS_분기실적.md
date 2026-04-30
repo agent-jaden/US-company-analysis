@@ -1,10 +1,12 @@
 # JBS N.V. (JBS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Packaged Foods | 시총 17B$ | 결산월: 12월**
+**Consumer Defensive | Packaged Foods | 시총 17B$ (#680위) | 결산월: 12월**
 
-JBS N.V., together with its subsidiaries, engages in the processing of animal proteins, encompassing activities related to beef, pork, lamb, and poultry worldwide. The company is involved in the production and marketing of prepared foods and other related products, as well as operations in leather, collagen, hygiene and beauty products, metal packaging, biodiesel, and other related businesses. It offers its products under the Seara, Doriana, Pilgrim's, Moy Park, Primo, Friboi, Maturatta, Swift, Ozo, Adaptable Meals, and other brand names.
+JBS는 전 세계에서 소고기, 돼지고기, 양고기, 가금류 등 동물성 단백질 가공 사업을 운영한다. 조리식품과 관련 제품을 생산·판매하며 가죽, 콜라겐, 위생·뷰티 제품, 금속 포장, 바이오디젤 등 연관 사업도 수행하고 Seara, Pilgrim's, Moy Park, Friboi, Swift 등 브랜드를 보유한다.
+
+*JBS N.V., together with its subsidiaries, engages in the processing of animal proteins, encompassing activities related to beef, pork, lamb, and poultry worldwide. The company is involved in the production and marketing of prepared foods and other related products, as well as operations in leather, collagen, hygiene and beauty products, metal packaging, biodiesel, and other related businesses. It offers its products under the Seara, Doriana, Pilgrim's, Moy Park, Primo, Friboi, Maturatta, Swift, Ozo, Adaptable Meals, and other brand names.*
 
 ---
 

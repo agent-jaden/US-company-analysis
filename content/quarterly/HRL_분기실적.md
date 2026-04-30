@@ -1,10 +1,12 @@
 # HORMEL FOODS CORP /DE/ (HRL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Packaged Foods | 시총 12B$ | 결산월: 10월**
+**Consumer Defensive | Packaged Foods | 시총 12B$ (#884위) | 결산월: 10월**
 
-Hormel Foods Corporation develops, processes, and distributes various meat, nuts, and other food products to foodservice, convenience store, and commercial customers in the United States and internationally. It operates through three segments: Retail, Foodservice, and International segments. The company provides various perishable products, including resh meats, frozen items, refrigerated meal solutions, bacon, sausages, hams, guacamole, and other items that require refrigeration; and shelf-stable products, such as canned luncheon meats, nut butters, snack nuts, chili, shelf-stable microwaveable meals, hash, stews, tortillas, salsas, tortilla chips, and other items that do not require refrigeration.
+Hormel Foods Corporation은 전 세계 소매업체, 음식 서비스 기관 및 편의점에 육류 및 식품을 개발, 가공하여 유통하는 종합 식품 기업입니다. 베이컨, 소시지, 과카몰리 같은 냉장 신선 식품부터 스팸(SPAM), 칠리, 땅콩버터 등 상온 보관이 가능한 가공식품까지 폭넓은 포트폴리오를 제공합니다.
+
+*Hormel Foods Corporation develops, processes, and distributes various meat, nuts, and other food products to foodservice, convenience store, and commercial customers in the United States and internationally. It operates through three segments: Retail, Foodservice, and International segments. The company provides various perishable products, including resh meats, frozen items, refrigerated meal solutions, bacon, sausages, hams, guacamole, and other items that require refrigeration; and shelf-stable products, such as canned luncheon meats, nut butters, snack nuts, chili, shelf-stable microwaveable meals, hash, stews, tortillas, salsas, tortilla chips, and other items that do not require refrigeration.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Baker Hughes Co (BKR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Equipment & Services | 시총 68B$ | 결산월: 12월**
+**Energy | Oil & Gas Equipment & Services | 시총 68B$ (#250위) | 결산월: 12월**
 
-Baker Hughes Company provides a portfolio of technologies and services to energy and industrial value chain. Its Oilfield Services & Equipment segment designs and manufactures exploration, appraisal, development, production, rejuvenation, and decommissioning products and related services for onshore and offshore oilfield operations. This segment also provides drilling services, drill bits, and drilling and completions fluids; completions, intervention, measurements, pressure pumping, and wireline services; artificial lift systems, and oilfield and industrial chemicals; subsea projects and services, flexible pipe systems, and surface pressure control systems; and integrated well services and solutions.
+Baker Hughes Company는 에너지 및 산업 전반에 걸쳐 포괄적인 기술과 서비스를 제공합니다. 유전 서비스 및 장비 부문을 통해 해상 및 육상 유전의 탐사부터 시추, 완성 장비, 유전 화학 물질 솔루션에 이르는 종합적인 석유 가스 추출 인프라를 지원합니다.
+
+*Baker Hughes Company provides a portfolio of technologies and services to energy and industrial value chain. Its Oilfield Services & Equipment segment designs and manufactures exploration, appraisal, development, production, rejuvenation, and decommissioning products and related services for onshore and offshore oilfield operations. This segment also provides drilling services, drill bits, and drilling and completions fluids; completions, intervention, measurements, pressure pumping, and wireline services; artificial lift systems, and oilfield and industrial chemicals; subsea projects and services, flexible pipe systems, and surface pressure control systems; and integrated well services and solutions.*
 
 ---
 

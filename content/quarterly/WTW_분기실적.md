@@ -1,10 +1,12 @@
 # WILLIS TOWERS WATSON PLC (WTW) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance Brokers | 시총 27B$ | 결산월: 12월**
+**Financial Services | Insurance Brokers | 시총 27B$ (#500위) | 결산월: 12월**
 
-Willis Towers Watson Public Limited Company operates as an advisory, broking, and solutions company worldwide. The company operates through two segments: Health, Wealth & Career and Risk & Broking. It offers strategy and design consulting, plan management service and support, broking and administration services for health, wellbeing, and other group benefit programs, including medical, dental, disability, life, voluntary benefits, and other coverages; actuarial support, plan design, and administrative services for pension and retirement savings plans; retirement consulting services and solutions; and integrated solutions that consists of investment discretionary management, pension administration, core actuarial, and communication and change management assistance services.
+전 세계적으로 조직에 위험 관리, 자문, 보험 중개 서비스를 제공하는 글로벌 기업입니다. 건강, 복지, 은퇴 연금 플랜 관리 및 전문적인 리스크 분석 솔루션을 지원하여 기업의 인적 자본 및 자산 최적화를 돕습니다.
+
+*Willis Towers Watson Public Limited Company operates as an advisory, broking, and solutions company worldwide. The company operates through two segments: Health, Wealth & Career and Risk & Broking. It offers strategy and design consulting, plan management service and support, broking and administration services for health, wellbeing, and other group benefit programs, including medical, dental, disability, life, voluntary benefits, and other coverages; actuarial support, plan design, and administrative services for pension and retirement savings plans; retirement consulting services and solutions; and integrated solutions that consists of investment discretionary management, pension administration, core actuarial, and communication and change management assistance services.*
 
 ---
 

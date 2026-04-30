@@ -1,10 +1,12 @@
 # Apple Inc. (AAPL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Consumer Electronics | 시총 3929B$ | 결산월: 9월**
+**Technology | Consumer Electronics | 시총 3929B$ (#4위) | 결산월: 9월**
 
-Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple Vision Pro, Apple TV, Apple Watch, Beats products, and HomePod, as well as Apple branded and third-party accessories.
+Apple Inc.는 전 세계적으로 스마트폰, 개인용 컴퓨터, 태블릿, 웨어러블 기기 및 액세서리를 설계하고 제조 및 판매합니다. 주요 제품으로는 iPhone, Mac, iPad를 비롯해 AirPods, Apple Vision Pro, Apple Watch 등의 웨어러블 및 홈 액세서리가 있습니다.
+
+*Apple Inc. designs, manufactures, and markets smartphones, personal computers, tablets, wearables, and accessories worldwide. The company offers iPhone, a line of smartphones; Mac, a line of personal computers; iPad, a line of multi-purpose tablets; and wearables, home, and accessories comprising AirPods, Apple Vision Pro, Apple TV, Apple Watch, Beats products, and HomePod, as well as Apple branded and third-party accessories.*
 
 ---
 

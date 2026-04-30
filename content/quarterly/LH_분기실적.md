@@ -1,10 +1,12 @@
 # LABCORP HOLDINGS INC. (LH) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Diagnostics & Research | 시총 22B$ | 결산월: 12월**
+**Healthcare | Diagnostics & Research | 시총 22B$ (#593위) | 결산월: 12월**
 
-Labcorp Holdings Inc. provides laboratory services. It operates through two segments, Diagnostics Laboratories and Biopharma Laboratory Services.
+Labcorp Holdings는 실험실 서비스를 제공하는 헬스케어 기업이다. Diagnostics Laboratories와 Biopharma Laboratory Services 부문을 통해 진단검사와 바이오파마 연구개발 지원 실험실 서비스를 운영한다.
+
+*Labcorp Holdings Inc. provides laboratory services. It operates through two segments, Diagnostics Laboratories and Biopharma Laboratory Services.*
 
 ---
 

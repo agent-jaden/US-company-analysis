@@ -1,10 +1,12 @@
 # BlackRock, Inc. (BLK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Asset Management | 시총 164B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 164B$ (#84위) | 결산월: 12월**
 
-BlackRock, Inc. is a publicly owned investment manager. The firm primarily provides its services to institutional, intermediary, and individual investors including corporate, public, union, and industry pension plans, insurance companies, third-party mutual funds, endowments, public institutions, governments, foundations, charities, sovereign wealth funds, corporations, official institutions, and banks.
+BlackRock, Inc.는 기관, 중개 기관 및 개인 투자자에게 서비스를 제공하는 상장 투자 관리 기업입니다. 기업 및 공공 연금, 국부 펀드, 보험사, 제3자 뮤추얼 펀드 등 광범위한 고객층을 대상으로 자산 관리 및 투자 솔루션을 지원합니다.
+
+*BlackRock, Inc. is a publicly owned investment manager. The firm primarily provides its services to institutional, intermediary, and individual investors including corporate, public, union, and industry pension plans, insurance companies, third-party mutual funds, endowments, public institutions, governments, foundations, charities, sovereign wealth funds, corporations, official institutions, and banks.*
 
 ---
 

@@ -1,10 +1,12 @@
 # HEICO CORP (HEI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 37B$ | 결산월: 10월**
+**Industrials | Aerospace & Defense | 시총 37B$ (#399위) | 결산월: 10월**
 
-HEICO Corporation provides aerospace, defense, and electronic related products and services in the United States and internationally. Its Flight Support Group segment offers jet engine and aircraft component replacement parts; thermal insulation blankets and parts; renewable/reusable insulation systems; and specialty components and assemblies. This segment also distributes hydraulic, pneumatic, structural, interconnect, mechanical, and electro-mechanical components for the commercial, regional, and general aviation markets; and offers repair and overhaul services for jet engine and aircraft component parts, avionics, instruments, composites, and commercial aircraft surfaces, as well as for avionics and navigation systems, subcomponents, and other military aircraft instruments.
+HEICO는 미국과 해외에서 항공우주, 방산, 전자 관련 제품과 서비스를 제공한다. Flight Support Group은 제트엔진·항공기 교체부품, 단열 블랭킷, 특수 부품, 항공기용 유압·공압·구조·전기기계 부품 유통, 제트엔진·항공기 부품과 항전·계기·복합재·항법 시스템의 수리·오버홀 서비스를 제공한다.
+
+*HEICO Corporation provides aerospace, defense, and electronic related products and services in the United States and internationally. Its Flight Support Group segment offers jet engine and aircraft component replacement parts; thermal insulation blankets and parts; renewable/reusable insulation systems; and specialty components and assemblies. This segment also distributes hydraulic, pneumatic, structural, interconnect, mechanical, and electro-mechanical components for the commercial, regional, and general aviation markets; and offers repair and overhaul services for jet engine and aircraft component parts, avionics, instruments, composites, and commercial aircraft surfaces, as well as for avionics and navigation systems, subcomponents, and other military aircraft instruments.*
 
 ---
 

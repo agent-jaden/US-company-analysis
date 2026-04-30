@@ -1,10 +1,12 @@
 # Mondelez International, Inc. (MDLZ) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Confectioners | 시총 74B$ | 결산월: 12월**
+**Consumer Defensive | Confectioners | 시총 74B$ (#230위) | 결산월: 12월**
 
-Mondelez International, Inc., through its subsidiaries, manufactures, markets, and sells snack food and beverage products in Latin America, North America, Asia, the Middle East, Africa, and Europe. The company provides biscuits and baked snacks, including cookies, crackers, salted snacks, snack bars, and cakes and pastries; chocolates; and gums and candies, as well as various cheese, grocery, and powdered beverage products. Its brand portfolio includes Oreo, Ritz, LU, CLIF Bar, Tate's Bake Shop biscuits and baked snacks, Cadbury Dairy Milk, Milka, and Toblerone chocolate.
+Mondelez International, Inc.는 북미, 유럽, 아시아 등 전 세계에서 스낵 및 음료 제품을 제조하고 판매하는 글로벌 제과 기업입니다. Oreo, Ritz, Cadbury, Toblerone 등 유명 브랜드를 기반으로 쿠키, 초콜릿, 껌 및 치즈 등 다양한 식품 포트폴리오를 제공합니다.
+
+*Mondelez International, Inc., through its subsidiaries, manufactures, markets, and sells snack food and beverage products in Latin America, North America, Asia, the Middle East, Africa, and Europe. The company provides biscuits and baked snacks, including cookies, crackers, salted snacks, snack bars, and cakes and pastries; chocolates; and gums and candies, as well as various cheese, grocery, and powdered beverage products. Its brand portfolio includes Oreo, Ritz, LU, CLIF Bar, Tate's Bake Shop biscuits and baked snacks, Cadbury Dairy Milk, Milka, and Toblerone chocolate.*
 
 ---
 

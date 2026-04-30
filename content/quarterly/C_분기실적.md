@@ -1,10 +1,12 @@
 # CITIGROUP INC (C) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Diversified | 시총 226B$ | 결산월: 12월**
+**Financial Services | Banks - Diversified | 시총 226B$ (#59위) | 결산월: 12월**
 
-Citigroup Inc., a diversified financial service holding company, provides various financial products and services to consumers, corporations, governments, and institutions. It operates through five segments: Services, Markets, Banking, U.S. Personal Banking, and Wealth.
+Citigroup Inc.는 소비자, 기업, 정부 및 기관에 다양한 금융 상품과 서비스를 제공하는 다각화된 금융 서비스 지주 회사입니다. 서비스, 시장, 뱅킹, 미국 개인 뱅킹 및 자산 관리의 5개 부문을 통해 사업을 운영하고 있습니다.
+
+*Citigroup Inc., a diversified financial service holding company, provides various financial products and services to consumers, corporations, governments, and institutions. It operates through five segments: Services, Markets, Banking, U.S. Personal Banking, and Wealth.*
 
 ---
 

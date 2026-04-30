@@ -1,10 +1,12 @@
 # DOMINOS PIZZA INC (DPZ) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Restaurants | 시총 11B$ | 결산월: 1월**
+**Consumer Cyclical | Restaurants | 시총 11B$ (#916위) | 결산월: 1월**
 
-Domino's Pizza, Inc. operates as a pizza company worldwide. The company operates through three segments: U.S.
+Domino's Pizza는 전 세계에서 피자 사업을 운영한다. 미국 및 해외 프랜차이즈와 매장 운영을 통해 피자와 관련 식음료 제품을 판매하는 글로벌 외식 기업이다.
+
+*Domino's Pizza, Inc. operates as a pizza company worldwide. The company operates through three segments: U.S.*
 
 ---
 

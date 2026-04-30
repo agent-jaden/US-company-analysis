@@ -1,10 +1,12 @@
 # LINCOLN ELECTRIC HOLDINGS INC (LECO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Tools & Accessories | 시총 14B$ | 결산월: 12월**
+**Industrials | Tools & Accessories | 시총 14B$ (#776위) | 결산월: 12월**
 
-Lincoln Electric Holdings, Inc., through its subsidiaries, designs, develops, manufactures, and sells welding, cutting, and brazing products in the United States and internationally. It operates in three segments: Americas Welding, International Welding, and The Harris Products Group. The company offers brazing and soldering filler metals, arc welding equipment, plasma and oxyfuel cutting systems, wire feeding systems, fume control equipment, welding accessories, specialty gas regulators, and education solutions; and a portfolio of automated solutions and system integration services for joining, cutting, material handling, module assembly, and end of line testing, as well as involved in brazing and soldering alloys, and in the retail business.
+Lincoln Electric은 자회사를 통해 미국과 해외에서 용접, 절단, 브레이징 제품을 설계·개발·제조·판매한다. 아크용접 장비, 플라즈마·산소연료 절단 시스템, 와이어 공급 시스템, 흄 제어, 용접 액세서리, 특수가스 조절기, 교육 솔루션과 자동화·시스템 통합 서비스를 제공한다.
+
+*Lincoln Electric Holdings, Inc., through its subsidiaries, designs, develops, manufactures, and sells welding, cutting, and brazing products in the United States and internationally. It operates in three segments: Americas Welding, International Welding, and The Harris Products Group. The company offers brazing and soldering filler metals, arc welding equipment, plasma and oxyfuel cutting systems, wire feeding systems, fume control equipment, welding accessories, specialty gas regulators, and education solutions; and a portfolio of automated solutions and system integration services for joining, cutting, material handling, module assembly, and end of line testing, as well as involved in brazing and soldering alloys, and in the retail business.*
 
 ---
 

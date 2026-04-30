@@ -1,10 +1,12 @@
 # Cencora, Inc. (COR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Distribution | 시총 60B$ | 결산월: 9월**
+**Healthcare | Medical Distribution | 시총 60B$ (#281위) | 결산월: 9월**
 
-Cencora, Inc. sources and distributes pharmaceutical products in the United States and internationally. The company's U.S.
+Cencora는 미국과 해외에서 의약품을 조달하고 유통하는 헬스케어 유통 기업이다. 제약사와 의료기관을 연결하는 의약품 공급망 서비스를 중심으로 의약품 유통과 관련 솔루션을 제공한다.
+
+*Cencora, Inc. sources and distributes pharmaceutical products in the United States and internationally. The company's U.S.*
 
 ---
 

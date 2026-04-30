@@ -1,10 +1,12 @@
 # VALERO ENERGY CORP/TX (VLO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Refining & Marketing | 시총 71B$ | 결산월: 12월**
+**Energy | Oil & Gas Refining & Marketing | 시총 71B$ (#238위) | 결산월: 12월**
 
-Valero Energy Corporation manufactures, markets, and sells petroleum-based and low-carbon liquid transportation fuels and petrochemical products in the United States, Canada, the United Kingdom, Ireland, Latin America, Mexico, Peru, and internationally. It operates through three segments: Refining, Renewable Diesel, and Ethanol. The company produces California Reformulated Gasoline Blendstock for Oxygenate Blending (CARBOB) and Conventional Blendstock for Oxygenate Blending (CBOB) gasolines, CARB diesel, diesel, jet fuel, heating oil, and asphalt; feedstocks; aromatics; sulfur and residual fuel oil; intermediate oils; and sulfur, sweet, and sour crude oils.
+Valero Energy Corporation은 미국, 캐나다, 유럽 등지에서 석유 기반 및 저탄소 액체 운송 연료와 석유화학 제품을 제조하고 판매합니다. 정유, 재생 디젤 및 에탄올 부문을 통해 친환경 규격에 맞춘 가솔린, 디젤, 제트 연료 및 각종 기초 화학 원료를 생산합니다.
+
+*Valero Energy Corporation manufactures, markets, and sells petroleum-based and low-carbon liquid transportation fuels and petrochemical products in the United States, Canada, the United Kingdom, Ireland, Latin America, Mexico, Peru, and internationally. It operates through three segments: Refining, Renewable Diesel, and Ethanol. The company produces California Reformulated Gasoline Blendstock for Oxygenate Blending (CARBOB) and Conventional Blendstock for Oxygenate Blending (CBOB) gasolines, CARB diesel, diesel, jet fuel, heating oil, and asphalt; feedstocks; aromatics; sulfur and residual fuel oil; intermediate oils; and sulfur, sweet, and sour crude oils.*
 
 ---
 

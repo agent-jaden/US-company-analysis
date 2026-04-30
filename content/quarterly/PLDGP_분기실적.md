@@ -1,10 +1,12 @@
 # Prologis, Inc. (PLDGP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Industrial | 시총 41B$ | 결산월: 12월**
+**Real Estate | REIT - Industrial | 시총 41B$ (#374위) | 결산월: 12월**
 
-Prologis, Inc. is a self-administered and self-managed REIT and is the sole general partner of Prologis, L.P. through which it holds substantially all of its assets.
+Prologis는 자체 운용·관리되는 REIT로, 물류 부동산 자산을 보유·운영한다. Prologis, L.P.의 단독 general partner로서 대부분의 자산을 해당 파트너십을 통해 보유한다.
+
+*Prologis, Inc. is a self-administered and self-managed REIT and is the sole general partner of Prologis, L.P. through which it holds substantially all of its assets.*
 
 ---
 

@@ -1,10 +1,12 @@
 # lululemon athletica inc. (LULU) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Apparel Retail | 시총 17B$ | 결산월: 2월**
+**Consumer Cyclical | Apparel Retail | 시총 17B$ (#684위) | 결산월: 2월**
 
-lululemon athletica inc., together with its subsidiaries, designs, distributes, and retails technical athletic apparel, footwear, and accessories for women and men under the lululemon brand in the United States, Canada, Mexico, China Mainland, Hong Kong, Taiwan, Macau, and internationally. It offers pants, shorts, tops, and jackets for athletic activities, such as yoga, running, training, and other activities. The company also provides fitness-inspired accessories.
+lululemon athletica는 미국, 캐나다, 멕시코, 중국 본토, 홍콩, 대만, 마카오 및 해외에서 lululemon 브랜드의 기능성 운동복, 신발, 액세서리를 설계·유통·소매 판매한다. 요가, 러닝, 트레이닝 등 활동용 팬츠, 쇼츠, 탑, 재킷과 피트니스 기반 액세서리를 제공한다.
+
+*lululemon athletica inc., together with its subsidiaries, designs, distributes, and retails technical athletic apparel, footwear, and accessories for women and men under the lululemon brand in the United States, Canada, Mexico, China Mainland, Hong Kong, Taiwan, Macau, and internationally. It offers pants, shorts, tops, and jackets for athletic activities, such as yoga, running, training, and other activities. The company also provides fitness-inspired accessories.*
 
 ---
 

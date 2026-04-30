@@ -1,10 +1,12 @@
 # WINTRUST FINANCIAL CORP (WTFC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Regional | 시총 10B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 10B$ (#976위) | 결산월: 12월**
 
-Wintrust Financial Corporation, a financial holding company, provides community-oriented, personal, and commercial banking services in the United States. It operates through three segments: Community Banking, Specialty Finance, and Wealth Management. The Community Banking segment offers non-interest-bearing deposits, non-brokered interest-bearing transaction accounts, and savings and domestic time deposits; home equity, consumer, and real estate loans; safe deposit facilities; and automatic teller machine, online and mobile banking, and other services.
+Wintrust Financial은 미국에서 지역사회 중심의 개인·상업은행 서비스를 제공하는 금융지주회사다. Community Banking, Specialty Finance, Wealth Management 부문을 운영하며 예금, 주택담보·소비자·부동산 대출, 금고, ATM, 온라인·모바일뱅킹, 자산관리 서비스를 제공한다.
+
+*Wintrust Financial Corporation, a financial holding company, provides community-oriented, personal, and commercial banking services in the United States. It operates through three segments: Community Banking, Specialty Finance, and Wealth Management. The Community Banking segment offers non-interest-bearing deposits, non-brokered interest-bearing transaction accounts, and savings and domestic time deposits; home equity, consumer, and real estate loans; safe deposit facilities; and automatic teller machine, online and mobile banking, and other services.*
 
 ---
 

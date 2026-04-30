@@ -1,10 +1,12 @@
 # F5, INC. (FFIV) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 17B$ | 결산월: 9월**
+**Technology | Software - Infrastructure | 시총 17B$ (#698위) | 결산월: 9월**
 
-F5, Inc. provides multicloud application security and delivery solutions in the United States, Europe, the Middle East, Africa, and the Asia Pacific region. The company's distributed cloud services enable its customers to deploy, secure, and operate applications in any architecture, from on-premises to the public cloud.
+F5는 미국, 유럽, 중동, 아프리카, 아시아태평양에서 멀티클라우드 애플리케이션 보안 및 전송 솔루션을 제공한다. Distributed cloud services를 통해 고객이 온프레미스부터 퍼블릭 클라우드까지 다양한 아키텍처에서 애플리케이션을 배포, 보호, 운영할 수 있도록 지원한다.
+
+*F5, Inc. provides multicloud application security and delivery solutions in the United States, Europe, the Middle East, Africa, and the Asia Pacific region. The company's distributed cloud services enable its customers to deploy, secure, and operate applications in any architecture, from on-premises to the public cloud.*
 
 ---
 

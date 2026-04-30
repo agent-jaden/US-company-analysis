@@ -1,10 +1,12 @@
 # EMCOR Group, Inc. (EME) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Engineering & Construction | 시총 39B$ | 결산월: 12월**
+**Industrials | Engineering & Construction | 시총 39B$ (#382위) | 결산월: 12월**
 
-EMCOR Group, Inc. provides electrical and mechanical construction and facilities, building, and industrial services in the United States and the United Kingdom. It offers design, integration, installation, startup, operation, and maintenance services related to power transmission, distribution, and generation systems; energy solutions; premises electrical and lighting systems; process instrumentation; low-voltage systems; voice and data communications systems; roadway and transit lighting, signaling, and fiber optic lines; computerized traffic control systems, and signal and communication equipment; heating, ventilation, air conditioning, refrigeration, and geothermal solutions; clean-room process ventilation systems; fire protection and suppression systems; plumbing, process, and piping systems; control and filtration systems; water and wastewater treatment systems; central plant heating and cooling systems; crane and rigging; millwright; and steel fabrication, erection, and welding services.
+EMCOR Group은 미국과 영국에서 전기·기계 건설, 시설, 건물, 산업 서비스를 제공한다. 송배전·발전 시스템, 에너지 솔루션, 전기·조명, 통신, 도로·교통 조명·신호, HVAC/R, 클린룸 환기, 화재방지, 배관·공정 파이핑, 수처리, 크레인·리깅, 철골 제작·설치·용접 서비스를 수행한다.
+
+*EMCOR Group, Inc. provides electrical and mechanical construction and facilities, building, and industrial services in the United States and the United Kingdom. It offers design, integration, installation, startup, operation, and maintenance services related to power transmission, distribution, and generation systems; energy solutions; premises electrical and lighting systems; process instrumentation; low-voltage systems; voice and data communications systems; roadway and transit lighting, signaling, and fiber optic lines; computerized traffic control systems, and signal and communication equipment; heating, ventilation, air conditioning, refrigeration, and geothermal solutions; clean-room process ventilation systems; fire protection and suppression systems; plumbing, process, and piping systems; control and filtration systems; water and wastewater treatment systems; central plant heating and cooling systems; crane and rigging; millwright; and steel fabrication, erection, and welding services.*
 
 ---
 

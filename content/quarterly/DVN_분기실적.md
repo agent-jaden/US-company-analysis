@@ -1,10 +1,12 @@
 # DEVON ENERGY CORP/DE (DVN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas E&P | 시총 30B$ | 결산월: 12월**
+**Energy | Oil & Gas E&P | 시총 30B$ (#474위) | 결산월: 12월**
 
-Devon Energy Corporation, an independent energy company, engages in the exploration, development, and production of oil, natural gas, and natural gas liquids in the United States. The company operates in Delaware Basin located in southeast New Mexico and west Texas, Eagle Ford located in North America, Anadarko Basin located in western Oklahoma, Williston Basin located in North Dakota, and Powder River Basin located in Wyoming. Devon Energy Corporation was founded in 1971 and is headquartered in Oklahoma City, Oklahoma.
+미국 내 주요 분지에서 석유, 천연가스 및 천연가스 액체(NGL)의 탐사, 개발 및 생산을 전문으로 하는 독립 에너지 기업입니다. 뉴멕시코와 텍사스의 Delaware Basin, 노스다코타의 Williston Basin, 오클라호마의 Anadarko Basin 등 핵심 에너지 생산지에서 사업을 전개합니다.
+
+*Devon Energy Corporation, an independent energy company, engages in the exploration, development, and production of oil, natural gas, and natural gas liquids in the United States. The company operates in Delaware Basin located in southeast New Mexico and west Texas, Eagle Ford located in North America, Anadarko Basin located in western Oklahoma, Williston Basin located in North Dakota, and Powder River Basin located in Wyoming. Devon Energy Corporation was founded in 1971 and is headquartered in Oklahoma City, Oklahoma.*
 
 ---
 

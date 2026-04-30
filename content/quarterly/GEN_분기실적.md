@@ -1,10 +1,12 @@
 # Gen Digital Inc. (GEN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 12B$ | 결산월: 3월**
+**Technology | Software - Infrastructure | 시총 12B$ (#898위) | 결산월: 3월**
 
-Gen Digital Inc. engages in the provision of cyber safety solutions for individuals, families, and small businesses. It offers security and performance management, identity protection, and online privacy, as well as technology platform.
+Gen Digital Inc.는 전 세계 개인, 가족, 소기업을 대상으로 Norton, Avast 등의 브랜드를 통해 포괄적인 사이버 보안 솔루션을 제공하는 글로벌 기술 기업입니다. 악성코드 방어부터 개인 정보 유출 보호, 기기 성능 최적화 등 온라인 환경을 보호하기 위한 다양한 소프트웨어 플랫폼을 지원합니다.
+
+*Gen Digital Inc. engages in the provision of cyber safety solutions for individuals, families, and small businesses. It offers security and performance management, identity protection, and online privacy, as well as technology platform.*
 
 ---
 

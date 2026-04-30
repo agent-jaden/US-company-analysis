@@ -1,10 +1,12 @@
 # Unum Group (UNM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Life | 시총 12B$ | 결산월: 12월**
+**Financial Services | Insurance - Life | 시총 12B$ (#848위) | 결산월: 12월**
 
-Unum Group, together with its subsidiaries, provides financial protection benefit solutions in the United States, the United Kingdom, and Poland. It operates through Unum US, Unum International, Colonial Life, and Closed Block segments. The company offers group long-term and short-term disability, group life, and accidental death and dismemberment products; supplemental and voluntary products, such as voluntary benefits, individual disability, and dental and vision products; and accident, sickness, disability, life, and cancer and critical illness products.
+Unum Group은 미국, 영국, 폴란드에서 금융 보호성 복리후생 솔루션을 제공한다. Unum US, Unum International, Colonial Life, Closed Block 부문을 통해 단체 장단기 장애보험, 단체 생명, 사고사·상해, 자발적 복리후생, 개인 장애, 치과·시력, 암·중대질병 보험을 제공한다.
+
+*Unum Group, together with its subsidiaries, provides financial protection benefit solutions in the United States, the United Kingdom, and Poland. It operates through Unum US, Unum International, Colonial Life, and Closed Block segments. The company offers group long-term and short-term disability, group life, and accidental death and dismemberment products; supplemental and voluntary products, such as voluntary benefits, individual disability, and dental and vision products; and accident, sickness, disability, life, and cancer and critical illness products.*
 
 ---
 

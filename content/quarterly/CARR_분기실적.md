@@ -1,10 +1,12 @@
 # CARRIER GLOBAL Corp (CARR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Building Products & Equipment | 시총 52B$ | 결산월: 12월**
+**Industrials | Building Products & Equipment | 시총 52B$ (#316위) | 결산월: 12월**
 
-Carrier Global Corporation provides intelligent climate and energy solutions in the United States, Europe, the Asia Pacific, and internationally. It operates through four segments: Climate Solutions Americas; Climate Solutions Europe; Climate Solutions Asia Pacific, Middle East & Africa; and Climate Solutions Transportation. The company provides air conditioners, heating systems, heat pumps, home and building energy management systems, automation systems, aftermarket components, and repair and maintenance and rental services, as well as modernization and upgrades to meet the heating, cooling, and ventilation needs of residential and commercial customers.
+Carrier Global은 미국, 유럽, 아시아태평양 등에서 지능형 기후·에너지 솔루션을 제공한다. 에어컨, 난방 시스템, 히트펌프, 주택·빌딩 에너지관리 시스템, 자동화 시스템, 애프터마켓 부품, 수리·유지보수·렌털, 현대화·업그레이드 서비스를 통해 주거·상업 고객의 냉난방·환기 수요를 지원한다.
+
+*Carrier Global Corporation provides intelligent climate and energy solutions in the United States, Europe, the Asia Pacific, and internationally. It operates through four segments: Climate Solutions Americas; Climate Solutions Europe; Climate Solutions Asia Pacific, Middle East & Africa; and Climate Solutions Transportation. The company provides air conditioners, heating systems, heat pumps, home and building energy management systems, automation systems, aftermarket components, and repair and maintenance and rental services, as well as modernization and upgrades to meet the heating, cooling, and ventilation needs of residential and commercial customers.*
 
 ---
 

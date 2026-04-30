@@ -1,10 +1,12 @@
 # Merck & Co., Inc. (MRK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Drug Manufacturers - General | 시총 272B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - General | 시총 272B$ (#48위) | 결산월: 12월**
 
-Merck & Co., Inc. operates as a healthcare company worldwide. It offers human health pharmaceutical for various areas under the Keytruda, Keytruda Qlex, Welireg, Gardasil, ProQuad, M-M-R II, Varivax, Vaxneuvance, Capvaxive, RotaTeq, Pneumovax 23, Bridion, Prevymis, Dificid, Zerbaxa, Winrevair, Adempas/ Verquvo, Ohtuvayre, Lagevrio, Isentress/Isentress HD, Delstrigo, Pifeltro, Belsomra, Januvia, and Janumet brands.
+Merck & Co., Inc.는 전 세계적으로 인체 건강을 위한 다방면의 의약품을 제공하는 글로벌 헬스케어 기업입니다. 주요 제품으로는 면역항암제 Keytruda를 비롯해 백신 제품인 Gardasil, M-M-R II, RotaTeq, 그리고 당뇨병 치료제 Januvia 등이 있습니다.
+
+*Merck & Co., Inc. operates as a healthcare company worldwide. It offers human health pharmaceutical for various areas under the Keytruda, Keytruda Qlex, Welireg, Gardasil, ProQuad, M-M-R II, Varivax, Vaxneuvance, Capvaxive, RotaTeq, Pneumovax 23, Bridion, Prevymis, Dificid, Zerbaxa, Winrevair, Adempas/ Verquvo, Ohtuvayre, Lagevrio, Isentress/Isentress HD, Delstrigo, Pifeltro, Belsomra, Januvia, and Janumet brands.*
 
 ---
 

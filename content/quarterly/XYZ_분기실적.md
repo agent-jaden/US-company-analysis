@@ -1,10 +1,12 @@
 # Block, Inc. (XYZ) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 42B$ | 결산월: 12월**
+**Technology | Software - Infrastructure | 시총 42B$ (#366위) | 결산월: 12월**
 
-Block, Inc., together with its subsidiaries, builds ecosystems focused on commerce and financial products and services in the United States and internationally. It operates through two segments: Square and Cash App. The Square segment offers managed payment services; software solutions; hardware products, such as registers, terminals, stands, and readers for contactless and chips; banking services consisting of lending, instant transfer, and checking and savings accounts; and full-service setup and support services.
+Block은 미국과 해외에서 상거래 및 금융 제품·서비스 중심의 생태계를 구축한다. Square와 Cash App 부문을 운영하며 Square 부문은 결제관리, 소프트웨어, POS 하드웨어, 대출·즉시이체·예금계좌 등 은행 서비스와 설치·지원 서비스를 제공한다.
+
+*Block, Inc., together with its subsidiaries, builds ecosystems focused on commerce and financial products and services in the United States and internationally. It operates through two segments: Square and Cash App. The Square segment offers managed payment services; software solutions; hardware products, such as registers, terminals, stands, and readers for contactless and chips; banking services consisting of lending, instant transfer, and checking and savings accounts; and full-service setup and support services.*
 
 ---
 

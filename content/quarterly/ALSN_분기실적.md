@@ -1,10 +1,12 @@
 # Allison Transmission Holdings Inc (ALSN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Auto Parts | 시총 11B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Parts | 시총 11B$ (#920위) | 결산월: 12월**
 
-Allison Transmission Holdings, Inc., together with its subsidiaries, designs, manufactures, and sells fully automatic transmissions for medium- and heavy-duty commercial vehicles and medium- and heavy-tactical U.S. defense vehicles, and electrified propulsion systems worldwide. It offers transmissions for various applications, including distribution, refuse, construction, fire, and emergency on-highway trucks; school and transit buses; motor homes; energy, mining, and construction of off-highway vehicles and equipment; and wheeled and tracked defense vehicles.
+Allison Transmission은 전 세계에서 중대형 상용차, 미국 방산용 중대형 전술차량용 완전 자동변속기와 전동화 추진 시스템을 설계·제조·판매한다. 물류, 폐기물, 건설, 소방·응급 트럭, 스쿨버스·대중교통 버스, 캠핑카, 에너지·광산·건설 장비, 차륜·궤도형 방산 차량용 변속기를 공급한다.
+
+*Allison Transmission Holdings, Inc., together with its subsidiaries, designs, manufactures, and sells fully automatic transmissions for medium- and heavy-duty commercial vehicles and medium- and heavy-tactical U.S. defense vehicles, and electrified propulsion systems worldwide. It offers transmissions for various applications, including distribution, refuse, construction, fire, and emergency on-highway trucks; school and transit buses; motor homes; energy, mining, and construction of off-highway vehicles and equipment; and wheeled and tracked defense vehicles.*
 
 ---
 

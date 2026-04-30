@@ -1,10 +1,12 @@
 # APPLIED MATERIALS INC /DE (AMAT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductor Equipment & Materials | 시총 321B$ | 결산월: 10월**
+**Technology | Semiconductor Equipment & Materials | 시총 321B$ (#40위) | 결산월: 10월**
 
-Applied Materials, Inc. provides materials engineering solutions, equipment, services, and software to the semiconductor and related industries in the United States, China, Korea, Taiwan, Japan, Southeast Asia, Europe, and internationally. The company operates through Semiconductor Systems and Applied Global Services (AGS) segments.
+Applied Materials, Inc.는 미국, 아시아, 유럽 등 전 세계 반도체 및 관련 산업에 재료 공학 솔루션, 장비, 서비스 및 소프트웨어를 제공합니다. 사업은 주로 Semiconductor Systems 및 Applied Global Services (AGS) 부문을 통해 운영됩니다.
+
+*Applied Materials, Inc. provides materials engineering solutions, equipment, services, and software to the semiconductor and related industries in the United States, China, Korea, Taiwan, Japan, Southeast Asia, Europe, and internationally. The company operates through Semiconductor Systems and Applied Global Services (AGS) segments.*
 
 ---
 

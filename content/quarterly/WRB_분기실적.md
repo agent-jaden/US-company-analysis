@@ -1,10 +1,12 @@
 # BERKLEY W R CORP (WRB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Property & Casualty | 시총 26B$ | 결산월: 12월**
+**Financial Services | Insurance - Property & Casualty | 시총 26B$ (#521위) | 결산월: 12월**
 
-W. R. Berkley Corporation, an insurance holding company, operates as a commercial line writer worldwide.
+W. R. Berkley Corporation은 전 세계를 무대로 상업용 보험을 주력으로 취급하는 글로벌 보험 지주 회사입니다.
+
+*W. R. Berkley Corporation, an insurance holding company, operates as a commercial line writer worldwide.*
 
 ---
 

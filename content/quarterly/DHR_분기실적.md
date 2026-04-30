@@ -1,10 +1,12 @@
 # DANAHER CORP /DE/ (DHR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Diagnostics & Research | 시총 128B$ | 결산월: 12월**
+**Healthcare | Diagnostics & Research | 시총 128B$ (#122위) | 결산월: 12월**
 
-Danaher Corporation designs, manufactures, and markets professional, medical, research, and industrial products and services in the United States, China, and internationally. The company operates through Biotechnology, Life Sciences, and Diagnostics segments. The Biotechnology segment provides technologies, consumables, services, and solutions that advance, accelerate, and integrate the development and manufacture of therapeutics; cell line and cell culture media development services; cell culture media, process liquids and buffers for manufacturing, chromatography resins, filtration technologies, and aseptic fill finish; single-use hardware, consumables, and services, such as the design and installation of full manufacturing suites; lab filtration, separation, and purification; lab-scale protein purification and analytical tools; reagents, membranes, and services for diagnostic and assay development; and healthcare filtration solutions.
+Danaher는 미국, 중국 등 글로벌 시장에서 전문 의료, 연구, 산업용 제품과 서비스를 설계·제조·판매한다. Biotechnology, Life Sciences, Diagnostics 부문을 통해 치료제 개발·제조용 기술, 소모품, 세포배양 배지, 크로마토그래피 수지, 여과 기술, 진단·분석용 시약과 서비스를 제공한다.
+
+*Danaher Corporation designs, manufactures, and markets professional, medical, research, and industrial products and services in the United States, China, and internationally. The company operates through Biotechnology, Life Sciences, and Diagnostics segments. The Biotechnology segment provides technologies, consumables, services, and solutions that advance, accelerate, and integrate the development and manufacture of therapeutics; cell line and cell culture media development services; cell culture media, process liquids and buffers for manufacturing, chromatography resins, filtration technologies, and aseptic fill finish; single-use hardware, consumables, and services, such as the design and installation of full manufacturing suites; lab filtration, separation, and purification; lab-scale protein purification and analytical tools; reagents, membranes, and services for diagnostic and assay development; and healthcare filtration solutions.*
 
 ---
 

@@ -1,10 +1,12 @@
 # HUNT J B TRANSPORT SERVICES INC (JBHT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Integrated Freight & Logistics | 시총 24B$ | 결산월: 12월**
+**Industrials | Integrated Freight & Logistics | 시총 24B$ (#555위) | 결산월: 12월**
 
-J.B. Hunt Transport Services, Inc. provides surface transportation, delivery, and logistic services in the United States.
+J.B. Hunt Transport Services, Inc.는 미국 내에서 화물 운송, 물류 배송 및 포괄적인 공급망 솔루션을 제공하는 육상 운송 전문 기업입니다.
+
+*J.B. Hunt Transport Services, Inc. provides surface transportation, delivery, and logistic services in the United States.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Revolution Medicines, Inc. (RVMD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Biotechnology | 시총 28B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 28B$ (#495위) | 결산월: 12월**
 
-Revolution Medicines, Inc., a clinical-stage precision oncology company, develops novel targeted therapies for RAS-addicted cancers. The company's research and development pipeline consist of RAS(ON) inhibitors that binds RAS variants to be used as monotherapy in combination with other RAS(ON) inhibitors and/or in combination with RAS companion inhibitors or other therapeutic agents, and RAS companion inhibitors to suppress cooperating targets and pathways that sustain RAS-addicted cancers. Its RAS(ON) inhibitors include daraxonrasib (RMC-6236), elironrasib G12C (RMC-6291) which is in early clinical development for the treatment of solid tumors, and zoldonrasib G12D (RMC-9805), which are in phase 3 registrational trial evaluating the combination of daraxonrasib with zoldonrasib in patients with 1L PDAC; and development candidates comprise RMC-5127 (G12V) which is in clinical trial, RMC-0708 (Q61H), that is in clinical trial; and RMC-8839 (G13C).
+RAS 변이 암 치료를 위한 혁신적인 표적 치료제를 개발하는 임상 단계의 정밀 종양학 생명공학 기업입니다. 고형암 치료를 위한 daraxonrasib(RMC-6236) 및 elironrasib(RMC-6291) 등 다양한 RAS(ON) 억제제와 병용 요법 후보물질의 임상 시험을 적극적으로 진행하고 있습니다.
+
+*Revolution Medicines, Inc., a clinical-stage precision oncology company, develops novel targeted therapies for RAS-addicted cancers. The company's research and development pipeline consist of RAS(ON) inhibitors that binds RAS variants to be used as monotherapy in combination with other RAS(ON) inhibitors and/or in combination with RAS companion inhibitors or other therapeutic agents, and RAS companion inhibitors to suppress cooperating targets and pathways that sustain RAS-addicted cancers. Its RAS(ON) inhibitors include daraxonrasib (RMC-6236), elironrasib G12C (RMC-6291) which is in early clinical development for the treatment of solid tumors, and zoldonrasib G12D (RMC-9805), which are in phase 3 registrational trial evaluating the combination of daraxonrasib with zoldonrasib in patients with 1L PDAC; and development candidates comprise RMC-5127 (G12V) which is in clinical trial, RMC-0708 (Q61H), that is in clinical trial; and RMC-8839 (G13C).*
 
 ---
 

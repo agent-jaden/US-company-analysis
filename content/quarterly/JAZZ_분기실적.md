@@ -1,10 +1,12 @@
 # Jazz Pharmaceuticals plc (JAZZ) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Biotechnology | 시총 13B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 13B$ (#842위) | 결산월: 12월**
 
-Jazz Pharmaceuticals plc identifies, develops, and commercializes pharmaceutical products in the United States, Europe, and internationally. The company offers Xywav to treat cataplexy or excessive daytime sleepiness (EDS) with narcolepsy and idiopathic hypersomnia (IH); Epidiolex for seizures associated with Lennox-Gastaut syndrome (LGS), Dravet syndrome (DS), or tuberous sclerosis complex (TSC); Rylaze for the treatment of acute lymphoblastic leukemia or lymphoblastic lymphoma; Enrylaze to treat acute lymphoblastic leukemia and lymphoblastic lymphoma; Zepzelca for the treatment of metastatic small cell lung cancer with disease progression on or after platinum-based chemotherapy; Ziihera to treat HER2-positive biliary tract cancers; Modeyso for the treatment of diffuse midline glioma harboring an H3 K27M mutation; and Defitelio to treat severe veno-occlusive disease. It also develops Zanidatamab in Phase 3 trial to treat HER2-positive gastroesophageal adenocarcinoma (GEA) and biliary tract cancers (BTC); Dordaviprone to treat H3 K27M-mutant diffuse glioma; and Vyxeos for the treatment of newly-diagnosed therapy-related acute myeloid leukemia.
+Jazz Pharmaceuticals는 미국, 유럽 및 해외에서 의약품을 발굴·개발·상업화한다. Xywav, Epidiolex, Rylaze, Enrylaze, Zepzelca, Ziihera, Modeyso, Defitelio 등을 통해 기면증, 특발성 과다수면증, 발작, 급성림프구성백혈병, 소세포폐암, 담도암, diffuse midline glioma, severe veno-occlusive disease 등을 치료하며 Zanidatamab, Dordaviprone, Vyxeos도 개발한다.
+
+*Jazz Pharmaceuticals plc identifies, develops, and commercializes pharmaceutical products in the United States, Europe, and internationally. The company offers Xywav to treat cataplexy or excessive daytime sleepiness (EDS) with narcolepsy and idiopathic hypersomnia (IH); Epidiolex for seizures associated with Lennox-Gastaut syndrome (LGS), Dravet syndrome (DS), or tuberous sclerosis complex (TSC); Rylaze for the treatment of acute lymphoblastic leukemia or lymphoblastic lymphoma; Enrylaze to treat acute lymphoblastic leukemia and lymphoblastic lymphoma; Zepzelca for the treatment of metastatic small cell lung cancer with disease progression on or after platinum-based chemotherapy; Ziihera to treat HER2-positive biliary tract cancers; Modeyso for the treatment of diffuse midline glioma harboring an H3 K27M mutation; and Defitelio to treat severe veno-occlusive disease. It also develops Zanidatamab in Phase 3 trial to treat HER2-positive gastroesophageal adenocarcinoma (GEA) and biliary tract cancers (BTC); Dordaviprone to treat H3 K27M-mutant diffuse glioma; and Vyxeos for the treatment of newly-diagnosed therapy-related acute myeloid leukemia.*
 
 ---
 

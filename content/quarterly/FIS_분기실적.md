@@ -1,10 +1,12 @@
 # Fidelity National Information Services, Inc. (FIS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Information Technology Services | 시총 24B$ | 결산월: 12월**
+**Technology | Information Technology Services | 시총 24B$ (#552위) | 결산월: 12월**
 
-Fidelity National Information Services, Inc. provides solutions to financial institutions, businesses, and developers worldwide. The company operates through Banking Solutions, Capital Market Solutions, and Corporate and Other segments.
+Fidelity National Information Services, Inc.는 전 세계 금융 기관, 일반 기업 및 개발자를 위한 코어 뱅킹 및 결제 기술 솔루션을 제공합니다. 뱅킹 솔루션, 자본 시장 솔루션, 그리고 기타 기업 부문을 통해 금융 거래 처리 및 백오피스 자동화를 지원합니다.
+
+*Fidelity National Information Services, Inc. provides solutions to financial institutions, businesses, and developers worldwide. The company operates through Banking Solutions, Capital Market Solutions, and Corporate and Other segments.*
 
 ---
 

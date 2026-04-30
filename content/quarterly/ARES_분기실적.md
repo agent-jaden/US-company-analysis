@@ -1,10 +1,12 @@
 # Ares Management Corp (ARES) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Asset Management | 시총 25B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 25B$ (#530위) | 결산월: 12월**
 
-Ares Management Corporation operates as an alternative asset manager. Its Direct Lending Group segment provides financing solutions to small-to-medium sized companies. The company's Private Equity Group segment specializes in growth capital, middle market, mezzanine, distressed and growth buyouts.
+Ares Management Corporation은 다각화된 포트폴리오를 관리하는 글로벌 대체 자산 운용사입니다. 직접 대출 그룹 부문을 통해 중소기업에 맞춤형 자금 조달 솔루션을 제공하며, 사모펀드 그룹을 통해 성장 자본 투자 및 부실 기업 인수에 특화된 투자를 진행합니다.
+
+*Ares Management Corporation operates as an alternative asset manager. Its Direct Lending Group segment provides financing solutions to small-to-medium sized companies. The company's Private Equity Group segment specializes in growth capital, middle market, mezzanine, distressed and growth buyouts.*
 
 ---
 

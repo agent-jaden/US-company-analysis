@@ -1,10 +1,12 @@
 # XPO, Inc. (XPO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Trucking | 시총 26B$ | 결산월: 12월**
+**Industrials | Trucking | 시총 26B$ (#519위) | 결산월: 12월**
 
-XPO, Inc., together with its subsidiaries, provides freight transportation services in the United States, North America, France, the United Kingdom, and rest of Europe. The company operates in two segments, North American Less-Than-Truckload (LTL) and European Transportation. The North American LTL segment provides shippers with geographic density and day-definite domestic and cross-border services to the U.S., Mexico, Canada, and the Caribbean.
+XPO, Inc.는 미국, 북미, 유럽 등 전 세계 시장에서 화물 운송 서비스를 제공하는 글로벌 물류 기업입니다. 주로 북미 LTL(혼적 화물) 부문과 유럽 운송 부문을 통해 배송 지연 없는 정시 보장형 육상 화물 운송 및 국경 간 물류 솔루션을 지원합니다.
+
+*XPO, Inc., together with its subsidiaries, provides freight transportation services in the United States, North America, France, the United Kingdom, and rest of Europe. The company operates in two segments, North American Less-Than-Truckload (LTL) and European Transportation. The North American LTL segment provides shippers with geographic density and day-definite domestic and cross-border services to the U.S., Mexico, Canada, and the Caribbean.*
 
 ---
 

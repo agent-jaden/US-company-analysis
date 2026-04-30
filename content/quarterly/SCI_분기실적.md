@@ -1,10 +1,12 @@
 # SERVICE CORP INTERNATIONAL (SCI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Personal Services | 시총 12B$ | 결산월: 12월**
+**Consumer Cyclical | Personal Services | 시총 12B$ (#871위) | 결산월: 12월**
 
-Service Corporation International provides deathcare products and services in the United States and Canada. Its funeral service and cemetery operations comprise funeral service locations, cemeteries, funeral service/cemetery combination locations, crematoria, and other businesses. The company also provides professional services related to funerals and cremations, including the use of funeral home facilities and motor vehicles, arranging and directing services, removal, preparation, embalming, cremation, memorialization, and travel protection, as well as catering services.
+Service Corporation International은 미국과 캐나다에서 장례식장, 묘지 및 화장장을 운영하는 최대 규모의 상조 기업입니다. 장례 시설 및 차량 대여, 시신 준비 및 방부 처리, 기념식 기획 등 전문적인 장례 절차와 장례 전(Pre-need) 보험 및 준비 서비스를 포괄적으로 지원합니다.
+
+*Service Corporation International provides deathcare products and services in the United States and Canada. Its funeral service and cemetery operations comprise funeral service locations, cemeteries, funeral service/cemetery combination locations, crematoria, and other businesses. The company also provides professional services related to funerals and cremations, including the use of funeral home facilities and motor vehicles, arranging and directing services, removal, preparation, embalming, cremation, memorialization, and travel protection, as well as catering services.*
 
 ---
 

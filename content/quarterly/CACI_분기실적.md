@@ -1,10 +1,12 @@
 # CACI INTERNATIONAL INC /DE/ (CACI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Information Technology Services | 시총 11B$ | 결산월: 6월**
+**Technology | Information Technology Services | 시총 11B$ (#922위) | 결산월: 6월**
 
-CACI International Inc, through its subsidiaries, provides expertise and technology solutions in the United States, the United Kingdom, rest of Europe, and internationally. The company offers control, communications, and intelligence technology and networks; cyber solutions for offensive and defensive operations, defending critical infrastructure, and maintaining information dominance against cyber threats; digital solutions, such as enterprise and agency-unique applications, enterprise infrastructure, and business processes; and enterprise IT that designs, implements, protects, and manages secure enterprise IT solutions for federal agencies. It also provides mission and engineering support, including platform integration, modernization and sustainment, system and logistics engineering, naval architecture, and training and simulation services; space solutions, such as intelligence fusion, data analytics, and decision support, and integrated logistics; and spectrum superiority that designs and develops differentiated technology across the radio-frequency spectrum for intelligence, surveillance, and reconnaissance, and electronic warfare, as well as builds specialized photonics, waveforms, and technology.
+CACI International은 미국, 영국, 유럽 및 해외에서 전문기술과 기술 솔루션을 제공한다. 지휘·통제·통신·정보 네트워크, 공격·방어 사이버 솔루션, 디지털 전환, 연방기관용 보안 IT, 플랫폼 통합·현대화, 우주·ISR·전자전·스펙트럼 우위 기술을 지원한다.
+
+*CACI International Inc, through its subsidiaries, provides expertise and technology solutions in the United States, the United Kingdom, rest of Europe, and internationally. The company offers control, communications, and intelligence technology and networks; cyber solutions for offensive and defensive operations, defending critical infrastructure, and maintaining information dominance against cyber threats; digital solutions, such as enterprise and agency-unique applications, enterprise infrastructure, and business processes; and enterprise IT that designs, implements, protects, and manages secure enterprise IT solutions for federal agencies. It also provides mission and engineering support, including platform integration, modernization and sustainment, system and logistics engineering, naval architecture, and training and simulation services; space solutions, such as intelligence fusion, data analytics, and decision support, and integrated logistics; and spectrum superiority that designs and develops differentiated technology across the radio-frequency spectrum for intelligence, surveillance, and reconnaissance, and electronic warfare, as well as builds specialized photonics, waveforms, and technology.*
 
 ---
 

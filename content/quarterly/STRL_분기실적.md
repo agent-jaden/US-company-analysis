@@ -1,10 +1,12 @@
 # STERLING INFRASTRUCTURE, INC. (STRL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Engineering & Construction | 시총 16B$ | 결산월: 12월**
+**Industrials | Engineering & Construction | 시총 16B$ (#737위) | 결산월: 12월**
 
-Sterling Infrastructure, Inc. engages in the provision of e-infrastructure, transportation, and building solutions in the United States. It operates through three segments: E-Infrastructure, Transportation, and Building Solutions.
+Sterling Infrastructure, Inc.는 미국 전역에서 전자 인프라, 운송 및 건축 솔루션을 제공하는 인프라 건설 기업입니다. e-인프라 구축, 교량 및 고속도로 운송 건설, 상업용 건축 솔루션의 세 가지 핵심 부문을 통해 대규모 프로젝트를 수행합니다.
+
+*Sterling Infrastructure, Inc. engages in the provision of e-infrastructure, transportation, and building solutions in the United States. It operates through three segments: E-Infrastructure, Transportation, and Building Solutions.*
 
 ---
 

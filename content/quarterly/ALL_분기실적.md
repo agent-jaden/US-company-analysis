@@ -1,10 +1,12 @@
 # ALLSTATE CORP (ALL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Property & Casualty | 시총 55B$ | 결산월: 12월**
+**Financial Services | Insurance - Property & Casualty | 시총 55B$ (#299위) | 결산월: 12월**
 
-The Allstate Corporation, together with its subsidiaries, provides property and casualty, and other insurance products in the United States and Canada. It operates in four segments: Allstate Protection; Run-off Property-Liability; Protection Services; and Corporate and Other. The company offers private passenger auto, homeowners, other personal lines and commercial insurance through exclusive agents, independent agents, contact centers and online under the Allstate, National General, Direct Auto and Answer Financial brands.
+Allstate는 미국과 캐나다에서 재산·손해보험 및 기타 보험상품을 제공한다. Allstate Protection, Run-off Property-Liability, Protection Services, Corporate and Other 부문을 운영하며 Allstate, National General, Direct Auto, Answer Financial 브랜드로 개인 자동차, 주택, 기타 개인보험, 상업보험을 판매한다.
+
+*The Allstate Corporation, together with its subsidiaries, provides property and casualty, and other insurance products in the United States and Canada. It operates in four segments: Allstate Protection; Run-off Property-Liability; Protection Services; and Corporate and Other. The company offers private passenger auto, homeowners, other personal lines and commercial insurance through exclusive agents, independent agents, contact centers and online under the Allstate, National General, Direct Auto and Answer Financial brands.*
 
 ---
 

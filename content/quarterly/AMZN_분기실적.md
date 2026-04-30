@@ -1,10 +1,12 @@
 # AMAZON COM INC (AMZN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Internet Retail | 시총 2808B$ | 결산월: 12월**
+**Consumer Cyclical | Internet Retail | 시총 2808B$ (#6위) | 결산월: 12월**
 
-Amazon.com, Inc. engages in the retail sale of consumer products, advertising, and subscriptions service through online and physical stores in North America and internationally. The company operates through three segments: North America, International, and Amazon Web Services (AWS).
+Amazon.com, Inc.는 북미 및 전 세계 온·오프라인 매장을 통해 소비재 소매 판매, 광고, 구독 서비스를 제공합니다. 사업 부문은 북미, 국제, 그리고 클라우드 서비스인 Amazon Web Services (AWS) 등 세 가지로 나뉩니다.
+
+*Amazon.com, Inc. engages in the retail sale of consumer products, advertising, and subscriptions service through online and physical stores in North America and internationally. The company operates through three segments: North America, International, and Amazon Web Services (AWS).*
 
 ---
 

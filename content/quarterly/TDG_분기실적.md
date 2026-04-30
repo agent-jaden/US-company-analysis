@@ -1,10 +1,12 @@
 # TransDigm Group INC (TDG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 65B$ | 결산월: 9월**
+**Industrials | Aerospace & Defense | 시총 65B$ (#261위) | 결산월: 9월**
 
-TransDigm Group Incorporated designs, produces, and supplies aircraft components in the United States and internationally. The Power & Control segment offers mechanical/electro-mechanical actuators and controls, ignition systems and engine technology, specialized pumps and valves, power conditioning devices, specialized AC/DC electric motors and generators, batteries and chargers, databus and power controls, sensor products, switches and relay panels, hoists, winches and lifting devices, cargo loading and handling systems, delivery systems, and electronic components. Its Airframe segment provides engineered latching and locking devices, engineered rods, engineered connectors and elastomer sealing solutions, cockpit security components and systems, cockpit displays, lavatory components, seat belts and safety restraints, engineered and customized interior surfaces and related components, thermal protection and insulation products, lighting and control technology, parachutes, specialized flight, wind tunnel and jet engine testing services and equipment, and testing and instrumentation solutions, as well as engineered audio, radio, and antenna systems.
+TransDigm Group은 미국과 해외에서 항공기 부품을 설계·생산·공급한다. Power & Control 부문은 액추에이터, 제어장치, 점화시스템, 펌프·밸브, 전력장치, 모터, 배터리, 센서, 스위치 등을 제공하고 Airframe 부문은 잠금장치, 커넥터, 실링, 조종석 부품, 디스플레이, 안전장치, 내장재, 조명, 시험장비, 오디오·무선·안테나 시스템 등을 공급한다.
+
+*TransDigm Group Incorporated designs, produces, and supplies aircraft components in the United States and internationally. The Power & Control segment offers mechanical/electro-mechanical actuators and controls, ignition systems and engine technology, specialized pumps and valves, power conditioning devices, specialized AC/DC electric motors and generators, batteries and chargers, databus and power controls, sensor products, switches and relay panels, hoists, winches and lifting devices, cargo loading and handling systems, delivery systems, and electronic components. Its Airframe segment provides engineered latching and locking devices, engineered rods, engineered connectors and elastomer sealing solutions, cockpit security components and systems, cockpit displays, lavatory components, seat belts and safety restraints, engineered and customized interior surfaces and related components, thermal protection and insulation products, lighting and control technology, parachutes, specialized flight, wind tunnel and jet engine testing services and equipment, and testing and instrumentation solutions, as well as engineered audio, radio, and antenna systems.*
 
 ---
 

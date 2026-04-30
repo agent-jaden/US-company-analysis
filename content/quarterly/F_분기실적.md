@@ -1,10 +1,12 @@
 # FORD MOTOR CO (F) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Auto Manufacturers | 시총 50B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Manufacturers | 시총 50B$ (#322위) | 결산월: 12월**
 
-Ford Motor Company develops, delivers, and services Ford trucks, sport utility vehicles, commercial vans and cars, and Lincoln luxury vehicles in the United States, Canada, the United Kingdom, Mexico, and internationally. It operates through Ford Blue, Ford Model e, Ford Pro, and Ford Credit segments. The company sells Ford and Lincoln internal combustion engine and hybrid vehicles, electric vehicles, service parts, accessories, and digital services for retail customers; develops EV and digital vehicle technologies, and software; and provides telematics and EV charging solutions.
+Ford Motor는 미국, 캐나다, 영국, 멕시코 등에서 Ford 트럭, SUV, 상용 밴·승용차와 Lincoln 럭셔리 차량을 개발·판매·서비스한다. Ford Blue, Ford Model e, Ford Pro, Ford Credit 부문을 통해 내연기관·하이브리드·전기차, 서비스 부품, 액세서리, 디지털 서비스, EV·소프트웨어 기술, 텔레매틱스와 충전 솔루션을 제공한다.
+
+*Ford Motor Company develops, delivers, and services Ford trucks, sport utility vehicles, commercial vans and cars, and Lincoln luxury vehicles in the United States, Canada, the United Kingdom, Mexico, and internationally. It operates through Ford Blue, Ford Model e, Ford Pro, and Ford Credit segments. The company sells Ford and Lincoln internal combustion engine and hybrid vehicles, electric vehicles, service parts, accessories, and digital services for retail customers; develops EV and digital vehicle technologies, and software; and provides telematics and EV charging solutions.*
 
 ---
 

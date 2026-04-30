@@ -1,10 +1,12 @@
 # MODINE MANUFACTURING CO (MOD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Auto Parts | 시총 13B$ | 결산월: 3월**
+**Consumer Cyclical | Auto Parts | 시총 13B$ (#826위) | 결산월: 3월**
 
-Modine Manufacturing Company designs, engineers, tests, manufactures, and sells mission-critical thermal solutions in the United States, Canada, Italy, Hungary, the United Kingdom, China, and internationally. The company offers heat transfer products, including round tube plate fin construction; gas-fired, hydronic, electric, and oil fired unit heaters; roof-mounted direct- and indirect-fired makeup air units, duct furnaces, infrared units, and perimeter heating products; single packaged unit ventilators, modular chillers, air handler and condensing units, and ceiling cassettes; evaporator unit coolers, remote condensers, fluid coolers, gas coolers, and dry and brine coolers; and motor and generator cooling coils, transformer oil coolers, radiators, dryers, and industrial heat exchangers. It also provides data center products that consists of IT cooling solutions, including precision air conditioning units for data center applications; computer room air conditioning and handler units; hybrid fan coils; fan walls; chillers; condensers; condensing units; and liquid cooling solutions for high-density computing, as well as sells replacement parts, maintenance service and control solutions for existing equipment and new building management controls and systems.
+Modine Manufacturing은 미국, 캐나다, 이탈리아, 헝가리, 영국, 중국 및 해외에서 mission-critical 열관리 솔루션을 설계·엔지니어링·시험·제조·판매한다. 난방·냉방·환기·열교환 제품과 데이터센터용 정밀 공조, CRAC·CRAH, 하이브리드 팬코일, fan wall, 칠러, 콘덴서, 고밀도 컴퓨팅용 액체냉각 솔루션 및 유지보수·제어 서비스를 제공한다.
+
+*Modine Manufacturing Company designs, engineers, tests, manufactures, and sells mission-critical thermal solutions in the United States, Canada, Italy, Hungary, the United Kingdom, China, and internationally. The company offers heat transfer products, including round tube plate fin construction; gas-fired, hydronic, electric, and oil fired unit heaters; roof-mounted direct- and indirect-fired makeup air units, duct furnaces, infrared units, and perimeter heating products; single packaged unit ventilators, modular chillers, air handler and condensing units, and ceiling cassettes; evaporator unit coolers, remote condensers, fluid coolers, gas coolers, and dry and brine coolers; and motor and generator cooling coils, transformer oil coolers, radiators, dryers, and industrial heat exchangers. It also provides data center products that consists of IT cooling solutions, including precision air conditioning units for data center applications; computer room air conditioning and handler units; hybrid fan coils; fan walls; chillers; condensers; condensing units; and liquid cooling solutions for high-density computing, as well as sells replacement parts, maintenance service and control solutions for existing equipment and new building management controls and systems.*
 
 ---
 

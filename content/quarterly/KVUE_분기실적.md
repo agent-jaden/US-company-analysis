@@ -1,10 +1,12 @@
 # Kenvue Inc. (KVUE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Household & Personal Products | 시총 34B$ | 결산월: 12월**
+**Consumer Defensive | Household & Personal Products | 시총 34B$ (#428위) | 결산월: 12월**
 
-Kenvue Inc. operates as a consumer health company in the United States, rest of North America, Europe, the Middle East, Africa, the Asia-Pacific, and Latin America. It operates in three segments: Self Care, Skin Health and Beauty, and Essential Health.
+Kenvue는 미국, 북미 기타 지역, 유럽, 중동, 아프리카, 아시아태평양, 라틴아메리카에서 소비자 건강 제품을 판매하는 기업이다. Self Care, Skin Health and Beauty, Essential Health 부문을 통해 일반의약품, 피부·뷰티, 생활 건강 제품을 운영한다.
+
+*Kenvue Inc. operates as a consumer health company in the United States, rest of North America, Europe, the Middle East, Africa, the Asia-Pacific, and Latin America. It operates in three segments: Self Care, Skin Health and Beauty, and Essential Health.*
 
 ---
 

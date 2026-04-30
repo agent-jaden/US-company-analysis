@@ -1,10 +1,12 @@
 # CrowdStrike Holdings, Inc. (CRWD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 115B$ | 결산월: 1월**
+**Technology | Software - Infrastructure | 시총 115B$ (#139위) | 결산월: 1월**
 
-CrowdStrike Holdings, Inc. provides cybersecurity solutions in the United States and internationally. Its unified platform provides cloud-delivered protection of endpoints, cloud workloads, identity, and data through a software as a service (SaaS) subscription-based model.
+CrowdStrike는 미국과 해외에서 사이버보안 솔루션을 제공한다. SaaS 구독 기반의 통합 플랫폼을 통해 엔드포인트, 클라우드 워크로드, ID, 데이터를 클라우드 방식으로 보호한다.
+
+*CrowdStrike Holdings, Inc. provides cybersecurity solutions in the United States and internationally. Its unified platform provides cloud-delivered protection of endpoints, cloud workloads, identity, and data through a software as a service (SaaS) subscription-based model.*
 
 ---
 

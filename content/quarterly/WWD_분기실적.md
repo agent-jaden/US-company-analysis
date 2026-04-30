@@ -1,10 +1,12 @@
 # Woodward, Inc. (WWD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 22B$ | 결산월: 9월**
+**Industrials | Aerospace & Defense | 시총 22B$ (#588위) | 결산월: 9월**
 
-Woodward, Inc. designs, manufactures, and services control solutions for the aerospace and industrial markets worldwide. It operates through two segments, Aerospace and Industrial.
+Woodward는 전 세계 항공우주와 산업 시장을 위한 제어 솔루션을 설계·제조·서비스한다. Aerospace와 Industrial 부문을 통해 엔진·터빈·산업설비용 제어 시스템과 관련 부품을 제공한다.
+
+*Woodward, Inc. designs, manufactures, and services control solutions for the aerospace and industrial markets worldwide. It operates through two segments, Aerospace and Industrial.*
 
 ---
 

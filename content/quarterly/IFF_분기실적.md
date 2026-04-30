@@ -1,10 +1,12 @@
 # INTERNATIONAL FLAVORS & FRAGRANCES INC (IFF) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Specialty Chemicals | 시총 18B$ | 결산월: 12월**
+**Basic Materials | Specialty Chemicals | 시총 18B$ (#667위) | 결산월: 12월**
 
-International Flavors & Fragrances Inc., together with its subsidiaries, manufactures and markets food, beverage, health and biosciences, scent, and complementary adjacent products in the United States, and internationally. It operates in through Taste, Food Ingredients, Health & Biosciences, and Scent segments. The Taste segment offers savory products such as soups, sauces, meat, fish, poultry, snacks; beverages consists of juice drinks, carbonated or flavored beverages, spirits; sweets comprising, bakery products, candy, cereal, chewing gum; and dairy products, such as yogurt, ice cream, cheese, and other products, as well as spices and seasoning ingredients for meat, food service, convenience, alternative protein and culinary products.
+International Flavors & Fragrances는 미국과 해외에서 식품, 음료, 헬스·바이오사이언스, 향료 및 인접 제품을 제조·마케팅한다. Taste, Food Ingredients, Health & Biosciences, Scent 부문을 통해 수프·소스·육류·스낵, 음료, 제과·베이커리, 유제품, 향신료·시즈닝, 대체단백·푸드서비스용 원료를 공급한다.
+
+*International Flavors & Fragrances Inc., together with its subsidiaries, manufactures and markets food, beverage, health and biosciences, scent, and complementary adjacent products in the United States, and internationally. It operates in through Taste, Food Ingredients, Health & Biosciences, and Scent segments. The Taste segment offers savory products such as soups, sauces, meat, fish, poultry, snacks; beverages consists of juice drinks, carbonated or flavored beverages, spirits; sweets comprising, bakery products, candy, cereal, chewing gum; and dairy products, such as yogurt, ice cream, cheese, and other products, as well as spices and seasoning ingredients for meat, food service, convenience, alternative protein and culinary products.*
 
 ---
 

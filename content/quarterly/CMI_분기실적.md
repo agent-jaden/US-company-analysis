@@ -1,10 +1,12 @@
 # CUMMINS INC (CMI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Industrial Machinery | 시총 91B$ | 결산월: 12월**
+**Industrials | Specialty Industrial Machinery | 시총 91B$ (#185위) | 결산월: 12월**
 
-Cummins Inc. offers various power solutions worldwide. The company operates through five segments: Engine, Distribution, Components, Power Systems, and Accelera.
+Cummins는 전 세계에서 다양한 동력 솔루션을 제공하는 기업이다. Engine, Distribution, Components, Power Systems, Accelera 부문을 통해 엔진, 부품, 전력시스템, 유통 및 차세대 동력 솔루션을 운영한다.
+
+*Cummins Inc. offers various power solutions worldwide. The company operates through five segments: Engine, Distribution, Components, Power Systems, and Accelera.*
 
 ---
 

@@ -1,10 +1,12 @@
 # SBA COMMUNICATIONS CORP (SBAC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Specialty | 시총 23B$ | 결산월: 12월**
+**Real Estate | REIT - Specialty | 시총 23B$ (#572위) | 결산월: 12월**
 
-SBA Communications Corporation is a leading independent owner and operator of wireless communications infrastructure. It includes towers, buildings, rooftops, distributed antenna systems (DAS) and small cells. With a portfolio of more than 46,000 communications sites throughout the Americas and in Africa, SBA is listed on NASDAQ under the symbol SBAC.
+SBA Communications는 무선통신 인프라를 보유·운영하는 독립 사업자다. 타워, 건물, 옥상, 분산안테나시스템, small cell을 포함해 미주와 아프리카 전역에 46,000개 이상의 통신 사이트 포트폴리오를 보유한다.
+
+*SBA Communications Corporation is a leading independent owner and operator of wireless communications infrastructure. It includes towers, buildings, rooftops, distributed antenna systems (DAS) and small cells. With a portfolio of more than 46,000 communications sites throughout the Americas and in Africa, SBA is listed on NASDAQ under the symbol SBAC.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Energy Transfer LP (ET) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Midstream | 시총 66B$ | 결산월: 12월**
+**Energy | Oil & Gas Midstream | 시총 66B$ (#260위) | 결산월: 12월**
 
-Energy Transfer LP, together with its subsidiaries, provides energy-related services in the United States. It operates through Intrastate Transportation and Storage; Interstate Transportation and Storage; Midstream; Natural Gas Liquid (NGL) and Refined Products Transportation and Services; Crude Oil Transportation and Services; Investment in Sunoco LP; Investment in USA Compression Partners, LP (USAC); and All Other segments. The company owns and operates natural gas transportation pipelines and storage facilities; and approximately 12,200 miles of intrastate natural gas transportation pipelines and 20,090 miles of interstate natural gas pipelines.
+Energy Transfer는 미국에서 에너지 관련 서비스를 제공하는 미드스트림 기업이다. 천연가스 운송 파이프라인과 저장시설을 보유·운영하며, 약 12,200마일의 주내 천연가스 파이프라인과 20,090마일의 주간 천연가스 파이프라인을 운영한다.
+
+*Energy Transfer LP, together with its subsidiaries, provides energy-related services in the United States. It operates through Intrastate Transportation and Storage; Interstate Transportation and Storage; Midstream; Natural Gas Liquid (NGL) and Refined Products Transportation and Services; Crude Oil Transportation and Services; Investment in Sunoco LP; Investment in USA Compression Partners, LP (USAC); and All Other segments. The company owns and operates natural gas transportation pipelines and storage facilities; and approximately 12,200 miles of intrastate natural gas transportation pipelines and 20,090 miles of interstate natural gas pipelines.*
 
 ---
 

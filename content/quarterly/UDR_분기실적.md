@@ -1,10 +1,12 @@
 # UDR, Inc. (UDR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Residential | 시총 13B$ | 결산월: 12월**
+**Real Estate | REIT - Residential | 시총 13B$ (#820위) | 결산월: 12월**
 
-UDR, Inc. is a S&P 500 company, is a leading multifamily real estate investment trust with a demonstrated performance history of delivering superior and dependable returns by successfully managing, buying, selling, developing and redeveloping attractive real estate properties in targeted U.S. markets.
+UDR은 S&P 500에 포함된 선도적인 multifamily REIT다. 미국 주요 타깃 시장에서 매력적인 부동산을 관리, 매입, 매각, 개발, 재개발하며 안정적인 투자 성과를 추구한다.
+
+*UDR, Inc. is a S&P 500 company, is a leading multifamily real estate investment trust with a demonstrated performance history of delivering superior and dependable returns by successfully managing, buying, selling, developing and redeveloping attractive real estate properties in targeted U.S. markets.*
 
 ---
 

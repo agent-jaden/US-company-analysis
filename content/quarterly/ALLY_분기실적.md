@@ -1,10 +1,12 @@
 # Ally Financial Inc. (ALLY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Credit Services | 시총 14B$ | 결산월: 12월**
+**Financial Services | Credit Services | 시총 14B$ (#800위) | 결산월: 12월**
 
-Ally Financial Inc., a digital financial-services company, provides various digital financial products and services in the United States and Canada. The company operates through Automotive Finance operations, Insurance operations, and Corporate Finance operations. It offers automotive financing services, including providing retail installment sales contracts, loans and operating leases, term loans to dealers, financing dealer floorplans and other lines of credit to dealers, warehouse lines to automotive retailers, and fleet financing; and financing services to companies and municipalities for the purchase or lease of vehicles, and vehicle-remarketing services.
+Ally Financial은 미국과 캐나다에서 다양한 디지털 금융 상품과 서비스를 제공하는 디지털 금융회사다. Automotive Finance, Insurance, Corporate Finance 부문을 운영하며 자동차 할부·대출·운용리스, 딜러 금융, 재고금융, 자동차 리테일러 창고대출, 플릿 금융, 차량 remarketing 서비스를 제공한다.
+
+*Ally Financial Inc., a digital financial-services company, provides various digital financial products and services in the United States and Canada. The company operates through Automotive Finance operations, Insurance operations, and Corporate Finance operations. It offers automotive financing services, including providing retail installment sales contracts, loans and operating leases, term loans to dealers, financing dealer floorplans and other lines of credit to dealers, warehouse lines to automotive retailers, and fleet financing; and financing services to companies and municipalities for the purchase or lease of vehicles, and vehicle-remarketing services.*
 
 ---
 

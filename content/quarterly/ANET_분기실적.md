@@ -1,10 +1,12 @@
 # Arista Networks, Inc. (ANET) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Computer Hardware | 시총 217B$ | 결산월: 12월**
+**Technology | Computer Hardware | 시총 217B$ (#61위) | 결산월: 12월**
 
-Arista Networks, Inc. engages in the development, marketing, and sale of data-driven, client to cloud networking solutions for AI, data center, campus, and routing environments in the Americas, Europe, the Middle East, Africa, and the Asia-Pacific. Its cloud networking solutions consist of Extensible Operating System (EOS), a publish-subscribe state-sharing networking operating system offered in combination with a set of network applications.
+Arista Networks, Inc.는 아메리카, 유럽, 아시아 태평양 지역의 AI, 데이터 센터 및 라우팅 환경을 위한 데이터 기반 클라우드 네트워킹 솔루션을 개발 및 판매합니다. 이 회사의 솔루션은 다양한 네트워크 애플리케이션과 결합하여 제공되는 확장 가능한 네트워크 운영 체제인 EOS를 기반으로 합니다.
+
+*Arista Networks, Inc. engages in the development, marketing, and sale of data-driven, client to cloud networking solutions for AI, data center, campus, and routing environments in the Americas, Europe, the Middle East, Africa, and the Asia-Pacific. Its cloud networking solutions consist of Extensible Operating System (EOS), a publish-subscribe state-sharing networking operating system offered in combination with a set of network applications.*
 
 ---
 

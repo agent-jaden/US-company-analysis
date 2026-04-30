@@ -1,10 +1,12 @@
 # CMS ENERGY CORP (CMS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 23B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 23B$ (#559위) | 결산월: 12월**
 
-CMS Energy Corporation operates as an energy company primarily in Michigan. The company operates through three segments: Electric Utility; Gas Utility; and NorthStar Clean Energy. The Electric Utility segment is involved in the generation, purchase, distribution, and sale of electricity.
+CMS Energy는 주로 미시간에서 에너지 사업을 운영하는 기업이다. Electric Utility, Gas Utility, NorthStar Clean Energy 부문으로 구성되며 Electric Utility 부문은 전력의 생산, 구매, 배전, 판매를 담당한다.
+
+*CMS Energy Corporation operates as an energy company primarily in Michigan. The company operates through three segments: Electric Utility; Gas Utility; and NorthStar Clean Energy. The Electric Utility segment is involved in the generation, purchase, distribution, and sale of electricity.*
 
 ---
 

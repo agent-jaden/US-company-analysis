@@ -1,10 +1,12 @@
 # JD.com, Inc. (JD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
 
-**Consumer Cyclical | Internet Retail | 시총 41B$ | 결산월: 12월**
+**Consumer Cyclical | Internet Retail | 시총 41B$ (#373위) | 결산월: 12월**
 
-JD.com, Inc. operates as a supply chain-based technology and service provider in the People's Republic of China and Europe. It operates through three segments: JD Retail, JD Logistics, and New Businesses.
+JD.com은 중국과 유럽에서 공급망 기반 기술 및 서비스 제공업체로 운영된다. JD Retail, JD Logistics, New Businesses 부문을 통해 온라인 리테일, 물류, 신규 사업을 운영한다.
+
+*JD.com, Inc. operates as a supply chain-based technology and service provider in the People's Republic of China and Europe. It operates through three segments: JD Retail, JD Logistics, and New Businesses.*
 
 ---
 

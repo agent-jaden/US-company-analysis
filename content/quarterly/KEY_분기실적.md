@@ -1,10 +1,12 @@
 # KEYCORP /NEW/ (KEY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Regional | 시총 24B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 24B$ (#548위) | 결산월: 12월**
 
-KeyCorp operates as the holding company for KeyBank National Association that provides various retail and commercial banking products and services in the United States. It operates in two segments, Consumer Bank and Commercial Bank. The company offers various deposits and investment products; personal finance and financial wellness, lending, student loan refinancing, mortgage and home equity, credit card, treasury, and business advisory; commercial leasing, investment management, consumer finance; and wealth management and investment services for institutional, non-profit, and high-net-worth clients.
+KeyCorp은 미국 내에서 활동하는 KeyBank National Association의 지주 회사로 소매 및 상업 은행 상품을 폭넓게 제공합니다. 소비자 은행과 상업 은행 부문을 통해 개인 대출, 학자금 대출 리파이낸싱, 자산 관리 서비스뿐만 아니라 기업을 위한 재무, 상업용 임대 및 비즈니스 자문 솔루션을 지원합니다.
+
+*KeyCorp operates as the holding company for KeyBank National Association that provides various retail and commercial banking products and services in the United States. It operates in two segments, Consumer Bank and Commercial Bank. The company offers various deposits and investment products; personal finance and financial wellness, lending, student loan refinancing, mortgage and home equity, credit card, treasury, and business advisory; commercial leasing, investment management, consumer finance; and wealth management and investment services for institutional, non-profit, and high-net-worth clients.*
 
 ---
 

@@ -1,10 +1,12 @@
 # COMPANHIA DE SANEAMENTO BASICO DO ESTADO DE SAO PAULO-SABESP (SBS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: BRL
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: BRL
 
-**Utilities | Utilities - Regulated Water | 시총 25B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Water | 시총 25B$ (#535위) | 결산월: 12월**
 
-Companhia de Saneamento Básico do Estado de São Paulo - SABESP provides basic and environmental sanitation services in the São Paulo State, Brazil. The company supplies treated water and sewage services on a wholesale basis. As of December 31, 2024, it provided water services through 9.5 million water connections; and sewage services through 8.2 million sewage connections in the 375 municipalities of the São Paulo State.
+Companhia de Saneamento Básico do Estado de São Paulo - SABESP는 브라질 상파울루주에서 기본적인 환경 위생 및 수처리 서비스를 제공하는 기업입니다. 2024년 12월 말 기준 상파울루 주 내 375개 지방자치단체에 걸쳐 950만 개의 수도 연결망과 820만 개의 하수도 연결망을 통해 수돗물 및 하수 처리 서비스를 공급하고 있습니다.
+
+*Companhia de Saneamento Básico do Estado de São Paulo - SABESP provides basic and environmental sanitation services in the São Paulo State, Brazil. The company supplies treated water and sewage services on a wholesale basis. As of December 31, 2024, it provided water services through 9.5 million water connections; and sewage services through 8.2 million sewage connections in the 375 municipalities of the São Paulo State.*
 
 ---
 

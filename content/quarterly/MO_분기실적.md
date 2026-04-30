@@ -1,10 +1,12 @@
 # ALTRIA GROUP, INC. (MO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Tobacco | 시총 110B$ | 결산월: 12월**
+**Consumer Defensive | Tobacco | 시총 110B$ (#143위) | 결산월: 12월**
 
-Altria Group, Inc., through its subsidiaries, manufactures and sells smokeable and oral tobacco products in the United States. It offers cigarettes primarily under the Marlboro brand; large cigars and pipe tobacco under the Black & Mild brand; moist smokeless tobacco and oral tobacco products under the Copenhagen, Skoal, Red Seal, and Husky brands; oral nicotine pouches under the on! brand; and e-vapor products under the NJOY ACE brand.
+Altria Group은 자회사를 통해 미국에서 흡연용 및 구강 담배 제품을 제조·판매한다. Marlboro 담배, Black & Mild 시가·파이프 담배, Copenhagen·Skoal·Red Seal·Husky 무연담배, on! 니코틴 파우치, NJOY ACE 전자증기 제품을 제공한다.
+
+*Altria Group, Inc., through its subsidiaries, manufactures and sells smokeable and oral tobacco products in the United States. It offers cigarettes primarily under the Marlboro brand; large cigars and pipe tobacco under the Black & Mild brand; moist smokeless tobacco and oral tobacco products under the Copenhagen, Skoal, Red Seal, and Husky brands; oral nicotine pouches under the on! brand; and e-vapor products under the NJOY ACE brand.*
 
 ---
 

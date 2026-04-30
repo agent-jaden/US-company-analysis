@@ -1,10 +1,12 @@
 # PG&E Corp (PCG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 36B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 36B$ (#411위) | 결산월: 12월**
 
-PG&E Corporation, through its subsidiary, Pacific Gas and Electric Company, engages in the sale and delivery of electricity and natural gas to customers in northern and central California, the United States. It generates electricity using nuclear, hydroelectric, fossil fuel-fired, fuel cells, and photovoltaic sources. The company owns and operates interconnected transmission lines; electric transmission substations, distribution lines, switching and distribution substations; and natural gas transmission, storage, and distribution systems consisting of distribution pipelines, backbone and local transmission pipelines, and various storage facilities.
+PG&E는 자회사 Pacific Gas and Electric Company를 통해 미국 북부·중부 캘리포니아 고객에게 전기와 천연가스를 판매·공급한다. 원자력, 수력, 화석연료, 연료전지, 태양광으로 전력을 생산하고 송전선, 변전소, 배전망, 천연가스 송전·저장·배급 시스템을 운영한다.
+
+*PG&E Corporation, through its subsidiary, Pacific Gas and Electric Company, engages in the sale and delivery of electricity and natural gas to customers in northern and central California, the United States. It generates electricity using nuclear, hydroelectric, fossil fuel-fired, fuel cells, and photovoltaic sources. The company owns and operates interconnected transmission lines; electric transmission substations, distribution lines, switching and distribution substations; and natural gas transmission, storage, and distribution systems consisting of distribution pipelines, backbone and local transmission pipelines, and various storage facilities.*
 
 ---
 

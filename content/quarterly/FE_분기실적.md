@@ -1,10 +1,12 @@
 # FIRSTENERGY CORP (FE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 29B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 29B$ (#490위) | 결산월: 12월**
 
-FirstEnergy Corp., together with its subsidiaries, engages in the generation, distribution, and transmission of electricity in the United States. It operates through Distribution, Integrated, and Stand-Alone Transmission segments. The company owns and operates coal-fired, nuclear, hydroelectric, wind, and solar power generating facilities.
+자회사를 통해 미국 내에서 전력을 생산, 송전 및 배분하는 주요 유틸리티 기업입니다. 배전, 통합 송전 및 독립 송전 부문을 통해 석탄, 원자력, 수력, 풍력 및 태양광 등 다양한 발전 시설을 소유하고 운영합니다.
+
+*FirstEnergy Corp., together with its subsidiaries, engages in the generation, distribution, and transmission of electricity in the United States. It operates through Distribution, Integrated, and Stand-Alone Transmission segments. The company owns and operates coal-fired, nuclear, hydroelectric, wind, and solar power generating facilities.*
 
 ---
 

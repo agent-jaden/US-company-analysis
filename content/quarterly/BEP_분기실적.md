@@ -1,10 +1,12 @@
 # Brookfield Renewable Partners L.P. (BEP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Renewable | 시총 10B$ | 결산월: 12월**
+**Utilities | Utilities - Renewable | 시총 10B$ (#959위) | 결산월: 12월**
 
-Brookfield Renewable Partners L.P. owns a portfolio of renewable power generating facilities in the North America, Colombia, and Brazil. The company generates electricity through hydroelectric, wind, solar, distributed generation, and pumped storage; and offers sustainable solutions, such as renewable natural gas, carbon capture and storage, recycling, cogeneration, biomass, nuclear services, eFuels, and power transformation.
+Brookfield Renewable Partners는 북미, 콜롬비아, 브라질에서 재생에너지 발전 자산 포트폴리오를 보유한다. 수력, 풍력, 태양광, 분산발전, 양수발전으로 전력을 생산하며 재생천연가스, 탄소포집·저장, 재활용, 열병합, 바이오매스, 원자력 서비스, eFuels, 전력 전환 솔루션도 제공한다.
+
+*Brookfield Renewable Partners L.P. owns a portfolio of renewable power generating facilities in the North America, Colombia, and Brazil. The company generates electricity through hydroelectric, wind, solar, distributed generation, and pumped storage; and offers sustainable solutions, such as renewable natural gas, carbon capture and storage, recycling, cogeneration, biomass, nuclear services, eFuels, and power transformation.*
 
 ---
 

@@ -1,10 +1,12 @@
 # ADVANCED MICRO DEVICES INC (AMD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 546B$ | 결산월: 12월**
+**Technology | Semiconductors | 시총 546B$ (#20위) | 결산월: 12월**
 
-Advanced Micro Devices, Inc. operates as a semiconductor company internationally. It operates in three segments: Data Center, Client and Gaming, and Embedded.
+Advanced Micro Devices, Inc.는 전 세계적으로 운영되는 글로벌 반도체 기업입니다. 주요 사업 부문은 Data Center, Client and Gaming, Embedded 세 가지로 나뉩니다.
+
+*Advanced Micro Devices, Inc. operates as a semiconductor company internationally. It operates in three segments: Data Center, Client and Gaming, and Embedded.*
 
 ---
 

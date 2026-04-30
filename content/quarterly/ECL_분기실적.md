@@ -1,10 +1,12 @@
 # ECOLAB INC. (ECL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Specialty Chemicals | 시총 76B$ | 결산월: 12월**
+**Basic Materials | Specialty Chemicals | 시총 76B$ (#225위) | 결산월: 12월**
 
-Ecolab Inc. provides water, hygiene, and infection prevention solutions and services in the United States and internationally. The company operates through four segments: Global Water, Global Institutional & Specialty, Global Pest Elimination, and Global Life Sciences.
+Ecolab Inc.는 미국 및 전 세계의 산업 및 기관 고객을 대상으로 수처리, 위생 및 감염 예방 솔루션을 제공합니다. 글로벌 수처리, 기관 위생 관리, 생명 과학 및 해충 퇴치 부문을 통해 식음료, 의료, 산업 환경의 청결과 지속가능성을 높이는 서비스를 운영합니다.
+
+*Ecolab Inc. provides water, hygiene, and infection prevention solutions and services in the United States and internationally. The company operates through four segments: Global Water, Global Institutional & Specialty, Global Pest Elimination, and Global Life Sciences.*
 
 ---
 

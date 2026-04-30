@@ -1,10 +1,12 @@
 # TRAVELERS COMPANIES, INC. (TRV) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Property & Casualty | 시총 65B$ | 결산월: 12월**
+**Financial Services | Insurance - Property & Casualty | 시총 65B$ (#262위) | 결산월: 12월**
 
-The Travelers Companies, Inc., through its subsidiaries, provides a range of commercial and personal property, and casualty insurance products and services to businesses, government units, associations, and individuals in the United States, Canada, and internationally. It operates through three segments: Business Insurance, Bond & Specialty Insurance, and Personal Insurance. The Business Insurance segment offers workers' compensation, commercial automobile and property, general liability, commercial multi-peril, employers' liability, public and product liability, professional indemnity, marine, aviation, commercial property and automobile, onshore and offshore energy, construction, terrorism, personal accident, and kidnap and ransom insurance products.
+Travelers는 미국, 캐나다 및 해외에서 기업, 정부기관, 단체, 개인 고객에게 상업·개인 재산 및 손해보험 상품과 서비스를 제공한다. Business Insurance, Bond & Specialty Insurance, Personal Insurance 부문을 통해 산재, 상업용 자동차·재산, 일반배상, 전문직 책임, 해상·항공, 에너지, 건설, 테러, 상해, 납치·몸값 보험 등을 운영한다.
+
+*The Travelers Companies, Inc., through its subsidiaries, provides a range of commercial and personal property, and casualty insurance products and services to businesses, government units, associations, and individuals in the United States, Canada, and internationally. It operates through three segments: Business Insurance, Bond & Specialty Insurance, and Personal Insurance. The Business Insurance segment offers workers' compensation, commercial automobile and property, general liability, commercial multi-peril, employers' liability, public and product liability, professional indemnity, marine, aviation, commercial property and automobile, onshore and offshore energy, construction, terrorism, personal accident, and kidnap and ransom insurance products.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Constellation Energy Corp (CEG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Independent Power Producers | 시총 114B$ | 결산월: 12월**
+**Utilities | Utilities - Independent Power Producers | 시총 114B$ (#141위) | 결산월: 12월**
 
-Constellation Energy Corporation produces and sells energy products and services in the United States. The company operates through five segments: Mid-Atlantic, Midwest, New York, ERCOT, and Other Power Regions. It offers electricity, natural gas, energy-related products, and sustainable solutions.
+Constellation Energy는 미국에서 에너지 제품과 서비스를 생산·판매한다. Mid-Atlantic, Midwest, New York, ERCOT, Other Power Regions 부문을 통해 전력, 천연가스, 에너지 관련 제품과 지속가능 솔루션을 제공한다.
+
+*Constellation Energy Corporation produces and sells energy products and services in the United States. The company operates through five segments: Mid-Atlantic, Midwest, New York, ERCOT, and Other Power Regions. It offers electricity, natural gas, energy-related products, and sustainable solutions.*
 
 ---
 

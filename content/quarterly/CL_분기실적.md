@@ -1,10 +1,12 @@
 # COLGATE PALMOLIVE CO (CL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Household & Personal Products | 시총 68B$ | 결산월: 12월**
+**Consumer Defensive | Household & Personal Products | 시총 68B$ (#252위) | 결산월: 12월**
 
-Colgate-Palmolive Company, together with its subsidiaries, manufactures and sells consumer products in the United States and internationally. It operates through two segments: Oral, Personal and Home Care; and Pet Nutrition. The Oral, Personal and Home Care segment offers toothpaste, toothbrushes, mouthwash, bar and liquid hand soaps, shower gels, shampoos, conditioners, deodorants and antiperspirants, skin health products, dishwashing detergents, fabric conditioners, household cleaners, and other related items.
+Colgate-Palmolive Company는 미국 및 전 세계에서 다양한 일상 소비재를 제조하고 판매하는 글로벌 기업입니다. 구강, 개인 및 홈 케어 부문을 통해 치약, 비누, 세제 등의 생활용품을 공급하며, 반려동물 영양 부문을 통해 전문적인 반려동물 사료도 판매합니다.
+
+*Colgate-Palmolive Company, together with its subsidiaries, manufactures and sells consumer products in the United States and internationally. It operates through two segments: Oral, Personal and Home Care; and Pet Nutrition. The Oral, Personal and Home Care segment offers toothpaste, toothbrushes, mouthwash, bar and liquid hand soaps, shower gels, shampoos, conditioners, deodorants and antiperspirants, skin health products, dishwashing detergents, fabric conditioners, household cleaners, and other related items.*
 
 ---
 

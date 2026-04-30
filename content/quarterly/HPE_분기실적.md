@@ -1,10 +1,12 @@
 # Hewlett Packard Enterprise Co (HPE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Communication Equipment | 시총 38B$ | 결산월: 10월**
+**Technology | Communication Equipment | 시총 38B$ (#393위) | 결산월: 10월**
 
-Hewlett Packard Enterprise Company, together with its subsidiaries, develops intelligent solutions in the United States, the Americas, Europe, the Middle East, Africa, the Asia Pacific, Japan, and internationally. It operates in five segments: Server, Hybrid Cloud, Networking, Financial Services, and Corporate Investments and Other. The company offers general-purpose servers, workload-optimized servers, and integrated systems, including HPE ProLiant Rack and Tower servers; HPE Synergy; HPE Scale Up servers; HPE Edgeline servers; HPE Cray EX; HPE Cray XD; and HPE NonStop.
+Hewlett Packard Enterprise는 미국, 미주, 유럽, 중동, 아프리카, 아시아태평양, 일본 등에서 지능형 IT 솔루션을 개발한다. Server, Hybrid Cloud, Networking, Financial Services 부문을 통해 HPE ProLiant, HPE Synergy, HPE Scale Up, HPE Edgeline, HPE Cray EX/XD, HPE NonStop 등 서버와 통합 시스템을 제공한다.
+
+*Hewlett Packard Enterprise Company, together with its subsidiaries, develops intelligent solutions in the United States, the Americas, Europe, the Middle East, Africa, the Asia Pacific, Japan, and internationally. It operates in five segments: Server, Hybrid Cloud, Networking, Financial Services, and Corporate Investments and Other. The company offers general-purpose servers, workload-optimized servers, and integrated systems, including HPE ProLiant Rack and Tower servers; HPE Synergy; HPE Scale Up servers; HPE Edgeline servers; HPE Cray EX; HPE Cray XD; and HPE NonStop.*
 
 ---
 

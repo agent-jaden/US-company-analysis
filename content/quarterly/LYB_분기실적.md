@@ -1,10 +1,12 @@
 # LyondellBasell Industries N.V. (LYB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Specialty Chemicals | 시총 23B$ | 결산월: 12월**
+**Basic Materials | Specialty Chemicals | 시총 23B$ (#567위) | 결산월: 12월**
 
-LyondellBasell Industries N.V. operates as a chemical company in the United States, Germany, China, Mexico, Italy, Japan, France, Poland, the Netherlands, and internationally. It operates in five segments: Olefins and PolyolefinsAmericas; Olefins and PolyolefinsEurope, Asia, International; Intermediates and Derivatives; Advanced Polymer Solutions; and Technology.
+LyondellBasell은 미국, 독일, 중국, 멕시코, 이탈리아, 일본, 프랑스, 폴란드, 네덜란드 등에서 화학 사업을 운영한다. Olefins and Polyolefins, Intermediates and Derivatives, Advanced Polymer Solutions, Technology 부문을 통해 폴리머와 화학 중간재, 고기능 소재와 공정 기술을 제공한다.
+
+*LyondellBasell Industries N.V. operates as a chemical company in the United States, Germany, China, Mexico, Italy, Japan, France, Poland, the Netherlands, and internationally. It operates in five segments: Olefins and PolyolefinsAmericas; Olefins and PolyolefinsEurope, Asia, International; Intermediates and Derivatives; Advanced Polymer Solutions; and Technology.*
 
 ---
 

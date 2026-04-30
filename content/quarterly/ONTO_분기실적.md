@@ -1,10 +1,12 @@
 # ONTO INNOVATION INC. (ONTO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductor Equipment & Materials | 시총 15B$ | 결산월: 12월**
+**Technology | Semiconductor Equipment & Materials | 시총 15B$ (#756위) | 결산월: 12월**
 
-Onto Innovation Inc. engages in the design, development, manufacture, and support of process control tools that perform macro-defect inspection and metrology in the United States, Taiwan, South Korea, Japan, China, Southeast Asia, Asia, and Europe. The company offers lithography systems and process control analytical software; and automated and integrated metrology systems, silicon wafer all-surface inspection, macro defect inspection, automated defect classification and pattern analysis, yield analysis, opaque film metrology, 4D business, advanced packaging lithography, process control software, and yield management software products.
+Onto Innovation Inc.는 미국, 아시아, 유럽 등 글로벌 반도체 시장을 위해 거시적 결함 검사 및 계측을 수행하는 공정 제어 도구를 설계 및 제조합니다. 차세대 리소그래피 시스템, 실리콘 웨이퍼 표면 검사, 불투명 박막 계측 및 수율 관리 소프트웨어 등 반도체 생산 최적화를 위한 포괄적인 첨단 계측 장비를 제공합니다.
+
+*Onto Innovation Inc. engages in the design, development, manufacture, and support of process control tools that perform macro-defect inspection and metrology in the United States, Taiwan, South Korea, Japan, China, Southeast Asia, Asia, and Europe. The company offers lithography systems and process control analytical software; and automated and integrated metrology systems, silicon wafer all-surface inspection, macro defect inspection, automated defect classification and pattern analysis, yield analysis, opaque film metrology, 4D business, advanced packaging lithography, process control software, and yield management software products.*
 
 ---
 

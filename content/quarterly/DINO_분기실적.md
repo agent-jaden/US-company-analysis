@@ -1,10 +1,12 @@
 # HF Sinclair Corp (DINO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Refining & Marketing | 시총 11B$ | 결산월: 12월**
+**Energy | Oil & Gas Refining & Marketing | 시총 11B$ (#918위) | 결산월: 12월**
 
-HF Sinclair Corporation operates as an independent energy company in the United States. It operates through five segments: Refining, Renewables, Marketing, Lubricants & Specialties, and Midstream. The company produces and markets gasoline, diesel fuel, jet fuel, renewable diesel, specialty lubricant products, specialty chemicals, commodity and modified asphalt products, and others.
+HF Sinclair는 미국에서 독립 에너지 기업으로 운영된다. Refining, Renewables, Marketing, Lubricants & Specialties, Midstream 부문을 통해 휘발유, 디젤, 항공유, 재생디젤, 특수 윤활유, 특수화학, 아스팔트 제품 등을 생산·판매한다.
+
+*HF Sinclair Corporation operates as an independent energy company in the United States. It operates through five segments: Refining, Renewables, Marketing, Lubricants & Specialties, and Midstream. The company produces and markets gasoline, diesel fuel, jet fuel, renewable diesel, specialty lubricant products, specialty chemicals, commodity and modified asphalt products, and others.*
 
 ---
 

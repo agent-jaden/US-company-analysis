@@ -1,10 +1,12 @@
 # BOSTON SCIENTIFIC CORP (BSX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Devices | 시총 89B$ | 결산월: 12월**
+**Healthcare | Medical Devices | 시총 89B$ (#188위) | 결산월: 12월**
 
-Boston Scientific Corporation develops, manufactures, and markets medical devices for use in various interventional medical specialties worldwide. The company operates in two segments, MedSurg and Cardiovascular. It offers devices to diagnose and treat a range of gastrointestinal conditions, such as resolution clips, biliary stent systems, stents and electrocautery enhanced delivery systems, SpyGlass, single-use scopes used for diagnostic and therapeutic procedures in the pancreaticobiliary system, in endoscopic retrograde cholangiopancreatography procedures, and single-use duodenoscopes, as well as endoluminal surgery and infection prevention products; devices to treat urological conditions, including ureteral stents, catheters, baskets, guidewires, urinary and bowel dysfunction, sheaths, balloons, single-use digital flexible ureteroscopes, holmium laser systems, penile implants, artificial urinary sphincter, laser system, and hydrogel systems; and devices to treat neurological movement disorders and manage chronic pain, such as spinal cord stimulator systems, radiofrequency ablation, and intraosseous nerve ablation and deep brain stimulation systems.
+Boston Scientific은 전 세계에서 다양한 중재의학 분야에 쓰이는 의료기기를 개발·제조·판매한다. MedSurg와 Cardiovascular 부문을 통해 위장관, 비뇨기, 신경운동장애, 만성통증 치료용 스텐트, 카테터, 내시경, 척수자극기, 고주파 절제, 심부뇌자극 시스템 등을 제공한다.
+
+*Boston Scientific Corporation develops, manufactures, and markets medical devices for use in various interventional medical specialties worldwide. The company operates in two segments, MedSurg and Cardiovascular. It offers devices to diagnose and treat a range of gastrointestinal conditions, such as resolution clips, biliary stent systems, stents and electrocautery enhanced delivery systems, SpyGlass, single-use scopes used for diagnostic and therapeutic procedures in the pancreaticobiliary system, in endoscopic retrograde cholangiopancreatography procedures, and single-use duodenoscopes, as well as endoluminal surgery and infection prevention products; devices to treat urological conditions, including ureteral stents, catheters, baskets, guidewires, urinary and bowel dysfunction, sheaths, balloons, single-use digital flexible ureteroscopes, holmium laser systems, penile implants, artificial urinary sphincter, laser system, and hydrogel systems; and devices to treat neurological movement disorders and manage chronic pain, such as spinal cord stimulator systems, radiofrequency ablation, and intraosseous nerve ablation and deep brain stimulation systems.*
 
 ---
 

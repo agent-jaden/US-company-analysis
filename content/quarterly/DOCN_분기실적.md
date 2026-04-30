@@ -1,10 +1,12 @@
 # DigitalOcean Holdings, Inc. (DOCN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 10B$ | 결산월: 12월**
+**Technology | Software - Infrastructure | 시총 10B$ (#961위) | 결산월: 12월**
 
-DigitalOcean Holdings, Inc., through its subsidiaries, operates an agentic inference cloud platform in North America, Europe, Asia, and internationally. The company provides AI and Digital Native Enterprises build, run, and scale intelligent applications for growing technology companies. It also offers infrastructure-as-a-service (IaaS) solutions comprising compute, storage, and networking products, including cloud firewalls, managed load balancers, NAT gateways, and virtual private cloud software, as well as IP address management and domain name system management.
+DigitalOcean은 북미, 유럽, 아시아 및 해외에서 agentic inference cloud 플랫폼을 운영한다. AI 및 디지털 네이티브 기업이 지능형 애플리케이션을 구축·운영·확장할 수 있도록 컴퓨트, 스토리지, 네트워킹, 클라우드 방화벽, 로드밸런서, NAT gateway, VPC, IP·DNS 관리 등 IaaS 솔루션을 제공한다.
+
+*DigitalOcean Holdings, Inc., through its subsidiaries, operates an agentic inference cloud platform in North America, Europe, Asia, and internationally. The company provides AI and Digital Native Enterprises build, run, and scale intelligent applications for growing technology companies. It also offers infrastructure-as-a-service (IaaS) solutions comprising compute, storage, and networking products, including cloud firewalls, managed load balancers, NAT gateways, and virtual private cloud software, as well as IP address management and domain name system management.*
 
 ---
 

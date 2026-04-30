@@ -1,10 +1,12 @@
 # Expedia Group, Inc. (EXPE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Travel Services | 시총 30B$ | 결산월: 12월**
+**Consumer Cyclical | Travel Services | 시총 30B$ (#469위) | 결산월: 12월**
 
-Expedia Group, Inc. operates as an online travel company in the United States and internationally. The company operates through B2C, B2B, and trivago segments.
+미국 및 전 세계에서 활동하는 글로벌 온라인 여행 플랫폼 서비스 기업입니다. 주로 B2C, B2B 및 trivago의 세 가지 핵심 부문을 통해 여행 예약 및 관련 솔루션을 운영하고 있습니다.
+
+*Expedia Group, Inc. operates as an online travel company in the United States and internationally. The company operates through B2C, B2B, and trivago segments.*
 
 ---
 

@@ -1,10 +1,12 @@
 # COMCAST CORP (CMCSA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Telecom Services | 시총 98B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 98B$ (#165위) | 결산월: 12월**
 
-Comcast Corporation operates as a media and technology company worldwide. The company operates through Residential Connectivity & Platforms, Business Services Connectivity, Media, Studios, and Theme Parks segments. Its Residential Connectivity & Platforms segment provides residential broadband and wireless connectivity services, residential and business video services, sky-branded entertainment television networks, and advertising.
+Comcast는 전 세계에서 미디어와 기술 사업을 운영하는 기업이다. Residential Connectivity & Platforms, Business Services Connectivity, Media, Studios, Theme Parks 부문을 통해 주거용 브로드밴드·무선 연결, 영상 서비스, Sky 브랜드 엔터테인먼트 네트워크와 광고 사업을 제공한다.
+
+*Comcast Corporation operates as a media and technology company worldwide. The company operates through Residential Connectivity & Platforms, Business Services Connectivity, Media, Studios, and Theme Parks segments. Its Residential Connectivity & Platforms segment provides residential broadband and wireless connectivity services, residential and business video services, sky-branded entertainment television networks, and advertising.*
 
 ---
 

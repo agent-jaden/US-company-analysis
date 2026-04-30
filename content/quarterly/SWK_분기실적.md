@@ -1,10 +1,12 @@
 # STANLEY BLACK & DECKER, INC. (SWK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Tools & Accessories | 시총 12B$ | 결산월: 1월**
+**Industrials | Tools & Accessories | 시총 12B$ (#852위) | 결산월: 1월**
 
-Stanley Black & Decker, Inc. provides hand tools, power tools, outdoor products, and related accessories in the United States, Canada, Other Americas, Europe, and Asia. Its Tools & Outdoor segment offers professional grade corded and cordless electric power tools and equipment, including drills, impact wrenches and drivers, grinders, saws, routers, concrete prep and placement tools, and sanders; pneumatic tools and fasteners, such as nail guns, nails, staplers and staples, and concrete and masonry anchors; corded and cordless electric power tools; household power tools, hand-held vacuums, and small appliances; leveling and layout tools, planes, hammers, demolition tools, clamps, vises, knives, saws, chisels, and industrial and automotive tools; drill, screwdriver, router bits, abrasives, saw blades, and threading products; tool boxes, sawhorses, medical cabinets, and engineered storage solutions; and electric and gas-powered lawn and garden products.
+Stanley Black & Decker는 미국, 캐나다, 기타 미주, 유럽, 아시아에서 수공구, 전동공구, 야외용 제품과 관련 액세서리를 제공한다. 전문가용 유·무선 전동공구, 공압공구와 fastener, 레이아웃·측정 공구, 산업·자동차 공구, 공구함·저장 솔루션, 전기·가스식 잔디·정원 제품을 공급한다.
+
+*Stanley Black & Decker, Inc. provides hand tools, power tools, outdoor products, and related accessories in the United States, Canada, Other Americas, Europe, and Asia. Its Tools & Outdoor segment offers professional grade corded and cordless electric power tools and equipment, including drills, impact wrenches and drivers, grinders, saws, routers, concrete prep and placement tools, and sanders; pneumatic tools and fasteners, such as nail guns, nails, staplers and staples, and concrete and masonry anchors; corded and cordless electric power tools; household power tools, hand-held vacuums, and small appliances; leveling and layout tools, planes, hammers, demolition tools, clamps, vises, knives, saws, chisels, and industrial and automotive tools; drill, screwdriver, router bits, abrasives, saw blades, and threading products; tool boxes, sawhorses, medical cabinets, and engineered storage solutions; and electric and gas-powered lawn and garden products.*
 
 ---
 

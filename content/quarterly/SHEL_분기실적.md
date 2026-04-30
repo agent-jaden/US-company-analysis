@@ -1,10 +1,12 @@
 # Shell plc (SHEL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: GBP
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: GBP
 
-**Energy | Oil & Gas Integrated | 시총 243B$ | 결산월: 12월**
+**Energy | Oil & Gas Integrated | 시총 243B$ (#55위) | 결산월: 12월**
 
-Shell plc operates as an energy and petrochemical company in Europe, Asia, Oceania, Africa, the United States, and other parts of the Americas. It operates through the following segments: Integrated Gas, Upstream, Marketing, Chemicals and Products, and Renewables and Energy Solutions. The company explores for and extracts natural gas to produce liquefied natural gas or convert it into gas-to-liquids (GTL) fuels and other products; explores for and extracts crude oil, natural gas, and natural gas liquids; and operates marketing and transportation of oil, gas, and liquids, supported by the infrastructure required to deliver them to market or to process them within Shell's chemical manufacturing plants and refineries.
+Shell plc는 유럽, 아시아, 아메리카 등 전 세계에서 에너지 및 석유화학 기업으로 사업을 운영합니다. 천연가스와 원유를 탐사 및 추출하여 액화천연가스(LNG) 및 기타 연료로 변환하며, 화학 제조 공장과 정유소를 통해 석유 및 가스 제품의 마케팅과 운송을 담당합니다.
+
+*Shell plc operates as an energy and petrochemical company in Europe, Asia, Oceania, Africa, the United States, and other parts of the Americas. It operates through the following segments: Integrated Gas, Upstream, Marketing, Chemicals and Products, and Renewables and Energy Solutions. The company explores for and extracts natural gas to produce liquefied natural gas or convert it into gas-to-liquids (GTL) fuels and other products; explores for and extracts crude oil, natural gas, and natural gas liquids; and operates marketing and transportation of oil, gas, and liquids, supported by the infrastructure required to deliver them to market or to process them within Shell's chemical manufacturing plants and refineries.*
 
 ---
 

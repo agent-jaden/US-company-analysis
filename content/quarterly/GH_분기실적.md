@@ -1,10 +1,12 @@
 # Guardant Health, Inc. (GH) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Diagnostics & Research | 시총 12B$ | 결산월: 12월**
+**Healthcare | Diagnostics & Research | 시총 12B$ (#895위) | 결산월: 12월**
 
-Guardant Health, Inc., a precision oncology company, provides blood and tissue tests, and data sets in the United States and internationally. The company offers Guardant360 CDx test, a liquid biopsy test for tumor mutation profiling; Guardant360 Liquid test, which measures 740+ genes and supports all guideline-recommended biomarkers; Guardant Reveal test, a blood test that utilizes circulating tumor DNA to detect cancer at the molecular level; and Guardant360 Tissue test, a molecular profiling test for tumor tissue that provides genomic, transcriptomic, and epigenomic insights. It also provides Shield blood test for colorectal cancer screening in adults.
+Guardant Health, Inc.는 전 세계 의료진과 환자에게 정밀 종양학을 위한 혈액 및 조직 검사 서비스를 제공하는 생명공학 기업입니다. 분자 수준에서 암 돌연변이를 분석하는 Guardant360 액체 생검 및 조직 검사, 재발 모니터링을 위한 Reveal, 그리고 성인 대장암 스크리닝을 위한 Shield 혈액 검사를 상용화했습니다.
+
+*Guardant Health, Inc., a precision oncology company, provides blood and tissue tests, and data sets in the United States and internationally. The company offers Guardant360 CDx test, a liquid biopsy test for tumor mutation profiling; Guardant360 Liquid test, which measures 740+ genes and supports all guideline-recommended biomarkers; Guardant Reveal test, a blood test that utilizes circulating tumor DNA to detect cancer at the molecular level; and Guardant360 Tissue test, a molecular profiling test for tumor tissue that provides genomic, transcriptomic, and epigenomic insights. It also provides Shield blood test for colorectal cancer screening in adults.*
 
 ---
 

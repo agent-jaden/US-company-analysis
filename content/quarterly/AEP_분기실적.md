@@ -1,10 +1,12 @@
 # AMERICAN ELECTRIC POWER CO INC (AEP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 73B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 73B$ (#231위) | 결산월: 12월**
 
-American Electric Power Company, Inc., an electric public utility holding company, engages in the generation, transmission, and distribution of electricity for sale to retail and wholesale customers in the United States. It operates through Vertically Integrated Utilities, Transmission and Distribution Utilities, AEP Transmission Holdco, and Generation & Marketing segments. The company generates electricity using coal and lignite, nuclear, natural gas, renewable, hydro, solar, wind, and other energy sources; owns, operates, maintains, and invests in transmission infrastructure; and engages in the retail supply, and wholesale energy trading and marketing businesses.
+American Electric Power Company, Inc.는 미국 내 소매 및 도매 고객에게 전력을 생산, 전송 및 배분하는 대규모 전력 공익사업 지주 회사입니다. 천연가스, 원자력, 재생 에너지 등 다양한 에너지원으로 전력을 생산하며 광범위한 송전 인프라 운영 및 에너지 거래 사업을 영위합니다.
+
+*American Electric Power Company, Inc., an electric public utility holding company, engages in the generation, transmission, and distribution of electricity for sale to retail and wholesale customers in the United States. It operates through Vertically Integrated Utilities, Transmission and Distribution Utilities, AEP Transmission Holdco, and Generation & Marketing segments. The company generates electricity using coal and lignite, nuclear, natural gas, renewable, hydro, solar, wind, and other energy sources; owns, operates, maintains, and invests in transmission infrastructure; and engages in the retail supply, and wholesale energy trading and marketing businesses.*
 
 ---
 

@@ -1,10 +1,12 @@
 # PRUDENTIAL FINANCIAL INC (PRU) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Life | 시총 33B$ | 결산월: 12월**
+**Financial Services | Insurance - Life | 시총 33B$ (#434위) | 결산월: 12월**
 
-Prudential Financial, Inc., together with its subsidiaries, provides financial products and services in the United States, Japan and internationally. It operates through PGIM, Retirement Strategies, Group Insurance, Individual Life, and International Businesses segments. The PGIM segment offers investment management services and solutions related to public fixed income, public equity, real estate debt and equity, private credit and other alternatives, and multi-asset class strategies to institutional and retail clients, as well as its insurance and retirement businesses.
+Prudential Financial은 미국, 일본 및 해외에서 금융 상품과 서비스를 제공한다. PGIM, Retirement Strategies, Group Insurance, Individual Life, International Businesses 부문을 운영하며 PGIM은 공모 채권·주식, 부동산, 사모신용, 대체투자, 멀티에셋 전략 관련 투자관리 서비스를 제공한다.
+
+*Prudential Financial, Inc., together with its subsidiaries, provides financial products and services in the United States, Japan and internationally. It operates through PGIM, Retirement Strategies, Group Insurance, Individual Life, and International Businesses segments. The PGIM segment offers investment management services and solutions related to public fixed income, public equity, real estate debt and equity, private credit and other alternatives, and multi-asset class strategies to institutional and retail clients, as well as its insurance and retirement businesses.*
 
 ---
 

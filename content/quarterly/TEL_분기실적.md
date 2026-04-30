@@ -1,10 +1,12 @@
 # TE Connectivity plc (TEL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Electronic Components | 시총 61B$ | 결산월: 9월**
+**Technology | Electronic Components | 시총 61B$ (#277위) | 결산월: 9월**
 
-TE Connectivity plc, together with its subsidiaries, manufactures and sells connectivity and sensor solutions in Europe, the Middle East, Africa, the AsiaPacific, and the Americas. The company operates through two reportable segments, Transportation Solutions and Industrial Solutions. It provides antennas, application tooling, cable assemblies, connectors, electromagnetic compatibility/electromagnetic interference solutions, energy and power, fiber optics, heat shrink tubing, identification and labeling, medical components, passive components, relays and contactors, sensors, switches, terminals and splices, wires and cables, and wire protection and management solutions.
+TE Connectivity는 유럽, 중동, 아프리카, 아시아태평양, 미주에서 연결 및 센서 솔루션을 제조·판매한다. Transportation Solutions와 Industrial Solutions 부문을 통해 안테나, 케이블 어셈블리, 커넥터, EMI/EMC 솔루션, 에너지·전력, 광섬유, 센서, 스위치, 릴레이, 와이어·케이블 보호 솔루션 등을 제공한다.
+
+*TE Connectivity plc, together with its subsidiaries, manufactures and sells connectivity and sensor solutions in Europe, the Middle East, Africa, the AsiaPacific, and the Americas. The company operates through two reportable segments, Transportation Solutions and Industrial Solutions. It provides antennas, application tooling, cable assemblies, connectors, electromagnetic compatibility/electromagnetic interference solutions, energy and power, fiber optics, heat shrink tubing, identification and labeling, medical components, passive components, relays and contactors, sensors, switches, terminals and splices, wires and cables, and wire protection and management solutions.*
 
 ---
 

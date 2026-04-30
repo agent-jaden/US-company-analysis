@@ -1,10 +1,12 @@
 # Avery Dennison Corp (AVY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Packaging & Containers | 시총 13B$ | 결산월: 12월**
+**Consumer Cyclical | Packaging & Containers | 시총 13B$ (#839위) | 결산월: 12월**
 
-Avery Dennison Corporation operates as a materials science and digital identification solutions company in the North America, Europe, the Middle East, North Africa, Asia, and Latin America. It offers pressure-sensitive label materials, which consist of papers, plastic films, and metal foils; performance tapes products, including mechanical fasteners, which are precision-extruded and injection-molded plastic devices; and other pressure-sensitive adhesive-based materials and converted products under the Fasson, JAC, and Avery Dennison brands. The company provides graphics and reflective products that include films and other products for the architectural, commercial sign, digital printing, and other related market segments; durable cast and reflective films to the construction, automotive, and fleet transportation markets; sign shops, commercial printers, and designers for pressure-sensitive materials; reflective films for traffic and safety applications; and pressure-sensitive vinyl and specialty materials for digital imaging, screen printing, and sign cutting applications under the Avery Dennison and Mactac brand names.
+Avery Dennison은 북미, 유럽, 중동, 북아프리카, 아시아, 라틴아메리카에서 소재과학 및 디지털 식별 솔루션 기업으로 운영된다. 감압 라벨 소재, performance tape, 접착 기반 소재와 가공 제품, 건축·상업 간판·디지털 프린팅·자동차·교통 안전용 그래픽 및 반사 필름을 Avery Dennison, Mactac 등 브랜드로 제공한다.
+
+*Avery Dennison Corporation operates as a materials science and digital identification solutions company in the North America, Europe, the Middle East, North Africa, Asia, and Latin America. It offers pressure-sensitive label materials, which consist of papers, plastic films, and metal foils; performance tapes products, including mechanical fasteners, which are precision-extruded and injection-molded plastic devices; and other pressure-sensitive adhesive-based materials and converted products under the Fasson, JAC, and Avery Dennison brands. The company provides graphics and reflective products that include films and other products for the architectural, commercial sign, digital printing, and other related market segments; durable cast and reflective films to the construction, automotive, and fleet transportation markets; sign shops, commercial printers, and designers for pressure-sensitive materials; reflective films for traffic and safety applications; and pressure-sensitive vinyl and specialty materials for digital imaging, screen printing, and sign cutting applications under the Avery Dennison and Mactac brand names.*
 
 ---
 

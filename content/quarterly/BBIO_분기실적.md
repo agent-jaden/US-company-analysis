@@ -1,10 +1,12 @@
 # BridgeBio Pharma, Inc. (BBIO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Biotechnology | 시총 14B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 14B$ (#769위) | 결산월: 12월**
 
-BridgeBio Pharma, Inc., a biopharmaceutical company, discovers, develops, and delivers medicines for patients with genetic diseases. The company offers Attruby, a next-generation oral small molecule near-complete TTR stabilizer for the treatment of cardiomyopathy of wild-type or transthyretin-mediated amyloidosis (ATTR-CM); Fosdenopterin, an intravenous formulation of synthetic cyclic pyranopterin monophosphate for the treatment of molybdenum cofactor deficiency under the NULIBRY brand name; and low-dose infigratinib, an oral FGFR1-3 selective tyrosine kinase inhibitor, which is in Phase 3 clinical stage or the treatment of children with achondroplasia and hypochondroplasia. It also develops Encaleret, an oral small molecule, negative allosteric modulator of the calcium sensing receptor, which is in phase 3 clinical study for the treatment of Autosomal Dominant Hypocalcemia Type 1(ADH1) and Chronic Hypoparathyroidism (CHP); BBP-418, an investigational, orally administered, and small molecule therapy that is in phase 3 clinical study for the treatment of LGMD2I; and BBP-812, an investigational adeno-associated virus (AAV) gene therapy for Canavan disease.
+BridgeBio Pharma는 유전질환 환자를 위한 의약품을 발굴, 개발, 공급하는 바이오제약 기업이다. ATTR-CM 치료제 Attruby, NULIBRY 브랜드의 Fosdenopterin, 연골무형성증·저연골형성증 치료 후보 low-dose infigratinib과 Encaleret, BBP-418, BBP-812 등 임상 파이프라인을 보유한다.
+
+*BridgeBio Pharma, Inc., a biopharmaceutical company, discovers, develops, and delivers medicines for patients with genetic diseases. The company offers Attruby, a next-generation oral small molecule near-complete TTR stabilizer for the treatment of cardiomyopathy of wild-type or transthyretin-mediated amyloidosis (ATTR-CM); Fosdenopterin, an intravenous formulation of synthetic cyclic pyranopterin monophosphate for the treatment of molybdenum cofactor deficiency under the NULIBRY brand name; and low-dose infigratinib, an oral FGFR1-3 selective tyrosine kinase inhibitor, which is in Phase 3 clinical stage or the treatment of children with achondroplasia and hypochondroplasia. It also develops Encaleret, an oral small molecule, negative allosteric modulator of the calcium sensing receptor, which is in phase 3 clinical study for the treatment of Autosomal Dominant Hypocalcemia Type 1(ADH1) and Chronic Hypoparathyroidism (CHP); BBP-418, an investigational, orally administered, and small molecule therapy that is in phase 3 clinical study for the treatment of LGMD2I; and BBP-812, an investigational adeno-associated virus (AAV) gene therapy for Canavan disease.*
 
 ---
 

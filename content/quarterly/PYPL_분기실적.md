@@ -1,10 +1,12 @@
 # PayPal Holdings, Inc. (PYPL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Credit Services | 시총 45B$ | 결산월: 12월**
+**Financial Services | Credit Services | 시총 45B$ (#352위) | 결산월: 12월**
 
-PayPal Holdings, Inc. operates a technology platform that enables digital payments for merchants and consumers worldwide. The company operates a two-sided network at scale that connects merchants and consumers that enables its customers to connect, transact, and send and receive payments through online and in person, as well as transfer and withdraw funds using various funding sources, such as bank accounts, PayPal or Venmo account balance, consumer credit and debit products, credit and debit cards, and cryptocurrencies, as well as other stored value products, including gift cards and eligible rewards.
+PayPal은 전 세계 가맹점과 소비자를 위한 디지털 결제 기술 플랫폼을 운영한다. 양면 네트워크를 통해 온라인·오프라인 결제, 송금, 수취, 자금 이체와 인출을 지원하며 은행계좌, PayPal·Venmo 잔액, 신용·직불 상품, 카드, 암호화폐, 기프트카드, 리워드 등 다양한 자금원을 연결한다.
+
+*PayPal Holdings, Inc. operates a technology platform that enables digital payments for merchants and consumers worldwide. The company operates a two-sided network at scale that connects merchants and consumers that enables its customers to connect, transact, and send and receive payments through online and in person, as well as transfer and withdraw funds using various funding sources, such as bank accounts, PayPal or Venmo account balance, consumer credit and debit products, credit and debit cards, and cryptocurrencies, as well as other stored value products, including gift cards and eligible rewards.*
 
 ---
 

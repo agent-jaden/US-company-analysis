@@ -1,10 +1,12 @@
 # Duke Energy CORP (DUK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 99B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 99B$ (#163위) | 결산월: 12월**
 
-Duke Energy Corporation, through its subsidiaries, operates as an energy company in the United States. The company operates through two segments: Electric Utilities and Infrastructure (EU&I); and Gas Utilities and Infrastructure (GU&I). The EU&I segment generates, transmits, distributes, and sells electricity to customers in the Southeast and Midwest regions.
+Duke Energy는 자회사를 통해 미국에서 에너지 사업을 운영한다. Electric Utilities and Infrastructure 부문은 미국 남동부와 중서부 지역 고객에게 전력을 생산, 송전, 배전, 판매하고 Gas Utilities and Infrastructure 부문도 함께 운영한다.
+
+*Duke Energy Corporation, through its subsidiaries, operates as an energy company in the United States. The company operates through two segments: Electric Utilities and Infrastructure (EU&I); and Gas Utilities and Infrastructure (GU&I). The EU&I segment generates, transmits, distributes, and sells electricity to customers in the Southeast and Midwest regions.*
 
 ---
 

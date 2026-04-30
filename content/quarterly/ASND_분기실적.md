@@ -1,10 +1,12 @@
 # Ascendis Pharma A/S (ASND) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
 
-**Healthcare | Biotechnology | 시총 14B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 14B$ (#785위) | 결산월: 12월**
 
-Ascendis Pharma A/S, operates as a biopharmaceutical company that focuses on developing TransCon-based therapies for unmet medical needs in Europe, the United States, and internationally. The company offers SKYTROFA for treating pediatric patients with growth hormone deficiency; and YORVIPATH, a once-daily subcutaneous injection for the treatment of adults with chronic hypoparathyroidism. It is also developing a pipeline of three independent endocrinology rare disease product candidates in clinical development, as well as focuses on advancing oncology therapeutic candidates.
+Ascendis Pharma는 유럽, 미국 및 해외에서 미충족 의료수요를 위한 TransCon 기반 치료제를 개발하는 바이오제약 기업이다. 소아 성장호르몬 결핍 치료제 SKYTROFA와 성인 만성 부갑상선기능저하증 치료제 YORVIPATH를 판매하며, 내분비 희귀질환과 항암 치료제 후보도 개발 중이다.
+
+*Ascendis Pharma A/S, operates as a biopharmaceutical company that focuses on developing TransCon-based therapies for unmet medical needs in Europe, the United States, and internationally. The company offers SKYTROFA for treating pediatric patients with growth hormone deficiency; and YORVIPATH, a once-daily subcutaneous injection for the treatment of adults with chronic hypoparathyroidism. It is also developing a pipeline of three independent endocrinology rare disease product candidates in clinical development, as well as focuses on advancing oncology therapeutic candidates.*
 
 ---
 

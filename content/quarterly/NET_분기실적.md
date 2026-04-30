@@ -1,10 +1,12 @@
 # Cloudflare, Inc. (NET) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 75B$ | 결산월: 12월**
+**Technology | Software - Infrastructure | 시총 75B$ (#228위) | 결산월: 12월**
 
-Cloudflare, Inc. operates as a cloud services provider that delivers a range of services to businesses worldwide. The company provides a cloud-based security solution to secure a range of combination of platforms, including public and private cloud, on-premises, software-as-a-service applications, and Internet of things (IoT) devices; and application security products comprising web application firewall, bot management, distributed denial of service mitigation, API security, SSL/TLS encryption, client-side security, and security center products.
+Cloudflare, Inc.는 전 세계 기업에 네트워크 성능 향상 및 클라우드 기반 보안 솔루션을 제공합니다. 퍼블릭 클라우드, SaaS 애플리케이션 및 IoT 기기를 보호하는 포괄적인 네트워크 인프라와 더불어 웹 방화벽(WAF), DDoS 방어 등 강력한 애플리케이션 보안 제품을 지원합니다.
+
+*Cloudflare, Inc. operates as a cloud services provider that delivers a range of services to businesses worldwide. The company provides a cloud-based security solution to secure a range of combination of platforms, including public and private cloud, on-premises, software-as-a-service applications, and Internet of things (IoT) devices; and application security products comprising web application firewall, bot management, distributed denial of service mitigation, API security, SSL/TLS encryption, client-side security, and security center products.*
 
 ---
 

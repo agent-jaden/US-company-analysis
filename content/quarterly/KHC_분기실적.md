@@ -1,10 +1,12 @@
 # Kraft Heinz Co (KHC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Packaged Foods | 시총 26B$ | 결산월: 12월**
+**Consumer Defensive | Packaged Foods | 시총 26B$ (#516위) | 결산월: 12월**
 
-The Kraft Heinz Company, together with its subsidiaries, manufactures and markets food and beverage products in North America and internationally. Its products include condiments, sauces, dressings, and spreads; cheese, frozen potato products, and other frozen meals; meal kits, frozen snacks, and pickles; dry packaged desserts, refrigerated ready to eat desserts, and other dessert toppings; ready to drink and powdered beverages, and liquid concentrates; American sliced and recipe cheeses; mainstream coffee, coffee pods, and premium coffee; and cold cuts, bacon, and hot dogs. It offers its products under the Kraft, Oscar Mayer, Heinz, Philadelphia, Lunchables, Velveeta, Ore-Ida, Capri Sun, Maxwell House, Kool-Aid, Jell-O, ABC, Master, Quero, Golden Circle, Wattie's, Pudliszki, and Plasmon brands, as well as Bagel Bites, Claussen, A1, and Cool Whip.
+The Kraft Heinz Company는 북미 및 전 세계 시장에서 다양한 식음료 제품을 제조하고 마케팅하는 글로벌 식품 기업입니다. Kraft, Heinz, Oscar Mayer, Philadelphia 등 유명 브랜드를 통해 조미료, 소스, 치즈, 냉동식품, 가공육 및 음료 등 폭넓은 제품 라인업을 판매합니다.
+
+*The Kraft Heinz Company, together with its subsidiaries, manufactures and markets food and beverage products in North America and internationally. Its products include condiments, sauces, dressings, and spreads; cheese, frozen potato products, and other frozen meals; meal kits, frozen snacks, and pickles; dry packaged desserts, refrigerated ready to eat desserts, and other dessert toppings; ready to drink and powdered beverages, and liquid concentrates; American sliced and recipe cheeses; mainstream coffee, coffee pods, and premium coffee; and cold cuts, bacon, and hot dogs. It offers its products under the Kraft, Oscar Mayer, Heinz, Philadelphia, Lunchables, Velveeta, Ore-Ida, Capri Sun, Maxwell House, Kool-Aid, Jell-O, ABC, Master, Quero, Golden Circle, Wattie's, Pudliszki, and Plasmon brands, as well as Bagel Bites, Claussen, A1, and Cool Whip.*
 
 ---
 

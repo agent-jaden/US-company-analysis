@@ -1,10 +1,12 @@
 # REALTY INCOME CORP (O) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Retail | 시총 59B$ | 결산월: 12월**
+**Real Estate | REIT - Retail | 시총 59B$ (#293위) | 결산월: 12월**
 
-Realty Income Corporation, an S&P 500 company, is real estate partner to the world's leading companies. We serve our clients as a full-service real estate capital provider. As of December 31, 2025, we have a portfolio of over 15,500 properties in all 50 states of the United States (U.S.), the United Kingdom (U.K.), and eight other countries in Europe.
+Realty Income은 S&P 500에 포함된 부동산 기업으로, 글로벌 주요 기업에 부동산 자본 솔루션을 제공한다. 2025년 12월 31일 기준 미국 50개 주, 영국, 유럽 8개국에 걸쳐 15,500개 이상의 부동산 포트폴리오를 보유한다.
+
+*Realty Income Corporation, an S&P 500 company, is real estate partner to the world's leading companies. We serve our clients as a full-service real estate capital provider. As of December 31, 2025, we have a portfolio of over 15,500 properties in all 50 states of the United States (U.S.), the United Kingdom (U.K.), and eight other countries in Europe.*
 
 ---
 

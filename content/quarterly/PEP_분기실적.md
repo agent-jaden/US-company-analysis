@@ -1,10 +1,12 @@
 # PEPSICO INC (PEP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Beverages - Non-Alcoholic | 시총 211B$ | 결산월: 12월**
+**Consumer Defensive | Beverages - Non-Alcoholic | 시총 211B$ (#63위) | 결산월: 12월**
 
-PepsiCo, Inc. engages in the manufacture, marketing, distribution, and sale of various beverages and convenient foods worldwide. The company operates through six segments: PepsiCo Foods North America; PepsiCo Beverages North America; International Beverages Franchise; Europe, Middle East and Africa; Latin America Foods; and Asia Pacific Foods.
+PepsiCo, Inc.는 전 세계적으로 다양한 음료와 편의 식품을 제조, 마케팅, 유통 및 판매하는 기업입니다. 북미의 식품 및 음료 부문을 비롯하여 유럽, 라틴 아메리카, 아시아 태평양 등 글로벌 시장을 6개 부문으로 나누어 사업을 운영하고 있습니다.
+
+*PepsiCo, Inc. engages in the manufacture, marketing, distribution, and sale of various beverages and convenient foods worldwide. The company operates through six segments: PepsiCo Foods North America; PepsiCo Beverages North America; International Beverages Franchise; Europe, Middle East and Africa; Latin America Foods; and Asia Pacific Foods.*
 
 ---
 

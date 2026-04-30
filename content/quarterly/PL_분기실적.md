@@ -1,10 +1,12 @@
 # Planet Labs PBC (PL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 12B$ | 결산월: 1월**
+**Industrials | Aerospace & Defense | 시총 12B$ (#860위) | 결산월: 1월**
 
-Planet Labs PBC engages in the design, construction, and launch of constellations of satellites with the intent of providing high-cadence geospatial data delivered to customers through an online platform in the United States and internationally. The company offers SuperDove satellites to create an always-online scanner for the planet, with the goal of imaging the Earth every day at a ground sampling distance (GSD) resolution of up to 3.5 meters. This combines planet monitoring with other scientific-grade radiometric data from public satellite data programs; and SkySat and Pelican satellites to capture a specified location several times per day, achieving a GSD resolution of up to 50 centimeters after processing, powered by an application programming interface.
+Planet Labs PBC는 고빈도 지형 공간 데이터를 온라인 플랫폼을 통해 글로벌 고객에게 제공하기 위해 인공위성을 설계, 제작 및 발사하는 기업입니다. SuperDove 위성을 통해 매일 최대 3.5m 해상도로 지구 전체를 촬영하며, SkySat 및 Pelican 위성을 이용해 특정 위치를 하루 여러 번 고해상도(최대 50cm)로 집중 모니터링합니다.
+
+*Planet Labs PBC engages in the design, construction, and launch of constellations of satellites with the intent of providing high-cadence geospatial data delivered to customers through an online platform in the United States and internationally. The company offers SuperDove satellites to create an always-online scanner for the planet, with the goal of imaging the Earth every day at a ground sampling distance (GSD) resolution of up to 3.5 meters. This combines planet monitoring with other scientific-grade radiometric data from public satellite data programs; and SkySat and Pelican satellites to capture a specified location several times per day, achieving a GSD resolution of up to 50 centimeters after processing, powered by an application programming interface.*
 
 ---
 

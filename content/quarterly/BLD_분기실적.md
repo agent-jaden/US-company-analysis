@@ -1,10 +1,12 @@
 # TopBuild Corp (BLD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Engineering & Construction | 시총 12B$ | 결산월: 12월**
+**Industrials | Engineering & Construction | 시총 12B$ (#845위) | 결산월: 12월**
 
-TopBuild Corp., together with its subsidiaries, engages in the installation and distribution of insulation and other building material products to the construction industry. The company operates in two segments, Installation and Specialty Distribution. It provides insulation products and accessories, glass and windows, rain gutters, garage doors, fireplaces, roofing materials, closet shelving, and other products.
+TopBuild는 자회사를 통해 건설 산업에 단열재와 기타 건축자재를 설치·유통한다. Installation과 Specialty Distribution 부문을 통해 단열재와 액세서리, 유리·창문, 빗물받이, 차고문, 벽난로, 지붕재, 옷장 선반 등 제품을 제공한다.
+
+*TopBuild Corp., together with its subsidiaries, engages in the installation and distribution of insulation and other building material products to the construction industry. The company operates in two segments, Installation and Specialty Distribution. It provides insulation products and accessories, glass and windows, rain gutters, garage doors, fireplaces, roofing materials, closet shelving, and other products.*
 
 ---
 

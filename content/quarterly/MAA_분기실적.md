@@ -1,10 +1,12 @@
 # MID AMERICA APARTMENT COMMUNITIES INC. (MAA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Residential | 시총 15B$ | 결산월: 12월**
+**Real Estate | REIT - Residential | 시총 15B$ (#764위) | 결산월: 12월**
 
-Mid-America Apartment Communities, Inc.is a S&P 500 company. It is a real estate investment trust (REIT) focused on delivering full-cycle and superior investment performance for shareholders through the ownership, management, acquisition, development and redevelopment of quality apartment communities primarily in the Southeast, Southwest and Mid-Atlantic regions of the United States. As of December 31, 2025, MAA had ownership interest in 104,945 apartment units, including communities currently in development, across 16 states and the District of Columbia.
+Mid-America Apartment Communities는 S&P 500에 포함된 REIT로, 미국 남동부, 남서부, 중부 대서양 지역을 중심으로 아파트 커뮤니티를 보유, 관리, 취득, 개발, 재개발한다. 2025년 12월 31일 기준 16개 주와 워싱턴 D.C.에서 개발 중인 커뮤니티를 포함해 104,945개 아파트 유닛에 대한 지분을 보유한다.
+
+*Mid-America Apartment Communities, Inc.is a S&P 500 company. It is a real estate investment trust (REIT) focused on delivering full-cycle and superior investment performance for shareholders through the ownership, management, acquisition, development and redevelopment of quality apartment communities primarily in the Southeast, Southwest and Mid-Atlantic regions of the United States. As of December 31, 2025, MAA had ownership interest in 104,945 apartment units, including communities currently in development, across 16 states and the District of Columbia.*
 
 ---
 

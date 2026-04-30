@@ -1,10 +1,12 @@
 # TENET HEALTHCARE CORP (THC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Care Facilities | 시총 16B$ | 결산월: 12월**
+**Healthcare | Medical Care Facilities | 시총 16B$ (#719위) | 결산월: 12월**
 
-Tenet Healthcare Corporation operates as a diversified healthcare services company in the United States. The company operates through two segments: Hospital Operations and Services, and Ambulatory Care. Its general hospitals offer acute care services, operating and recovery rooms, radiology and respiratory therapy services, clinical laboratories, and pharmacies.
+Tenet Healthcare Corporation은 미국 내에서 병원 운영 및 외래 진료 서비스를 제공하는 다각화된 헬스케어 기업입니다. 병원 운영 및 서비스, 외래 진료의 두 가지 부문을 통해 급성기 치료, 방사선 및 호흡기 치료, 임상 연구소 및 약국 서비스를 폭넓게 운영합니다.
+
+*Tenet Healthcare Corporation operates as a diversified healthcare services company in the United States. The company operates through two segments: Hospital Operations and Services, and Ambulatory Care. Its general hospitals offer acute care services, operating and recovery rooms, radiology and respiratory therapy services, clinical laboratories, and pharmacies.*
 
 ---
 

@@ -1,10 +1,12 @@
 # CHURCH & DWIGHT CO INC /DE/ (CHD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Household & Personal Products | 시총 23B$ | 결산월: 12월**
+**Consumer Defensive | Household & Personal Products | 시총 23B$ (#574위) | 결산월: 12월**
 
-Church & Dwight Co., Inc. develops, manufactures, and markets household, personal care, and specialty products. It operates in three segments: Consumer Domestic, Consumer International, and Specialty Products Division.
+Church & Dwight는 가정용, 개인관리, 특수 제품을 개발·제조·마케팅한다. Consumer Domestic, Consumer International, Specialty Products Division 부문을 통해 생활용품과 퍼스널케어, 특수 산업용 제품을 제공한다.
+
+*Church & Dwight Co., Inc. develops, manufactures, and markets household, personal care, and specialty products. It operates in three segments: Consumer Domestic, Consumer International, and Specialty Products Division.*
 
 ---
 

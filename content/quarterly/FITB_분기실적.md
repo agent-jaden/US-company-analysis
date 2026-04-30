@@ -1,10 +1,12 @@
 # FIFTH THIRD BANCORP (FITB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Regional | 시총 46B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 46B$ (#344위) | 결산월: 12월**
 
-Fifth Third Bancorp operates as the bank holding company for Fifth Third Bank, National Association that provides a range of financial products and services in the United States. It operates through three segments: Commercial Banking, Consumer and Small Business Banking, and Wealth and Asset Management. The Commercial Banking segment offers credit intermediation, cash management, and financial services; lending and depository products; and cash management, foreign exchange and international trade finance, derivatives and capital markets services, asset-based lending, real estate finance, public finance, commercial leasing, and syndicated finance for business, government, and professional customers.
+Fifth Third Bancorp는 Fifth Third Bank의 은행지주회사로 미국에서 다양한 금융 상품과 서비스를 제공한다. Commercial Banking, Consumer and Small Business Banking, Wealth and Asset Management 부문을 운영하며 기업·정부·전문직 고객에게 대출, 예금, 현금관리, 외환·무역금융, 파생상품, 자본시장, 자산담보대출, 부동산금융, 공공금융, 리스, 신디케이트 금융을 제공한다.
+
+*Fifth Third Bancorp operates as the bank holding company for Fifth Third Bank, National Association that provides a range of financial products and services in the United States. It operates through three segments: Commercial Banking, Consumer and Small Business Banking, and Wealth and Asset Management. The Commercial Banking segment offers credit intermediation, cash management, and financial services; lending and depository products; and cash management, foreign exchange and international trade finance, derivatives and capital markets services, asset-based lending, real estate finance, public finance, commercial leasing, and syndicated finance for business, government, and professional customers.*
 
 ---
 

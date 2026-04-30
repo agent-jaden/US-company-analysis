@@ -1,10 +1,12 @@
 # Keurig Dr Pepper Inc. (KDP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Beverages - Non-Alcoholic | 시총 38B$ | 결산월: 12월**
+**Consumer Defensive | Beverages - Non-Alcoholic | 시총 38B$ (#388위) | 결산월: 12월**
 
-Keurig Dr Pepper Inc. owns, manufactures, and distributors beverages and single serve brewing systems in the United States and internationally. The company operates through three segments: U.S.
+Keurig Dr Pepper는 미국과 해외에서 음료와 single serve brewing system을 보유·제조·유통한다. 다양한 음료 브랜드와 커피 브루잉 플랫폼을 기반으로 소비자 음료 시장에서 사업을 운영한다.
+
+*Keurig Dr Pepper Inc. owns, manufactures, and distributors beverages and single serve brewing systems in the United States and internationally. The company operates through three segments: U.S.*
 
 ---
 

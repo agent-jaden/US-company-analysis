@@ -1,10 +1,12 @@
 # ZIMMER BIOMET HOLDINGS, INC. (ZBH) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Devices | 시총 18B$ | 결산월: 12월**
+**Healthcare | Medical Devices | 시총 18B$ (#672위) | 결산월: 12월**
 
-Zimmer Biomet Holdings, Inc., together with its subsidiaries, operates as a medical technology company worldwide. The company designs, manufactures, and markets orthopedic reconstructive products, such as knee and hip products; S.E.T. products, including sports medicine, biologics, foot and ankle, upper extremities, and trauma and CMFT products; sports medicine products for the repair of soft tissue injuries, used in the knee and shoulder; and craniomaxillofacial and thoracic products comprising face and skull reconstruction products, as well as products that fixate and stabilize the bones of the chest to facilitate healing or reconstruction after open-heart surgery, trauma, or for deformities of the chest.
+Zimmer Biomet은 전 세계에서 의료기술 기업으로 운영되며 정형외과 재건 제품을 설계·제조·판매한다. 무릎·고관절 제품, 스포츠의학·바이오로직스·족부·상지·외상·CMFT 제품, 연조직 손상 복구 제품, 안면·두개골·흉부 재건 및 고정 제품을 제공한다.
+
+*Zimmer Biomet Holdings, Inc., together with its subsidiaries, operates as a medical technology company worldwide. The company designs, manufactures, and markets orthopedic reconstructive products, such as knee and hip products; S.E.T. products, including sports medicine, biologics, foot and ankle, upper extremities, and trauma and CMFT products; sports medicine products for the repair of soft tissue injuries, used in the knee and shoulder; and craniomaxillofacial and thoracic products comprising face and skull reconstruction products, as well as products that fixate and stabilize the bones of the chest to facilitate healing or reconstruction after open-heart surgery, trauma, or for deformities of the chest.*
 
 ---
 

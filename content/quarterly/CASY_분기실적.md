@@ -1,10 +1,12 @@
 # CASEYS GENERAL STORES INC (CASY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Specialty Retail | 시총 30B$ | 결산월: 4월**
+**Consumer Cyclical | Specialty Retail | 시총 30B$ (#476위) | 결산월: 4월**
 
-Casey's General Stores, Inc., together with its subsidiaries, operates convenience stores under the Casey's and Casey's General Store names in the United States. Its stores offer pizza, donuts, breakfast items, and sandwiches; and tobacco and nicotine products. The company's stores also provide soft drinks, energy, water, sports drinks, juices, coffee, and tea and dairy products; beer, wine, and spirits; snacks, candy, packaged bakery, and other food items; ice, ice cream, meals, and appetizers; health and beauty aids, automotive products, electronic accessories, and housewares; and breadsticks, wraps, chicken wings and tenders, breakfast croissants and biscuits, breakfast burritos, hash browns, burgers, cookies and brownies, and other seasonal items.
+미국 전역에서 Casey's 및 Casey's General Store 브랜드로 편의점 체인을 운영하고 있습니다. 자체 매장에서 피자, 도넛, 샌드위치 등의 신선 식품을 제공하며 주류, 음료, 자동차 용품 및 담배 등 광범위한 생활용품을 판매합니다.
+
+*Casey's General Stores, Inc., together with its subsidiaries, operates convenience stores under the Casey's and Casey's General Store names in the United States. Its stores offer pizza, donuts, breakfast items, and sandwiches; and tobacco and nicotine products. The company's stores also provide soft drinks, energy, water, sports drinks, juices, coffee, and tea and dairy products; beer, wine, and spirits; snacks, candy, packaged bakery, and other food items; ice, ice cream, meals, and appetizers; health and beauty aids, automotive products, electronic accessories, and housewares; and breadsticks, wraps, chicken wings and tenders, breakfast croissants and biscuits, breakfast burritos, hash browns, burgers, cookies and brownies, and other seasonal items.*
 
 ---
 

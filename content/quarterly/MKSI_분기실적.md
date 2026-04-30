@@ -1,10 +1,12 @@
 # MKS INC (MKSI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Scientific & Technical Instruments | 시총 19B$ | 결산월: 12월**
+**Technology | Scientific & Technical Instruments | 시총 19B$ (#649위) | 결산월: 12월**
 
-MKS Inc. provides foundational technology solutions to semiconductor manufacturing, electronics and packaging, and specialty industrial applications in the United States, China, South Korea, Japan, Taiwan, Singapore, and internationally. The company operates through Vacuum Solutions Division (VSD), Photonics Solutions Division (PSD), and Material Solutions Division (MSD) segments.
+MKS Inc.는 미국, 중국, 한국 등 전 세계 반도체 제조, 전자제품 패키징 및 특수 산업 분야에 필수적인 기반 기술 솔루션을 제공하는 기업입니다. 진공 솔루션(VSD), 포토닉스 솔루션(PSD), 재료 솔루션(MSD) 부문을 통해 첨단 제조 공정에 필요한 정밀 계측, 제어 장비 및 광학 시스템을 공급합니다.
+
+*MKS Inc. provides foundational technology solutions to semiconductor manufacturing, electronics and packaging, and specialty industrial applications in the United States, China, South Korea, Japan, Taiwan, Singapore, and internationally. The company operates through Vacuum Solutions Division (VSD), Photonics Solutions Division (PSD), and Material Solutions Division (MSD) segments.*
 
 ---
 

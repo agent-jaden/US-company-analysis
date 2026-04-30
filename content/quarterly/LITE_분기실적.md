@@ -1,10 +1,12 @@
 # Lumentum Holdings Inc. (LITE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Communication Equipment | 시총 61B$ | 결산월: 6월**
+**Technology | Communication Equipment | 시총 61B$ (#275위) | 결산월: 6월**
 
-Lumentum Holdings Inc. manufactures and sells optical and photonic products in the Americas, the Asia-Pacific, Europe, the Middle East, and Africa. It operates through two segments, Cloud & Networking and Industrial Tech.
+Lumentum Holdings는 미주, 아시아태평양, 유럽, 중동, 아프리카에서 광학 및 포토닉스 제품을 제조·판매한다. Cloud & Networking, Industrial Tech 부문을 통해 통신, 클라우드 네트워킹, 산업 기술용 광부품과 포토닉스 솔루션을 제공한다.
+
+*Lumentum Holdings Inc. manufactures and sells optical and photonic products in the Americas, the Asia-Pacific, Europe, the Middle East, and Africa. It operates through two segments, Cloud & Networking and Industrial Tech.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Li Auto Inc. (LI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
 
-**Consumer Cyclical | Auto Manufacturers | 시총 18B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Manufacturers | 시총 18B$ (#657위) | 결산월: 12월**
 
-Li Auto Inc. operates in the energy vehicle market in the People's Republic of China. The company designs, develops, manufactures, and sells premium smart electric vehicles.
+Li Auto는 중국 신에너지차 시장에서 사업을 운영한다. 프리미엄 스마트 전기차를 설계, 개발, 제조, 판매하는 자동차 기업이다.
+
+*Li Auto Inc. operates in the energy vehicle market in the People's Republic of China. The company designs, develops, manufactures, and sells premium smart electric vehicles.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Aramark (ARMK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Business Services | 시총 12B$ | 결산월: 10월**
+**Industrials | Specialty Business Services | 시총 12B$ (#872위) | 결산월: 10월**
 
-Aramark provides food and facilities services to education, healthcare, business and industry, sports, leisure, and corrections clients in the United States and internationally. The company operates in two segments, Food and Support Services United States, and Food and Support Services International. It offers food-related managed services, including dining, catering, food service management, and convenience-oriented retail services; non-clinical food and food-related support services, such as patient food and nutrition, retail food, environmental services, and procurement services; and plant operations and maintenance, custodial/housekeeping, energy management, grounds keeping, and capital project management services.
+Aramark는 전 세계 학교, 병원, 기업, 스포츠 시설 등 다양한 기관에 식품 및 시설 관리 서비스를 제공하는 글로벌 기업입니다. 구내식당 운영 및 케이터링 등의 맞춤형 푸드 서비스뿐만 아니라 건물 청소, 조경, 에너지 관리 등 종합적인 비임상 시설 운영(FM) 솔루션을 함께 제공합니다.
+
+*Aramark provides food and facilities services to education, healthcare, business and industry, sports, leisure, and corrections clients in the United States and internationally. The company operates in two segments, Food and Support Services United States, and Food and Support Services International. It offers food-related managed services, including dining, catering, food service management, and convenience-oriented retail services; non-clinical food and food-related support services, such as patient food and nutrition, retail food, environmental services, and procurement services; and plant operations and maintenance, custodial/housekeeping, energy management, grounds keeping, and capital project management services.*
 
 ---
 

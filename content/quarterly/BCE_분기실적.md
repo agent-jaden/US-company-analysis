@@ -1,10 +1,12 @@
 # BCE INC (BCE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CAD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CAD
 
-**Communication Services | Telecom Services | 시총 22B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 22B$ (#587위) | 결산월: 12월**
 
-BCE Inc., a communications company, provides wireless, wireline, internet, streaming services, and television (TV) services to residential, business, and wholesale customers in Canada. The company operates through three segments: Bell Communication and Technology Services Canada, Bell Communication and Technology Services United States, and Bell Media. The Bell Communication and Technology Services Canada segment provides wireless products and services, including mobile data and voice plans, streaming services, and devices; wireline products and services comprising data, including internet access, internet protocol television, cloud-based services, and AI-driven and business solutions, as well as voice, and other communication services and products, satellite TV and connectivity services for residential, small and medium-sized business, and large enterprise customers.
+BCE는 캐나다에서 주거, 기업, 도매 고객에게 무선, 유선, 인터넷, 스트리밍, TV 서비스를 제공하는 통신회사다. Bell Communication and Technology Services Canada 부문은 모바일 데이터·음성 요금제, 기기, 인터넷, IPTV, 클라우드, AI 기반 비즈니스 솔루션, 위성 TV와 연결 서비스를 제공한다.
+
+*BCE Inc., a communications company, provides wireless, wireline, internet, streaming services, and television (TV) services to residential, business, and wholesale customers in Canada. The company operates through three segments: Bell Communication and Technology Services Canada, Bell Communication and Technology Services United States, and Bell Media. The Bell Communication and Technology Services Canada segment provides wireless products and services, including mobile data and voice plans, streaming services, and devices; wireline products and services comprising data, including internet access, internet protocol television, cloud-based services, and AI-driven and business solutions, as well as voice, and other communication services and products, satellite TV and connectivity services for residential, small and medium-sized business, and large enterprise customers.*
 
 ---
 

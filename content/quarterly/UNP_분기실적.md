@@ -1,10 +1,12 @@
 # UNION PACIFIC CORP (UNP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Railroads | 시총 160B$ | 결산월: 12월**
+**Industrials | Railroads | 시총 160B$ (#90위) | 결산월: 12월**
 
-Union Pacific Corporation, through its subsidiary, Union Pacific Railroad Company, operates in the railroad business in the United States. It offers transportation services for grain and grain products, fertilizers, food and refrigerated products, and coal and renewables to grain processors, animal feeders, and ethanol and renewable biofuel producers; and construction products, industrial chemicals, plastics, forest products, specialized products, metals and ores, petroleum, liquid petroleum gases, soda ash, and sand, as well as finished automobiles, automotive parts, and merchandise in intermodal containers. The company was founded in 1862 and is headquartered in Omaha, Nebraska.
+Union Pacific Corporation은 자회사를 통해 미국 내에서 광범위한 철도 운송 사업을 운영합니다. 곡물, 비료, 석탄, 화학 물질, 자동차 부품 및 복합 운송 컨테이너 화물 등 다양한 산업 자원과 소비재의 화물 운송 서비스를 제공합니다.
+
+*Union Pacific Corporation, through its subsidiary, Union Pacific Railroad Company, operates in the railroad business in the United States. It offers transportation services for grain and grain products, fertilizers, food and refrigerated products, and coal and renewables to grain processors, animal feeders, and ethanol and renewable biofuel producers; and construction products, industrial chemicals, plastics, forest products, specialized products, metals and ores, petroleum, liquid petroleum gases, soda ash, and sand, as well as finished automobiles, automotive parts, and merchandise in intermodal containers. The company was founded in 1862 and is headquartered in Omaha, Nebraska.*
 
 ---
 

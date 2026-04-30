@@ -1,10 +1,12 @@
 # Amcor plc (AMCR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Packaging & Containers | 시총 18B$ | 결산월: 6월**
+**Consumer Cyclical | Packaging & Containers | 시총 18B$ (#669위) | 결산월: 6월**
 
-Amcor plc, together with its subsidiaries, engages in the production and sale of packaging products in Europe, North America, Latin America, and the Asia Pacific. The company operates in two segments, Global Flexible Packaging Solutions and Global Rigid Packaging Solutions. The Global Flexible Packaging Solutions segment develops and supplies flexible packaging products, including polymer resin, aluminum, and fiber based flexible packaging products to the food and beverage, medical and pharmaceutical, fresh produce, snack food, personal care, and other industries.
+Amcor는 유럽, 북미, 라틴아메리카, 아시아태평양에서 포장 제품을 생산·판매한다. Global Flexible Packaging Solutions와 Global Rigid Packaging Solutions 부문을 운영하며 식음료, 의료·제약, 신선식품, 스낵, 퍼스널케어 산업에 폴리머 수지, 알루미늄, 섬유 기반 flexible packaging 제품을 공급한다.
+
+*Amcor plc, together with its subsidiaries, engages in the production and sale of packaging products in Europe, North America, Latin America, and the Asia Pacific. The company operates in two segments, Global Flexible Packaging Solutions and Global Rigid Packaging Solutions. The Global Flexible Packaging Solutions segment develops and supplies flexible packaging products, including polymer resin, aluminum, and fiber based flexible packaging products to the food and beverage, medical and pharmaceutical, fresh produce, snack food, personal care, and other industries.*
 
 ---
 

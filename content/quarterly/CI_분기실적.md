@@ -1,10 +1,12 @@
 # Cigna Group (CI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Healthcare Plans | 시총 75B$ | 결산월: 12월**
+**Healthcare | Healthcare Plans | 시총 75B$ (#229위) | 결산월: 12월**
 
-The Cigna Group, together with its subsidiaries, provides insurance and related products and services in the United States. It operates through two segments: Evernorth Health Services and Cigna Healthcare. The Evernorth Health Services segment includes Pharmacy Benefit Services and Specialty and Care Services, offering pharmacy benefit management, drug claim adjudication, retail pharmacy network administration, benefit design consultation, drug utilization review, drug formulary management, pharmacy benefits, home delivery pharmacy, specialty pharmacy, specialty pharmaceutical distribution, and clinical programs for whole-person health outcomes.
+The Cigna Group은 미국에서 종합적인 건강 보험 및 관련 의료 서비스를 제공하는 기업입니다. Evernorth Health Services와 Cigna Healthcare 부문을 통해 약국 혜택 관리(PBM), 특수 의약품 유통망, 의료 보험 플랜 및 전인적 건강 관리를 위한 임상 프로그램을 운영합니다.
+
+*The Cigna Group, together with its subsidiaries, provides insurance and related products and services in the United States. It operates through two segments: Evernorth Health Services and Cigna Healthcare. The Evernorth Health Services segment includes Pharmacy Benefit Services and Specialty and Care Services, offering pharmacy benefit management, drug claim adjudication, retail pharmacy network administration, benefit design consultation, drug utilization review, drug formulary management, pharmacy benefits, home delivery pharmacy, specialty pharmacy, specialty pharmaceutical distribution, and clinical programs for whole-person health outcomes.*
 
 ---
 

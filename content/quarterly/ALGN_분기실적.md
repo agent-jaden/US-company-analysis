@@ -1,10 +1,12 @@
 # ALIGN TECHNOLOGY INC (ALGN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Instruments & Supplies | 시총 13B$ | 결산월: 12월**
+**Healthcare | Medical Instruments & Supplies | 시총 13B$ (#815위) | 결산월: 12월**
 
-Align Technology, Inc. provides Invisalign clear aligners, Vivera retainers, and iTero intraoral scanners and services in the United States, Switzerland, and internationally. The company's Clear Aligner segment offers Invisalign comprehensive package to treat adults and teens malocclusion and features, and orthodontic needs of teenage or younger patients; and Invisalign First Phase I and Invisalign First Comprehensive Phase 2 package for younger patients between the ages of six and ten years with a mixture of primary/baby and permanent teeth.
+Align Technology는 미국, 스위스 및 해외에서 Invisalign 투명교정 장치, Vivera 유지장치, iTero 구강 스캐너와 서비스를 제공한다. Clear Aligner 부문은 성인·청소년 부정교합과 교정 수요를 위한 Invisalign 패키지와 6~10세 아동용 Invisalign First Phase I·Comprehensive Phase 2 패키지를 제공한다.
+
+*Align Technology, Inc. provides Invisalign clear aligners, Vivera retainers, and iTero intraoral scanners and services in the United States, Switzerland, and internationally. The company's Clear Aligner segment offers Invisalign comprehensive package to treat adults and teens malocclusion and features, and orthodontic needs of teenage or younger patients; and Invisalign First Phase I and Invisalign First Comprehensive Phase 2 package for younger patients between the ages of six and ten years with a mixture of primary/baby and permanent teeth.*
 
 ---
 

@@ -1,10 +1,12 @@
 # PAYCHEX INC (PAYX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 32B$ | 결산월: 5월**
+**Technology | Software - Application | 시총 32B$ (#447위) | 결산월: 5월**
 
-Paychex, Inc., together with its subsidiaries, provides human capital management solutions (HCM) for payroll, employee benefits, human resources (HR), and insurance services for small to medium-sized businesses in the United States, Europe, and India. It offers payroll processing services; payroll tax administration services; employee payment services; and regulatory compliance services. The company provides retirement solutions, such as plan implementation, ongoing compliance with government regulations, employee and employer reporting, participant and employer online access, electronic funds transfer, and other administrative services; HCM solutions from recruiting and hiring to retirement; and talent management and talent acquisition services.
+Paychex는 미국, 유럽, 인도에서 중소기업을 위한 급여, 직원복지, HR, 보험 관련 HCM 솔루션을 제공한다. 급여처리, 급여세 관리, 직원 지급, 규제 준수, 은퇴제도 운영, 채용부터 은퇴까지의 HCM, 인재관리와 인재확보 서비스를 지원한다.
+
+*Paychex, Inc., together with its subsidiaries, provides human capital management solutions (HCM) for payroll, employee benefits, human resources (HR), and insurance services for small to medium-sized businesses in the United States, Europe, and India. It offers payroll processing services; payroll tax administration services; employee payment services; and regulatory compliance services. The company provides retirement solutions, such as plan implementation, ongoing compliance with government regulations, employee and employer reporting, participant and employer online access, electronic funds transfer, and other administrative services; HCM solutions from recruiting and hiring to retirement; and talent management and talent acquisition services.*
 
 ---
 

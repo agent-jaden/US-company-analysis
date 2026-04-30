@@ -1,10 +1,12 @@
 # Guidewire Software, Inc. (GWRE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 12B$ | 결산월: 7월**
+**Technology | Software - Application | 시총 12B$ (#894위) | 결산월: 7월**
 
-Guidewire Software, Inc. provides a platform for property and casualty (P&C) insurers worldwide. It offers Guidewire InsuranceSuite, such as PolicyCenter, ClaimCenter, and BillingCenter applications.
+Guidewire Software, Inc.는 전 세계 손해보험사(P&C)를 위해 보험 업무 전반을 관리하는 핵심 클라우드 플랫폼을 제공합니다. 보험 증권 발급(PolicyCenter), 청구 처리(ClaimCenter), 대금 청구 및 결제(BillingCenter) 기능을 포괄하는 Guidewire InsuranceSuite를 통해 보험사의 디지털 전환을 돕습니다.
+
+*Guidewire Software, Inc. provides a platform for property and casualty (P&C) insurers worldwide. It offers Guidewire InsuranceSuite, such as PolicyCenter, ClaimCenter, and BillingCenter applications.*
 
 ---
 

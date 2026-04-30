@@ -1,10 +1,12 @@
 # Fortive Corp (FTV) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Scientific & Technical Instruments | 시총 19B$ | 결산월: 12월**
+**Technology | Scientific & Technical Instruments | 시총 19B$ (#640위) | 결산월: 12월**
 
-Fortive Corporation designs, develops, manufactures, and markets products, software, and services in the United States, China, and internationally. It operates through Intelligent Operating Solutions and Advanced Healthcare Solutions segments. The Intelligent Operating Solutions segment provides advanced instrumentation, software, and services, including maintenance, repair, measurement and condition monitoring, facility and asset lifecycle software applications, and connected worker safety and compliance solutions for manufacturing, process industries, healthcare, utilities and power, communications and electronics, and other industries.
+Fortive Corporation은 전 세계적으로 산업, 제조 및 헬스케어 관련 제품, 소프트웨어, 서비스를 설계하고 제조하는 기술 기업입니다. 지능형 운영 솔루션 부문과 첨단 의료 솔루션 부문을 통해 현장 유지보수 소프트웨어, 정밀 계측 기기 및 작업자 안전 규정 준수 솔루션을 폭넓게 제공합니다.
+
+*Fortive Corporation designs, develops, manufactures, and markets products, software, and services in the United States, China, and internationally. It operates through Intelligent Operating Solutions and Advanced Healthcare Solutions segments. The Intelligent Operating Solutions segment provides advanced instrumentation, software, and services, including maintenance, repair, measurement and condition monitoring, facility and asset lifecycle software applications, and connected worker safety and compliance solutions for manufacturing, process industries, healthcare, utilities and power, communications and electronics, and other industries.*
 
 ---
 

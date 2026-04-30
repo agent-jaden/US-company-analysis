@@ -1,10 +1,12 @@
 # KIMBERLY CLARK CORP (KMB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Household & Personal Products | 시총 33B$ | 결산월: 12월**
+**Consumer Defensive | Household & Personal Products | 시총 33B$ (#441위) | 결산월: 12월**
 
-Kimberly-Clark Corporation, together with its subsidiaries, manufactures and markets personal care products in the United States. It operates in two segments, North America and International Personal Care. The North America segment offers disposable diapers, training and youth pants, swimpants, baby wipes, feminine and incontinence care products, reusable underwear, facial and bathroom tissue, paper towels, napkins, wipers, tissue, towels, soaps and sanitizers, and other related products under the Huggies, Pull-Ups, Goodnites, Kotex, Poise, Depend, Kleenex, Scott, Cottonelle, Viva, Wypall , and other brand names.
+Kimberly-Clark는 자회사를 통해 미국과 해외에서 개인위생 제품을 제조·마케팅한다. Huggies, Pull-Ups, Goodnites, Kotex, Poise, Depend, Kleenex, Scott, Cottonelle, Viva, Wypall 등 브랜드로 기저귀, 물티슈, 여성·요실금용품, 티슈, 키친타월, 냅킨, 비누·손소독제 등을 제공한다.
+
+*Kimberly-Clark Corporation, together with its subsidiaries, manufactures and markets personal care products in the United States. It operates in two segments, North America and International Personal Care. The North America segment offers disposable diapers, training and youth pants, swimpants, baby wipes, feminine and incontinence care products, reusable underwear, facial and bathroom tissue, paper towels, napkins, wipers, tissue, towels, soaps and sanitizers, and other related products under the Huggies, Pull-Ups, Goodnites, Kotex, Poise, Depend, Kleenex, Scott, Cottonelle, Viva, Wypall , and other brand names.*
 
 ---
 

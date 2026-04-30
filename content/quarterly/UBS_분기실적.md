@@ -1,10 +1,12 @@
 # UBS Group AG (UBS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Diversified | 시총 130B$ | 결산월: 12월**
+**Financial Services | Banks - Diversified | 시총 130B$ (#119위) | 결산월: 12월**
 
-UBS Group AG operates as a wealth manager and bank worldwide. It operates through five segments: Global Wealth Management, Personal & Corporate Banking, Asset Management, Investment Bank, and Non-Core and Legacy. The Global Wealth Management segment offers financial services, advice, and solutions; investment management, estate planning, and corporate advice services; and wealth management and banking products and services to private wealth and institutional customers.
+UBS Group은 전 세계에서 자산관리와 은행 서비스를 제공하는 글로벌 금융그룹이다. Global Wealth Management, Personal & Corporate Banking, Asset Management, Investment Bank, Non-Core and Legacy 부문을 통해 고액자산가, 기관, 기업 고객에게 투자관리, 상속·자산계획, 은행 상품과 자문 서비스를 제공한다.
+
+*UBS Group AG operates as a wealth manager and bank worldwide. It operates through five segments: Global Wealth Management, Personal & Corporate Banking, Asset Management, Investment Bank, and Non-Core and Legacy. The Global Wealth Management segment offers financial services, advice, and solutions; investment management, estate planning, and corporate advice services; and wealth management and banking products and services to private wealth and institutional customers.*
 
 ---
 

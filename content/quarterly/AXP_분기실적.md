@@ -1,10 +1,12 @@
 # AMERICAN EXPRESS CO (AXP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Credit Services | 시총 218B$ | 결산월: 12월**
+**Financial Services | Credit Services | 시총 218B$ (#60위) | 결산월: 12월**
 
-American Express Company, together with its subsidiaries, operates as an integrated payments company in the United States, Europe, the Middle East and Africa, the Asia Pacific, Australia, New Zealand, Latin America, Canada, the Caribbean, and internationally. It operates through four segments: U.S. Consumer Services, Commercial Services, International Card Services, and Global Merchant and Network Services.
+American Express Company는 미국, 유럽, 아시아 태평양 등 전 세계에서 통합 결제 기업으로 운영되고 있습니다. 미국 소비자 서비스, 상업 서비스, 국제 카드 서비스 및 글로벌 가맹점 및 네트워크 서비스의 4개 부문을 통해 다양한 금융 결제 솔루션을 제공합니다.
+
+*American Express Company, together with its subsidiaries, operates as an integrated payments company in the United States, Europe, the Middle East and Africa, the Asia Pacific, Australia, New Zealand, Latin America, Canada, the Caribbean, and internationally. It operates through four segments: U.S. Consumer Services, Commercial Services, International Card Services, and Global Merchant and Network Services.*
 
 ---
 

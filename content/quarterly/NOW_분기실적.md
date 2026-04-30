@@ -1,10 +1,12 @@
 # ServiceNow, Inc. (NOW) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 93B$ | 결산월: 12월**
+**Technology | Software - Application | 시총 93B$ (#178위) | 결산월: 12월**
 
-ServiceNow, Inc. provides cloud-based solution for digital workflows in the North America, Europe, the Middle East and Africa, Asia Pacific, and internationally. The company provides asset management, integrated risk management, IT service management, Operational Technology management, Security Operations, strategic portfolio management, IT operations management products; customer service management product; field service management applications; and sales and order management services.
+ServiceNow는 북미, 유럽, 중동·아프리카, 아시아태평양 등에서 디지털 워크플로용 클라우드 솔루션을 제공한다. IT 서비스·운영·자산관리, 통합 리스크관리, 보안운영, 전략 포트폴리오 관리, 고객서비스, 현장서비스, 영업·주문관리 애플리케이션을 제공한다.
+
+*ServiceNow, Inc. provides cloud-based solution for digital workflows in the North America, Europe, the Middle East and Africa, Asia Pacific, and internationally. The company provides asset management, integrated risk management, IT service management, Operational Technology management, Security Operations, strategic portfolio management, IT operations management products; customer service management product; field service management applications; and sales and order management services.*
 
 ---
 

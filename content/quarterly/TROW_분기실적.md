@@ -1,10 +1,12 @@
 # PRICE T ROWE GROUP INC (TROW) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Asset Management | 시총 22B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 22B$ (#586위) | 결산월: 12월**
 
-T. Rowe Price Group, Inc. is a publicly owned investment manager.
+T. Rowe Price Group은 상장 투자운용사다. 개인과 기관 고객을 대상으로 다양한 투자 전략과 자산운용 서비스를 제공한다.
+
+*T. Rowe Price Group, Inc. is a publicly owned investment manager.*
 
 ---
 

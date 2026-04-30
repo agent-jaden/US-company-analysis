@@ -1,10 +1,12 @@
 # HERSHEY CO (HSY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Confectioners | 시총 38B$ | 결산월: 12월**
+**Consumer Defensive | Confectioners | 시총 38B$ (#395위) | 결산월: 12월**
 
-The Hershey Company, together with its subsidiaries, engages in the manufacture and sale of confectionery products and pantry items in the United States and internationally. It operates through three segments: North America Confectionery, North America Salty Snacks, and International. The company offers chocolate and non-chocolate confectionery products; gum and mint refreshment products, including mints, chewing gums, and bubble gums; protein bars; pantry items, such as baking ingredients, toppings, beverages, and sundae syrups; and snack items comprising spreads, bars, snack bites, mixes, popcorn, and pretzels.
+Hershey는 미국과 해외에서 제과 제품과 pantry item을 제조·판매한다. 초콜릿·비초콜릿 제과, 민트·껌, 단백질바, 베이킹 재료, 토핑, 음료, sundae syrup, 스프레드, 바, 스낵바이트, 믹스, 팝콘, 프레첼 등을 제공한다.
+
+*The Hershey Company, together with its subsidiaries, engages in the manufacture and sale of confectionery products and pantry items in the United States and internationally. It operates through three segments: North America Confectionery, North America Salty Snacks, and International. The company offers chocolate and non-chocolate confectionery products; gum and mint refreshment products, including mints, chewing gums, and bubble gums; protein bars; pantry items, such as baking ingredients, toppings, beverages, and sundae syrups; and snack items comprising spreads, bars, snack bites, mixes, popcorn, and pretzels.*
 
 ---
 

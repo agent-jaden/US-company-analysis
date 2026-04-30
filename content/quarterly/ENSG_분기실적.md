@@ -1,10 +1,12 @@
 # ENSIGN GROUP, INC (ENSG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Care Facilities | 시총 11B$ | 결산월: 12월**
+**Healthcare | Medical Care Facilities | 시총 11B$ (#921위) | 결산월: 12월**
 
-The Ensign Group, Inc. provides skilled nursing, senior living, and rehabilitative services. It operates through two segments: Skilled Services and Standard Bearer.
+The Ensign Group은 전문 간호, 시니어 리빙, 재활 서비스를 제공한다. Skilled Services와 Standard Bearer 부문을 통해 장기요양 및 재활 중심의 헬스케어 서비스를 운영한다.
+
+*The Ensign Group, Inc. provides skilled nursing, senior living, and rehabilitative services. It operates through two segments: Skilled Services and Standard Bearer.*
 
 ---
 

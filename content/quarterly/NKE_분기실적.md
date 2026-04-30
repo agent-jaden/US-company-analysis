@@ -1,10 +1,12 @@
 # NIKE, Inc. (NKE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Footwear & Accessories | 시총 67B$ | 결산월: 5월**
+**Consumer Cyclical | Footwear & Accessories | 시총 67B$ (#257위) | 결산월: 5월**
 
-NIKE, Inc., together with its subsidiaries, designs, develops, markets, and sells athletic and casual footwear, apparel, equipment, accessories, and services for men, women, and kids in North America, Europe, the Middle East, Africa, Greater China, the Asia Pacific, and Latin America. The company offers its products under the NIKE, Jordan, Jumpman, Converse, Chuck Taylor, All Star, One Star, Star Chevron, and Jack Purcell trademarks. It also provides a line of performance equipment and accessories, including bags, socks, sport balls, eyewear, timepieces, digital devices, bats, gloves, protective equipment, and other equipment for sports activities, as well as various plastic products to other manufacturers; distributes and licenses casual sneakers, apparel, and accessories; and markets apparel with licensed college and professional team and league logos.
+NIKE는 북미, 유럽, 중동, 아프리카, 중화권, 아시아태평양, 라틴아메리카에서 남성·여성·아동용 운동 및 캐주얼 신발, 의류, 장비, 액세서리와 서비스를 설계·개발·판매한다. NIKE, Jordan, Jumpman, Converse, Chuck Taylor, All Star 등 브랜드를 운영하며 스포츠 장비, 라이선스 의류, 대학·프로팀 로고 상품도 판매한다.
+
+*NIKE, Inc., together with its subsidiaries, designs, develops, markets, and sells athletic and casual footwear, apparel, equipment, accessories, and services for men, women, and kids in North America, Europe, the Middle East, Africa, Greater China, the Asia Pacific, and Latin America. The company offers its products under the NIKE, Jordan, Jumpman, Converse, Chuck Taylor, All Star, One Star, Star Chevron, and Jack Purcell trademarks. It also provides a line of performance equipment and accessories, including bags, socks, sport balls, eyewear, timepieces, digital devices, bats, gloves, protective equipment, and other equipment for sports activities, as well as various plastic products to other manufacturers; distributes and licenses casual sneakers, apparel, and accessories; and markets apparel with licensed college and professional team and league logos.*
 
 ---
 

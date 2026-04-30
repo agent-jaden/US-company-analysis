@@ -1,10 +1,12 @@
 # Texas Roadhouse, Inc. (TXRH) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Restaurants | 시총 10B$ | 결산월: 12월**
+**Consumer Cyclical | Restaurants | 시총 10B$ (#952위) | 결산월: 12월**
 
-Texas Roadhouse, Inc., together with its subsidiaries, operates casual dining restaurants in the United States and internationally. It operates through Texas Roadhouse, Bubba's 33, and Others segments. The company's restaurants offer seasoned and aged steaks, ribs, seafood, chicken, pork chops, pulled pork, and vegetable plates, as well as an assortment of hamburgers, salads, and sandwiches; and pizza, wings, and various appetizers and dinner entrées.
+Texas Roadhouse는 자회사를 통해 미국과 해외에서 캐주얼 다이닝 레스토랑을 운영한다. Texas Roadhouse, Bubba's 33, Others 부문을 통해 스테이크, 립, 해산물, 치킨, 포크찹, pulled pork, 버거, 샐러드, 샌드위치, 피자, 윙, 애피타이저와 디너 메뉴를 제공한다.
+
+*Texas Roadhouse, Inc., together with its subsidiaries, operates casual dining restaurants in the United States and internationally. It operates through Texas Roadhouse, Bubba's 33, and Others segments. The company's restaurants offer seasoned and aged steaks, ribs, seafood, chicken, pork chops, pulled pork, and vegetable plates, as well as an assortment of hamburgers, salads, and sandwiches; and pizza, wings, and various appetizers and dinner entrées.*
 
 ---
 

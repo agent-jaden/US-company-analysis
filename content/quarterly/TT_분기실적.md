@@ -1,10 +1,12 @@
 # Trane Technologies plc (TT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Building Products & Equipment | 시총 107B$ | 결산월: 12월**
+**Industrials | Building Products & Equipment | 시총 107B$ (#150위) | 결산월: 12월**
 
-Trane Technologies plc designs, manufactures, sells, and services of solutions for heating, ventilation, air conditioning, and custom and transport refrigeration. It offers air conditioners, exchangers, and handlers; airside and terminal devices; air sourced heat pumps; chillers; coils and condensers; auxiliary power, cold storage, and condensing units; controls contracting and commissioning, decarbonization programs, and gensets; dehumidifiers; energy and water efficiency programs; energy recovery ventilators and power solutions; energy storage; furnaces; home automation; humidifiers; HVAC performance-monitoring products; and indoor air quality assessments and related products for HVAC and transport solutions. The company also provides asset management, building management, bus air purification, bus and rail HVAC, container refrigeration, control, ductless, geothermal, data center and multi-pipe HVAC, package heating and cooling, rail refrigeration, residential air filtration, self and vehicle powered truck refrigeration, temporary heating and cooling, truck refrigeration, unitary, variable refrigerant flow, and trailer refrigeration systems.
+Trane Technologies는 냉난방공조와 맞춤형·운송용 냉동 솔루션을 설계·제조·판매·서비스한다. 에어컨, 히트펌프, 칠러, 코일·콘덴서, 제습기, 에너지 효율 프로그램, HVAC 모니터링, 실내공기질 제품과 데이터센터·철도·트럭·트레일러·컨테이너용 냉난방·냉동 시스템을 제공한다.
+
+*Trane Technologies plc designs, manufactures, sells, and services of solutions for heating, ventilation, air conditioning, and custom and transport refrigeration. It offers air conditioners, exchangers, and handlers; airside and terminal devices; air sourced heat pumps; chillers; coils and condensers; auxiliary power, cold storage, and condensing units; controls contracting and commissioning, decarbonization programs, and gensets; dehumidifiers; energy and water efficiency programs; energy recovery ventilators and power solutions; energy storage; furnaces; home automation; humidifiers; HVAC performance-monitoring products; and indoor air quality assessments and related products for HVAC and transport solutions. The company also provides asset management, building management, bus air purification, bus and rail HVAC, container refrigeration, control, ductless, geothermal, data center and multi-pipe HVAC, package heating and cooling, rail refrigeration, residential air filtration, self and vehicle powered truck refrigeration, temporary heating and cooling, truck refrigeration, unitary, variable refrigerant flow, and trailer refrigeration systems.*
 
 ---
 

@@ -1,10 +1,12 @@
 # INTERNATIONAL PAPER CO /NEW/ (IP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Packaging & Containers | 시총 17B$ | 결산월: 12월**
+**Consumer Cyclical | Packaging & Containers | 시총 17B$ (#682위) | 결산월: 12월**
 
-International Paper Company produces and sells renewable fiber-based packaging in North America, Latin America, Europe, South America, and North Africa. It operates through two segments, Packaging Solutions North America and Packaging Solutions EMEA. The company offers linerboard, medium, whitetop, and saturating kraft; and converts containerboard into corrugated boxes, bulk bins, shipping containers and specialty packaging through its converting facilities.
+International Paper는 북미, 라틴아메리카, 유럽, 남미, 북아프리카에서 재생 가능한 섬유 기반 포장재를 생산·판매한다. Packaging Solutions North America와 Packaging Solutions EMEA 부문을 운영하며 linerboard, medium, whitetop, saturating kraft를 생산하고 이를 골판지 상자, bulk bin, 운송 컨테이너, 특수 포장재로 가공한다.
+
+*International Paper Company produces and sells renewable fiber-based packaging in North America, Latin America, Europe, South America, and North Africa. It operates through two segments, Packaging Solutions North America and Packaging Solutions EMEA. The company offers linerboard, medium, whitetop, and saturating kraft; and converts containerboard into corrugated boxes, bulk bins, shipping containers and specialty packaging through its converting facilities.*
 
 ---
 

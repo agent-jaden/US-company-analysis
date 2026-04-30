@@ -1,10 +1,12 @@
 # TD SYNNEX CORP (SNX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Electronics & Computer Distribution | 시총 18B$ | 결산월: 11월**
+**Technology | Electronics & Computer Distribution | 시총 18B$ (#664위) | 결산월: 11월**
 
-TD SYNNEX Corporation operates as a distributor and solutions aggregator for the information technology (IT) ecosystem in the United States, Europe, and internationally. It offers endpoint solutions, including personal computing devices and peripherals, mobile phones and accessories, printers, and supplies; and advanced solutions comprising data center technologies, such as hybrid cloud, security, storage, networking, servers, software, converged and hyper-converged infrastructure, and hyperscale infrastructure. The company also provides design, integration, test and other production value-added solutions, such as thermal testing, power-draw efficiency testing, burn-in, quality, and logistics support; logistics and field services; depot repair and customer management services; and cloud services, including public cloud solutions in productivity and collaboration, infrastructure as a service, platform as a service, software as a service, security, mobility, AI, and other hybrid solutions.
+TD SYNNEX는 미국, 유럽 및 해외에서 IT 생태계를 위한 유통 및 솔루션 애그리게이터로 운영된다. PC·주변기기·모바일·프린터 같은 endpoint 제품과 하이브리드 클라우드, 보안, 스토리지, 네트워킹, 서버, 소프트웨어, AI 등 데이터센터·클라우드 솔루션, 물류·수리·현장 서비스, 설계·통합·테스트 서비스를 제공한다.
+
+*TD SYNNEX Corporation operates as a distributor and solutions aggregator for the information technology (IT) ecosystem in the United States, Europe, and internationally. It offers endpoint solutions, including personal computing devices and peripherals, mobile phones and accessories, printers, and supplies; and advanced solutions comprising data center technologies, such as hybrid cloud, security, storage, networking, servers, software, converged and hyper-converged infrastructure, and hyperscale infrastructure. The company also provides design, integration, test and other production value-added solutions, such as thermal testing, power-draw efficiency testing, burn-in, quality, and logistics support; logistics and field services; depot repair and customer management services; and cloud services, including public cloud solutions in productivity and collaboration, infrastructure as a service, platform as a service, software as a service, security, mobility, AI, and other hybrid solutions.*
 
 ---
 

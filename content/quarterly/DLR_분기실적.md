@@ -1,10 +1,12 @@
 # DIGITAL REALTY TRUST, INC. (DLR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Specialty | 시총 69B$ | 결산월: 12월**
+**Real Estate | REIT - Specialty | 시총 69B$ (#248위) | 결산월: 12월**
 
-Digital Realty Trust, Inc. owns, acquires, develops, and operates data centers through its operating partnership subsidiary, Digital Realty Trust, L.P. The company is focused on providing data center, colocation, and interconnection solutions for domestic and international customers across a variety of industry verticals ranging from cloud and information technology services, communications and social networking to financial services, manufacturing, energy, healthcare, and consumer products.
+Digital Realty Trust, Inc.는 글로벌 IT 인프라 확장을 지원하기 위해 전문적으로 데이터 센터를 소유, 개발 및 운영하는 리츠(REIT) 기업입니다. 클라우드, 통신, 금융 등 다양한 산업 분야의 고객을 위해 고성능 코로케이션 및 데이터 센터 상호 연결 솔루션을 제공합니다.
+
+*Digital Realty Trust, Inc. owns, acquires, develops, and operates data centers through its operating partnership subsidiary, Digital Realty Trust, L.P. The company is focused on providing data center, colocation, and interconnection solutions for domestic and international customers across a variety of industry verticals ranging from cloud and information technology services, communications and social networking to financial services, manufacturing, energy, healthcare, and consumer products.*
 
 ---
 

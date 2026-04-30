@@ -1,10 +1,12 @@
 # Keysight Technologies, Inc. (KEYS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Scientific & Technical Instruments | 시총 58B$ | 결산월: 10월**
+**Technology | Scientific & Technical Instruments | 시총 58B$ (#294위) | 결산월: 10월**
 
-Keysight Technologies, Inc. provides electronic design and test solutions worldwide. The company operates through Communications Solutions Group and Electronic Industrial Solutions Group segments.
+Keysight Technologies는 전 세계에서 전자 설계 및 테스트 솔루션을 제공한다. Communications Solutions Group과 Electronic Industrial Solutions Group 부문을 통해 통신, 전자, 산업용 고객을 위한 측정·검증·테스트 장비와 소프트웨어를 공급한다.
+
+*Keysight Technologies, Inc. provides electronic design and test solutions worldwide. The company operates through Communications Solutions Group and Electronic Industrial Solutions Group segments.*
 
 ---
 

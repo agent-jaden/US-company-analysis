@@ -1,10 +1,12 @@
 # HONEYWELL INTERNATIONAL INC (HON) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Conglomerates | 시총 134B$ | 결산월: 12월**
+**Industrials | Conglomerates | 시총 134B$ (#113위) | 결산월: 12월**
 
-Honeywell International Inc. engages in the aerospace technologies, industrial automation, building automation, and energy and sustainable solutions businesses in the United States, Europe, and internationally. The company's Aerospace Technologies segment offers auxiliary power units, propulsion engines, integrated avionics, connectivity services, electric power systems, management and technical services, environmental control and electric power systems, engine controls, flight safety, communications, navigation hardware, data and software applications, radar and surveillance systems, aircraft lighting, advanced systems and instruments, satellite and space components, and aircraft wheels and brakes; thermal systems; and spare parts; repair, overhaul, and maintenance services.
+Honeywell은 항공우주 기술, 산업 자동화, 빌딩 자동화, 에너지 및 지속가능 솔루션 사업을 영위한다. 항공우주 부문에서는 보조동력장치, 추진엔진, 항공전자, 연결 서비스, 전력 시스템, 환경제어, 항법·통신 장비, 레이더, 위성·우주 부품, 항공기 휠·브레이크와 MRO 서비스를 제공한다.
+
+*Honeywell International Inc. engages in the aerospace technologies, industrial automation, building automation, and energy and sustainable solutions businesses in the United States, Europe, and internationally. The company's Aerospace Technologies segment offers auxiliary power units, propulsion engines, integrated avionics, connectivity services, electric power systems, management and technical services, environmental control and electric power systems, engine controls, flight safety, communications, navigation hardware, data and software applications, radar and surveillance systems, aircraft lighting, advanced systems and instruments, satellite and space components, and aircraft wheels and brakes; thermal systems; and spare parts; repair, overhaul, and maintenance services.*
 
 ---
 

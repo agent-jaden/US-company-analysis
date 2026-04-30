@@ -1,10 +1,12 @@
 # O REILLY AUTOMOTIVE INC (ORLY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Auto Parts | 시총 77B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Parts | 시총 77B$ (#218위) | 결산월: 12월**
 
-O'Reilly Automotive, Inc., together with its subsidiaries, operates as a retailer and supplier of automotive aftermarket parts, tools, supplies, equipment, and accessories in the United States, Puerto Rico, Mexico, and Canada. The company offers new and remanufactured automotive hard parts and maintenance items, such as alternators, batteries, brake system components, belts, chassis parts, driveline parts, engine parts, fuel pumps, hoses, starters, temperature control, water pumps, antifreeze, appearance products, engine additives, filters, fluids, lighting products, and oil and wiper blades; and accessories, including floor mats, seat covers, and truck accessories. It also provides auto body paint and related materials, automotive tools, and professional service provider service equipment.
+O'Reilly Automotive, Inc.는 미국, 멕시코, 캐나다 등지에서 자동차 애프터마켓 부품과 정비 도구를 판매하는 소매업체입니다. 배터리, 브레이크, 엔진 부품 같은 자동차 수리용 핵심 부품부터 오일, 필터, 액세서리 및 전문가용 장비까지 차량 관리에 필요한 모든 용품을 공급합니다.
+
+*O'Reilly Automotive, Inc., together with its subsidiaries, operates as a retailer and supplier of automotive aftermarket parts, tools, supplies, equipment, and accessories in the United States, Puerto Rico, Mexico, and Canada. The company offers new and remanufactured automotive hard parts and maintenance items, such as alternators, batteries, brake system components, belts, chassis parts, driveline parts, engine parts, fuel pumps, hoses, starters, temperature control, water pumps, antifreeze, appearance products, engine additives, filters, fluids, lighting products, and oil and wiper blades; and accessories, including floor mats, seat covers, and truck accessories. It also provides auto body paint and related materials, automotive tools, and professional service provider service equipment.*
 
 ---
 

@@ -1,10 +1,12 @@
 # DT Midstream, Inc. (DTM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Midstream | 시총 14B$ | 결산월: 12월**
+**Energy | Oil & Gas Midstream | 시총 14B$ (#793위) | 결산월: 12월**
 
-DT Midstream, Inc., together with its subsidiaries, provides integrated natural gas services in the United States. The company operates in two segments, Pipeline and Gathering. The Pipeline segment owns and operates interstate and intrastate natural gas pipelines, storage systems, and natural gas gathering lateral pipelines.
+DT Midstream은 자회사를 통해 미국에서 통합 천연가스 서비스를 제공한다. Pipeline과 Gathering 부문을 운영하며 Pipeline 부문은 주간·주내 천연가스 파이프라인, 저장 시스템, 천연가스 수집 lateral pipeline을 보유·운영한다.
+
+*DT Midstream, Inc., together with its subsidiaries, provides integrated natural gas services in the United States. The company operates in two segments, Pipeline and Gathering. The Pipeline segment owns and operates interstate and intrastate natural gas pipelines, storage systems, and natural gas gathering lateral pipelines.*
 
 ---
 

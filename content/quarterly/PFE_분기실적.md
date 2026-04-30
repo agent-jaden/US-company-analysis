@@ -1,10 +1,12 @@
 # PFIZER INC (PFE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Drug Manufacturers - General | 시총 152B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - General | 시총 152B$ (#97위) | 결산월: 12월**
 
-Pfizer Inc. discovers, develops, manufactures, markets, distributes, and sells biopharmaceutical products in the United States and internationally. It operates in three segments: Biopharma, PC1, and Pfizer Ignite.
+Pfizer Inc.는 미국 및 전 세계에서 바이오 제약 제품을 연구, 개발, 제조 및 유통하는 글로벌 제약 기업입니다. 바이오파마(Biopharma), PC1, 그리고 Pfizer Ignite의 세 가지 주요 사업 부문을 통해 다양한 의료 솔루션을 판매합니다.
+
+*Pfizer Inc. discovers, develops, manufactures, markets, distributes, and sells biopharmaceutical products in the United States and internationally. It operates in three segments: Biopharma, PC1, and Pfizer Ignite.*
 
 ---
 

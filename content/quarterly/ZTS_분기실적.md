@@ -1,10 +1,12 @@
 # Zoetis Inc. (ZTS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Drug Manufacturers - Specialty & Generic | 시총 50B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - Specialty & Generic | 시총 50B$ (#324위) | 결산월: 12월**
 
-Zoetis Inc. engages in the discovery, development, manufacture, and commercialization of medicines, vaccines, diagnostic products and services, biodevices, genetic tests, and precision animal health solutions for the animal health industry in the United States and internationally. The company commercializes products primarily across companion animals comprising dogs, cats, and horses; and species, including livestock, such as cattle, swine, poultry, fish, and sheep.
+Zoetis는 미국과 해외 동물헬스 산업을 대상으로 의약품, 백신, 진단 제품·서비스, 바이오디바이스, 유전자 검사, 정밀 동물건강 솔루션을 발굴·개발·제조·상업화한다. 개, 고양이, 말 등 반려동물과 소, 돼지, 가금류, 어류, 양 등 축산 동물용 제품을 주로 판매한다.
+
+*Zoetis Inc. engages in the discovery, development, manufacture, and commercialization of medicines, vaccines, diagnostic products and services, biodevices, genetic tests, and precision animal health solutions for the animal health industry in the United States and internationally. The company commercializes products primarily across companion animals comprising dogs, cats, and horses; and species, including livestock, such as cattle, swine, poultry, fish, and sheep.*
 
 ---
 

@@ -1,10 +1,12 @@
 # EchoStar CORP (SATS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Telecom Services | 시총 35B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 35B$ (#418위) | 결산월: 12월**
 
-EchoStar Corporation provides pay-tv services in the United States, Mexico, Canada, South and Central America, Asia, Africa, Australia, Europe, India, and the Middle East. The Pay-TV segment offers a direct broadcast and fixed satellite, owned and leased satellites, leased fiber optic networks, in-home services, and call center operation services; digital broadcast operations, including satellite uplinking/downlinking, transmission and, other services to third-party pay-TV providers; multichannel, live-linear and on-demand streaming over-the-top Internet-based domestic, international, Latino, and Freestream video programming services; and receiver systems. Its Wireless segment provides wireless communication services and products; and a range of wireless devices.
+EchoStar는 미국, 멕시코, 캐나다, 중남미, 아시아, 아프리카, 호주, 유럽, 인도, 중동에서 유료 TV 서비스를 제공한다. 위성·광섬유 기반 방송 인프라, OTT 스트리밍, 수신기 시스템을 운영하고 Wireless 부문에서는 무선통신 서비스와 기기를 제공한다.
+
+*EchoStar Corporation provides pay-tv services in the United States, Mexico, Canada, South and Central America, Asia, Africa, Australia, Europe, India, and the Middle East. The Pay-TV segment offers a direct broadcast and fixed satellite, owned and leased satellites, leased fiber optic networks, in-home services, and call center operation services; digital broadcast operations, including satellite uplinking/downlinking, transmission and, other services to third-party pay-TV providers; multichannel, live-linear and on-demand streaming over-the-top Internet-based domestic, international, Latino, and Freestream video programming services; and receiver systems. Its Wireless segment provides wireless communication services and products; and a range of wireless devices.*
 
 ---
 

@@ -1,10 +1,12 @@
 # GE HealthCare Technologies Inc. (GEHC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Devices | 시총 32B$ | 결산월: 12월**
+**Healthcare | Medical Devices | 시총 32B$ (#449위) | 결산월: 12월**
 
-GE HealthCare Technologies Inc. engages in the development, manufacture, and marketing of products, services, and complementary digital solutions used in the diagnosis, treatment, and monitoring of patients in the United States, Canada, and internationally. The company operates through four segments: Imaging, Advanced Visualization Solutions (AVS), Patient Care Solutions (PCS), and Pharmaceutical Diagnostics (PDx).
+GE HealthCare Technologies는 미국, 캐나다 및 해외에서 환자 진단, 치료, 모니터링에 쓰이는 제품, 서비스, 디지털 솔루션을 개발·제조·마케팅한다. Imaging, Advanced Visualization Solutions, Patient Care Solutions, Pharmaceutical Diagnostics 부문을 통해 의료영상, 시각화, 환자관리, 진단의약품 솔루션을 제공한다.
+
+*GE HealthCare Technologies Inc. engages in the development, manufacture, and marketing of products, services, and complementary digital solutions used in the diagnosis, treatment, and monitoring of patients in the United States, Canada, and internationally. The company operates through four segments: Imaging, Advanced Visualization Solutions (AVS), Patient Care Solutions (PCS), and Pharmaceutical Diagnostics (PDx).*
 
 ---
 

@@ -1,10 +1,12 @@
 # DoorDash, Inc. (DASH) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Internet Retail | 시총 76B$ | 결산월: 12월**
+**Consumer Cyclical | Internet Retail | 시총 76B$ (#224위) | 결산월: 12월**
 
-DoorDash, Inc., together with its subsidiaries, operates a commerce platform that connects merchants, consumers, and dashers in the United States and internationally. The company operates DoorDash Marketplace, Wolt Marketplace, and Deliveroo Marketplace, which provide various services, such as customer acquisition, demand generation, order fulfillment, merchandising, payment processing, and customer support. It also offers consumer membership programs, DashPass, Wolt+, and Deliveroo Plus; advertising as a value-added service through its marketplaces; and white-label delivery fulfillment services, as well as services that help merchants establish online ordering, build branded mobile apps, manage reservations and in-store dining, manage consumer relationships, enable tableside order and pay, and improve customer support.
+DoorDash, Inc.는 미국 및 전 세계에서 식당 가맹점, 소비자, 배달원을 연결하는 커머스 플랫폼을 운영합니다. DoorDash 및 Wolt 마켓플레이스를 통해 음식 배달 및 결제 처리 서비스를 제공하며, 구독형 멤버십인 DashPass와 가맹점용 주문 관리 솔루션도 지원합니다.
+
+*DoorDash, Inc., together with its subsidiaries, operates a commerce platform that connects merchants, consumers, and dashers in the United States and internationally. The company operates DoorDash Marketplace, Wolt Marketplace, and Deliveroo Marketplace, which provide various services, such as customer acquisition, demand generation, order fulfillment, merchandising, payment processing, and customer support. It also offers consumer membership programs, DashPass, Wolt+, and Deliveroo Plus; advertising as a value-added service through its marketplaces; and white-label delivery fulfillment services, as well as services that help merchants establish online ordering, build branded mobile apps, manage reservations and in-store dining, manage consumer relationships, enable tableside order and pay, and improve customer support.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Fabrinet (FN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Electronic Components | 시총 25B$ | 결산월: 6월**
+**Technology | Electronic Components | 시총 25B$ (#536위) | 결산월: 6월**
 
-Fabrinet provides optical packaging and precision optical, electro-mechanical, and electronic manufacturing services in North America, the Asia-Pacific, and Europe. The company offers a range of advanced optical and electro-mechanical capabilities in the manufacturing process, including process design and engineering, supply chain management, manufacturing, printed circuit board assembly, packaging, integration, final assembly, and testing. Its products include switching products, including reconfigurable optical add-drop multiplexers, optical amplifiers, modulators, and other optical components and modules that enable network managers to route voice, video, and data communications traffic through fiber optic cables at various wavelengths, speeds, and over various distances.
+Fabrinet은 북미, 아시아 태평양, 유럽 시장에 광학 패키징 및 정밀 전자, 기계 제조 서비스를 제공하는 위탁 생산업체(EMS)입니다. 공정 설계부터 공급망 관리, 인쇄 회로 기판 조립, 최종 테스트에 이르기까지 통신 네트워크 장비와 광 증폭기 등 고부가가치 광학 모듈의 제조 전 과정을 지원합니다.
+
+*Fabrinet provides optical packaging and precision optical, electro-mechanical, and electronic manufacturing services in North America, the Asia-Pacific, and Europe. The company offers a range of advanced optical and electro-mechanical capabilities in the manufacturing process, including process design and engineering, supply chain management, manufacturing, printed circuit board assembly, packaging, integration, final assembly, and testing. Its products include switching products, including reconfigurable optical add-drop multiplexers, optical amplifiers, modulators, and other optical components and modules that enable network managers to route voice, video, and data communications traffic through fiber optic cables at various wavelengths, speeds, and over various distances.*
 
 ---
 

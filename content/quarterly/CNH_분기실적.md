@@ -1,10 +1,12 @@
 # CNH Industrial N.V. (CNH) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Farm & Heavy Construction Machinery | 시총 13B$ | 결산월: 12월**
+**Industrials | Farm & Heavy Construction Machinery | 시총 13B$ (#837위) | 결산월: 12월**
 
-CNH Industrial N.V., an equipment company, engages in the develops, manufacture, and sale agricultural and construction equipment in North America, Europe, the Middle East, Africa, South America, and the Asia Pacific. The company operates through three segments: Agriculture, Construction, and Financial Services. The Agriculture segment develops, manufactures, distributes, and supports agriculture equipment, implements, and precision agriculture solutions, such as tractors, harvesters, hay and forage equipment, seeding and planting equipment, and self-propelled sprayers under Case IH, New Holland, STEYR, and Raven brands.
+CNH Industrial은 북미, 유럽, 중동, 아프리카, 남미, 아시아태평양에서 농업 및 건설 장비를 개발·제조·판매한다. Agriculture, Construction, Financial Services 부문을 운영하며 Case IH, New Holland, STEYR, Raven 브랜드로 트랙터, 수확기, 건초·사료 장비, 파종·식재 장비, 자주식 분무기와 정밀농업 솔루션을 제공한다.
+
+*CNH Industrial N.V., an equipment company, engages in the develops, manufacture, and sale agricultural and construction equipment in North America, Europe, the Middle East, Africa, South America, and the Asia Pacific. The company operates through three segments: Agriculture, Construction, and Financial Services. The Agriculture segment develops, manufactures, distributes, and supports agriculture equipment, implements, and precision agriculture solutions, such as tractors, harvesters, hay and forage equipment, seeding and planting equipment, and self-propelled sprayers under Case IH, New Holland, STEYR, and Raven brands.*
 
 ---
 

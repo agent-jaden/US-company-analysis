@@ -1,10 +1,12 @@
 # RENAISSANCERE HOLDINGS LTD (RNR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Reinsurance | 시총 13B$ | 결산월: 12월**
+**Financial Services | Insurance - Reinsurance | 시총 13B$ (#808위) | 결산월: 12월**
 
-RenaissanceRe Holdings Ltd., together with its subsidiaries, provides reinsurance and insurance products in the United States and internationally. The company operates through Property, and Casualty and Specialty segments. The Property segment writes property catastrophe excess of loss reinsurance contracts to insure insurance and reinsurance companies against natural and man-made catastrophes, including hurricanes, earthquakes, typhoons, and tsunamis, as well as winter storms, freezes, floods, fires, windstorms, tornadoes, explosions, and acts of terrorism; and other property class of products, such as proportional reinsurance, property per risk, property reinsurance, binding facilities, and regional U.S.
+RenaissanceRe Holdings는 미국과 해외에서 재보험 및 보험 상품을 제공한다. Property 부문은 허리케인, 지진, 태풍, 쓰나미, 폭풍, 홍수, 화재, 토네이도, 폭발, 테러 등 자연재해와 인재에 대비한 재산 catastrophe excess of loss 재보험과 기타 재산 재보험 상품을 인수한다.
+
+*RenaissanceRe Holdings Ltd., together with its subsidiaries, provides reinsurance and insurance products in the United States and internationally. The company operates through Property, and Casualty and Specialty segments. The Property segment writes property catastrophe excess of loss reinsurance contracts to insure insurance and reinsurance companies against natural and man-made catastrophes, including hurricanes, earthquakes, typhoons, and tsunamis, as well as winter storms, freezes, floods, fires, windstorms, tornadoes, explosions, and acts of terrorism; and other property class of products, such as proportional reinsurance, property per risk, property reinsurance, binding facilities, and regional U.S.*
 
 ---
 

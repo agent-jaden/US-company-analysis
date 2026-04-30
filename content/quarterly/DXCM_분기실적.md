@@ -1,10 +1,12 @@
 # DEXCOM INC (DXCM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Devices | 시총 24B$ | 결산월: 12월**
+**Healthcare | Medical Devices | 시총 24B$ (#551위) | 결산월: 12월**
 
-DexCom, Inc., a medical device company, focuses on the design, development, and commercialization of continuous glucose monitoring (CGM) systems for the management of diabetes and metabolic health in the United States and internationally. The company offers Dexcom G7 and G7 15 Day, an integrated continuous glucose monitoring system; Dexcom G6, a CGM system; Dexcom ONE+ to replace fingerstick blood glucose testing for diabetes treatment decisions; Stelo, a biosensor designed for adults with prediabetes and Type 2 diabetes who do not use insulin; Dexcom Share, a remote monitoring system; and Dexcom Follow application. It markets its products directly to endocrinologists, physicians, and diabetes educators.
+DexCom, Inc.는 미국 및 전 세계 당뇨병 환자와 대사 건강 관리를 위한 연속혈당측정(CGM) 시스템을 설계, 개발 및 상용화하는 의료 기기 전문 기업입니다. Dexcom G6, G7과 같은 통합형 CGM 시스템은 물론 전당뇨 성인을 위한 Stelo 바이오센서, 그리고 원격 모니터링 앱인 Dexcom Share를 직접 시장에 공급합니다.
+
+*DexCom, Inc., a medical device company, focuses on the design, development, and commercialization of continuous glucose monitoring (CGM) systems for the management of diabetes and metabolic health in the United States and internationally. The company offers Dexcom G7 and G7 15 Day, an integrated continuous glucose monitoring system; Dexcom G6, a CGM system; Dexcom ONE+ to replace fingerstick blood glucose testing for diabetes treatment decisions; Stelo, a biosensor designed for adults with prediabetes and Type 2 diabetes who do not use insulin; Dexcom Share, a remote monitoring system; and Dexcom Follow application. It markets its products directly to endocrinologists, physicians, and diabetes educators.*
 
 ---
 

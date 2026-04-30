@@ -1,10 +1,12 @@
 # THOMSON REUTERS CORP /CAN/ (TRI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Business Services | 시총 39B$ | 결산월: 12월**
+**Industrials | Specialty Business Services | 시총 39B$ (#381위) | 결산월: 12월**
 
-Thomson Reuters Corporation operates as a content and technology company in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It operates through five segments: Legal Professionals, Corporates, Tax, Audit & Accounting Professionals, Reuters News, and Global Print. The Legal Professionals segment offers research and workflow products focusing on legal research and integrated legal workflow solutions that combine content, tools, and analytics to law firms and governments.
+Thomson Reuters는 미주, 유럽, 중동, 아프리카, 아시아태평양에서 콘텐츠와 기술 사업을 운영한다. Legal Professionals, Corporates, Tax, Audit & Accounting Professionals, Reuters News, Global Print 부문을 통해 법률 리서치, 워크플로, 세무·회계, 뉴스와 기업용 정보 서비스를 제공한다.
+
+*Thomson Reuters Corporation operates as a content and technology company in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. It operates through five segments: Legal Professionals, Corporates, Tax, Audit & Accounting Professionals, Reuters News, and Global Print. The Legal Professionals segment offers research and workflow products focusing on legal research and integrated legal workflow solutions that combine content, tools, and analytics to law firms and governments.*
 
 ---
 

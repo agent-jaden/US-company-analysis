@@ -1,10 +1,12 @@
 # GARTNER INC (IT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Information Technology Services | 시총 10B$ | 결산월: 12월**
+**Technology | Information Technology Services | 시총 10B$ (#977위) | 결산월: 12월**
 
-Gartner, Inc. provides business and technology insights for decisions and performance on an organization's mission-critical priorities in the United States, Canada, Europe, the Middle East, Africa, and internationally. It operates through three segments: Insights, Conferences, and Consulting.
+Gartner는 미국, 캐나다, 유럽, 중동, 아프리카 및 해외에서 기업의 핵심 의사결정과 성과 개선을 위한 비즈니스·기술 인사이트를 제공한다. Insights, Conferences, Consulting 부문을 통해 리서치, 컨퍼런스, 자문 서비스를 운영한다.
+
+*Gartner, Inc. provides business and technology insights for decisions and performance on an organization's mission-critical priorities in the United States, Canada, Europe, the Middle East, Africa, and internationally. It operates through three segments: Insights, Conferences, and Consulting.*
 
 ---
 

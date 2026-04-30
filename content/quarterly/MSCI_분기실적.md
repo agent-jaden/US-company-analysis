@@ -1,10 +1,12 @@
 # MSCI Inc. (MSCI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Financial Data & Stock Exchanges | 시총 43B$ | 결산월: 12월**
+**Financial Services | Financial Data & Stock Exchanges | 시총 43B$ (#360위) | 결산월: 12월**
 
-MSCI Inc., together with its subsidiaries, provides research-based data, analytics, and indexes, supported by advanced technology worldwide. The Index segment provides indexes for use in various areas of the investment process, including indexed financial products, such as ETFs, mutual funds, annuities, futures, options, structured products, and over-the-counter derivatives; performance benchmarking; portfolio construction and rebalancing; and asset allocation, as well as licenses GICS and GICS Direct. The Analytics segment offers risk management, performance attribution and portfolio management content, application, an integrated view of risk and return service, and an analysis of market, credit, liquidity, counterparty, and climate risk across asset classes; managed services, including consolidation of client portfolio data, review and reconciliation of input data and results, and customized reporting; and HedgePlatform to measure, evaluate, and monitor the risk of hedge fund investments.
+MSCI는 전 세계 투자업계에 연구 기반 데이터, 분석, 지수 서비스를 첨단 기술과 함께 제공한다. Index 부문은 ETF, 뮤추얼펀드, 연금, 선물·옵션, 구조화상품 등에 활용되는 지수와 GICS 라이선스를 제공하고, Analytics 부문은 리스크 관리, 성과 분석, 포트폴리오 관리, 시장·신용·유동성·기후 리스크 분석 솔루션을 제공한다.
+
+*MSCI Inc., together with its subsidiaries, provides research-based data, analytics, and indexes, supported by advanced technology worldwide. The Index segment provides indexes for use in various areas of the investment process, including indexed financial products, such as ETFs, mutual funds, annuities, futures, options, structured products, and over-the-counter derivatives; performance benchmarking; portfolio construction and rebalancing; and asset allocation, as well as licenses GICS and GICS Direct. The Analytics segment offers risk management, performance attribution and portfolio management content, application, an integrated view of risk and return service, and an analysis of market, credit, liquidity, counterparty, and climate risk across asset classes; managed services, including consolidation of client portfolio data, review and reconciliation of input data and results, and customized reporting; and HedgePlatform to measure, evaluate, and monitor the risk of hedge fund investments.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Fox Corp (FOX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Entertainment | 시총 24B$ | 결산월: 6월**
+**Communication Services | Entertainment | 시총 24B$ (#540위) | 결산월: 6월**
 
-Fox Corporation operates as a news, sports, and entertainment company in the United States. It operates in four segments: Cable Network Programming, Television, Credible, and The FOX Studio Lot. The Cable Network Programming segment produces and licenses news and sports content for distribution through traditional cable television systems, direct broadcast satellite operators, telecommunication companies, virtual multi-channel video programming distributors, and other digital platforms.
+Fox Corporation은 미국 내에서 주요 뉴스, 스포츠 및 엔터테인먼트 콘텐츠를 제공하는 선도적인 미디어 기업입니다. 케이블 네트워크 프로그래밍 부문을 통해 위성 방송, 통신사 및 다양한 디지털 플랫폼에 송출할 텔레비전 프로그램 콘텐츠를 제작하고 라이선스를 부여합니다.
+
+*Fox Corporation operates as a news, sports, and entertainment company in the United States. It operates in four segments: Cable Network Programming, Television, Credible, and The FOX Studio Lot. The Cable Network Programming segment produces and licenses news and sports content for distribution through traditional cable television systems, direct broadcast satellite operators, telecommunication companies, virtual multi-channel video programming distributors, and other digital platforms.*
 
 ---
 

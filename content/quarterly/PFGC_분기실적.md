@@ -1,10 +1,12 @@
 # Performance Food Group Co (PFGC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Food Distribution | 시총 14B$ | 결산월: 6월**
+**Consumer Defensive | Food Distribution | 시총 14B$ (#789위) | 결산월: 6월**
 
-Performance Food Group Company, through its subsidiaries, engages in the marketing and distribution of food and food-related products in North America. It operates through three segments: Foodservice, Convenience, and Specialty. The company offers beef, pork, poultry, and seafood; frozen food and refrigerated products; dry groceries comprising cleaning and kitchen supplies and disposables; candy, snacks, and beverages; and fresh products, groceries, dairy, bread, beverages, general merchandise, and health and beauty care products, as well as cigarettes and other nicotine products.
+Performance Food Group은 자회사를 통해 북미에서 식품과 식품 관련 제품을 마케팅·유통한다. Foodservice, Convenience, Specialty 부문을 통해 육류·해산물, 냉동·냉장식품, 식료품, 청소·주방용품, 사탕·스낵·음료, 신선식품, 유제품, 잡화, 헬스·뷰티 제품 등을 공급한다.
+
+*Performance Food Group Company, through its subsidiaries, engages in the marketing and distribution of food and food-related products in North America. It operates through three segments: Foodservice, Convenience, and Specialty. The company offers beef, pork, poultry, and seafood; frozen food and refrigerated products; dry groceries comprising cleaning and kitchen supplies and disposables; candy, snacks, and beverages; and fresh products, groceries, dairy, bread, beverages, general merchandise, and health and beauty care products, as well as cigarettes and other nicotine products.*
 
 ---
 

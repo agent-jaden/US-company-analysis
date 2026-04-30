@@ -1,10 +1,12 @@
 # WATSCO INC (WSO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Industrial Distribution | 시총 19B$ | 결산월: 12월**
+**Industrials | Industrial Distribution | 시총 19B$ (#654위) | 결산월: 12월**
 
-Watsco, Inc., together with its subsidiaries, engages in the distribution of air conditioning, heating, and refrigeration equipment, and related parts and supplies in the United States, Canada, Latin America, and the Caribbean. It distributes equipment, including residential ducted and ductless air conditioners, such as gas, electric, and oil furnaces; commercial air conditioning and heating equipment systems; and other specialized equipment. The company also offers parts comprising replacement compressors, evaporator coils, motors, and other component parts; and supplies, such as thermostats, insulation materials, refrigerants, ductworks, grills, registers, sheet metals, tools, copper tubing, concrete pads, tapes, adhesives, and other ancillary supplies, as well as plumbing and bathroom remodeling supplies.
+Watsco, Inc.는 미국, 캐나다, 라틴 아메리카 등지에서 냉난방 공조 및 냉동 장비(HVAC/R)와 관련 부품을 유통하는 업계 선도 기업입니다. 주거용 및 상업용 에어컨 장비를 비롯해 압축기, 모터, 냉매, 온도 조절기 등 유지보수에 필요한 광범위한 부품과 소모품을 전문적으로 취급합니다.
+
+*Watsco, Inc., together with its subsidiaries, engages in the distribution of air conditioning, heating, and refrigeration equipment, and related parts and supplies in the United States, Canada, Latin America, and the Caribbean. It distributes equipment, including residential ducted and ductless air conditioners, such as gas, electric, and oil furnaces; commercial air conditioning and heating equipment systems; and other specialized equipment. The company also offers parts comprising replacement compressors, evaporator coils, motors, and other component parts; and supplies, such as thermostats, insulation materials, refrigerants, ductworks, grills, registers, sheet metals, tools, copper tubing, concrete pads, tapes, adhesives, and other ancillary supplies, as well as plumbing and bathroom remodeling supplies.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Howmet Aerospace Inc. (HWM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 97B$ | 결산월: 12월**
+**Industrials | Aerospace & Defense | 시총 97B$ (#169위) | 결산월: 12월**
 
-Howmet Aerospace Inc. provides advanced engineered solutions for the aerospace and transportation industries in the United States, Japan, France, Germany, the United Kingdom, Mexico, Italy, Canada, Poland, China, and internationally. It operates through four segments: Engine Products, Fastening Systems, Engineered Structures, and Forged Wheels.
+Howmet Aerospace는 미국, 일본, 프랑스, 독일, 영국, 멕시코 등에서 항공우주와 운송 산업용 첨단 엔지니어링 솔루션을 제공한다. Engine Products, Fastening Systems, Engineered Structures, Forged Wheels 부문을 운영한다.
+
+*Howmet Aerospace Inc. provides advanced engineered solutions for the aerospace and transportation industries in the United States, Japan, France, Germany, the United Kingdom, Mexico, Italy, Canada, Poland, China, and internationally. It operates through four segments: Engine Products, Fastening Systems, Engineered Structures, and Forged Wheels.*
 
 ---
 

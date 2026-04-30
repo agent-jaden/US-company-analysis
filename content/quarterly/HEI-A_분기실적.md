@@ -1,10 +1,12 @@
 # HEICO CORP (HEI-A) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 29B$ | 결산월: 10월**
+**Industrials | Aerospace & Defense | 시총 29B$ (#488위) | 결산월: 10월**
 
-HEICO Corporation provides aerospace, defense, and electronic related products and services in the United States and internationally. Its Flight Support Group segment offers jet engine and aircraft component replacement parts; thermal insulation blankets and parts; renewable/reusable insulation systems; and specialty components and assemblies. This segment also distributes hydraulic, pneumatic, structural, interconnect, mechanical, and electro-mechanical components for the commercial, regional, and general aviation markets; and offers repair and overhaul services for jet engine and aircraft component parts, avionics, instruments, composites, and commercial aircraft surfaces, as well as for avionics and navigation systems, subcomponents, and other military aircraft instruments.
+미국 및 전 세계에서 항공우주, 국방 및 전자 관련 제품과 서비스를 제공합니다. 비행 지원 그룹(Flight Support Group)을 통해 제트 엔진 및 항공기 부품, 단열 시스템을 유통하며, 상업 및 군용 항공기를 위한 전자기계 부품의 수리 및 정비 서비스를 폭넓게 지원합니다.
+
+*HEICO Corporation provides aerospace, defense, and electronic related products and services in the United States and internationally. Its Flight Support Group segment offers jet engine and aircraft component replacement parts; thermal insulation blankets and parts; renewable/reusable insulation systems; and specialty components and assemblies. This segment also distributes hydraulic, pneumatic, structural, interconnect, mechanical, and electro-mechanical components for the commercial, regional, and general aviation markets; and offers repair and overhaul services for jet engine and aircraft component parts, avionics, instruments, composites, and commercial aircraft surfaces, as well as for avionics and navigation systems, subcomponents, and other military aircraft instruments.*
 
 ---
 

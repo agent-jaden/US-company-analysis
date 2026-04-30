@@ -1,10 +1,12 @@
 # NETFLIX INC (NFLX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Entertainment | 시총 385B$ | 결산월: 12월**
+**Communication Services | Entertainment | 시총 385B$ (#27위) | 결산월: 12월**
 
-Netflix, Inc. provides entertainment services worldwide. The company offers television (TV) series, documentaries, feature films, games, and live programming across various genres and languages.
+Netflix, Inc.는 전 세계를 대상으로 엔터테인먼트 서비스를 제공합니다. 다양한 장르와 언어의 TV 시리즈, 다큐멘터리, 장편 영화, 게임 및 라이브 프로그램을 서비스하고 있습니다.
+
+*Netflix, Inc. provides entertainment services worldwide. The company offers television (TV) series, documentaries, feature films, games, and live programming across various genres and languages.*
 
 ---
 

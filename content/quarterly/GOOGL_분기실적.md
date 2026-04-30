@@ -1,10 +1,12 @@
 # Alphabet Inc. (GOOGL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Internet Content & Information | 시총 4238B$ | 결산월: 12월**
+**Communication Services | Internet Content & Information | 시총 4238B$ (#2위) | 결산월: 12월**
 
-Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Cloud, and Other Bets segments.
+Alphabet Inc.는 미국, 유럽, 아시아 태평양 등 전 세계 다양한 지역에서 여러 제품과 플랫폼을 제공합니다. 주요 사업 부문은 Google Services, Google Cloud, Other Bets로 구성되어 있습니다.
+
+*Alphabet Inc. offers various products and platforms in the United States, Europe, the Middle East, Africa, the Asia-Pacific, Canada, and Latin America. It operates through Google Services, Google Cloud, and Other Bets segments.*
 
 ---
 

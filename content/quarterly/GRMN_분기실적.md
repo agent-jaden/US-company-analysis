@@ -1,10 +1,12 @@
 # GARMIN LTD (GRMN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Scientific & Technical Instruments | 시총 50B$ | 결산월: 12월**
+**Technology | Scientific & Technical Instruments | 시총 50B$ (#326위) | 결산월: 12월**
 
-Garmin Ltd. designs, develops, manufactures, markets, and distributes a diverse range of GPS-enabled products and navigation, communications, sensor-based, and information products and services worldwide. It offers running; cycling products; smartwatch devices; scales and monitors; and sports timing and performance analysis; Garmin Connect and Garmin Connect Mobile, which are web and mobile platforms where users can track and analyze their fitness, activities and workouts, and wellness data; and Connect IQ, which enables third parties to create applications that run on Garmin devices.
+Garmin은 전 세계에서 GPS 기반 제품과 내비게이션, 통신, 센서 기반 정보 제품·서비스를 설계·개발·제조·판매한다. 러닝·사이클링 제품, 스마트워치, 체중계·모니터, 스포츠 타이밍·성과분석, Garmin Connect와 Garmin Connect Mobile, 서드파티 앱 개발을 지원하는 Connect IQ를 제공한다.
+
+*Garmin Ltd. designs, develops, manufactures, markets, and distributes a diverse range of GPS-enabled products and navigation, communications, sensor-based, and information products and services worldwide. It offers running; cycling products; smartwatch devices; scales and monitors; and sports timing and performance analysis; Garmin Connect and Garmin Connect Mobile, which are web and mobile platforms where users can track and analyze their fitness, activities and workouts, and wellness data; and Connect IQ, which enables third parties to create applications that run on Garmin devices.*
 
 ---
 

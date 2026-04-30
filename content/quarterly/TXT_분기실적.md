@@ -1,10 +1,12 @@
 # TEXTRON INC (TXT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 15B$ | 결산월: 1월**
+**Industrials | Aerospace & Defense | 시총 15B$ (#741위) | 결산월: 1월**
 
-Textron Inc. operates in the aircraft, defense, industrial, and finance businesses worldwide. It operates in six segments: Textron Aviation, Bell, Textron Systems, Industrial, Textron eAviation, and Finance.
+Textron Inc.는 전 세계적으로 항공기, 방위, 산업 및 금융 비즈니스를 전개하는 다각화된 복합 기업입니다. Textron Aviation, Bell(헬리콥터), 산업 장비 및 금융 부문 등 6개의 사업부를 통해 민간 및 군용 항공기, 특수 차량 제조 및 자금 조달 서비스를 제공합니다.
+
+*Textron Inc. operates in the aircraft, defense, industrial, and finance businesses worldwide. It operates in six segments: Textron Aviation, Bell, Textron Systems, Industrial, Textron eAviation, and Finance.*
 
 ---
 

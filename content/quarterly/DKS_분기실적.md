@@ -1,10 +1,12 @@
 # DICK'S SPORTING GOODS, INC. (DKS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Specialty Retail | 시총 21B$ | 결산월: 1월**
+**Consumer Cyclical | Specialty Retail | 시총 21B$ (#616위) | 결산월: 1월**
 
-DICK'S Sporting Goods, Inc., together with its subsidiaries, operates as an omni-channel sporting goods retailer primarily in the United States. It provides hardlines, including sporting goods equipment, fitness equipment, golf equipment, and fishing gear products; and apparel. The company also offers footwear and accessories, such as athletic shoes for running, walking, tennis, fitness and cross training, basketball, and hiking; and specialty footwear comprising casual footwear and a complete line of cleats for team sports.
+DICK'S Sporting Goods, Inc.는 미국을 중심으로 옴니채널 스포츠 용품 소매업을 운영하는 기업입니다. 피트니스, 골프, 낚시 등 다양한 스포츠 장비(하드라인)와 더불어 러닝화, 팀 스포츠용 스파이크화 등 전문적인 스포츠 의류 및 신발을 폭넓게 판매합니다.
+
+*DICK'S Sporting Goods, Inc., together with its subsidiaries, operates as an omni-channel sporting goods retailer primarily in the United States. It provides hardlines, including sporting goods equipment, fitness equipment, golf equipment, and fishing gear products; and apparel. The company also offers footwear and accessories, such as athletic shoes for running, walking, tennis, fitness and cross training, basketball, and hiking; and specialty footwear comprising casual footwear and a complete line of cleats for team sports.*
 
 ---
 

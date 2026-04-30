@@ -1,10 +1,12 @@
 # CARDINAL HEALTH INC (CAH) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Distribution | 시총 48B$ | 결산월: 6월**
+**Healthcare | Medical Distribution | 시총 48B$ (#336위) | 결산월: 6월**
 
-Cardinal Health, Inc. operates as a healthcare services and products company in the United States and internationally. It operates in two segments: Pharmaceutical and Specialty Solutions, and Global Medical Products and Distribution.
+Cardinal Health는 미국과 해외에서 헬스케어 서비스와 제품을 제공하는 기업이다. Pharmaceutical and Specialty Solutions, Global Medical Products and Distribution 부문을 통해 의약품 유통, specialty 의약품 솔루션, 글로벌 의료제품 공급과 유통 서비스를 운영한다.
+
+*Cardinal Health, Inc. operates as a healthcare services and products company in the United States and internationally. It operates in two segments: Pharmaceutical and Specialty Solutions, and Global Medical Products and Distribution.*
 
 ---
 

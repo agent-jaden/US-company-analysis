@@ -1,10 +1,12 @@
 # ESSEX PROPERTY TRUST, INC. (ESS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Residential | 시총 17B$ | 결산월: 12월**
+**Real Estate | REIT - Residential | 시총 17B$ (#709위) | 결산월: 12월**
 
-Essex Property Trust, Inc., an S&P 500 company, is a fully integrated real estate investment trust. The firm acquires, develops, redevelops, and manages multifamily residential properties in selected West Coast markets. Essex currently has ownership interests in 259 apartment communities comprising over 63,000 apartment homes with an additional property in active development.
+S&P 500 기업인 Essex Property Trust, Inc.는 통합형 부동산 투자 신탁(REIT) 회사입니다. 미국 서해안 주요 시장에서 다세대 주거용 부동산을 인수, 개발 및 관리하고 있습니다. 현재 63,000개 이상의 아파트로 구성된 259개의 아파트 커뮤니티 지분을 소유하고 있으며 추가 부동산 개발도 활발히 진행 중입니다.
+
+*Essex Property Trust, Inc., an S&P 500 company, is a fully integrated real estate investment trust. The firm acquires, develops, redevelops, and manages multifamily residential properties in selected West Coast markets. Essex currently has ownership interests in 259 apartment communities comprising over 63,000 apartment homes with an additional property in active development.*
 
 ---
 

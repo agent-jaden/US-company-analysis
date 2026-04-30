@@ -1,10 +1,12 @@
 # Penumbra Inc (PEN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Devices | 시총 13B$ | 결산월: 12월**
+**Healthcare | Medical Devices | 시총 13B$ (#832위) | 결산월: 12월**
 
-Penumbra, Inc., together with its subsidiaries, designs, develops, manufactures, and markets medical devices in the United States and internationally. It offers computer-assisted vacuum thrombectomy; peripheral thrombectomy products, including the Indigo System for power aspiration of thrombus in the body; Lightning Flash, a mechanical thrombectomy system; Lightning Bolt 7, an arterial thrombectomy system; and CAT RX. It also provides access products, including guide catheters and the Penumbra distal delivery catheters under the Neuron, Neuron MAX, BENCHMARK, BMX, DDC, Access25; MIDWAY, and PX SLIM brands; Penumbra System, an integrated mechanical thrombectomy system comprising reperfusion catheters and separators, the 3D Revascularization device, aspiration tubing, aspiration pump, and other components and accessories under the Penumbra RED, SENDit, JET, ACE, BMX, Max, 3D Revascularization Device, and Penumbra ENGINE brands; and neuro embolization coiling systems that include the Penumbra Coil 400, for the treatment of aneurysms and other complex lesions, detachable coils of neurovascular lesions under the Penumbra SMART COIL, SwiftSET, and Penumbra SwiftPAC Coil brands; and POD400 and PAC400 brands.
+Penumbra는 미국과 해외에서 의료기기를 설계·개발·제조·마케팅한다. 컴퓨터 보조 진공 혈전제거술, Indigo System, Lightning Flash, Lightning Bolt 7, CAT RX, Neuron·BENCHMARK 등 접근 카테터, Penumbra System, neuro embolization coil 시스템을 제공한다.
+
+*Penumbra, Inc., together with its subsidiaries, designs, develops, manufactures, and markets medical devices in the United States and internationally. It offers computer-assisted vacuum thrombectomy; peripheral thrombectomy products, including the Indigo System for power aspiration of thrombus in the body; Lightning Flash, a mechanical thrombectomy system; Lightning Bolt 7, an arterial thrombectomy system; and CAT RX. It also provides access products, including guide catheters and the Penumbra distal delivery catheters under the Neuron, Neuron MAX, BENCHMARK, BMX, DDC, Access25; MIDWAY, and PX SLIM brands; Penumbra System, an integrated mechanical thrombectomy system comprising reperfusion catheters and separators, the 3D Revascularization device, aspiration tubing, aspiration pump, and other components and accessories under the Penumbra RED, SENDit, JET, ACE, BMX, Max, 3D Revascularization Device, and Penumbra ENGINE brands; and neuro embolization coiling systems that include the Penumbra Coil 400, for the treatment of aneurysms and other complex lesions, detachable coils of neurovascular lesions under the Penumbra SMART COIL, SwiftSET, and Penumbra SwiftPAC Coil brands; and POD400 and PAC400 brands.*
 
 ---
 

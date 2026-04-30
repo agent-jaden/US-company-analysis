@@ -1,10 +1,12 @@
 # TWILIO INC (TWLO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 22B$ | 결산월: 12월**
+**Technology | Software - Infrastructure | 시총 22B$ (#595위) | 결산월: 12월**
 
-Twilio Inc., together with its subsidiaries, provides customer engagement platform solutions in the United States and internationally. The company provides various application programming interfaces and software solutions for communications between customers and end users, including messaging, voice, email, video interactions, digital engagement centers, marketing campaigns, and user authentication and identity solutions. It also offers software products to build direct and personalized relationships with their end users, such as Segment, a platform that provides tools to harness the power of contextual data by unifying real-time information collected throughout each customer's journey into a unique profile.
+Twilio는 미국과 해외에서 고객 참여 플랫폼 솔루션을 제공한다. 메시징, 음성, 이메일, 비디오, 디지털 참여센터, 마케팅 캠페인, 사용자 인증·ID 솔루션을 위한 API와 소프트웨어를 제공하며, Segment를 통해 고객 여정 데이터를 통합해 개인화된 고객 관계 구축을 지원한다.
+
+*Twilio Inc., together with its subsidiaries, provides customer engagement platform solutions in the United States and internationally. The company provides various application programming interfaces and software solutions for communications between customers and end users, including messaging, voice, email, video interactions, digital engagement centers, marketing campaigns, and user authentication and identity solutions. It also offers software products to build direct and personalized relationships with their end users, such as Segment, a platform that provides tools to harness the power of contextual data by unifying real-time information collected throughout each customer's journey into a unique profile.*
 
 ---
 

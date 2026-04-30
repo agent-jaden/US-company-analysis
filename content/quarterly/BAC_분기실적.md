@@ -1,10 +1,12 @@
 # BANK OF AMERICA CORP /DE/ (BAC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Diversified | 시총 375B$ | 결산월: 12월**
+**Financial Services | Banks - Diversified | 시총 375B$ (#28위) | 결산월: 12월**
 
-Bank of America Corporation, through its subsidiaries, provides various financial products and services for individual consumers, small and middle-market businesses, institutional investors, large corporations, and governments worldwide. It operates through four segments: Consumer Banking, Global Wealth & Investment Management (GWIM), Global Banking, and Global Markets. The Consumer Banking segment offers traditional and money market savings accounts, certificates of deposit and IRAs, checking accounts, and investment accounts and products; credit and debit cards; residential mortgages and home equity loans; and direct and indirect loans.
+Bank of America Corporation은 자회사를 통해 전 세계 개인, 기업, 기관 투자자 및 정부에 다양한 금융 상품과 서비스를 제공합니다. 소비자 뱅킹, 글로벌 자산 및 투자 관리(GWIM), 글로벌 뱅킹, 글로벌 마켓 등 네 가지 부문을 통해 예적금, 대출, 투자 상품 등을 운영합니다.
+
+*Bank of America Corporation, through its subsidiaries, provides various financial products and services for individual consumers, small and middle-market businesses, institutional investors, large corporations, and governments worldwide. It operates through four segments: Consumer Banking, Global Wealth & Investment Management (GWIM), Global Banking, and Global Markets. The Consumer Banking segment offers traditional and money market savings accounts, certificates of deposit and IRAs, checking accounts, and investment accounts and products; credit and debit cards; residential mortgages and home equity loans; and direct and indirect loans.*
 
 ---
 

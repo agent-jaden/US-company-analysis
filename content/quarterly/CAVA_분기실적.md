@@ -1,10 +1,12 @@
 # CAVA GROUP, INC. (CAVA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Restaurants | 시총 11B$ | 결산월: 12월**
+**Consumer Cyclical | Restaurants | 시총 11B$ (#928위) | 결산월: 12월**
 
-CAVA Group, Inc. owns and operates a chain of restaurants under the CAVA brand in the United States. It also offers dips, spreads, and dressings through grocery stores.
+CAVA Group은 미국에서 CAVA 브랜드 레스토랑 체인을 소유·운영한다. 지중해식 메뉴를 중심으로 외식 사업을 전개하며, 식료품 매장을 통해 dips, spreads, dressings도 판매한다.
+
+*CAVA Group, Inc. owns and operates a chain of restaurants under the CAVA brand in the United States. It also offers dips, spreads, and dressings through grocery stores.*
 
 ---
 

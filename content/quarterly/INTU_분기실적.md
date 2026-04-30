@@ -1,10 +1,12 @@
 # INTUIT INC. (INTU) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 109B$ | 결산월: 7월**
+**Technology | Software - Application | 시총 109B$ (#146위) | 결산월: 7월**
 
-Intuit Inc. provides financial management, payments and capital, compliance, and marketing products and services in the United States. The company operates in four segments: Global Business Solutions, Consumer, Credit Karma, and ProTax.
+Intuit은 미국에서 재무관리, 결제·자본, 컴플라이언스, 마케팅 관련 제품과 서비스를 제공한다. 사업은 Global Business Solutions, Consumer, Credit Karma, ProTax 부문으로 구성된다.
+
+*Intuit Inc. provides financial management, payments and capital, compliance, and marketing products and services in the United States. The company operates in four segments: Global Business Solutions, Consumer, Credit Karma, and ProTax.*
 
 ---
 

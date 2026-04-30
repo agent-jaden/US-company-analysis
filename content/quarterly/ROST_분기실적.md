@@ -1,10 +1,12 @@
 # ROSS STORES, INC. (ROST) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Apparel Retail | 시총 73B$ | 결산월: 2월**
+**Consumer Cyclical | Apparel Retail | 시총 73B$ (#232위) | 결산월: 2월**
 
-Ross Stores, Inc., together with its subsidiaries, operates off-price retail apparel and home fashion stores under the Ross Dress for Less and dd's DISCOUNTS brands in the United States. The company offers designer apparel, accessories, footwear, and home-fashioned products for the entire family. It sells its products to middle income households and households with lower to more moderate incomes.
+Ross Stores, Inc.는 미국 내에서 Ross Dress for Less 및 dd's DISCOUNTS 브랜드로 오프프라이스 할인 매장을 운영하는 소매 기업입니다. 중저소득층 소비자를 대상으로 유명 디자이너 의류, 신발, 액세서리 및 홈 패션 상품을 대폭 할인된 가격에 제공합니다.
+
+*Ross Stores, Inc., together with its subsidiaries, operates off-price retail apparel and home fashion stores under the Ross Dress for Less and dd's DISCOUNTS brands in the United States. The company offers designer apparel, accessories, footwear, and home-fashioned products for the entire family. It sells its products to middle income households and households with lower to more moderate incomes.*
 
 ---
 

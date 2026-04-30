@@ -1,10 +1,12 @@
 # DEERE & CO (DE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Farm & Heavy Construction Machinery | 시총 153B$ | 결산월: 11월**
+**Industrials | Farm & Heavy Construction Machinery | 시총 153B$ (#96위) | 결산월: 11월**
 
-Deere & Company engages in the manufacture and distribution of various equipment worldwide. The company operates through four segments: Production and Precision Agriculture, Small Agriculture and Turf, Construction and Forestry, and Financial Services. The Production and Precision Agriculture segment provides four-wheel-drive track and row crop tractors, harvesters, cotton pickers and strippers, sugarcane harvesters and loaders, soil preparation, tillage, seeding, and crop care equipment, as well as application equipment, including sprayers and nutrient management, soil preparation machinery, and related attachments and service parts.
+Deere & Company는 전 세계적으로 다양한 산업용 및 농업용 장비를 제조하고 유통합니다. 정밀 농업 기계, 소형 농기구, 건설 및 임업 장비, 금융 서비스 등 4개 부문을 통해 트랙터, 수확기, 파종기 및 관련 부품을 제공합니다.
+
+*Deere & Company engages in the manufacture and distribution of various equipment worldwide. The company operates through four segments: Production and Precision Agriculture, Small Agriculture and Turf, Construction and Forestry, and Financial Services. The Production and Precision Agriculture segment provides four-wheel-drive track and row crop tractors, harvesters, cotton pickers and strippers, sugarcane harvesters and loaders, soil preparation, tillage, seeding, and crop care equipment, as well as application equipment, including sprayers and nutrient management, soil preparation machinery, and related attachments and service parts.*
 
 ---
 

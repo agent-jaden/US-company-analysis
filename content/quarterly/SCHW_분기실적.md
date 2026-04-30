@@ -1,10 +1,12 @@
 # SCHWAB CHARLES CORP (SCHW) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Capital Markets | 시총 159B$ | 결산월: 12월**
+**Financial Services | Capital Markets | 시총 159B$ (#91위) | 결산월: 12월**
 
-The Charles Schwab Corporation, together with its subsidiaries, operates as a savings and loan holding company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services in the United States and internationally. The company operates in two segments, Investor Services and Advisor Services. It offers brokerage accounts with equity and fixed income trading, margin lending, options trading, futures and forex trading, and cash management capabilities, including money market funds, and certificates of deposit; third-party mutual funds through the Mutual Fund Marketplace and Mutual Fund OneSource service, as well as mutual fund trading and clearing services to broker-dealers; exchange-traded funds; advisory solutions for managed portfolios, separately managed accounts, customized personal advice for tailored portfolios, specialized planning, and full-time portfolio management; banking products comprising checking and savings accounts, first lien residential real estate mortgage loans, home equity lines of credit, and pledged asset lines; and trust custody services, personal trust reporting services, and administrative trustee services.
+The Charles Schwab Corporation은 미국 및 전 세계에서 자산 관리, 증권 중개, 은행업 및 금융 자문 서비스를 제공하는 저축 대부 지주 회사입니다. 투자자 및 자문 서비스 부문을 통해 주식 및 옵션 거래, 뮤추얼 펀드, 모기지 대출 및 맞춤형 포트폴리오 관리 등 종합적인 금융 솔루션을 지원합니다.
+
+*The Charles Schwab Corporation, together with its subsidiaries, operates as a savings and loan holding company that provides wealth management, securities brokerage, banking, asset management, custody, and financial advisory services in the United States and internationally. The company operates in two segments, Investor Services and Advisor Services. It offers brokerage accounts with equity and fixed income trading, margin lending, options trading, futures and forex trading, and cash management capabilities, including money market funds, and certificates of deposit; third-party mutual funds through the Mutual Fund Marketplace and Mutual Fund OneSource service, as well as mutual fund trading and clearing services to broker-dealers; exchange-traded funds; advisory solutions for managed portfolios, separately managed accounts, customized personal advice for tailored portfolios, specialized planning, and full-time portfolio management; banking products comprising checking and savings accounts, first lien residential real estate mortgage loans, home equity lines of credit, and pledged asset lines; and trust custody services, personal trust reporting services, and administrative trustee services.*
 
 ---
 

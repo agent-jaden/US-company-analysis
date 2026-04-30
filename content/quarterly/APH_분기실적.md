@@ -1,10 +1,12 @@
 # AMPHENOL CORP /DE/ (APH) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Electronic Components | 시총 183B$ | 결산월: 12월**
+**Technology | Electronic Components | 시총 183B$ (#74위) | 결산월: 12월**
 
-Amphenol Corporation, together with its subsidiaries, designs, manufactures, and markets electrical, electronic, and fiber optic connectors in the United States, China, and internationally. It operates through three segments: Communications Solutions, Harsh Environment Solutions, and Interconnect and Sensor Systems. The company offers connectors and connector systems, including high speed, radio frequency, power, fiber optic and other interconnect products; busbars and power distribution systems; power interconnect products; and other products.
+Amphenol Corporation은 미국, 중국 등 전 세계에서 전기, 전자 및 광섬유 커넥터를 설계, 제조 및 판매합니다. 통신 솔루션, 극한 환경 솔루션, 상호 연결 및 센서 시스템의 세 가지 부문을 통해 고속, 무선 주파수 및 전력 배전 시스템을 제공합니다.
+
+*Amphenol Corporation, together with its subsidiaries, designs, manufactures, and markets electrical, electronic, and fiber optic connectors in the United States, China, and internationally. It operates through three segments: Communications Solutions, Harsh Environment Solutions, and Interconnect and Sensor Systems. The company offers connectors and connector systems, including high speed, radio frequency, power, fiber optic and other interconnect products; busbars and power distribution systems; power interconnect products; and other products.*
 
 ---
 

@@ -1,10 +1,12 @@
 # CNA FINANCIAL CORP (CNA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Property & Casualty | 시총 13B$ | 결산월: 12월**
+**Financial Services | Insurance - Property & Casualty | 시총 13B$ (#821위) | 결산월: 12월**
 
-CNA Financial Corporation, an insurance holding company, primarily provides commercial property and casualty insurance products in the United States, Canada, the United Kingdom, Continental Europe, and internationally. It operates through Specialty, Commercial, International, and Life & Group segments. The company offers professional liability coverage and risk management services to various professional firms, including architects, real estate agents, and accounting and law firms; directors and officers, errors and omissions, employment practices, fiduciary, and fidelity and cyber coverage to small and mid-size firms, public and privately held firms, and not-for-profit organizations; professional and general liability, as well as associated casualty coverages for healthcare industry; surety and fidelity bonds; and warranty and alternative risks products.
+CNA Financial은 미국, 캐나다, 영국, 유럽 대륙 및 해외에서 주로 상업용 재산·손해보험을 제공하는 보험지주회사다. Specialty, Commercial, International, Life & Group 부문을 통해 전문직 책임, D&O, E&O, 고용관행, 신탁, 사이버, 헬스케어 책임, 보증·신용, warranty 및 대체위험 상품을 제공한다.
+
+*CNA Financial Corporation, an insurance holding company, primarily provides commercial property and casualty insurance products in the United States, Canada, the United Kingdom, Continental Europe, and internationally. It operates through Specialty, Commercial, International, and Life & Group segments. The company offers professional liability coverage and risk management services to various professional firms, including architects, real estate agents, and accounting and law firms; directors and officers, errors and omissions, employment practices, fiduciary, and fidelity and cyber coverage to small and mid-size firms, public and privately held firms, and not-for-profit organizations; professional and general liability, as well as associated casualty coverages for healthcare industry; surety and fidelity bonds; and warranty and alternative risks products.*
 
 ---
 

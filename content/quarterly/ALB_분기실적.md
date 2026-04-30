@@ -1,10 +1,12 @@
 # ALBEMARLE CORP (ALB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Specialty Chemicals | 시총 24B$ | 결산월: 12월**
+**Basic Materials | Specialty Chemicals | 시총 24B$ (#558위) | 결산월: 12월**
 
-Albemarle Corporation provides energy storage solutions worldwide. It operates through three segments: Energy Storage, Specialties, and Ketjen. The Energy Storage segment offers lithium compounds, including lithium carbonate, lithium hydroxide, and lithium chloride for use in lithium batteries used in consumer electronics and electric vehicles, power grids and solar panels, high performance greases, specialty glass used in consumer appliances and electronics.
+Albemarle은 전 세계에서 에너지 저장 솔루션을 제공하는 특수화학 기업이다. Energy Storage 부문은 소비자 전자기기, 전기차, 전력망, 태양광 패널 등에 쓰이는 리튬 배터리용 탄산리튬, 수산화리튬, 염화리튬 등 리튬 화합물과 특수 유리·고성능 그리스용 소재를 공급한다.
+
+*Albemarle Corporation provides energy storage solutions worldwide. It operates through three segments: Energy Storage, Specialties, and Ketjen. The Energy Storage segment offers lithium compounds, including lithium carbonate, lithium hydroxide, and lithium chloride for use in lithium batteries used in consumer electronics and electric vehicles, power grids and solar panels, high performance greases, specialty glass used in consumer appliances and electronics.*
 
 ---
 

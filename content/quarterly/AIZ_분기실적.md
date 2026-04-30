@@ -1,10 +1,12 @@
 # ASSURANT, INC. (AIZ) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Property & Casualty | 시총 12B$ | 결산월: 12월**
+**Financial Services | Insurance - Property & Casualty | 시총 12B$ (#896위) | 결산월: 12월**
 
-Assurant, Inc. provides protection services to connected devices, homes, and automobiles in North America, Latin America, Europe, and the Asia Pacific. It operates through Global Lifestyle and Global Housing segments.
+Assurant, Inc.는 북미, 유럽, 남미 등 전 세계 시장에서 연결된 모바일 기기, 주택, 자동차와 관련된 위험 보호 서비스를 제공합니다. 글로벌 라이프스타일 및 글로벌 주택 부문을 통해 스마트폰 파손 보험, 연장 보증 서비스, 세입자 및 주택 보호 보험을 폭넓게 운영합니다.
+
+*Assurant, Inc. provides protection services to connected devices, homes, and automobiles in North America, Latin America, Europe, and the Asia Pacific. It operates through Global Lifestyle and Global Housing segments.*
 
 ---
 

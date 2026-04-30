@@ -1,10 +1,12 @@
 # EXPEDITORS INTERNATIONAL OF WASHINGTON INC (EXPD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Integrated Freight & Logistics | 시총 20B$ | 결산월: 12월**
+**Industrials | Integrated Freight & Logistics | 시총 20B$ (#630위) | 결산월: 12월**
 
-Expeditors International of Washington, Inc., together with its subsidiaries, provides logistics services in the Americas, North Asia, South Asia, Europe, and Middle East, Africa, and India. The company offers airfreight services, such as air freight consolidation and forwarding; ocean freight and ocean services, including ocean freight consolidation, direct ocean forwarding, and order management; customs brokerage and other services, import, intra-continental ground transportation and delivery, and warehousing and distribution services; and customs clearance, purchase order management, vendor consolidation, time-definite transportation services, temperature-controlled transit, cargo insurance, specialized cargo monitoring and tracking, and other logistics solutions. It also provides optimization, trade compliance consulting, cargo insurance, cargo security, and solutions.
+Expeditors International of Washington, Inc.는 미주, 아시아, 유럽 및 중동 등 전 세계에서 종합 물류 서비스를 제공하는 기업입니다. 항공 및 해상 화물 포워딩, 통관, 육상 운송 및 창고 보관을 비롯해 온도 조절 운송, 화물 보험 및 무역 규정 준수 컨설팅 등 고객 맞춤형 공급망 솔루션을 지원합니다.
+
+*Expeditors International of Washington, Inc., together with its subsidiaries, provides logistics services in the Americas, North Asia, South Asia, Europe, and Middle East, Africa, and India. The company offers airfreight services, such as air freight consolidation and forwarding; ocean freight and ocean services, including ocean freight consolidation, direct ocean forwarding, and order management; customs brokerage and other services, import, intra-continental ground transportation and delivery, and warehousing and distribution services; and customs clearance, purchase order management, vendor consolidation, time-definite transportation services, temperature-controlled transit, cargo insurance, specialized cargo monitoring and tracking, and other logistics solutions. It also provides optimization, trade compliance consulting, cargo insurance, cargo security, and solutions.*
 
 ---
 

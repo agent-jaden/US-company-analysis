@@ -1,10 +1,12 @@
 # APA Corp (APA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas E&P | 시총 14B$ | 결산월: 12월**
+**Energy | Oil & Gas E&P | 시총 14B$ (#801위) | 결산월: 12월**
 
-APA Corporation, an independent energy company, explores for, develops, and produces natural gas, crude oil, and natural gas liquids. The company has oil and gas operations in the United States, Egypt, and North Sea. It also has exploration and appraisal activities in Suriname, as well as holds interests in projects located in Uruguay and internationally.
+APA는 천연가스, 원유, NGL을 탐사, 개발, 생산하는 독립 에너지 기업이다. 미국, 이집트, 북해에서 석유·가스 사업을 운영하고 수리남에서 탐사·평가 활동을 진행하며 우루과이 및 해외 프로젝트 지분도 보유한다.
+
+*APA Corporation, an independent energy company, explores for, develops, and produces natural gas, crude oil, and natural gas liquids. The company has oil and gas operations in the United States, Egypt, and North Sea. It also has exploration and appraisal activities in Suriname, as well as holds interests in projects located in Uruguay and internationally.*
 
 ---
 

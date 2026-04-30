@@ -1,10 +1,12 @@
 # ALLIANT ENERGY CORP (LNT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 19B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 19B$ (#651위) | 결산월: 12월**
 
-Alliant Energy Corporation operates as a utility holding company that provides regulated electric and natural gas services in the United States. It operates through IPL and WPL segments. The company's IPL segment engages primarily in the generation and distribution of electricity and the distribution and transportation of natural gas to retail customers in select markets in Iowa.
+Alliant Energy Corporation은 미국 내에서 규제 대상 전기 및 천연가스 서비스를 제공하는 유틸리티 지주 회사입니다. IPL 및 WPL 자회사를 통해 아이오와와 위스콘신 지역의 소매 고객을 대상으로 전력을 발전하여 배분하고 천연가스를 안정적으로 유통합니다.
+
+*Alliant Energy Corporation operates as a utility holding company that provides regulated electric and natural gas services in the United States. It operates through IPL and WPL segments. The company's IPL segment engages primarily in the generation and distribution of electricity and the distribution and transportation of natural gas to retail customers in select markets in Iowa.*
 
 ---
 

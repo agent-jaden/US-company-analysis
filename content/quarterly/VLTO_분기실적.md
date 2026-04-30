@@ -1,10 +1,12 @@
 # Veralto Corp (VLTO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Pollution & Treatment Controls | 시총 21B$ | 결산월: 12월**
+**Industrials | Pollution & Treatment Controls | 시총 21B$ (#602위) | 결산월: 12월**
 
-Veralto Corporation provides water analytics, water treatment, marking and coding, and packaging and color solutions worldwide. It operates through two segments, Water Quality (WQ) and Product Quality & Innovation (PQI). The WQ segment offers precision instrumentation and water treatment technologies to measure, analyze, and treat water in residential, commercial, municipal, industrial, research, and natural resource applications under the Hach, Trojan Technologies, ChemTreat, and other brands.
+Veralto는 전 세계에서 수질 분석, 수처리, 마킹·코딩, 포장·색상 솔루션을 제공한다. Water Quality와 Product Quality & Innovation 부문을 운영하며 Hach, Trojan Technologies, ChemTreat 등 브랜드로 주거·상업·지자체·산업·연구·천연자원 분야의 물 측정·분석·처리 기술을 제공한다.
+
+*Veralto Corporation provides water analytics, water treatment, marking and coding, and packaging and color solutions worldwide. It operates through two segments, Water Quality (WQ) and Product Quality & Innovation (PQI). The WQ segment offers precision instrumentation and water treatment technologies to measure, analyze, and treat water in residential, commercial, municipal, industrial, research, and natural resource applications under the Hach, Trojan Technologies, ChemTreat, and other brands.*
 
 ---
 

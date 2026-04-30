@@ -1,10 +1,12 @@
 # TYLER TECHNOLOGIES INC (TYL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 15B$ | 결산월: 12월**
+**Technology | Software - Application | 시총 15B$ (#765위) | 결산월: 12월**
 
-Tyler Technologies, Inc. provides integrated software and technology management solutions for the public sector in the United States. It operates in two segments, Enterprise Software and Platform Technologies.
+Tyler Technologies는 미국 공공부문을 위한 통합 소프트웨어와 기술 관리 솔루션을 제공한다. Enterprise Software와 Platform Technologies 부문을 통해 지방정부와 공공기관의 행정·업무 시스템 디지털화를 지원한다.
+
+*Tyler Technologies, Inc. provides integrated software and technology management solutions for the public sector in the United States. It operates in two segments, Enterprise Software and Platform Technologies.*
 
 ---
 

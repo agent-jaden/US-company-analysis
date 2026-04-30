@@ -1,10 +1,12 @@
 # WEYERHAEUSER CO (WY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Specialty | 시총 18B$ | 결산월: 12월**
+**Real Estate | REIT - Specialty | 시총 18B$ (#670위) | 결산월: 12월**
 
-Weyerhaeuser Company, one of the world's largest private owners of timberlands, began operations in 1900. Today the firm owns or controls more than 10 million acres of timberlands in the U.S., as well as additional public timberlands managed under long-term licenses in Canada. Weyerhaeuser has been a global leader in sustainability for more than a century and manages 100 percent of its timberlands on a fully sustainable basis in compliance with internationally recognized sustainable forestry standards.
+Weyerhaeuser는 세계 최대 민간 산림 소유 기업 중 하나로, 미국에서 10 million acres 이상의 timberlands를 보유·관리하고 캐나다에서도 장기 라이선스 기반 공공 산림을 관리한다. 국제적으로 인정되는 지속가능 산림 기준에 따라 보유 산림의 100%를 지속가능하게 운영한다.
+
+*Weyerhaeuser Company, one of the world's largest private owners of timberlands, began operations in 1900. Today the firm owns or controls more than 10 million acres of timberlands in the U.S., as well as additional public timberlands managed under long-term licenses in Canada. Weyerhaeuser has been a global leader in sustainability for more than a century and manages 100 percent of its timberlands on a fully sustainable basis in compliance with internationally recognized sustainable forestry standards.*
 
 ---
 

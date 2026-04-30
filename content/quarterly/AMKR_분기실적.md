@@ -1,10 +1,12 @@
 # AMKOR TECHNOLOGY, INC. (AMKR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductor Equipment & Materials | 시총 19B$ | 결산월: 12월**
+**Technology | Semiconductor Equipment & Materials | 시총 19B$ (#650위) | 결산월: 12월**
 
-Amkor Technology, Inc. provides outsourced semiconductor packaging and test services in the United States, Japan, Europe, and the Asia Pacific. It offers turnkey packaging and test services, including semiconductor wafer bump, wafer probe, wafer back-grind, package design, packaging, burn-in, system-level and final test, and drop shipment services; flip chip scale package products for smartphones, tablets, and other mobile consumer electronic devices; flip chip stacked chip scale packages that are used to stack memory digital baseband, and as applications processors in mobile devices; flip-chip ball grid array packages for various networking, storage, computing, automotive, and consumer applications; and memory products for system memory or platform data storage.
+Amkor Technology, Inc.는 미국, 아시아, 유럽 등에서 반도체 외주 패키징 및 테스트(OSAT) 서비스를 제공하는 글로벌 선도 기업입니다. 웨이퍼 범핑부터 최종 시스템 테스트에 이르는 턴키 솔루션과 더불어, 스마트폰 및 통신 기기에 사용되는 플립칩 BGA, 칩 스케일 패키지 등 고도화된 반도체 패키징 기술을 지원합니다.
+
+*Amkor Technology, Inc. provides outsourced semiconductor packaging and test services in the United States, Japan, Europe, and the Asia Pacific. It offers turnkey packaging and test services, including semiconductor wafer bump, wafer probe, wafer back-grind, package design, packaging, burn-in, system-level and final test, and drop shipment services; flip chip scale package products for smartphones, tablets, and other mobile consumer electronic devices; flip chip stacked chip scale packages that are used to stack memory digital baseband, and as applications processors in mobile devices; flip-chip ball grid array packages for various networking, storage, computing, automotive, and consumer applications; and memory products for system memory or platform data storage.*
 
 ---
 

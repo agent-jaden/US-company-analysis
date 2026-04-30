@@ -1,10 +1,12 @@
 # EQUIFAX INC (EFX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Consulting Services | 시총 21B$ | 결산월: 12월**
+**Industrials | Consulting Services | 시총 21B$ (#618위) | 결산월: 12월**
 
-Equifax Inc. operates as a data, analytics, and technology company. The company operates through three segments: Workforce Solutions, U.S.
+Equifax Inc.는 방대한 소비자 및 기업 정보를 기반으로 분석 및 기술 솔루션을 제공하는 글로벌 신용 평가 기업입니다. 주로 인력 솔루션(Workforce Solutions)과 미국 내 정보 서비스 부문을 운영하며, 고객의 금융, 고용, 데이터 보안 등과 관련된 의사 결정을 지원합니다.
+
+*Equifax Inc. operates as a data, analytics, and technology company. The company operates through three segments: Workforce Solutions, U.S.*
 
 ---
 

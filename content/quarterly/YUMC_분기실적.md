@@ -1,10 +1,12 @@
 # Yum China Holdings, Inc. (YUMC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Restaurants | 시총 17B$ | 결산월: 12월**
+**Consumer Cyclical | Restaurants | 시총 17B$ (#700위) | 결산월: 12월**
 
-Yum China Holdings, Inc. owns, operates, and franchises restaurants in the People's Republic of China. The company operates KFC, Pizza Hut, and All Other segments.
+Yum China는 중국에서 레스토랑을 소유, 운영, 프랜차이즈한다. KFC, Pizza Hut, All Other 부문을 통해 중국 외식 시장에서 다양한 브랜드와 매장을 운영한다.
+
+*Yum China Holdings, Inc. owns, operates, and franchises restaurants in the People's Republic of China. The company operates KFC, Pizza Hut, and All Other segments.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Palantir Technologies Inc. (PLTR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 343B$ | 결산월: 12월**
+**Technology | Software - Infrastructure | 시총 343B$ (#34위) | 결산월: 12월**
 
-Palantir Technologies Inc. builds and deploys software platforms for the intelligence community to assist in counterterrorism investigations and operations in the United States, the United Kingdom, and internationally. It provides Palantir Gotham integrates with other platforms for defense offerings which enables users to see, understand, and act in the modern battlespace; operations centers to the tactical edge; integrating data from domains and sensors in near real-time; and situational awareness and accelerating operational decision-making, as well as facilitates the hand-off between analysts and operational users, helping operators plan and execute real-world responses to threats that have been identified within the platform.
+Palantir Technologies Inc.는 미국 및 전 세계의 정보 기관이 대테러 조사 및 작전을 수행할 수 있도록 지원하는 소프트웨어 플랫폼을 구축하고 배포합니다. 실시간 센서 데이터를 통합해 전장 상황을 파악하고 신속한 의사결정을 돕는 Palantir Gotham을 제공하여 작전 실행을 지원합니다.
+
+*Palantir Technologies Inc. builds and deploys software platforms for the intelligence community to assist in counterterrorism investigations and operations in the United States, the United Kingdom, and internationally. It provides Palantir Gotham integrates with other platforms for defense offerings which enables users to see, understand, and act in the modern battlespace; operations centers to the tactical edge; integrating data from domains and sensors in near real-time; and situational awareness and accelerating operational decision-making, as well as facilitates the hand-off between analysts and operational users, helping operators plan and execute real-world responses to threats that have been identified within the platform.*
 
 ---
 

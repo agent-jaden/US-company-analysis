@@ -1,10 +1,12 @@
 # AMERICAN INTERNATIONAL GROUP, INC. (AIG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Diversified | 시총 40B$ | 결산월: 12월**
+**Financial Services | Insurance - Diversified | 시총 40B$ (#379위) | 결산월: 12월**
 
-American International Group, Inc. provides insurance products for commercial, institutional, and individual customers in North America and internationally. It operates through three segments: North America Commercial, International Commercial, and Global Personal.
+American International Group은 북미와 해외에서 상업, 기관, 개인 고객에게 보험 상품을 제공한다. North America Commercial, International Commercial, Global Personal 부문을 통해 손해보험과 개인보험 중심의 글로벌 보험 사업을 운영한다.
+
+*American International Group, Inc. provides insurance products for commercial, institutional, and individual customers in North America and internationally. It operates through three segments: North America Commercial, International Commercial, and Global Personal.*
 
 ---
 

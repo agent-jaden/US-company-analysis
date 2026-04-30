@@ -1,10 +1,12 @@
 # NVIDIA CORP (NVDA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 5265B$ | 결산월: 1월**
+**Technology | Semiconductors | 시총 5265B$ (#1위) | 결산월: 1월**
 
-NVIDIA Corporation operates as a data center scale AI infrastructure company. The company operates through two segments, Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software.
+NVIDIA Corporation은 데이터센터 규모의 AI 인프라 기업으로 컴퓨팅 및 네트워킹, 그래픽스 부문으로 나뉘어 운영됩니다. 데이터센터 가속 컴퓨팅, 인공지능 솔루션과 더불어 자율주행 및 전기차를 위한 자동차 플랫폼을 제공합니다.
+
+*NVIDIA Corporation operates as a data center scale AI infrastructure company. The company operates through two segments, Compute & Networking, and Graphics segments. The Compute & Networking segment provides data center accelerated computing and networking platforms and artificial intelligence solutions and software, and automotive platforms and autonomous and electric vehicle solutions, including software.*
 
 ---
 

@@ -1,10 +1,12 @@
 # EQUINIX INC (EQIX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Specialty | 시총 107B$ | 결산월: 12월**
+**Real Estate | REIT - Specialty | 시총 107B$ (#149위) | 결산월: 12월**
 
-Equinix, Inc. shortens the path to boundless connectivity anywhere in the world. Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet.
+Equinix는 전 세계 디지털 인프라와 데이터센터 네트워크를 기반으로 기업의 연결성을 지원한다. 글로벌 데이터센터 footprint와 상호연결 생태계를 통해 업무, 생활, 지구 환경에 기여하는 디지털 혁신을 가능하게 한다.
+
+*Equinix, Inc. shortens the path to boundless connectivity anywhere in the world. Its digital infrastructure, data center footprint and interconnected ecosystems empower innovations that enhance our work, life and planet.*
 
 ---
 

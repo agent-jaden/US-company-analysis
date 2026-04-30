@@ -1,10 +1,12 @@
 # TELEDYNE TECHNOLOGIES INC (TDY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Scientific & Technical Instruments | 시총 30B$ | 결산월: 1월**
+**Technology | Scientific & Technical Instruments | 시총 30B$ (#463위) | 결산월: 1월**
 
-Teledyne Technologies Incorporated provides enabling technologies for industrial growth markets in the United States, Europe, Asia, and internationally. The Digital Imaging provides visible spectrum sensors and digital cameras; and infrared, ultraviolet, visible, and X-ray spectra products, as well as micro electromechanical systems and semiconductors, including analog-to-digital and digital-to-analog converters. This segment offers cooled and uncooled infrared or thermal products, including sensors, camera cores, and camera systems; high-resolution, low-dose X-ray sensors, high-power microwave, and high-energy X-ray subsystems; and instruments for the measurement of physical properties and maritime products, as well as develops and manufactures multi-spectrum electro-optic/infrared imaging systems and associated products, such as lasers, optics, and radars, CBRNE (Chemical, Biological, Radiological, Nuclear and Explosive detectors), and unmanned air and ground systems.
+미국, 유럽, 아시아 등 전 세계 산업 성장 시장을 위한 첨단 기술 장비를 제공합니다. 센서, 적외선 및 X선 카메라 시스템을 포함한 디지털 이미징 기기와 더불어 무인 시스템, 레이더, 화학 및 생물학 탐지기 등 광학 및 전자기계 솔루션을 개발하고 제조합니다.
+
+*Teledyne Technologies Incorporated provides enabling technologies for industrial growth markets in the United States, Europe, Asia, and internationally. The Digital Imaging provides visible spectrum sensors and digital cameras; and infrared, ultraviolet, visible, and X-ray spectra products, as well as micro electromechanical systems and semiconductors, including analog-to-digital and digital-to-analog converters. This segment offers cooled and uncooled infrared or thermal products, including sensors, camera cores, and camera systems; high-resolution, low-dose X-ray sensors, high-power microwave, and high-energy X-ray subsystems; and instruments for the measurement of physical properties and maritime products, as well as develops and manufactures multi-spectrum electro-optic/infrared imaging systems and associated products, such as lasers, optics, and radars, CBRNE (Chemical, Biological, Radiological, Nuclear and Explosive detectors), and unmanned air and ground systems.*
 
 ---
 

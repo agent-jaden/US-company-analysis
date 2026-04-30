@@ -1,10 +1,12 @@
 # QXO, Inc. (QXO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Industrial Distribution | 시총 15B$ | 결산월: 12월**
+**Industrials | Industrial Distribution | 시총 15B$ (#758위) | 결산월: 12월**
 
-QXO, Inc. distributes roofing, waterproofing and complementary building products in the United States and Canada. It offers roofing and siding materials for residential construction, such as asphalt shingles, metal roofing, wood roofing, tile roofing, slate roofing, roofing accessories, and roofing insulation; and siding materials, including vinyl siding aluminum siding, steel siding, fiber cement siding, wood and composite siding, trim and accessories, and gutters and accessories.
+QXO는 미국과 캐나다에서 지붕재, 방수재, 보완적 건축자재를 유통한다. 주거용 건설 시장에 asphalt shingle, 금속·목재·타일·슬레이트 지붕재, 지붕 액세서리·단열재와 vinyl, aluminum, steel, fiber cement, wood, composite siding, trim, gutter 등을 공급한다.
+
+*QXO, Inc. distributes roofing, waterproofing and complementary building products in the United States and Canada. It offers roofing and siding materials for residential construction, such as asphalt shingles, metal roofing, wood roofing, tile roofing, slate roofing, roofing accessories, and roofing insulation; and siding materials, including vinyl siding aluminum siding, steel siding, fiber cement siding, wood and composite siding, trim and accessories, and gutters and accessories.*
 
 ---
 

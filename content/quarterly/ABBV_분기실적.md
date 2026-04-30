@@ -1,10 +1,12 @@
 # AbbVie Inc. (ABBV) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Drug Manufacturers - General | 시총 349B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - General | 시총 349B$ (#31위) | 결산월: 12월**
 
-AbbVie Inc., a research-based biopharmaceutical company, engages in the research and development, manufacturing, commercializing, and sale of medicines and therapies worldwide. The company offers Skyrizi to treat autoimmune diseases; Rinvoq to treat inflammatory diseases; Imbruvica for the treatment of adult patients with blood cancers; Venclexta to treat blood cancers; Elahere to treat various cancer; and Epkinly to treat lymphoma; and Emrelis for the treatment of lung cancer. It also provides facial injectables, plastics and regenerative medicine, body contouring, and skincare products; botox Cosmetic for the treatment of glabellar lines, crow's feet, forehead lines, and platysma bands; Juvederm Collection to treat volume loss in the temples, undereye, cheeks, chin, lips and lower face; Vraylar to treat schizophrenia, bipolar disorder, and depressive disorder; Duodopa to treat Parkinson's disease; Ubrelvy to treat migraine; Qulipta for episodic and chronic migraine; and Vyalev for the treatment of motor fluctuations, as well as Botox Therapeutic to treat chronic migraine, overactive bladder, spasticity, cervical dystonia, and other conditions.
+AbbVie Inc.는 전 세계적으로 의약품과 치료제를 연구 개발, 제조 및 상업화하는 연구 기반 바이오 제약 기업입니다. 자가면역질환 치료제인 Skyrizi, Rinvoq를 비롯해 각종 암 치료제, 편두통 치료제, 그리고 미용 및 치료 목적의 Botox 등 다양한 제품군을 제공합니다.
+
+*AbbVie Inc., a research-based biopharmaceutical company, engages in the research and development, manufacturing, commercializing, and sale of medicines and therapies worldwide. The company offers Skyrizi to treat autoimmune diseases; Rinvoq to treat inflammatory diseases; Imbruvica for the treatment of adult patients with blood cancers; Venclexta to treat blood cancers; Elahere to treat various cancer; and Epkinly to treat lymphoma; and Emrelis for the treatment of lung cancer. It also provides facial injectables, plastics and regenerative medicine, body contouring, and skincare products; botox Cosmetic for the treatment of glabellar lines, crow's feet, forehead lines, and platysma bands; Juvederm Collection to treat volume loss in the temples, undereye, cheeks, chin, lips and lower face; Vraylar to treat schizophrenia, bipolar disorder, and depressive disorder; Duodopa to treat Parkinson's disease; Ubrelvy to treat migraine; Qulipta for episodic and chronic migraine; and Vyalev for the treatment of motor fluctuations, as well as Botox Therapeutic to treat chronic migraine, overactive bladder, spasticity, cervical dystonia, and other conditions.*
 
 ---
 

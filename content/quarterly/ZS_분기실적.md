@@ -1,10 +1,12 @@
 # Zscaler, Inc. (ZS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 22B$ | 결산월: 7월**
+**Technology | Software - Infrastructure | 시총 22B$ (#598위) | 결산월: 7월**
 
-Zscaler, Inc. operates as a cloud security company worldwide. The company offers cyberthreat protection products, including Zscaler Internet Access, which provides threat protection, cloud sandbox, and cloud browser isolation; Zscaler Private Access solution that includes cyberthreat and data protection, application discovery, secure application access, application segmentation, application protection, reduced attack surface, and browser isolation; Zero Trust Firewall; Cloud Sandbox; and Zero Trust Browser.
+Zscaler는 전 세계에서 클라우드 보안 기업으로 운영된다. Zscaler Internet Access, Zscaler Private Access, Zero Trust Firewall, Cloud Sandbox, Zero Trust Browser 등을 통해 사이버위협 보호, 데이터 보호, 보안 애플리케이션 접근, 공격면 축소, 브라우저 격리 솔루션을 제공한다.
+
+*Zscaler, Inc. operates as a cloud security company worldwide. The company offers cyberthreat protection products, including Zscaler Internet Access, which provides threat protection, cloud sandbox, and cloud browser isolation; Zscaler Private Access solution that includes cyberthreat and data protection, application discovery, secure application access, application segmentation, application protection, reduced attack surface, and browser isolation; Zero Trust Firewall; Cloud Sandbox; and Zero Trust Browser.*
 
 ---
 

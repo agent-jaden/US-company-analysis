@@ -1,10 +1,12 @@
 # WESTERN DIGITAL CORP (WDC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Computer Hardware | 시총 137B$ | 결산월: 7월**
+**Technology | Computer Hardware | 시총 137B$ (#110위) | 결산월: 7월**
 
-Western Digital Corporation develops, manufactures, and sells data storage devices and solutions based on hard disk drive (HDD) technology in the United States, Asia, Europe, the Middle East, and Africa. The company offers internal HDDs, data center drives, data center platforms, external drives, portable drives, NAS for home and office, and accessories. It sells its data storage devices and solutions through its computer manufacturers, sales personnel, dealers, distributors, and retailers.
+Western Digital은 HDD 기술 기반의 데이터 저장장치와 솔루션을 개발·제조·판매한다. 내부 HDD, 데이터센터 드라이브, 외장·휴대용 드라이브, 가정·사무실용 NAS와 액세서리를 제공하며 제조사, 유통업체, 리테일 채널을 통해 판매한다.
+
+*Western Digital Corporation develops, manufactures, and sells data storage devices and solutions based on hard disk drive (HDD) technology in the United States, Asia, Europe, the Middle East, and Africa. The company offers internal HDDs, data center drives, data center platforms, external drives, portable drives, NAS for home and office, and accessories. It sells its data storage devices and solutions through its computer manufacturers, sales personnel, dealers, distributors, and retailers.*
 
 ---
 

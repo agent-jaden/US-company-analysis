@@ -1,10 +1,12 @@
 # CIENA CORP (CIEN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Communication Equipment | 시총 72B$ | 결산월: 10월**
+**Technology | Communication Equipment | 시총 72B$ (#236위) | 결산월: 10월**
 
-Ciena Corporation, a network technology company, provides hardware, software, and services for various network operators in the Americas, Europe, the Middle East, Africa, the Asia Pacific, Japan, and India. It operates through Networking Platforms, Platform Software and Services, Blue Planet Automation Software and Services, and Global Services segments. The Networking Platforms segment consists optical networking, routing, and switching products and services.
+Ciena Corporation은 미주, 유럽, 아시아 등 전 세계 통신 사업자에게 광범위한 네트워크 하드웨어, 소프트웨어 및 서비스를 제공하는 통신 기술 기업입니다. 차세대 광 네트워킹, 라우팅 장비 및 Blue Planet 자동화 소프트웨어를 통해 고성능 통신 인프라 구축을 지원합니다.
+
+*Ciena Corporation, a network technology company, provides hardware, software, and services for various network operators in the Americas, Europe, the Middle East, Africa, the Asia Pacific, Japan, and India. It operates through Networking Platforms, Platform Software and Services, Blue Planet Automation Software and Services, and Global Services segments. The Networking Platforms segment consists optical networking, routing, and switching products and services.*
 
 ---
 

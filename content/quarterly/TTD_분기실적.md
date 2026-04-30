@@ -1,10 +1,12 @@
 # Trade Desk, Inc. (TTD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Advertising Agencies | 시총 11B$ | 결산월: 12월**
+**Communication Services | Advertising Agencies | 시총 11B$ (#925위) | 결산월: 12월**
 
-The Trade Desk, Inc. operates as a technology company in the United States and internationally. The company creates, manages, and optimizes digital advertising campaigns across ad formats, channels and devices, including CTV and other video, display, audio, and native, on a multitude of devices, such televisions, streaming devices, mobile devices, computers and digital-out-of-home devices.
+The Trade Desk는 미국과 해외에서 디지털 광고 캠페인을 생성, 관리, 최적화하는 기술 기업이다. CTV와 기타 영상, 디스플레이, 오디오, 네이티브 광고를 TV, 스트리밍 기기, 모바일, 컴퓨터, 디지털 옥외매체 등 다양한 기기와 채널에서 집행할 수 있게 한다.
+
+*The Trade Desk, Inc. operates as a technology company in the United States and internationally. The company creates, manages, and optimizes digital advertising campaigns across ad formats, channels and devices, including CTV and other video, display, audio, and native, on a multitude of devices, such televisions, streaming devices, mobile devices, computers and digital-out-of-home devices.*
 
 ---
 

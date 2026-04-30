@@ -1,10 +1,12 @@
 # NORTHROP GRUMMAN CORP /DE/ (NOC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 82B$ | 결산월: 12월**
+**Industrials | Aerospace & Defense | 시총 82B$ (#203위) | 결산월: 12월**
 
-Northrop Grumman Corporation operates as an aerospace and defense technology company in the United States, Asia/Pacific, Europe, and internationally. It operates through four segments: Aeronautics Systems, Defense Systems, Mission Systems and Space Systems. The Aeronautics Systems segment designs, develops, produces, integrates, sustains, and modernizes aircraft systems.
+Northrop Grumman Corporation은 미국, 아시아 태평양, 유럽 및 전 세계에서 활동하는 항공우주 및 방위 기술 기업입니다. 항공 시스템, 방위 시스템, 임무 시스템 및 우주 시스템의 4개 부문을 통해 항공기 시스템의 설계, 개발, 생산 및 현대화 사업을 운영합니다.
+
+*Northrop Grumman Corporation operates as an aerospace and defense technology company in the United States, Asia/Pacific, Europe, and internationally. It operates through four segments: Aeronautics Systems, Defense Systems, Mission Systems and Space Systems. The Aeronautics Systems segment designs, develops, produces, integrates, sustains, and modernizes aircraft systems.*
 
 ---
 

@@ -1,10 +1,12 @@
 # LOWES COMPANIES INC (LOW) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Home Improvement Retail | 시총 136B$ | 결산월: 1월**
+**Consumer Cyclical | Home Improvement Retail | 시총 136B$ (#111위) | 결산월: 1월**
 
-Lowe's Companies, Inc., together with its subsidiaries, operates as a home improvement retailer in the United States and Canada. It provides a line of products for construction, maintenance, repair, remodeling, and decorating. The company also offers home improvement products, such as appliances, seasonal and outdoor living, lumber, lawn and garden, kitchens and bath, hardware, building materials, millwork, paint, rough plumbing, tools, electrical, flooring, and décor.
+Lowe's는 미국과 캐나다에서 주택 개량 전문 소매점을 운영한다. 건설, 유지보수, 수리, 리모델링, 인테리어 관련 제품을 판매하며 가전, 목재, 정원용품, 주방·욕실, 하드웨어, 건축자재, 페인트, 배관, 공구, 전기, 바닥재 등을 취급한다.
+
+*Lowe's Companies, Inc., together with its subsidiaries, operates as a home improvement retailer in the United States and Canada. It provides a line of products for construction, maintenance, repair, remodeling, and decorating. The company also offers home improvement products, such as appliances, seasonal and outdoor living, lumber, lawn and garden, kitchens and bath, hardware, building materials, millwork, paint, rough plumbing, tools, electrical, flooring, and décor.*
 
 ---
 

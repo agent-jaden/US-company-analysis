@@ -1,10 +1,12 @@
 # ON SEMICONDUCTOR CORP (ON) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 39B$ | 결산월: 12월**
+**Technology | Semiconductors | 시총 39B$ (#385위) | 결산월: 12월**
 
-ON Semiconductor Corporation provides intelligent sensing and power solutions in Hong Kong, Singapore, the United Kingdom, the United States, and internationally. It operates through three segments: Power Solutions Group, Analog and Mixed-Signal Group, and Intelligent Sensing Group. The Power Solutions Group segment offers discrete, module, and integrated semiconductor devices designed to enable power conversion, including power switching, signal conditioning, and circuit protection technologies.
+ON Semiconductor는 홍콩, 싱가포르, 영국, 미국 및 해외에서 지능형 센싱과 전력 솔루션을 제공한다. Power Solutions, Analog and Mixed-Signal, Intelligent Sensing 부문을 운영하며 전력 변환, 스위칭, 신호 조절, 회로 보호용 discrete·module·integrated semiconductor device를 공급한다.
+
+*ON Semiconductor Corporation provides intelligent sensing and power solutions in Hong Kong, Singapore, the United Kingdom, the United States, and internationally. It operates through three segments: Power Solutions Group, Analog and Mixed-Signal Group, and Intelligent Sensing Group. The Power Solutions Group segment offers discrete, module, and integrated semiconductor devices designed to enable power conversion, including power switching, signal conditioning, and circuit protection technologies.*
 
 ---
 

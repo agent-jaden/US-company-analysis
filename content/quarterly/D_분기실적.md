@@ -1,10 +1,12 @@
 # DOMINION ENERGY, INC (D) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 55B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 55B$ (#303위) | 결산월: 12월**
 
-Dominion Energy, Inc. provides regulated electricity and natural gas services in the United States. It operates through Dominion Energy Virginia, Dominion Energy South Carolina, and Contracted Energy segments.
+Dominion Energy는 미국에서 규제 전력 및 천연가스 서비스를 제공한다. Dominion Energy Virginia, Dominion Energy South Carolina, Contracted Energy 부문을 통해 전력·가스 유틸리티와 계약 기반 에너지 사업을 운영한다.
+
+*Dominion Energy, Inc. provides regulated electricity and natural gas services in the United States. It operates through Dominion Energy Virginia, Dominion Energy South Carolina, and Contracted Energy segments.*
 
 ---
 

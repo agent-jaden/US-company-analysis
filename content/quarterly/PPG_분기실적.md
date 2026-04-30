@@ -1,10 +1,12 @@
 # PPG INDUSTRIES INC (PPG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Specialty Chemicals | 시총 25B$ | 결산월: 12월**
+**Basic Materials | Specialty Chemicals | 시총 25B$ (#533위) | 결산월: 12월**
 
-PPG Industries, Inc. manufactures and distributes paints, coatings, and specialty materials in the United States, Canada, the Asia Pacific, Latin America, Europe, the Middle East, and Africa. It operates through three segments: Global Architectural Coatings, Performance Coatings, and Industrial Coatings.
+PPG Industries, Inc.는 미국, 캐나다, 유럽, 아시아 등 전 세계적으로 페인트, 코팅 및 특수 화학 소재를 제조하고 유통합니다. 글로벌 건축용 코팅, 고기능성 코팅, 그리고 산업용 코팅의 세 가지 핵심 부문을 통해 다양한 산업 현장에 표면 보호 솔루션을 제공합니다.
+
+*PPG Industries, Inc. manufactures and distributes paints, coatings, and specialty materials in the United States, Canada, the Asia Pacific, Latin America, Europe, the Middle East, and Africa. It operates through three segments: Global Architectural Coatings, Performance Coatings, and Industrial Coatings.*
 
 ---
 

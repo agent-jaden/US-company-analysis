@@ -1,10 +1,12 @@
 # FTAI Aviation Ltd. (FTAI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Rental & Leasing Services | 시총 24B$ | 결산월: 12월**
+**Industrials | Rental & Leasing Services | 시총 24B$ (#557위) | 결산월: 12월**
 
-FTAI Aviation Ltd. owns, acquires, and sells aviation equipment for the transportation of goods and people worldwide. It operates in two segments, Aviation Leasing and Aerospace Products.
+FTAI Aviation은 전 세계에서 화물과 여객 운송에 쓰이는 항공 장비를 보유, 취득, 판매한다. Aviation Leasing과 Aerospace Products 부문을 통해 항공기·엔진 등 항공 자산 임대와 항공우주 제품 사업을 운영한다.
+
+*FTAI Aviation Ltd. owns, acquires, and sells aviation equipment for the transportation of goods and people worldwide. It operates in two segments, Aviation Leasing and Aerospace Products.*
 
 ---
 

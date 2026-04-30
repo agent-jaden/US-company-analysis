@@ -1,10 +1,12 @@
 # AMERICAN TOWER CORP /MA/ (AMT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Specialty | 시총 82B$ | 결산월: 12월**
+**Real Estate | REIT - Specialty | 시총 82B$ (#202위) | 결산월: 12월**
 
-American Tower Corporation is one of the largest global real estate investment trusts. It is a leading independent owner, operator and developer of multitenant communications real estate. The Company's primary business is the leasing of space on communications sites to wireless service providers, radio and television broadcast companies, wireless data providers, government agencies and municipalities and tenants in a few other industries.
+American Tower는 세계 최대 규모의 글로벌 REIT 중 하나로, 다중 임차 통신 부동산을 소유·운영·개발하는 독립 사업자다. 주요 사업은 무선통신사, 라디오·TV 방송사, 무선 데이터 제공업체, 정부기관, 지자체 등에게 통신 사이트 공간을 임대하는 것이다.
+
+*American Tower Corporation is one of the largest global real estate investment trusts. It is a leading independent owner, operator and developer of multitenant communications real estate. The Company's primary business is the leasing of space on communications sites to wireless service providers, radio and television broadcast companies, wireless data providers, government agencies and municipalities and tenants in a few other industries.*
 
 ---
 

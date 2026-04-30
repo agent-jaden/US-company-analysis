@@ -1,10 +1,12 @@
 # BECTON DICKINSON & CO (BDX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Instruments & Supplies | 시총 43B$ | 결산월: 9월**
+**Healthcare | Medical Instruments & Supplies | 시총 43B$ (#364위) | 결산월: 9월**
 
-Becton, Dickinson and Company develops, manufactures, and sells medical supplies, devices, laboratory equipment, and diagnostic products for healthcare institutions, physicians, life science researchers, clinical laboratories, pharmaceutical industry, and the general public worldwide. It operates through Medical Essentials, Connected Care, BioPharma Systems, Interventional and Life Sciences segments. It provides peripheral intravenous (IV) and advanced peripheral catheters, central lines, acute dialysis catheters, vascular access technology, vascular care and preparation products, needle-free IV connectors and extensions sets, closed-system drug transfer devices, hazardous drug detections, hypodermic syringes and needles, anesthesia needles and trays, enteral syringes, and sharps disposal systems; IV medication safety and infusion therapy delivery systems, medication compounding workflow system, automated medication dispensing and supply management systems, informatics and analytics and pharmacy automation system, and medication inventory optimization and tracking system; hemodynamic monitoring system; and prefillable drug delivery systems.
+Becton, Dickinson and Company는 전 세계 의료기관, 의사, 생명과학 연구자, 임상검사실, 제약업계, 일반 고객에게 의료용품, 의료기기, 실험실 장비, 진단 제품을 개발·제조·판매한다. IV 카테터, 중심정맥관, 주사기·바늘, 약물전달·주입 시스템, 약국 자동화, 혈역학 모니터링, prefillable drug delivery system 등을 제공한다.
+
+*Becton, Dickinson and Company develops, manufactures, and sells medical supplies, devices, laboratory equipment, and diagnostic products for healthcare institutions, physicians, life science researchers, clinical laboratories, pharmaceutical industry, and the general public worldwide. It operates through Medical Essentials, Connected Care, BioPharma Systems, Interventional and Life Sciences segments. It provides peripheral intravenous (IV) and advanced peripheral catheters, central lines, acute dialysis catheters, vascular access technology, vascular care and preparation products, needle-free IV connectors and extensions sets, closed-system drug transfer devices, hazardous drug detections, hypodermic syringes and needles, anesthesia needles and trays, enteral syringes, and sharps disposal systems; IV medication safety and infusion therapy delivery systems, medication compounding workflow system, automated medication dispensing and supply management systems, informatics and analytics and pharmacy automation system, and medication inventory optimization and tracking system; hemodynamic monitoring system; and prefillable drug delivery systems.*
 
 ---
 

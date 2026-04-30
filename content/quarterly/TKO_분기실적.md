@@ -1,10 +1,12 @@
 # TKO Group Holdings, Inc. (TKO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Entertainment | 시총 14B$ | 결산월: 12월**
+**Communication Services | Entertainment | 시총 14B$ (#786위) | 결산월: 12월**
 
-TKO Group Holdings, Inc. operates as a sports and entertainment company. The company operates through three segments: UFC, WWE and IMG.
+TKO Group Holdings는 스포츠와 엔터테인먼트 사업을 운영한다. UFC, WWE, IMG 부문을 통해 격투기, 프로레슬링, 스포츠·엔터테인먼트 콘텐츠와 관련 권리 사업을 전개한다.
+
+*TKO Group Holdings, Inc. operates as a sports and entertainment company. The company operates through three segments: UFC, WWE and IMG.*
 
 ---
 

@@ -1,10 +1,12 @@
 # AT&T INC. (T) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Telecom Services | 시총 178B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 178B$ (#78위) | 결산월: 12월**
 
-AT&T Inc. provides telecommunications and technology services worldwide. It operates through two segments, Communications and Latin America.
+AT&T Inc.는 전 세계적으로 통신 및 기술 서비스를 제공하는 통신 기업입니다. 현재 커뮤니케이션 부문과 라틴 아메리카 부문 두 가지 핵심 사업부를 통해 운영되고 있습니다.
+
+*AT&T Inc. provides telecommunications and technology services worldwide. It operates through two segments, Communications and Latin America.*
 
 ---
 

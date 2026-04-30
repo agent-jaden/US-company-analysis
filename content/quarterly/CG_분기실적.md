@@ -1,10 +1,12 @@
 # Carlyle Group Inc. (CG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Asset Management | 시총 17B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 17B$ (#686위) | 결산월: 12월**
 
-The Carlyle Group Inc. is an investment firm specializing in direct and fund of fund investments. Within direct investments, it specializes in management-led/ Leveraged buyouts, privatizations, divestitures, strategic minority equity investments, structured credit, global distressed and corporate opportunities, small and middle market, equity private placements, consolidations and buildups, senior debt, mezzanine and leveraged finance, and venture and growth capital financings, seed/startup, early venture, emerging growth, turnaround, mid venture, late venture, PIPES, recapitalization.
+Carlyle Group은 직접투자와 펀드오브펀드 투자를 전문으로 하는 글로벌 투자회사다. 경영진 주도 인수·LBO, 민영화, 사업부 매각, 전략적 소수지분, 구조화신용, distressed·기업기회, 중소·중견기업, 사모, 선순위·메자닌·레버리지 금융, 벤처·성장자본 등 다양한 전략에 투자한다.
+
+*The Carlyle Group Inc. is an investment firm specializing in direct and fund of fund investments. Within direct investments, it specializes in management-led/ Leveraged buyouts, privatizations, divestitures, strategic minority equity investments, structured credit, global distressed and corporate opportunities, small and middle market, equity private placements, consolidations and buildups, senior debt, mezzanine and leveraged finance, and venture and growth capital financings, seed/startup, early venture, emerging growth, turnaround, mid venture, late venture, PIPES, recapitalization.*
 
 ---
 

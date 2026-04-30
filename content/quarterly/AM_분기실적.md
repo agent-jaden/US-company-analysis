@@ -1,10 +1,12 @@
 # Antero Midstream Corp (AM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Midstream | 시총 10B$ | 결산월: 12월**
+**Energy | Oil & Gas Midstream | 시총 10B$ (#965위) | 결산월: 12월**
 
-Antero Midstream Corporation owns, operates, and develops midstream energy assets in the Appalachian Basin. It operates in two segments, Gathering and Processing, and Water Handling. The gathering and processing segment includes a network of gathering pipelines and compressor stations that collect and process natural gas and NGLs from Antero Resources' wells in West Virginia and Ohio.
+Antero Midstream은 Appalachian Basin에서 미드스트림 에너지 자산을 보유, 운영, 개발한다. Gathering and Processing, Water Handling 부문을 통해 West Virginia와 Ohio의 Antero Resources 유정에서 생산되는 천연가스와 NGL을 수집·처리하는 파이프라인과 압축시설 네트워크를 운영한다.
+
+*Antero Midstream Corporation owns, operates, and develops midstream energy assets in the Appalachian Basin. It operates in two segments, Gathering and Processing, and Water Handling. The gathering and processing segment includes a network of gathering pipelines and compressor stations that collect and process natural gas and NGLs from Antero Resources' wells in West Virginia and Ohio.*
 
 ---
 

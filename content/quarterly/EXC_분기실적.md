@@ -1,10 +1,12 @@
 # EXELON CORP (EXC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 48B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 48B$ (#335위) | 결산월: 12월**
 
-Exelon Corporation, a utility services holding company, engages in the energy distribution and transmission businesses in the United States. The company is involved in the purchase and regulated retail sale of electricity and natural gas; transmission and distribution of electricity; and distribution of natural gas to retail customers. It serves residential, commercial, industrial, and public authorities and electric railroads customers.
+Exelon은 미국에서 에너지 배전과 송전 사업을 영위하는 유틸리티 서비스 지주회사다. 전기와 천연가스의 구매 및 규제 소매 판매, 전력 송배전, 천연가스 배급을 수행하며 주거, 상업, 산업, 공공기관, 전기철도 고객에게 서비스를 제공한다.
+
+*Exelon Corporation, a utility services holding company, engages in the energy distribution and transmission businesses in the United States. The company is involved in the purchase and regulated retail sale of electricity and natural gas; transmission and distribution of electricity; and distribution of natural gas to retail customers. It serves residential, commercial, industrial, and public authorities and electric railroads customers.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Permian Resources Corp (PR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas E&P | 시총 18B$ | 결산월: 12월**
+**Energy | Oil & Gas E&P | 시총 18B$ (#668위) | 결산월: 12월**
 
-Permian Resources Corporation, an independent oil and natural gas company, focuses on the development of crude oil and associated liquids-rich natural gas reserves in the United States. The company's assets primarily focus on the Delaware Basin, a sub-basin of the Permian Basin. Its properties consist of acreage blocks in Reeves County in West Texas and Lea County in New Mexico.
+Permian Resources는 미국에서 원유와 liquids-rich 천연가스 매장지 개발에 집중하는 독립 석유·가스 회사다. 주요 자산은 Permian Basin의 하위 분지인 Delaware Basin에 있으며, 서부 텍사스 Reeves County와 뉴멕시코 Lea County에 광구를 보유한다.
+
+*Permian Resources Corporation, an independent oil and natural gas company, focuses on the development of crude oil and associated liquids-rich natural gas reserves in the United States. The company's assets primarily focus on the Delaware Basin, a sub-basin of the Permian Basin. Its properties consist of acreage blocks in Reeves County in West Texas and Lea County in New Mexico.*
 
 ---
 

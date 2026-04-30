@@ -1,10 +1,12 @@
 # HCA Healthcare, Inc. (HCA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Care Facilities | 시총 99B$ | 결산월: 12월**
+**Healthcare | Medical Care Facilities | 시총 99B$ (#162위) | 결산월: 12월**
 
-HCA Healthcare, Inc., through its subsidiaries, provides health care services in the United States. The company owns, manages, and operates hospitals, ASCs, freestanding emergency care facilities, urgent care facilities, walk-in clinics, diagnostic and imaging centers, radiation and oncology therapy centers, as well as rehabilitation and physical therapy centers, physician practices, home health agencies, hospices, outpatient physical therapy providers, home and community-based services providers, and various other facilities. Its general and acute care hospitals offer medical and surgical services, including inpatient care, intensive care, cardiac care, diagnostic services, and emergency services; and outpatient services, such as outpatient surgery, laboratory, radiology, respiratory therapy, cardiology, and physical therapy.
+HCA Healthcare는 자회사를 통해 미국에서 병원과 다양한 의료시설을 운영하는 헬스케어 서비스 기업이다. 병원, 외래수술센터, 응급·긴급진료시설, 진단·영상센터, 암치료센터, 재활·물리치료센터, 의사 진료소, 홈헬스·호스피스 등을 운영하며 입원·중환자·심장·수술·응급·외래 서비스를 제공한다.
+
+*HCA Healthcare, Inc., through its subsidiaries, provides health care services in the United States. The company owns, manages, and operates hospitals, ASCs, freestanding emergency care facilities, urgent care facilities, walk-in clinics, diagnostic and imaging centers, radiation and oncology therapy centers, as well as rehabilitation and physical therapy centers, physician practices, home health agencies, hospices, outpatient physical therapy providers, home and community-based services providers, and various other facilities. Its general and acute care hospitals offer medical and surgical services, including inpatient care, intensive care, cardiac care, diagnostic services, and emergency services; and outpatient services, such as outpatient surgery, laboratory, radiology, respiratory therapy, cardiology, and physical therapy.*
 
 ---
 

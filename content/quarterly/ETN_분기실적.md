@@ -1,10 +1,12 @@
 # Eaton Corp plc (ETN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Industrial Machinery | 시총 162B$ | 결산월: 12월**
+**Industrials | Specialty Industrial Machinery | 시총 162B$ (#86위) | 결산월: 12월**
 
-Eaton Corporation plc operates as a power management company in the United States, Canada, Latin America, Europe, and the Asia Pacific. The company operates through Electrical Americas, Electrical Global, Aerospace, Vehicle, and eMobility segments. It offers electrical components, industrial components, power distribution and assemblies, residential products, single and three phase power quality and connectivity products, wiring devices, circuit protection products, utility power distribution products, and power reliability equipment; and hazardous duty electrical equipment, emergency lighting, fire detection, intrinsically safe explosion-proof instrumentation, and structural support systems.
+Eaton Corporation plc는 미주, 유럽, 아시아 태평양 전역에서 전력 관리 솔루션을 제공하는 기업입니다. 전기 부품, 항공우주, 차량 및 eMobility 부문을 통해 전력 분배, 회로 보호, 비상 조명 및 산업용 배선 기기 등 다양한 전력 품질 및 안전 장비를 판매합니다.
+
+*Eaton Corporation plc operates as a power management company in the United States, Canada, Latin America, Europe, and the Asia Pacific. The company operates through Electrical Americas, Electrical Global, Aerospace, Vehicle, and eMobility segments. It offers electrical components, industrial components, power distribution and assemblies, residential products, single and three phase power quality and connectivity products, wiring devices, circuit protection products, utility power distribution products, and power reliability equipment; and hazardous duty electrical equipment, emergency lighting, fire detection, intrinsically safe explosion-proof instrumentation, and structural support systems.*
 
 ---
 

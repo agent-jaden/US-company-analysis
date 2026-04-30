@@ -1,10 +1,12 @@
 # PRINCIPAL FINANCIAL GROUP INC (PFG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Asset Management | 시총 22B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 22B$ (#597위) | 결산월: 12월**
 
-Principal Financial Group, Inc. provides retirement, asset management, and insurance products and services to businesses, individuals, and institutional clients worldwide. The company operates through Retirement and Income Solutions, Principal Asset Management, and Benefits and Protection segments.
+Principal Financial Group은 전 세계 기업, 개인, 기관 고객에게 은퇴, 자산관리, 보험 상품과 서비스를 제공한다. Retirement and Income Solutions, Principal Asset Management, Benefits and Protection 부문을 통해 은퇴소득, 운용, 복리후생·보장 솔루션을 운영한다.
+
+*Principal Financial Group, Inc. provides retirement, asset management, and insurance products and services to businesses, individuals, and institutional clients worldwide. The company operates through Retirement and Income Solutions, Principal Asset Management, and Benefits and Protection segments.*
 
 ---
 

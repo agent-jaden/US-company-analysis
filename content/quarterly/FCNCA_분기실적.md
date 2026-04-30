@@ -1,10 +1,12 @@
 # FIRST CITIZENS BANCSHARES INC /DE/ (FCNCA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Regional | 시총 23B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 23B$ (#566위) | 결산월: 12월**
 
-First Citizens BancShares, Inc. operates as the holding company for First-Citizens Bank & Trust Company that provides retail and commercial banking services to individuals, businesses, and professionals in the United States and internationally. It operates through the General Bank, Commercial Bank, and Rail segments.
+First Citizens BancShares는 First-Citizens Bank & Trust Company의 지주회사로 미국과 해외에서 개인, 기업, 전문직 고객에게 리테일 및 상업은행 서비스를 제공한다. General Bank, Commercial Bank, Rail 부문을 통해 은행 서비스와 철도 관련 금융 사업을 운영한다.
+
+*First Citizens BancShares, Inc. operates as the holding company for First-Citizens Bank & Trust Company that provides retail and commercial banking services to individuals, businesses, and professionals in the United States and internationally. It operates through the General Bank, Commercial Bank, and Rail segments.*
 
 ---
 

@@ -1,10 +1,12 @@
 # SoFi Technologies, Inc. (SOFI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Credit Services | 시총 24B$ | 결산월: 12월**
+**Financial Services | Credit Services | 시총 24B$ (#547위) | 결산월: 12월**
 
-SoFi Technologies, Inc. provides various financial services in the United States, Latin America, Canada, and Hong Kong. The company operates through three segments: Lending, Technology Platform, and Financial Services.
+SoFi Technologies, Inc.는 미국, 라틴 아메리카, 캐나다, 홍콩 등지에서 다양한 개인 금융 서비스를 제공하는 핀테크 기업입니다. 대출, 기술 플랫폼 인프라, 그리고 금융 서비스(결제, 투자 등)의 세 가지 핵심 부문을 통해 사업을 운영하고 있습니다.
+
+*SoFi Technologies, Inc. provides various financial services in the United States, Latin America, Canada, and Hong Kong. The company operates through three segments: Lending, Technology Platform, and Financial Services.*
 
 ---
 

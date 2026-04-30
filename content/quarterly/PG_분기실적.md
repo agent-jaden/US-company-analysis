@@ -1,10 +1,12 @@
 # PROCTER & GAMBLE Co (PG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Household & Personal Products | 시총 346B$ | 결산월: 6월**
+**Consumer Defensive | Household & Personal Products | 시총 346B$ (#33위) | 결산월: 6월**
 
-The Procter & Gamble Company provides branded consumer packaged goods worldwide. It operates through Beauty; Grooming; Health Care; Fabric & Home Care; and Baby, Feminine & Family Care segments. The company offers conditioners, shampoos, styling aids, and treatments under the Head & Shoulders, Herbal Essences, Pantene, and Rejoice brands; antiperspirants, deodorants, and personal cleansing products under the Native, Old Spice, Safeguard, and Secret brands; and facial moisturizers, cleaners, and treatments under the Olay and SK-II brands.
+The Procter & Gamble Company는 전 세계적으로 다양한 브랜드 소비재를 제공합니다. 미용, 뷰티, 헬스케어, 패브릭 및 홈케어, 유아 및 가족 케어 부문으로 운영되며 Head & Shoulders, Pantene, Old Spice, Olay 등의 유명 브랜드를 보유하고 있습니다.
+
+*The Procter & Gamble Company provides branded consumer packaged goods worldwide. It operates through Beauty; Grooming; Health Care; Fabric & Home Care; and Baby, Feminine & Family Care segments. The company offers conditioners, shampoos, styling aids, and treatments under the Head & Shoulders, Herbal Essences, Pantene, and Rejoice brands; antiperspirants, deodorants, and personal cleansing products under the Native, Old Spice, Safeguard, and Secret brands; and facial moisturizers, cleaners, and treatments under the Olay and SK-II brands.*
 
 ---
 

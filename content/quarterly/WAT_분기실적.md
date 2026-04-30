@@ -1,10 +1,12 @@
 # WATERS CORP /DE/ (WAT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Diagnostics & Research | 시총 29B$ | 결산월: 12월**
+**Healthcare | Diagnostics & Research | 시총 29B$ (#482위) | 결산월: 12월**
 
-Waters Corporation provides analytical workflow solutions in Asia, the Americas, and Europe. The company operates through two segments, Waters and TA. The company designs, manufactures, sells, and services liquid chromatography, as well as mass spectrometry (MS) technology systems and supports products, including chromatography columns, and other consumable products.
+아시아, 미주, 유럽 등 전 세계에 전문적인 분석 워크플로우 솔루션을 제공하는 기기 제조사입니다. 주로 액체 크로마토그래피 및 질량 분석기(MS) 기술 시스템과 관련 소모품을 설계, 제조, 판매 및 유지보수합니다.
+
+*Waters Corporation provides analytical workflow solutions in Asia, the Americas, and Europe. The company operates through two segments, Waters and TA. The company designs, manufactures, sells, and services liquid chromatography, as well as mass spectrometry (MS) technology systems and supports products, including chromatography columns, and other consumable products.*
 
 ---
 

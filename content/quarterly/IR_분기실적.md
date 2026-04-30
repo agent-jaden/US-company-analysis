@@ -1,10 +1,12 @@
 # Ingersoll Rand Inc. (IR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Industrial Machinery | 시총 33B$ | 결산월: 12월**
+**Industrials | Specialty Industrial Machinery | 시총 33B$ (#438위) | 결산월: 12월**
 
-Ingersoll Rand Inc. provides various mission-critical air, fluid, clean energy, and medical technologies services and solutions worldwide. It operates in two segments, Industrial Technologies and Services, and Precision and Science Technologies.
+Ingersoll Rand는 전 세계에서 핵심 공기, 유체, 청정에너지, 의료 기술 서비스와 솔루션을 제공한다. Industrial Technologies and Services, Precision and Science Technologies 부문을 통해 산업용 장비와 정밀·과학기술 기반 제품을 운영한다.
+
+*Ingersoll Rand Inc. provides various mission-critical air, fluid, clean energy, and medical technologies services and solutions worldwide. It operates in two segments, Industrial Technologies and Services, and Precision and Science Technologies.*
 
 ---
 

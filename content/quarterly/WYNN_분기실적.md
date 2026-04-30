@@ -1,10 +1,12 @@
 # WYNN RESORTS LTD (WYNN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Resorts & Casinos | 시총 11B$ | 결산월: 12월**
+**Consumer Cyclical | Resorts & Casinos | 시총 11B$ (#927위) | 결산월: 12월**
 
-Wynn Resorts, Limited designs, develops, and operates integrated resorts. It operates in four segments: Wynn Palace, Wynn Macau, Las Vegas Operations, and Encore Boston Harbor. The Wynn Palace segment operates casino space, private gaming salons, and sky casinos; a luxury hotel tower with suites and villas, as well as a health club, spa, salon, and pool; food and beverage outlets; retail space; meeting and convention space; and a performance lake, an immersive entertainment center, Western and Asian art displays, and a gondola ride.
+Wynn Resorts는 복합리조트를 설계, 개발, 운영한다. Wynn Palace, Wynn Macau, Las Vegas Operations, Encore Boston Harbor 부문을 운영하며 카지노, 고급 호텔, 스파, 식음료, 리테일, 컨벤션, 공연·엔터테인먼트 시설을 제공한다.
+
+*Wynn Resorts, Limited designs, develops, and operates integrated resorts. It operates in four segments: Wynn Palace, Wynn Macau, Las Vegas Operations, and Encore Boston Harbor. The Wynn Palace segment operates casino space, private gaming salons, and sky casinos; a luxury hotel tower with suites and villas, as well as a health club, spa, salon, and pool; food and beverage outlets; retail space; meeting and convention space; and a performance lake, an immersive entertainment center, Western and Asian art displays, and a gondola ride.*
 
 ---
 

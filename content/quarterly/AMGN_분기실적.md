@@ -1,10 +1,12 @@
 # AMGEN INC (AMGN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Drug Manufacturers - General | 시총 183B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - General | 시총 183B$ (#73위) | 결산월: 12월**
 
-Amgen Inc. discovers, develops, manufactures, and delivers human therapeutics worldwide. The company's principal products include Enbrel for the treatment of rheumatoid arthritis, plaque psoriasis, and psoriatic arthritis; Otezla for the treatment of adult patients with plaque psoriasis, psoriatic arthritis, and oral ulcers associated with Behçet's disease; Prolia to treat postmenopausal women with osteoporosis; XGEVA for skeletal-related events prevention; Repatha, which reduces the risks of myocardial infarction, stroke, and coronary revascularization; Nplate for the treatment of patients with immune thrombocytopenia; KYPROLIS to treat patients with relapsed or refractory multiple myeloma; Aranesp to treat a lower-than-normal number of red blood cells and anemia; EVENITY for the treatment of osteoporosis in postmenopausal for women; Vectibix to treat patients with wild-type RAS metastatic colorectal cancer; BLINCYTO for the treatment of patients with acute lymphoblastic leukemia; TEPEZZA to treat thyroid eye disease; and KRYSTEXXA for the treatment of chronic refractory gout.
+Amgen Inc.는 전 세계적으로 인체 치료제를 발견, 개발, 제조 및 유통하는 바이오 제약 기업입니다. Enbrel, Prolia, Repatha 등 류마티스 관절염, 골다공증, 심혈관 질환 및 각종 암을 치료하기 위한 다양한 혁신 의약품 포트폴리오를 제공합니다.
+
+*Amgen Inc. discovers, develops, manufactures, and delivers human therapeutics worldwide. The company's principal products include Enbrel for the treatment of rheumatoid arthritis, plaque psoriasis, and psoriatic arthritis; Otezla for the treatment of adult patients with plaque psoriasis, psoriatic arthritis, and oral ulcers associated with Behçet's disease; Prolia to treat postmenopausal women with osteoporosis; XGEVA for skeletal-related events prevention; Repatha, which reduces the risks of myocardial infarction, stroke, and coronary revascularization; Nplate for the treatment of patients with immune thrombocytopenia; KYPROLIS to treat patients with relapsed or refractory multiple myeloma; Aranesp to treat a lower-than-normal number of red blood cells and anemia; EVENITY for the treatment of osteoporosis in postmenopausal for women; Vectibix to treat patients with wild-type RAS metastatic colorectal cancer; BLINCYTO for the treatment of patients with acute lymphoblastic leukemia; TEPEZZA to treat thyroid eye disease; and KRYSTEXXA for the treatment of chronic refractory gout.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Essential Utilities, Inc. (WTRG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Water | 시총 11B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Water | 시총 11B$ (#914위) | 결산월: 12월**
 
-Essential Utilities, Inc., through its subsidiaries, operates regulated utilities that provide water, wastewater, and natural gas services in the United States. The company operates through Regulated Water; and Regulated Natural Gas segments. It also provides utility service line protection solutions and repair services to households; gas marketing and production activities; and natural gas distribution services.
+Essential Utilities는 자회사를 통해 미국에서 물, 폐수, 천연가스 서비스를 제공하는 규제 유틸리티를 운영한다. Regulated Water와 Regulated Natural Gas 부문을 중심으로 가정용 유틸리티 서비스 라인 보호·수리, 가스 마케팅·생산, 천연가스 배급 서비스도 제공한다.
+
+*Essential Utilities, Inc., through its subsidiaries, operates regulated utilities that provide water, wastewater, and natural gas services in the United States. The company operates through Regulated Water; and Regulated Natural Gas segments. It also provides utility service line protection solutions and repair services to households; gas marketing and production activities; and natural gas distribution services.*
 
 ---
 

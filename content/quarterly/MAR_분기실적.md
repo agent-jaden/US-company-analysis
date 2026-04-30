@@ -1,10 +1,12 @@
 # MARRIOTT INTERNATIONAL INC /MD/ (MAR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Lodging | 시총 96B$ | 결산월: 12월**
+**Consumer Cyclical | Lodging | 시총 96B$ (#173위) | 결산월: 12월**
 
-Marriott International, Inc. engages in the operation, franchise, and licensing of hotel, residential, timeshare, and other lodging properties in the U.S. & Canada, Europe, Middle East & Africa, Greater China, and Asia Pacific, and internationally.
+Marriott International은 미국·캐나다, 유럽, 중동·아프리카, 중화권, 아시아태평양 등에서 호텔, 레지던스, timeshare 및 기타 숙박시설을 운영·프랜차이즈·라이선스한다. 글로벌 숙박 브랜드 포트폴리오를 기반으로 호텔 운영과 브랜드 수수료 사업을 전개한다.
+
+*Marriott International, Inc. engages in the operation, franchise, and licensing of hotel, residential, timeshare, and other lodging properties in the U.S. & Canada, Europe, Middle East & Africa, Greater China, and Asia Pacific, and internationally.*
 
 ---
 

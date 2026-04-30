@@ -1,10 +1,12 @@
 # Aon plc (AON) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance Brokers | 시총 70B$ | 결산월: 12월**
+**Financial Services | Insurance Brokers | 시총 70B$ (#246위) | 결산월: 12월**
 
-Aon plc operates as a professional services firm in the United States, rest of the Americas, the United Kingdom, Ireland, rest of Europe, the Middle East, Africa, and the Asia Pacific. It operates through Risk Capital and Human Capital segments. The company offers commercial risk solutions comprising retail and insurance brokerage, specialty solutions, global risk consulting, captives management, and affinity programs; health solutions, such as consulting and brokerage, consumer benefits, and talent advisory services; and wealth solutions, including retirement consulting and investments.
+Aon plc는 전 세계적으로 상업적 위험 관리 및 인적 자본 컨설팅을 제공하는 글로벌 전문 서비스 기업입니다. 상업 보험 중개 서비스, 글로벌 리스크 자문을 비롯해 직원 건강 복지, 인재 관리 및 은퇴 연금에 관한 폭넓은 자산 관리 솔루션을 지원합니다.
+
+*Aon plc operates as a professional services firm in the United States, rest of the Americas, the United Kingdom, Ireland, rest of Europe, the Middle East, Africa, and the Asia Pacific. It operates through Risk Capital and Human Capital segments. The company offers commercial risk solutions comprising retail and insurance brokerage, specialty solutions, global risk consulting, captives management, and affinity programs; health solutions, such as consulting and brokerage, consumer benefits, and talent advisory services; and wealth solutions, including retirement consulting and investments.*
 
 ---
 

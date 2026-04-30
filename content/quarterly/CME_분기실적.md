@@ -1,10 +1,12 @@
 # CME GROUP INC. (CME) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Financial Data & Stock Exchanges | 시총 102B$ | 결산월: 12월**
+**Financial Services | Financial Data & Stock Exchanges | 시총 102B$ (#154위) | 결산월: 12월**
 
-CME Group Inc., together with its subsidiaries, operates contract markets for the trading of futures and options on futures contracts worldwide. It offers futures and options products based on interest rates, equity indexes, and foreign exchange; and agricultural, energy, and metals commodities, as well as fixed income and foreign currency trading services. The company provides clearing house services, including clearing, settling, and guaranteeing futures and options contracts, and cleared swaps products traded through its exchanges.
+CME Group은 전 세계에서 선물과 선물옵션 거래를 위한 계약시장을 운영한다. 금리, 주가지수, 외환, 농산물, 에너지, 금속 상품 기반 파생상품과 고정수익·외환 거래 서비스를 제공하며, 거래소를 통해 체결된 선물·옵션·청산 스왑의 청산·결제·보증 서비스도 수행한다.
+
+*CME Group Inc., together with its subsidiaries, operates contract markets for the trading of futures and options on futures contracts worldwide. It offers futures and options products based on interest rates, equity indexes, and foreign exchange; and agricultural, energy, and metals commodities, as well as fixed income and foreign currency trading services. The company provides clearing house services, including clearing, settling, and guaranteeing futures and options contracts, and cleared swaps products traded through its exchanges.*
 
 ---
 

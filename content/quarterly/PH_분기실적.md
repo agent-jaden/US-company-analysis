@@ -1,10 +1,12 @@
 # Parker-Hannifin Corp (PH) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Industrial Machinery | 시총 123B$ | 결산월: 6월**
+**Industrials | Specialty Industrial Machinery | 시총 123B$ (#130위) | 결산월: 6월**
 
-Parker-Hannifin Corporation manufactures and sells motion and control technologies and systems for aerospace and defense, in-plant and industrial equipment, transportation, off-highway, energy, and HVAC and refrigeration markets in North America, Europe, Asia Pacific, and Latin America. The company operates through two segments: Diversified Industrial and Aerospace Systems. It offers various motion-control systems and components, such as active and passive vibration control, high purity sealing, coatings, high temperature sealing, cryogenic valves and fittings, HVAC/R controls and monitoring, elastomeric, fabric reinforced, metal, precision cut seals, hydrogen and natural gas filters, electric and hydraulic pumps and motors, industrial air, gas filtration, electric and hydraulic valves, miniature pumps and valves, electromagnetic interface shielding, pneumatic actuators, regulators and valves, electromechanical and hydraulic actuators, power take offs, electronics, drives and controllers, process filtration solutions, engine filtration solutions, rubber to substrate adhesives, fluid condition monitoring, sensors and diagnostics, fluid conveyance hose and tubing, structural adhesives, high pressure connectors, fittings, valves and regulators, thermal management, high purity fittings.
+Parker-Hannifin은 항공우주·방산, 산업설비, 운송, 오프하이웨이, 에너지, HVAC/R 시장에 모션 및 제어 기술과 시스템을 공급한다. 진동제어, 실링, 밸브·피팅, 필터, 펌프·모터, 공압·유압 액추에이터, 전자제어, 센서·진단, 유체 이송 호스·튜브, 열관리 등 다양한 부품과 솔루션을 제공한다.
+
+*Parker-Hannifin Corporation manufactures and sells motion and control technologies and systems for aerospace and defense, in-plant and industrial equipment, transportation, off-highway, energy, and HVAC and refrigeration markets in North America, Europe, Asia Pacific, and Latin America. The company operates through two segments: Diversified Industrial and Aerospace Systems. It offers various motion-control systems and components, such as active and passive vibration control, high purity sealing, coatings, high temperature sealing, cryogenic valves and fittings, HVAC/R controls and monitoring, elastomeric, fabric reinforced, metal, precision cut seals, hydrogen and natural gas filters, electric and hydraulic pumps and motors, industrial air, gas filtration, electric and hydraulic valves, miniature pumps and valves, electromagnetic interface shielding, pneumatic actuators, regulators and valves, electromechanical and hydraulic actuators, power take offs, electronics, drives and controllers, process filtration solutions, engine filtration solutions, rubber to substrate adhesives, fluid condition monitoring, sensors and diagnostics, fluid conveyance hose and tubing, structural adhesives, high pressure connectors, fittings, valves and regulators, thermal management, high purity fittings.*
 
 ---
 

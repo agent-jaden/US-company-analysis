@@ -1,10 +1,12 @@
 # RTX Corp (RTX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 233B$ | 결산월: 12월**
+**Industrials | Aerospace & Defense | 시총 233B$ (#57위) | 결산월: 12월**
 
-RTX Corporation, an aerospace and defense company, provides systems and services for commercial, military, and government customers worldwide. It operates through three segments: Collins Aerospace (Collins), Pratt & Whitney, and Raytheon. The Collins segment offers aerospace and defense products, and aftermarket services for civil and military aircraft manufacturers and commercial airlines, as well as regional, business, and general aviation, defense, and commercial space operations.
+RTX Corporation은 전 세계 상업용, 군사용 및 정부 고객에게 시스템과 서비스를 제공하는 항공우주 및 방위 산업 기업입니다. Collins Aerospace, Pratt & Whitney, Raytheon 세 가지 부문을 통해 민간 및 군용 항공기 제조업체, 상업용 항공사 및 방위 우주 작전을 위한 제품과 애프터마켓 서비스를 제공합니다.
+
+*RTX Corporation, an aerospace and defense company, provides systems and services for commercial, military, and government customers worldwide. It operates through three segments: Collins Aerospace (Collins), Pratt & Whitney, and Raytheon. The Collins segment offers aerospace and defense products, and aftermarket services for civil and military aircraft manufacturers and commercial airlines, as well as regional, business, and general aviation, defense, and commercial space operations.*
 
 ---
 

@@ -1,10 +1,12 @@
 # KKR & Co. Inc. (KKR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Asset Management | 시총 93B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 93B$ (#179위) | 결산월: 12월**
 
-KKR & Co. Inc. is a private equity and real estate investment firm specializing in direct and fund of fund investments.
+KKR은 직접투자와 펀드오브펀드 투자를 전문으로 하는 사모펀드 및 부동산 투자회사다. 사모기업과 부동산 자산에 투자하며 다양한 투자 전략을 운용한다.
+
+*KKR & Co. Inc. is a private equity and real estate investment firm specializing in direct and fund of fund investments.*
 
 ---
 

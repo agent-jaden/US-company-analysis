@@ -1,10 +1,12 @@
 # IDEXX LABORATORIES INC /DE (IDXX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Diagnostics & Research | 시총 46B$ | 결산월: 12월**
+**Healthcare | Diagnostics & Research | 시총 46B$ (#342위) | 결산월: 12월**
 
-IDEXX Laboratories, Inc. develops, manufactures, and distributes products for the companion animal veterinary, livestock and poultry, dairy, and water testing industries in the United States and internationally. It operates through three segments: Companion Animal Group; Water Quality Products; and Livestock, Poultry and Dairy.
+IDEXX Laboratories는 미국과 해외에서 반려동물 수의, 축산·가금, 유제품, 수질검사 산업용 제품을 개발·제조·유통한다. Companion Animal Group, Water Quality Products, Livestock, Poultry and Dairy 부문을 통해 진단, 검사, 관리 솔루션을 제공한다.
+
+*IDEXX Laboratories, Inc. develops, manufactures, and distributes products for the companion animal veterinary, livestock and poultry, dairy, and water testing industries in the United States and internationally. It operates through three segments: Companion Animal Group; Water Quality Products; and Livestock, Poultry and Dairy.*
 
 ---
 

@@ -1,10 +1,12 @@
 # EOG RESOURCES INC (EOG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas E&P | 시총 71B$ | 결산월: 12월**
+**Energy | Oil & Gas E&P | 시총 71B$ (#237위) | 결산월: 12월**
 
-EOG Resources, Inc., together with its subsidiaries, explores for, develops, produces, and markets crude oil, natural gas liquids, and natural gas in producing basins in the United States, the Republic of Trinidad and Tobago, and internationally. The company also offers crude oil and condensate, and gathering, processing and marketing. The company was formerly known as Enron Oil & Gas Company.
+EOG Resources, Inc.는 미국, 트리니다드 토바고 및 전 세계 생산 분지에서 원유와 천연가스를 탐사, 개발, 생산 및 판매하는 에너지 기업입니다. 에너지 자원의 단순 채굴을 넘어 채집, 가공 및 마케팅을 아우르는 종합적인 업스트림 사업을 영위하고 있습니다.
+
+*EOG Resources, Inc., together with its subsidiaries, explores for, develops, produces, and markets crude oil, natural gas liquids, and natural gas in producing basins in the United States, the Republic of Trinidad and Tobago, and internationally. The company also offers crude oil and condensate, and gathering, processing and marketing. The company was formerly known as Enron Oil & Gas Company.*
 
 ---
 

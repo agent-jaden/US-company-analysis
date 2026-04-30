@@ -1,10 +1,12 @@
 # CONOCOPHILLIPS (COP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas E&P | 시총 148B$ | 결산월: 12월**
+**Energy | Oil & Gas E&P | 시총 148B$ (#99위) | 결산월: 12월**
 
-ConocoPhillips explores for, produces, transports, and markets crude oil, bitumen, natural gas, liquefied natural gas (LNG), and natural gas liquids. It operates in five segments: Alaska; Lower 48; Canada; Europe, Middle East and North Africa; and Asia Pacific. The company's portfolio includes unconventional plays in North America; conventional assets in North America, Europe, Asia, and Australia; global LNG developments; oil sands assets in Canada; and an inventory of global exploration prospects.
+ConocoPhillips는 원유, 천연가스, 액화천연가스(LNG) 등을 탐사, 생산, 운송 및 마케팅하는 에너지 기업입니다. 알래스카, 캐나다, 유럽 및 아시아 태평양 등 5개 지역 부문을 통해 재래식 자원 및 오일샌드 등 다양한 글로벌 포트폴리오를 운영합니다.
+
+*ConocoPhillips explores for, produces, transports, and markets crude oil, bitumen, natural gas, liquefied natural gas (LNG), and natural gas liquids. It operates in five segments: Alaska; Lower 48; Canada; Europe, Middle East and North Africa; and Asia Pacific. The company's portfolio includes unconventional plays in North America; conventional assets in North America, Europe, Asia, and Australia; global LNG developments; oil sands assets in Canada; and an inventory of global exploration prospects.*
 
 ---
 

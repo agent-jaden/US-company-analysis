@@ -1,10 +1,12 @@
 # SHERWIN WILLIAMS CO (SHW) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Specialty Chemicals | 시총 83B$ | 결산월: 12월**
+**Basic Materials | Specialty Chemicals | 시총 83B$ (#198위) | 결산월: 12월**
 
-The Sherwin-Williams Company engages in the development, manufacture, distribution, and sale of paint, coatings, and related products to professional, industrial, commercial and retail customers. The company operates through three segments: Paint Stores Group, Consumer Brands Group, and Performance Coatings Group. The Paint Stores Group segment offers architectural paint and coatings; protective and marine products; and OEM product finishes and related products for architectural and industrial paint contractors, and do-it-yourself homeowners under the Sherwin-Williams brand.
+Sherwin-Williams는 전문가, 산업, 상업, 리테일 고객을 대상으로 페인트, 코팅 및 관련 제품을 개발·제조·유통·판매한다. Paint Stores Group, Consumer Brands Group, Performance Coatings Group 부문을 운영하며 Sherwin-Williams 브랜드로 건축용 페인트·코팅, 보호·해양 제품, OEM 마감재를 제공한다.
+
+*The Sherwin-Williams Company engages in the development, manufacture, distribution, and sale of paint, coatings, and related products to professional, industrial, commercial and retail customers. The company operates through three segments: Paint Stores Group, Consumer Brands Group, and Performance Coatings Group. The Paint Stores Group segment offers architectural paint and coatings; protective and marine products; and OEM product finishes and related products for architectural and industrial paint contractors, and do-it-yourself homeowners under the Sherwin-Williams brand.*
 
 ---
 

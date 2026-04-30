@@ -1,10 +1,12 @@
 # VICOR CORP (VICR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Electronic Components | 시총 12B$ | 결산월: 12월**
+**Technology | Electronic Components | 시총 12B$ (#862위) | 결산월: 12월**
 
-Vicor Corporation, together with its subsidiaries, designs, develops, manufactures, and markets modular power components and power systems for converting electrical power for use in electrically powered devices in the United States, Europe, the Asia Pacific, and internationally. The company offers a range of brick-format DC-DC converters; complementary components that provide AC line rectification, input filtering, power factor correction, and transient protection; and input and output voltage, and output power products, as well as sells electrical and mechanical accessories. It also designs, sells, and services custom power system solutions.
+Vicor Corporation은 전 세계 다양한 전자기기에 사용되는 전력 변환용 모듈식 전력 부품과 시스템을 설계, 개발 및 판매합니다. 직류-직류(DC-DC) 컨버터, 교류(AC) 라인 정류기, 전력망 입력 필터 등 전력 효율을 높이는 핵심 부품과 맞춤형 전력 시스템 솔루션을 제공합니다.
+
+*Vicor Corporation, together with its subsidiaries, designs, develops, manufactures, and markets modular power components and power systems for converting electrical power for use in electrically powered devices in the United States, Europe, the Asia Pacific, and internationally. The company offers a range of brick-format DC-DC converters; complementary components that provide AC line rectification, input filtering, power factor correction, and transient protection; and input and output voltage, and output power products, as well as sells electrical and mechanical accessories. It also designs, sells, and services custom power system solutions.*
 
 ---
 

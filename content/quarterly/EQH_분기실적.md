@@ -1,10 +1,12 @@
 # Equitable Holdings, Inc. (EQH) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Asset Management | 시총 12B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 12B$ (#887위) | 결산월: 12월**
 
-Equitable Holdings, Inc., together with its consolidated subsidiaries, operates as a diversified financial services company worldwide. The company operates through six segments: Individual Retirement, Group Retirement, Asset Management, Protection Solutions, Wealth Management, and Legacy. The Individual Retirement variable annuity products, including structured capital strategies, retirement cornerstone, and investment edge primarily to affluent and high net worth individuals.
+Equitable Holdings, Inc.는 전 세계적으로 다각화된 금융 서비스를 제공하는 지주 회사입니다. 개인 및 그룹 은퇴 연금, 자산 관리, 보호 솔루션 등의 부문을 통해 부유층 고객의 자산 증식과 보호를 위한 변액 연금 및 포괄적인 투자 전략 상품을 운영합니다.
+
+*Equitable Holdings, Inc., together with its consolidated subsidiaries, operates as a diversified financial services company worldwide. The company operates through six segments: Individual Retirement, Group Retirement, Asset Management, Protection Solutions, Wealth Management, and Legacy. The Individual Retirement variable annuity products, including structured capital strategies, retirement cornerstone, and investment edge primarily to affluent and high net worth individuals.*
 
 ---
 

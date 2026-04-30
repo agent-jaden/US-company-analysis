@@ -1,10 +1,12 @@
 # SITIME Corp (SITM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 14B$ | 결산월: 12월**
+**Technology | Semiconductors | 시총 14B$ (#767위) | 결산월: 12월**
 
-SiTime Corporation engages in the design, development, and sale of silicon timing systems solutions in Hong Kong, Taiwan, the United States, Singapore, and internationally. It offers various types of oscillators, as well as clock integrated circuits, resonators, and synchronization software for use in artificial intelligence systems, data center, communications, enterprise, automotive, industrial, aerospace, defense, mobile, Internet of Things, and consumer markets. The company was incorporated in 2003 and is based in Santa Clara, California.
+SiTime은 홍콩, 대만, 미국, 싱가포르 및 해외에서 silicon timing system 솔루션을 설계·개발·판매한다. AI 시스템, 데이터센터, 통신, 기업, 자동차, 산업, 항공우주·방산, 모바일, IoT, 소비자 시장에 oscillator, clock IC, resonator, 동기화 소프트웨어를 제공한다.
+
+*SiTime Corporation engages in the design, development, and sale of silicon timing systems solutions in Hong Kong, Taiwan, the United States, Singapore, and internationally. It offers various types of oscillators, as well as clock integrated circuits, resonators, and synchronization software for use in artificial intelligence systems, data center, communications, enterprise, automotive, industrial, aerospace, defense, mobile, Internet of Things, and consumer markets. The company was incorporated in 2003 and is based in Santa Clara, California.*
 
 ---
 

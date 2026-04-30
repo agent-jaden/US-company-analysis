@@ -1,10 +1,12 @@
 # nVent Electric plc (NVT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Electrical Equipment & Parts | 시총 23B$ | 결산월: 12월**
+**Industrials | Electrical Equipment & Parts | 시총 23B$ (#568위) | 결산월: 12월**
 
-nVent Electric plc designs, manufactures, markets, installs, and services electrical connection and protection solutions in the America, Europe, the Middle East, India, Africa, the Asia Pacific, and internationally. It operates in two segments, Systems Protection and Electrical Connections. The company provides solutions to protect electronics, systems, and data in mission critical applications, including data centers.
+nVent Electric은 미주, 유럽, 중동, 인도, 아프리카, 아시아태평양 등에서 전기 연결 및 보호 솔루션을 설계·제조·판매·설치·서비스한다. Systems Protection과 Electrical Connections 부문을 통해 데이터센터 등 mission critical 환경의 전자장비, 시스템, 데이터를 보호하는 솔루션을 제공한다.
+
+*nVent Electric plc designs, manufactures, markets, installs, and services electrical connection and protection solutions in the America, Europe, the Middle East, India, Africa, the Asia Pacific, and internationally. It operates in two segments, Systems Protection and Electrical Connections. The company provides solutions to protect electronics, systems, and data in mission critical applications, including data centers.*
 
 ---
 

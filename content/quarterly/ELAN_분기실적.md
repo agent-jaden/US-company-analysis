@@ -1,10 +1,12 @@
 # Elanco Animal Health Inc (ELAN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Drug Manufacturers - Specialty & Generic | 시총 11B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - Specialty & Generic | 시총 11B$ (#923위) | 결산월: 12월**
 
-Elanco Animal Health Incorporated, an animal health company, innovates, develops, manufactures, and markets products for pets and farm animals worldwide. The company offers pet health products, such as parasiticides, vaccines, and therapeutics that protect pets from fleas, ticks, and internal parasites under the Seresto, K-9 Advantage, Advantix, and Advocate trademarks; prescription parasiticide products, an over-the-counter treatments for the prevention and elimination of fleas and ticks under the Credelio Family, Interceptor Plus, Drontal family, and Drontal Plus; vaccines portfolio that provides differentiated prevention coverage for a number of important pet health risks; and therapeutics portfolio for the treatment of pain, otitis, cardiovascular, and dermatology indications, as well as osteoarthritis for dogs and cats under the Galliprant trademark. It also provides farm animal products that help farmers improve animal health and wellbeing, and raise livestock, such as cattle, swine, and poultry.
+Elanco Animal Health는 전 세계에서 반려동물과 농장동물용 제품을 혁신, 개발, 제조, 마케팅하는 동물헬스 기업이다. Seresto, K-9 Advantage, Advantix, Advocate, Credelio, Interceptor Plus, Drontal, Galliprant 등 브랜드로 기생충 예방, 백신, 치료제와 축산 동물 건강 제품을 제공한다.
+
+*Elanco Animal Health Incorporated, an animal health company, innovates, develops, manufactures, and markets products for pets and farm animals worldwide. The company offers pet health products, such as parasiticides, vaccines, and therapeutics that protect pets from fleas, ticks, and internal parasites under the Seresto, K-9 Advantage, Advantix, and Advocate trademarks; prescription parasiticide products, an over-the-counter treatments for the prevention and elimination of fleas and ticks under the Credelio Family, Interceptor Plus, Drontal family, and Drontal Plus; vaccines portfolio that provides differentiated prevention coverage for a number of important pet health risks; and therapeutics portfolio for the treatment of pain, otitis, cardiovascular, and dermatology indications, as well as osteoarthritis for dogs and cats under the Galliprant trademark. It also provides farm animal products that help farmers improve animal health and wellbeing, and raise livestock, such as cattle, swine, and poultry.*
 
 ---
 

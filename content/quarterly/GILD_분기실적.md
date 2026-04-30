@@ -1,10 +1,12 @@
 # GILEAD SCIENCES, INC. (GILD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Drug Manufacturers - General | 시총 159B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - General | 시총 159B$ (#92위) | 결산월: 12월**
 
-Gilead Sciences, Inc., a biopharmaceutical company, discovers, develops, and commercializes medicines in the areas of unmet medical need in the United States, Europe, and internationally. The company provides Biktarvy, Descovy, Genvoya, Odefsey, Sunlenca, Symtuza, and YeztugoFor the treatment of HIV-1 infection in patients. It also provides Epclusa, Livdelzi, and Vemlidy to treat chronic hepatitis C virus, primary biliary cholangitis, and chronic hepatitis B virus; Tecartus, a T-cell therapy for the treatment of adult patients; Trodelvy, an injection for intravenous use; and Yescarta, a suspension for intravenous infusion, is a CAR T-cell therapy for the treatment of adult patients.
+Gilead Sciences, Inc.는 미국 및 전 세계의 미충족 의료 수요 분야에서 의약품을 연구, 개발 및 상용화하는 바이오 제약 기업입니다. Biktarvy를 포함한 HIV 치료제와 만성 C형 간염 바이러스 치료제, 그리고 성인 환자를 위한 CAR T세포 치료제 등을 제공합니다.
+
+*Gilead Sciences, Inc., a biopharmaceutical company, discovers, develops, and commercializes medicines in the areas of unmet medical need in the United States, Europe, and internationally. The company provides Biktarvy, Descovy, Genvoya, Odefsey, Sunlenca, Symtuza, and YeztugoFor the treatment of HIV-1 infection in patients. It also provides Epclusa, Livdelzi, and Vemlidy to treat chronic hepatitis C virus, primary biliary cholangitis, and chronic hepatitis B virus; Tecartus, a T-cell therapy for the treatment of adult patients; Trodelvy, an injection for intravenous use; and Yescarta, a suspension for intravenous infusion, is a CAR T-cell therapy for the treatment of adult patients.*
 
 ---
 

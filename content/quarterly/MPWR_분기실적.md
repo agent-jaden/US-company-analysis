@@ -1,10 +1,12 @@
 # MONOLITHIC POWER SYSTEMS INC (MPWR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 78B$ | 결산월: 12월**
+**Technology | Semiconductors | 시총 78B$ (#212위) | 결산월: 12월**
 
-Monolithic Power Systems, Inc. provides semiconductor-based power electronics solutions in China, Taiwan, South Korea, Southeast Asia, Europe, the United States, Japan, and internationally. The company offers direct current (DC) to DC solutions to convert and control voltages within a range of electronic systems, such as cloud-based and on-premises CPU servers and workstations, AI systems, memory, storage solutions, notebooks, infotainment, power sources, home appliances, network infrastructure, and satellite communications.
+Monolithic Power Systems, Inc.는 아시아, 유럽, 미국 등 전 세계에 반도체 기반의 전력 전자 솔루션을 제공합니다. 클라우드 서버, AI 시스템, 노트북, 가전제품 및 통신 인프라 등 다양한 전자기기 내에서 전압을 변환하고 제어하는 정밀한 DC-DC 전력 관리 칩을 공급합니다.
+
+*Monolithic Power Systems, Inc. provides semiconductor-based power electronics solutions in China, Taiwan, South Korea, Southeast Asia, Europe, the United States, Japan, and internationally. The company offers direct current (DC) to DC solutions to convert and control voltages within a range of electronic systems, such as cloud-based and on-premises CPU servers and workstations, AI systems, memory, storage solutions, notebooks, infotainment, power sources, home appliances, network infrastructure, and satellite communications.*
 
 ---
 

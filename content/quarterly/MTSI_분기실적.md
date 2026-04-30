@@ -1,10 +1,12 @@
 # MACOM Technology Solutions Holdings, Inc. (MTSI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 21B$ | 결산월: 10월**
+**Technology | Semiconductors | 시총 21B$ (#612위) | 결산월: 10월**
 
-MACOM Technology Solutions Holdings, Inc., together with its subsidiaries, provides analog semiconductor solutions for use in wireless and wireline applications across the radio frequency (RF), microwave, millimeter wave, and lightwave spectrum. The company offers a portfolio of standard and custom devices, including integrated circuits, multi-chip modules, diodes, amplifiers, switches and switch limiters, passive and active components, and subsystems. Its semiconductor products are electronic components that are incorporated in electronic systems, such as wireless base stations, optical networks, radar and medical systems, satellite networks, and test and measurement applications.
+MACOM Technology Solutions Holdings, Inc.는 무선 주파수(RF), 마이크로파 및 광파 스펙트럼 전반의 유무선 애플리케이션을 위한 아날로그 반도체 솔루션을 제공합니다. 집적 회로, 증폭기, 멀티칩 모듈 등 다양한 표준 및 맞춤형 전자 부품을 설계하여 무선 기지국, 광 네트워크, 레이더, 위성 및 의료 시스템 등에 공급하고 있습니다.
+
+*MACOM Technology Solutions Holdings, Inc., together with its subsidiaries, provides analog semiconductor solutions for use in wireless and wireline applications across the radio frequency (RF), microwave, millimeter wave, and lightwave spectrum. The company offers a portfolio of standard and custom devices, including integrated circuits, multi-chip modules, diodes, amplifiers, switches and switch limiters, passive and active components, and subsystems. Its semiconductor products are electronic components that are incorporated in electronic systems, such as wireless base stations, optical networks, radar and medical systems, satellite networks, and test and measurement applications.*
 
 ---
 

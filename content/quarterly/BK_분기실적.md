@@ -1,10 +1,12 @@
 # Bank of New York Mellon Corp (BK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Diversified | 시총 92B$ | 결산월: 12월**
+**Financial Services | Banks - Diversified | 시총 92B$ (#183위) | 결산월: 12월**
 
-The Bank of New York Mellon Corporation provides a range of financial products and services in the United States and internationally. It operates through Securities Services, Market and Wealth Services, Investment and Wealth Management, and Other segments. The Securities Services segment offers custody, trust and depositary, accounting, exchange-traded funds, middle-office solutions, transfer agency, services for private equity and real estate funds, foreign exchange, securities lending, liquidity/lending services, and data analytics.
+Bank of New York Mellon은 미국과 해외에서 다양한 금융 상품과 서비스를 제공한다. Securities Services, Market and Wealth Services, Investment and Wealth Management 부문을 운영하며, 수탁, 신탁·예탁, 회계, ETF, 미들오피스, 사모·부동산펀드 서비스, 외환, 증권대여, 유동성·대출, 데이터 분석 서비스를 제공한다.
+
+*The Bank of New York Mellon Corporation provides a range of financial products and services in the United States and internationally. It operates through Securities Services, Market and Wealth Services, Investment and Wealth Management, and Other segments. The Securities Services segment offers custody, trust and depositary, accounting, exchange-traded funds, middle-office solutions, transfer agency, services for private equity and real estate funds, foreign exchange, securities lending, liquidity/lending services, and data analytics.*
 
 ---
 

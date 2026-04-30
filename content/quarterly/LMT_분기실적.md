@@ -1,10 +1,12 @@
 # LOCKHEED MARTIN CORP (LMT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 118B$ | 결산월: 12월**
+**Industrials | Aerospace & Defense | 시총 118B$ (#135위) | 결산월: 12월**
 
-Lockheed Martin Corporation, an aerospace and defense company, engages in the research, design, development, manufacture, integration, and sustainment of technology systems, products, and services in the United States, Europe, Asia, the Middle East, and internationally. The company operates through four segments: Aeronautics; Missiles and Fire Control (MFC); Rotary and Mission Systems (RMS); and Space. The Aeronautics segment offers combat and air mobility aircraft, unmanned air vehicles, and related technologies.
+Lockheed Martin은 미국, 유럽, 아시아, 중동 등에서 항공우주·방산 기술 시스템, 제품, 서비스를 연구·설계·개발·제조·통합·유지한다. Aeronautics, Missiles and Fire Control, Rotary and Mission Systems, Space 부문을 운영하며 전투기, 수송기, 무인기와 관련 기술을 제공한다.
+
+*Lockheed Martin Corporation, an aerospace and defense company, engages in the research, design, development, manufacture, integration, and sustainment of technology systems, products, and services in the United States, Europe, Asia, the Middle East, and internationally. The company operates through four segments: Aeronautics; Missiles and Fire Control (MFC); Rotary and Mission Systems (RMS); and Space. The Aeronautics segment offers combat and air mobility aircraft, unmanned air vehicles, and related technologies.*
 
 ---
 

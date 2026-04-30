@@ -1,10 +1,12 @@
 # JONES LANG LASALLE INC (JLL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | Real Estate Services | 시총 16B$ | 결산월: 12월**
+**Real Estate | Real Estate Services | 시총 16B$ (#729위) | 결산월: 12월**
 
-Jones Lang LaSalle Incorporated operates as a commercial real estate and investment management company. It engages in buying, building, occupying, managing, and investing in office, industrial, hotel, multi-family, retail and data center properties in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company also offers agency leasing, tenant representation, property management, advisory, and consulting services; and debt advisory, loan sales and servicing, value and risk advisory, equity and funds placement, merger and acquisition, corporate advisory, and investment sales and advisory services.
+Jones Lang LaSalle Incorporated는 글로벌 상업용 부동산 및 투자 관리 서비스를 제공하는 선도적인 기업입니다. 미주, 유럽, 아시아 등 전 세계에서 사무실, 산업 시설, 호텔 및 데이터 센터의 임대, 매매 및 관리를 총괄합니다. 또한 자산 평가, 대출 및 부채 자문, M&A 컨설팅 등 광범위한 부동산 금융 및 컨설팅 솔루션을 지원합니다.
+
+*Jones Lang LaSalle Incorporated operates as a commercial real estate and investment management company. It engages in buying, building, occupying, managing, and investing in office, industrial, hotel, multi-family, retail and data center properties in the Americas, Europe, the Middle East, Africa, and the Asia Pacific. The company also offers agency leasing, tenant representation, property management, advisory, and consulting services; and debt advisory, loan sales and servicing, value and risk advisory, equity and funds placement, merger and acquisition, corporate advisory, and investment sales and advisory services.*
 
 ---
 

@@ -1,10 +1,12 @@
 # CHIPOTLE MEXICAN GRILL INC (CMG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Restaurants | 시총 44B$ | 결산월: 12월**
+**Consumer Cyclical | Restaurants | 시총 44B$ (#356위) | 결산월: 12월**
 
-Chipotle Mexican Grill, Inc., together with its subsidiaries, owns and operates Chipotle Mexican Grill restaurants. It sells food and beverages, such as burritos, burrito bowls, quesadillas, tacos, and salads, as well as kids's meals, chips, and sides. It offers Mexican-inspired meals using responsibly sourced meats, such as chicken, beef, and pork branded as Responsibly Raised.
+Chipotle Mexican Grill은 자회사를 통해 Chipotle Mexican Grill 레스토랑을 소유·운영한다. burrito, burrito bowl, quesadilla, taco, salad, kids meal, chips, side 메뉴를 판매하며 Responsibly Raised 브랜드의 닭고기, 소고기, 돼지고기 등 책임 조달 육류를 활용한 멕시코풍 식사를 제공한다.
+
+*Chipotle Mexican Grill, Inc., together with its subsidiaries, owns and operates Chipotle Mexican Grill restaurants. It sells food and beverages, such as burritos, burrito bowls, quesadillas, tacos, and salads, as well as kids's meals, chips, and sides. It offers Mexican-inspired meals using responsibly sourced meats, such as chicken, beef, and pork branded as Responsibly Raised.*
 
 ---
 

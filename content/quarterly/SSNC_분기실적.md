@@ -1,10 +1,12 @@
 # SS&C Technologies Holdings Inc (SSNC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 17B$ | 결산월: 12월**
+**Technology | Software - Application | 시총 17B$ (#708위) | 결산월: 12월**
 
-SS&C Technologies Holdings, Inc., together with its subsidiaries, provides software products and software-enabled services to financial services and healthcare industries in the Americas, Europe, the Middle East, Africa, and Asia Pacific. The company owns and operates technology stack across securities accounting; front-office functions, such as trading and modeling; middle-office functions comprising portfolio management and reporting; back-office functions, such as accounting, performance measurement, reconciliation, reporting, processing and clearing, and compliance and tax reporting; and healthcare solutions consisting of claims adjudication, benefit management, care management, and business intelligence solutions. It also offers software-enabled services, such as SS&C GlobeOp, Global Investor and Distribution Solutions, SS&C Retirement Solutions, Calastone, Managed Services, Data Solutions, ALPS Advisors, and Virtual Data Rooms, as well as pharmacy, healthcare administration, and health outcomes optimization solutions.
+SS&C Technologies Holdings, Inc.는 미주, 유럽, 아시아 태평양 등 전 세계 금융 및 헬스케어 산업에 소프트웨어 제품과 관련 서비스를 제공합니다. 증권 회계, 포트폴리오 관리, 규정 준수 등의 금융 솔루션과 청구 심사, 혜택 관리 등 헬스케어 솔루션을 아우르는 포괄적인 기술 스택을 운영합니다. 또한 SS&C GlobeOp, Calastone 등 다양한 소프트웨어 기반 플랫폼을 통해 고객의 비즈니스 효율성을 극대화합니다.
+
+*SS&C Technologies Holdings, Inc., together with its subsidiaries, provides software products and software-enabled services to financial services and healthcare industries in the Americas, Europe, the Middle East, Africa, and Asia Pacific. The company owns and operates technology stack across securities accounting; front-office functions, such as trading and modeling; middle-office functions comprising portfolio management and reporting; back-office functions, such as accounting, performance measurement, reconciliation, reporting, processing and clearing, and compliance and tax reporting; and healthcare solutions consisting of claims adjudication, benefit management, care management, and business intelligence solutions. It also offers software-enabled services, such as SS&C GlobeOp, Global Investor and Distribution Solutions, SS&C Retirement Solutions, Calastone, Managed Services, Data Solutions, ALPS Advisors, and Virtual Data Rooms, as well as pharmacy, healthcare administration, and health outcomes optimization solutions.*
 
 ---
 

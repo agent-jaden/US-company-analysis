@@ -1,10 +1,12 @@
 # Synchrony Financial (SYF) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Credit Services | 시총 26B$ | 결산월: 12월**
+**Financial Services | Credit Services | 시총 26B$ (#517위) | 결산월: 12월**
 
-Synchrony Financial, together with its subsidiaries, operates as a consumer financial services company in the United States. The company provides credit products, such as credit cards, commercial credit products, and consumer installment loans. It also offers private label credit cards, dual and general purpose co-branded cards, short- and long-term installment loans, and consumer banking products; and deposit products, including certificates of deposit, individual retirement accounts, money market accounts, savings accounts, and sweep and affinity deposits, as well as accepts deposits through third-party firms.
+Synchrony Financial은 미국 내 소비자에게 다양한 금융 서비스를 제공하는 금융 전문 기업입니다. 일반 신용카드 및 소매업체와 제휴한 공동 브랜드 카드, 단기 및 장기 할부 대출을 지원하며 양도성 예금증서(CD)와 수시입출금 계좌를 통한 예금 수취 사업도 병행합니다.
+
+*Synchrony Financial, together with its subsidiaries, operates as a consumer financial services company in the United States. The company provides credit products, such as credit cards, commercial credit products, and consumer installment loans. It also offers private label credit cards, dual and general purpose co-branded cards, short- and long-term installment loans, and consumer banking products; and deposit products, including certificates of deposit, individual retirement accounts, money market accounts, savings accounts, and sweep and affinity deposits, as well as accepts deposits through third-party firms.*
 
 ---
 

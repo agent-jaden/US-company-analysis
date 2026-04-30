@@ -1,10 +1,12 @@
 # WEC ENERGY GROUP, INC. (WEC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 37B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 37B$ (#396위) | 결산월: 12월**
 
-WEC Energy Group, Inc., through its subsidiaries, provides regulated natural gas and electricity, and renewable and nonregulated renewable energy services in the United States. The company operates through Wisconsin, Illinois, Other States, Electric Transmission, and Non-Utility Energy Infrastructure segments. It generates and distributes electricity from coal, natural gas, oil, and nuclear, as well as renewable energy resources, including wind, solar, hydroelectric, and biomass; and distributes and hydroelectric natural gas.
+WEC Energy Group은 자회사를 통해 미국에서 규제 천연가스·전력 서비스와 재생에너지 및 비규제 재생에너지 서비스를 제공한다. 석탄, 천연가스, 석유, 원자력, 풍력, 태양광, 수력, 바이오매스 기반 전력을 생산·배급하고 천연가스도 배급한다.
+
+*WEC Energy Group, Inc., through its subsidiaries, provides regulated natural gas and electricity, and renewable and nonregulated renewable energy services in the United States. The company operates through Wisconsin, Illinois, Other States, Electric Transmission, and Non-Utility Energy Infrastructure segments. It generates and distributes electricity from coal, natural gas, oil, and nuclear, as well as renewable energy resources, including wind, solar, hydroelectric, and biomass; and distributes and hydroelectric natural gas.*
 
 ---
 

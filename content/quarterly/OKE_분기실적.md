@@ -1,10 +1,12 @@
 # ONEOK INC /NEW/ (OKE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Midstream | 시총 55B$ | 결산월: 12월**
+**Energy | Oil & Gas Midstream | 시총 55B$ (#301위) | 결산월: 12월**
 
-ONEOK, Inc. operates as a midstream service provider of gathering, processing, fractionation, transportation, storage, and marine export services in the United States. It operates in four segments: Natural Gas Gathering and Processing; Natural Gas Liquids; Natural Gas Pipelines; and Refined Products and Crude.
+ONEOK은 미국에서 수집, 처리, 분류, 운송, 저장, 해상 수출 서비스를 제공하는 미드스트림 사업자다. Natural Gas Gathering and Processing, Natural Gas Liquids, Natural Gas Pipelines, Refined Products and Crude 부문을 운영한다.
+
+*ONEOK, Inc. operates as a midstream service provider of gathering, processing, fractionation, transportation, storage, and marine export services in the United States. It operates in four segments: Natural Gas Gathering and Processing; Natural Gas Liquids; Natural Gas Pipelines; and Refined Products and Crude.*
 
 ---
 

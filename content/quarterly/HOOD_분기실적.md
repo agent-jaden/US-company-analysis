@@ -1,10 +1,12 @@
 # Robinhood Markets, Inc. (HOOD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Capital Markets | 시총 76B$ | 결산월: 12월**
+**Financial Services | Capital Markets | 시총 76B$ (#226위) | 결산월: 12월**
 
-Robinhood Markets, Inc. operates financial services platform in the United States. The company's platform allows users to invest in stocks, exchange-traded funds (ETFs), and American depository receipts.
+Robinhood Markets, Inc.는 미국 내에서 사용자가 주식, 상장지수펀드(ETF), 미국 예탁 영수증(ADR) 등에 투자할 수 있는 모바일 금융 플랫폼을 제공합니다. 수수료 없는 거래 환경을 통해 대중의 금융 시장 접근성을 확대하는 데 주력하고 있습니다.
+
+*Robinhood Markets, Inc. operates financial services platform in the United States. The company's platform allows users to invest in stocks, exchange-traded funds (ETFs), and American depository receipts.*
 
 ---
 

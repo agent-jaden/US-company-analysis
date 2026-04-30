@@ -1,10 +1,12 @@
 # NRG ENERGY, INC. (NRG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Independent Power Producers | 시총 34B$ | 결산월: 12월**
+**Utilities | Utilities - Independent Power Producers | 시총 34B$ (#424위) | 결산월: 12월**
 
-NRG Energy, Inc., together with its subsidiaries, operates as an energy and home services company in the United States and Canada. It operates through the Texas, East, West/Other, Vivint Smart Home, and Corporate Activities segments. The company offers retail electricity, energy management, demand response and virtual power plant programs, carbon offsets, smart home security, and automation services.
+NRG Energy는 미국과 캐나다에서 에너지와 홈서비스 사업을 운영한다. Texas, East, West/Other, Vivint Smart Home 부문 등을 통해 소매 전력, 에너지 관리, 수요반응, 가상발전소 프로그램, 탄소상쇄, 스마트홈 보안·자동화 서비스를 제공한다.
+
+*NRG Energy, Inc., together with its subsidiaries, operates as an energy and home services company in the United States and Canada. It operates through the Texas, East, West/Other, Vivint Smart Home, and Corporate Activities segments. The company offers retail electricity, energy management, demand response and virtual power plant programs, carbon offsets, smart home security, and automation services.*
 
 ---
 

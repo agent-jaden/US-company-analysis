@@ -1,10 +1,12 @@
 # DOW INC. (DOW) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Chemicals | 시총 27B$ | 결산월: 12월**
+**Basic Materials | Chemicals | 시총 27B$ (#498위) | 결산월: 12월**
 
-Dow Inc., through its subsidiaries, provides various materials science solutions for packaging, infrastructure, mobility, and consumer applications in the United States, Canada, Europe, the Middle East, Africa, India, the Asia Pacific, and Latin America. The company operates through Packaging & Specialty Plastics, Industrial Intermediates & Infrastructure, and Performance Materials & Coatings segments. The Packaging & Specialty Plastics segment provides ethylene, propylene, polyethylene, and aromatics products; and other ethylene derivatives, such as polyolefin elastomers, ethylene vinyl acetate, and ethylene propylene diene monomer rubber.
+미국, 유럽, 아시아 등 전 세계 패키징, 인프라, 모빌리티 및 소비재 시장을 위한 다양한 재료 과학 솔루션을 제공합니다. 패키징 및 특수 플라스틱 부문을 통해 에틸렌, 폴리에틸렌 등 광범위한 화학 기반 기초 원료 및 폴리머 파생품을 생산합니다.
+
+*Dow Inc., through its subsidiaries, provides various materials science solutions for packaging, infrastructure, mobility, and consumer applications in the United States, Canada, Europe, the Middle East, Africa, India, the Asia Pacific, and Latin America. The company operates through Packaging & Specialty Plastics, Industrial Intermediates & Infrastructure, and Performance Materials & Coatings segments. The Packaging & Specialty Plastics segment provides ethylene, propylene, polyethylene, and aromatics products; and other ethylene derivatives, such as polyolefin elastomers, ethylene vinyl acetate, and ethylene propylene diene monomer rubber.*
 
 ---
 

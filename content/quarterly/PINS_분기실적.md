@@ -1,10 +1,12 @@
 # PINTEREST, INC. (PINS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Internet Content & Information | 시총 13B$ | 결산월: 12월**
+**Communication Services | Internet Content & Information | 시총 13B$ (#819위) | 결산월: 12월**
 
-Pinterest, Inc. operates as a visual search and discovery platform in the United States, Canada, Europe, and internationally. The company's platform allows people to find ideas, such as recipes, home and style inspiration, and others; and to search, save, and shop the ideas.
+Pinterest는 미국, 캐나다, 유럽 및 해외에서 비주얼 검색·발견 플랫폼을 운영한다. 사용자가 레시피, 홈·스타일 영감 등 아이디어를 찾고, 검색·저장·쇼핑할 수 있도록 지원한다.
+
+*Pinterest, Inc. operates as a visual search and discovery platform in the United States, Canada, Europe, and internationally. The company's platform allows people to find ideas, such as recipes, home and style inspiration, and others; and to search, save, and shop the ideas.*
 
 ---
 

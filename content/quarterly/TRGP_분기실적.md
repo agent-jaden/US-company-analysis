@@ -1,10 +1,12 @@
 # Targa Resources Corp. (TRGP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Midstream | 시총 52B$ | 결산월: 12월**
+**Energy | Oil & Gas Midstream | 시총 52B$ (#315위) | 결산월: 12월**
 
-Targa Resources Corp., together with its subsidiaries, owns, operates, acquires, and develops a portfolio of complementary domestic infrastructure assets in North America. It operates in two segments, Gathering and Processing, and Logistics and Transportation. The company is involved in gathering, compressing, treating, processing, transporting, and selling natural gas; storing, fractionating, treating, transporting, and selling natural gas liquids (NGL) and NGL products, including services to liquefied petroleum gas exporters; and gathering, storing, terminaling, purchasing, and selling crude oil.
+Targa Resources는 북미에서 상호보완적인 국내 에너지 인프라 자산을 보유·운영·취득·개발한다. Gathering and Processing, Logistics and Transportation 부문을 통해 천연가스의 수집·압축·처리·가공·운송·판매, NGL의 저장·분류·처리·운송·판매, 원유의 수집·저장·터미널링·매매를 수행한다.
+
+*Targa Resources Corp., together with its subsidiaries, owns, operates, acquires, and develops a portfolio of complementary domestic infrastructure assets in North America. It operates in two segments, Gathering and Processing, and Logistics and Transportation. The company is involved in gathering, compressing, treating, processing, transporting, and selling natural gas; storing, fractionating, treating, transporting, and selling natural gas liquids (NGL) and NGL products, including services to liquefied petroleum gas exporters; and gathering, storing, terminaling, purchasing, and selling crude oil.*
 
 ---
 

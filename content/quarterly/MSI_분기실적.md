@@ -1,10 +1,12 @@
 # Motorola Solutions, Inc. (MSI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Communication Equipment | 시총 72B$ | 결산월: 12월**
+**Technology | Communication Equipment | 시총 72B$ (#234위) | 결산월: 12월**
 
-Motorola Solutions, Inc. provides public safety, government, defense, and enterprise security solutions in the United States, the United Kingdom, Canada, and internationally. It operates in two segments, Products and Systems Integration, and Software and Services.
+Motorola Solutions, Inc.는 미국, 영국, 캐나다 등 전 세계에서 공공 안전, 국방 및 기업용 보안 통신 솔루션을 제공합니다. 제품 및 시스템 통합, 소프트웨어 및 서비스 부문을 통해 필수적인 통신 기기와 비디오 보안 네트워크 인프라를 구축하고 관리합니다.
+
+*Motorola Solutions, Inc. provides public safety, government, defense, and enterprise security solutions in the United States, the United Kingdom, Canada, and internationally. It operates in two segments, Products and Systems Integration, and Software and Services.*
 
 ---
 

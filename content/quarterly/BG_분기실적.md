@@ -1,10 +1,12 @@
 # Bunge Global SA (BG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Farm Products | 시총 24B$ | 결산월: 12월**
+**Consumer Defensive | Farm Products | 시총 24B$ (#546위) | 결산월: 12월**
 
-Bunge Global SA operates as an agribusiness and food company worldwide. It operates through four segments: Soybean Processing and Refining, Softseed Processing and Refining, Other Oilseeds Processing and Refining, and Grain Merchandising and Milling. The Soybean Processing and Refining segment is involved in the purchase, storage, transportation, processing, distribution, refining, marketing, and sale of soybeans and soybean related products, as well as biodiesel and fertilizer production and distribution for the food, animal feed and biofuel industries.
+Bunge Global SA는 전 세계적으로 활동하는 대규모 농산물 및 식품 기업입니다. 대두, 연질 종자 및 기타 유지종자의 가공 및 정제 부문을 통해 대두 구매, 저장, 가공, 마케팅을 진행하며 식품, 동물 사료 및 바이오 연료 산업을 위한 제품을 생산하고 유통합니다.
+
+*Bunge Global SA operates as an agribusiness and food company worldwide. It operates through four segments: Soybean Processing and Refining, Softseed Processing and Refining, Other Oilseeds Processing and Refining, and Grain Merchandising and Milling. The Soybean Processing and Refining segment is involved in the purchase, storage, transportation, processing, distribution, refining, marketing, and sale of soybeans and soybean related products, as well as biodiesel and fertilizer production and distribution for the food, animal feed and biofuel industries.*
 
 ---
 

@@ -1,10 +1,12 @@
 # American Water Works Company, Inc. (AWK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Water | 시총 26B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Water | 시총 26B$ (#525위) | 결산월: 12월**
 
-American Water Works Company, Inc., through its subsidiaries, provides water and wastewater services in the United States. It offers water and wastewater services on military installations; and undertakes contracts with municipal customers, primarily to operate and manage water and wastewater facilities, as well as offers other related services. The company also operates approximately 80 surface water treatment plants; 520 groundwater treatment plants; 170 wastewater treatment plants; 55,000 miles of transmission, distribution, and collection mains and pipes; 1,200 groundwater wells; 1,800 water and wastewater pumping stations; 1,100 treated water storage facilities; and 75 dams.
+American Water Works Company, Inc.는 자회사를 통해 미국 전역에서 상하수도 서비스를 제공하는 기업입니다. 군사 시설 및 지방 자치 단체와 수처리 시설 관리 계약을 맺고 있으며, 80개의 지표수 처리장, 520개의 지하수 처리장 및 55,000마일 이상의 광범위한 송배수관 네트워크를 직접 운영합니다.
+
+*American Water Works Company, Inc., through its subsidiaries, provides water and wastewater services in the United States. It offers water and wastewater services on military installations; and undertakes contracts with municipal customers, primarily to operate and manage water and wastewater facilities, as well as offers other related services. The company also operates approximately 80 surface water treatment plants; 520 groundwater treatment plants; 170 wastewater treatment plants; 55,000 miles of transmission, distribution, and collection mains and pipes; 1,200 groundwater wells; 1,800 water and wastewater pumping stations; 1,100 treated water storage facilities; and 75 dams.*
 
 ---
 

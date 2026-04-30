@@ -1,10 +1,12 @@
 # LENNOX INTERNATIONAL INC (LII) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Building Products & Equipment | 시총 17B$ | 결산월: 12월**
+**Industrials | Building Products & Equipment | 시총 17B$ (#679위) | 결산월: 12월**
 
-Lennox International Inc., together with its subsidiaries, designs, manufactures, and markets products for the heating, ventilation, air conditioning, and refrigeration markets in the United States, Canada, and internationally. The Home Comfort Solutions segment provides furnaces, air conditioners, heat pumps, packaged heating and cooling systems, indoor air quality equipment, comfort control products, and replacement parts and supplies; residential heating, ventilation, cooling equipment, and air conditioning; and evaporator coils, air handlers, and unit heaters under Lennox, Dave Lennox Signature Collection, Armstrong Air, Ducane, AirEase, Concord, MagicPak, Advanced Distributor Products, Allied, Elite Series, Supco, Linebacker, Elite series, Merit Series, Comfort Sync, Healthy Climate, Healthy Climate Solutions, iComfort, ComfortSense, and Lennox Stores name. The Building Climate Solutions segment offers unitary heating and air conditioning equipment, applied systems, controls, installation and service of commercial heating and cooling equipment, variable refrigerant flow commercial, curb, curb adapters, drop box diffusers, HVAC recycling, and salvage service.
+Lennox International은 미국, 캐나다 및 해외에서 난방, 환기, 공조, 냉동 시장용 제품을 설계·제조·마케팅한다. Home Comfort Solutions와 Building Climate Solutions 부문을 통해 furnace, 에어컨, 히트펌프, 실내공기질 장비, 상업용 냉난방 장비, 제어·설치·서비스, VRF 시스템 등을 제공한다.
+
+*Lennox International Inc., together with its subsidiaries, designs, manufactures, and markets products for the heating, ventilation, air conditioning, and refrigeration markets in the United States, Canada, and internationally. The Home Comfort Solutions segment provides furnaces, air conditioners, heat pumps, packaged heating and cooling systems, indoor air quality equipment, comfort control products, and replacement parts and supplies; residential heating, ventilation, cooling equipment, and air conditioning; and evaporator coils, air handlers, and unit heaters under Lennox, Dave Lennox Signature Collection, Armstrong Air, Ducane, AirEase, Concord, MagicPak, Advanced Distributor Products, Allied, Elite Series, Supco, Linebacker, Elite series, Merit Series, Comfort Sync, Healthy Climate, Healthy Climate Solutions, iComfort, ComfortSense, and Lennox Stores name. The Building Climate Solutions segment offers unitary heating and air conditioning equipment, applied systems, controls, installation and service of commercial heating and cooling equipment, variable refrigerant flow commercial, curb, curb adapters, drop box diffusers, HVAC recycling, and salvage service.*
 
 ---
 

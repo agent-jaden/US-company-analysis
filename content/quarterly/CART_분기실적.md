@@ -1,10 +1,12 @@
 # Maplebear Inc. (CART) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Internet Retail | 시총 10B$ | 결산월: 12월**
+**Consumer Cyclical | Internet Retail | 시총 10B$ (#968위) | 결산월: 12월**
 
-Maplebear Inc., doing business as Instacart, operates as a technology and enablement partner for the grocery industry in the United States and internationally. The company offers Instacart Marketplace which helps retailers serve customers' needs by supporting fulfillment options, shopping occasions, and categories; Instacart Enterprise platform, an end-to-end technology solution for retailers across all aspects of business; and Instacart Ads, enables brands to learn more about general consumer behavior from discovery to purchase, offering insights about how to optimize advertising spend. It also provides advertising solutions, including sponsored product ads, display ads, coupons, and brand pages; and software-as-a-service.
+Maplebear는 Instacart라는 이름으로 미국과 해외 식료품 산업의 기술 및 enablement 파트너로 운영된다. Instacart Marketplace, Instacart Enterprise, Instacart Ads를 통해 리테일러의 온라인 주문·풀필먼트, 엔드투엔드 기술 운영, 광고 최적화와 sponsored product ads, display ads, coupons, brand pages, SaaS 솔루션을 제공한다.
+
+*Maplebear Inc., doing business as Instacart, operates as a technology and enablement partner for the grocery industry in the United States and internationally. The company offers Instacart Marketplace which helps retailers serve customers' needs by supporting fulfillment options, shopping occasions, and categories; Instacart Enterprise platform, an end-to-end technology solution for retailers across all aspects of business; and Instacart Ads, enables brands to learn more about general consumer behavior from discovery to purchase, offering insights about how to optimize advertising spend. It also provides advertising solutions, including sponsored product ads, display ads, coupons, and brand pages; and software-as-a-service.*
 
 ---
 

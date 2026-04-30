@@ -1,10 +1,12 @@
 # Venture Global, Inc. (VG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Midstream | 시총 30B$ | 결산월: 12월**
+**Energy | Oil & Gas Midstream | 시총 30B$ (#466위) | 결산월: 12월**
 
-Venture Global, Inc., a liquefied natural gas (LNG) company, engages in the ownership, development, construction, and operation of LNG production facilities and associated infrastructure in the United States, Germany, France, Netherlands, the United Kingdom, and internationally.The company is involved in LNG production, natural gas transportation, and regasification operations, as well as LNG sales and shipping business through LNG tankers. Its LNG projects include Calcasieu, Plaquemines, and CP2 projects. The company was founded in 2013 and is headquartered in Arlington, Virginia.
+미국, 독일, 프랑스 등 전 세계적으로 액화천연가스(LNG) 생산 시설 및 관련 인프라를 소유, 개발, 건설 및 운영하는 에너지 기업입니다. 2013년에 설립되어 Calcasieu, Plaquemines, CP2 등의 프로젝트를 통해 LNG 생산, 천연가스 운송, 재기화 작업 및 유조선을 통한 해상 운송 사업을 전개합니다.
+
+*Venture Global, Inc., a liquefied natural gas (LNG) company, engages in the ownership, development, construction, and operation of LNG production facilities and associated infrastructure in the United States, Germany, France, Netherlands, the United Kingdom, and internationally.The company is involved in LNG production, natural gas transportation, and regasification operations, as well as LNG sales and shipping business through LNG tankers. Its LNG projects include Calcasieu, Plaquemines, and CP2 projects. The company was founded in 2013 and is headquartered in Arlington, Virginia.*
 
 ---
 

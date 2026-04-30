@@ -1,10 +1,12 @@
 # CHEVRON CORP (CVX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Integrated | 시총 368B$ | 결산월: 12월**
+**Energy | Oil & Gas Integrated | 시총 368B$ (#29위) | 결산월: 12월**
 
-Chevron Corporation, through its subsidiaries, engages in the integrated energy and chemicals operations in the United States and internationally. It operates through Upstream, Downstream, and All Other segments. The Upstream segment engages in the exploration for, development, production, and transportation of crude oil and natural gas; processing, liquefaction, transportation, and regasification of liquefied natural gas; transportation of crude oil through pipelines; transportation, storage, and marketing of natural gas; carbon capture and storage; and operation of a gas-to-liquids plant.
+Chevron Corporation은 자회사를 통해 전 세계에서 통합 에너지 및 화학 사업을 운영합니다. 원유 및 천연가스의 탐사, 개발, 생산을 담당하는 Upstream 부문과 하류 부문 등으로 나뉘어 수송, 탄소 포집 및 저장 사업을 수행합니다.
+
+*Chevron Corporation, through its subsidiaries, engages in the integrated energy and chemicals operations in the United States and internationally. It operates through Upstream, Downstream, and All Other segments. The Upstream segment engages in the exploration for, development, production, and transportation of crude oil and natural gas; processing, liquefaction, transportation, and regasification of liquefied natural gas; transportation of crude oil through pipelines; transportation, storage, and marketing of natural gas; carbon capture and storage; and operation of a gas-to-liquids plant.*
 
 ---
 

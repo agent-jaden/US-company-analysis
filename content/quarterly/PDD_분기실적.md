@@ -1,10 +1,12 @@
 # PDD Holdings Inc. (PDD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
 
-**Consumer Cyclical | Internet Retail | 시총 140B$ | 결산월: 12월**
+**Consumer Cyclical | Internet Retail | 시총 140B$ (#107위) | 결산월: 12월**
 
-PDD Holdings Inc., a multinational commerce group that owns and operates a portfolio of businesses. It operates Pinduoduo platform which provides various product categories, including agricultural produce, apparel, shoes, bags, mother and childcare products, food and beverages, consumer electronics, electronic appliances, furniture and household goods, cosmetics and other personal care items, sports and fitness, and auto accessories; and Temu, an online platform, which enables merchants to streamline their manufacturing and commercial operations. The company was formerly known as Pinduoduo Inc.
+PDD Holdings는 Pinduoduo와 Temu를 운영하는 다국적 커머스 그룹이다. Pinduoduo는 농산물, 의류, 식품, 가전, 가구, 화장품 등 다양한 상품 카테고리를 제공하며, Temu는 판매자가 제조와 상거래 운영을 효율화할 수 있도록 지원하는 온라인 플랫폼이다.
+
+*PDD Holdings Inc., a multinational commerce group that owns and operates a portfolio of businesses. It operates Pinduoduo platform which provides various product categories, including agricultural produce, apparel, shoes, bags, mother and childcare products, food and beverages, consumer electronics, electronic appliances, furniture and household goods, cosmetics and other personal care items, sports and fitness, and auto accessories; and Temu, an online platform, which enables merchants to streamline their manufacturing and commercial operations. The company was formerly known as Pinduoduo Inc.*
 
 ---
 

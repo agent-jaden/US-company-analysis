@@ -1,10 +1,12 @@
 # Natera, Inc. (NTRA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Diagnostics & Research | 시총 29B$ | 결산월: 12월**
+**Healthcare | Diagnostics & Research | 시총 29B$ (#485위) | 결산월: 12월**
 
-Natera, Inc., a diagnostics company, engages in the development and commercialization of molecular testing services worldwide. It offers Signatera, a personalized ctDNA blood test for MRD assessment, early recurrence monitoring, and evaluation of treatment response in patients previously diagnosed with cancer; Latitude, a blood-based MRD test for colorectal cancer; Altera, a tissue based comprehensive genomic profiling test; and Empower, a hereditary cancer screening test. The company also provides Panorama, a non-invasive prenatal test; Horizon, a carrier screening test; Fetal Focus, a single-gene NIPT, or sgNIPT, that screens for 21 single-gene inherited conditions; and Vistara, a single-gene NIPT, which screens for 25 single-gene conditions.
+전 세계적으로 정밀한 분자 진단 테스트 서비스를 개발하고 상용화하는 헬스케어 기업입니다. 암 환자의 미세잔존질환(MRD)을 추적하는 Signatera 혈액 검사와 산전 유전자 검사인 Panorama, Horizon 등 광범위한 유전 질환 스크리닝 솔루션을 제공합니다.
+
+*Natera, Inc., a diagnostics company, engages in the development and commercialization of molecular testing services worldwide. It offers Signatera, a personalized ctDNA blood test for MRD assessment, early recurrence monitoring, and evaluation of treatment response in patients previously diagnosed with cancer; Latitude, a blood-based MRD test for colorectal cancer; Altera, a tissue based comprehensive genomic profiling test; and Empower, a hereditary cancer screening test. The company also provides Panorama, a non-invasive prenatal test; Horizon, a carrier screening test; Fetal Focus, a single-gene NIPT, or sgNIPT, that screens for 21 single-gene inherited conditions; and Vistara, a single-gene NIPT, which screens for 25 single-gene conditions.*
 
 ---
 

@@ -1,10 +1,12 @@
 # OCCIDENTAL PETROLEUM CORP /DE/ (OXY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas E&P | 시총 57B$ | 결산월: 12월**
+**Energy | Oil & Gas E&P | 시총 57B$ (#296위) | 결산월: 12월**
 
-Occidental Petroleum Corporation, together with its subsidiaries, engages in the acquisition, exploration, and development of oil and gas properties in the United States and internationally. It operates through Oil and Gas and Midstream and Marketing. The Oil and Gas segment explores for, develops, and produces oil and condensate, natural gas liquids (NGLs), and natural gas.
+Occidental Petroleum은 미국과 해외에서 석유·가스 자산의 취득, 탐사, 개발을 수행한다. Oil and Gas, Midstream and Marketing 부문을 운영하며 Oil and Gas 부문은 원유·콘덴세이트, NGL, 천연가스를 탐사·개발·생산한다.
+
+*Occidental Petroleum Corporation, together with its subsidiaries, engages in the acquisition, exploration, and development of oil and gas properties in the United States and internationally. It operates through Oil and Gas and Midstream and Marketing. The Oil and Gas segment explores for, develops, and produces oil and condensate, natural gas liquids (NGLs), and natural gas.*
 
 ---
 

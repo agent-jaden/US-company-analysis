@@ -1,10 +1,12 @@
 # CROWN HOLDINGS, INC. (CCK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Packaging & Containers | 시총 11B$ | 결산월: 12월**
+**Consumer Cyclical | Packaging & Containers | 시총 11B$ (#900위) | 결산월: 12월**
 
-Crown Holdings, Inc., together with its subsidiaries, engages in the packaging business in the United States and internationally. It operates through Americas Beverage, European Beverage, Asia Pacific, and Transit Packaging segments. The company manufactures and sells recyclable aluminum beverage cans and ends, glass bottles, steel crowns, aluminum caps, non-beverage cans, food and aerosol cans, and ends and closures.
+Crown Holdings, Inc.는 미주, 유럽, 아시아 등 전 세계적으로 식음료 및 소비재 산업을 위한 포장 솔루션을 제조하는 패키징 기업입니다. 재활용 가능한 알루미늄 캔, 유리병, 스틸 뚜껑, 에어로졸 캔 등을 생산하여 브랜드의 안전한 유통과 보관을 돕습니다.
+
+*Crown Holdings, Inc., together with its subsidiaries, engages in the packaging business in the United States and internationally. It operates through Americas Beverage, European Beverage, Asia Pacific, and Transit Packaging segments. The company manufactures and sells recyclable aluminum beverage cans and ends, glass bottles, steel crowns, aluminum caps, non-beverage cans, food and aerosol cans, and ends and closures.*
 
 ---
 

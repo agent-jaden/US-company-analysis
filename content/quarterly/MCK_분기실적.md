@@ -1,10 +1,12 @@
 # MCKESSON CORP (MCK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Distribution | 시총 101B$ | 결산월: 3월**
+**Healthcare | Medical Distribution | 시총 101B$ (#157위) | 결산월: 3월**
 
-McKesson Corporation provides healthcare services in the United States and internationally. It operates through four segments: U.S. Pharmaceutical, Prescription Technology Solutions (RxTS), Medical-Surgical Solutions, and International.
+McKesson은 미국과 해외에서 헬스케어 서비스를 제공하는 기업이다. U.S. Pharmaceutical, Prescription Technology Solutions, Medical-Surgical Solutions, International 부문을 통해 의약품 유통, 처방 기술, 의료·수술용품 솔루션 등을 운영한다.
+
+*McKesson Corporation provides healthcare services in the United States and internationally. It operates through four segments: U.S. Pharmaceutical, Prescription Technology Solutions (RxTS), Medical-Surgical Solutions, and International.*
 
 ---
 

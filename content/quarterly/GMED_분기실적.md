@@ -1,10 +1,12 @@
 # GLOBUS MEDICAL INC (GMED) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Devices | 시총 13B$ | 결산월: 12월**
+**Healthcare | Medical Devices | 시총 13B$ (#838위) | 결산월: 12월**
 
-Globus Medical, Inc. develops and commercializes healthcare solutions for patients with musculoskeletal disorders in the United States and internationally. The company offers spine products comprising traditional fusion implants, such as pedicle screw and rod systems, plating systems, intervertebral spacers, and corpectomy devices; treatment options for motion preservation technologies consisting of dynamic stabilization, total disc replacement, and interspinous distraction devices; interventional solutions to treat vertebral compression fractures; and biologic solutions, such as allografts and synthetic alternatives.
+Globus Medical은 미국과 해외에서 근골격계 질환 환자를 위한 헬스케어 솔루션을 개발·상업화한다. 척추 유합 임플란트, 동적 안정화·인공디스크 등 motion preservation 제품, 척추압박골절 중재 솔루션, allograft와 합성 대체재 등 biologic 솔루션을 제공한다.
+
+*Globus Medical, Inc. develops and commercializes healthcare solutions for patients with musculoskeletal disorders in the United States and internationally. The company offers spine products comprising traditional fusion implants, such as pedicle screw and rod systems, plating systems, intervertebral spacers, and corpectomy devices; treatment options for motion preservation technologies consisting of dynamic stabilization, total disc replacement, and interspinous distraction devices; interventional solutions to treat vertebral compression fractures; and biologic solutions, such as allografts and synthetic alternatives.*
 
 ---
 

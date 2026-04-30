@@ -1,10 +1,12 @@
 # RAMBUS INC (RMBS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 15B$ | 결산월: 12월**
+**Technology | Semiconductors | 시총 15B$ (#745위) | 결산월: 12월**
 
-Rambus Inc. manufactures and sells semiconductor products in the United States, South Korea, Singapore, and internationally. It offers memory interface chips comprising DDR5 memory interface chips which include registering clock driver, multiplexed registering clock driver, multiplexed data buffer, power management integrated circuits, serial presence detect hubs, temperature sensors, and client clock driver products; and DDR4 memory interface chips.
+Rambus Inc.는 미국, 한국, 전 세계 시장에서 반도체 제품을 설계하고 판매하는 기술 기업입니다. 차세대 DDR5 및 DDR4 메모리 인터페이스 칩, 클럭 드라이버, 데이터 버퍼 및 전력 관리 IC 등 고성능 데이터 처리에 필수적인 메모리 아키텍처 솔루션을 주력으로 제공합니다.
+
+*Rambus Inc. manufactures and sells semiconductor products in the United States, South Korea, Singapore, and internationally. It offers memory interface chips comprising DDR5 memory interface chips which include registering clock driver, multiplexed registering clock driver, multiplexed data buffer, power management integrated circuits, serial presence detect hubs, temperature sensors, and client clock driver products; and DDR4 memory interface chips.*
 
 ---
 

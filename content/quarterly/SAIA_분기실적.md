@@ -1,10 +1,12 @@
 # SAIA INC (SAIA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Trucking | 시총 12B$ | 결산월: 12월**
+**Industrials | Trucking | 시총 12B$ (#881위) | 결산월: 12월**
 
-Saia, Inc., together with its subsidiaries, operates as a transportation company in North America. The company provides less-than-truckload services for shipments between 100 and 10,000 pounds. It also offers other value-added services, including brokered truckload, expedited transportation, and other logistics services.
+Saia, Inc.는 북미 지역에서 100~10,000파운드 무게의 소규모 화물 운송(LTL) 서비스를 제공하는 전문 운송 기업입니다. LTL 서비스 외에도 트럭 단위 화물 주선, 급행 운송 및 맞춤형 공급망 물류 솔루션을 함께 운영하여 고객의 운송 효율성을 높입니다.
+
+*Saia, Inc., together with its subsidiaries, operates as a transportation company in North America. The company provides less-than-truckload services for shipments between 100 and 10,000 pounds. It also offers other value-added services, including brokered truckload, expedited transportation, and other logistics services.*
 
 ---
 

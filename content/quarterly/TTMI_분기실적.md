@@ -1,10 +1,12 @@
 # TTM TECHNOLOGIES INC (TTMI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Electronic Components | 시총 15B$ | 결산월: 12월**
+**Technology | Electronic Components | 시총 15B$ (#754위) | 결산월: 12월**
 
-TTM Technologies, Inc. manufactures and sells mission systems, radio frequency (RF) components, RF microwave/microelectronic assemblies, and printed circuit boards (PCBs) and substrates in the United States, Taiwan, and internationally. It operates in three segments, A&D, Commercial, and RF&S Components.
+TTM Technologies, Inc.는 전 세계적으로 고도로 설계된 임무 시스템, 무선 주파수(RF) 부품 및 인쇄 회로 기판(PCB)을 제조하고 판매합니다. 항공우주 및 국방(A&D), 상업용, 그리고 RF 및 특수 부품 부문을 통해 첨단 전자 기기 조립 및 마이크로파 기술을 지원합니다.
+
+*TTM Technologies, Inc. manufactures and sells mission systems, radio frequency (RF) components, RF microwave/microelectronic assemblies, and printed circuit boards (PCBs) and substrates in the United States, Taiwan, and internationally. It operates in three segments, A&D, Commercial, and RF&S Components.*
 
 ---
 

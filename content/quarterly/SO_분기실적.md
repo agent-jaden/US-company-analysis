@@ -1,10 +1,12 @@
 # SOUTHERN CO (SO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 106B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 106B$ (#153위) | 결산월: 12월**
 
-The Southern Company, through its subsidiaries, engages in the sale of electricity. The company offers electric service to retail customers and wholesale customers; and energy-related products and services to natural gas choice markets. It also develops, constructs, acquires, owns, operates, and manages power generation assets, as well as battery energy storage projects; sells electricity at market-based rates in the wholesale market; and deploys microgrids for commercial, industrial, governmental, and utility customers.
+Southern Company는 자회사를 통해 전력 판매 사업을 영위하는 미국 유틸리티 기업이다. 소매·도매 고객에게 전력 서비스를 제공하고 발전 자산과 배터리 에너지저장 프로젝트를 개발·건설·운영하며, 상업·산업·정부·유틸리티 고객을 위한 마이크로그리드도 구축한다.
+
+*The Southern Company, through its subsidiaries, engages in the sale of electricity. The company offers electric service to retail customers and wholesale customers; and energy-related products and services to natural gas choice markets. It also develops, constructs, acquires, owns, operates, and manages power generation assets, as well as battery energy storage projects; sells electricity at market-based rates in the wholesale market; and deploys microgrids for commercial, industrial, governmental, and utility customers.*
 
 ---
 

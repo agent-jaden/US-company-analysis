@@ -1,10 +1,12 @@
 # VISA INC. (V) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Credit Services | 시총 597B$ | 결산월: 9월**
+**Financial Services | Credit Services | 시총 597B$ (#17위) | 결산월: 9월**
 
-Visa Inc. operates as a payment technology company in the United States and internationally. The company operates VisaNet, a transaction processing network that enables authorization, clearing, and settlement of payment transactions.
+Visa Inc.는 미국 및 전 세계에서 활동하는 결제 기술 기업입니다. 결제 거래의 승인, 청산 및 결제를 가능하게 하는 거래 처리 네트워크인 VisaNet을 운영하고 있습니다.
+
+*Visa Inc. operates as a payment technology company in the United States and internationally. The company operates VisaNet, a transaction processing network that enables authorization, clearing, and settlement of payment transactions.*
 
 ---
 

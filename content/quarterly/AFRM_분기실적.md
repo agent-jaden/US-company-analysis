@@ -1,10 +1,12 @@
 # Affirm Holdings, Inc. (AFRM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Credit Services | 시총 22B$ | 결산월: 6월**
+**Financial Services | Credit Services | 시총 22B$ (#594위) | 결산월: 6월**
 
-Affirm Holdings, Inc. operates payment network in the United States, Canada, and internationally. Its platform includes point-of-sale payment solution for consumers, merchant commerce solutions, and a consumer-focused app.
+Affirm은 미국, 캐나다 및 해외에서 결제 네트워크를 운영한다. 소비자용 POS 결제 솔루션, 가맹점 커머스 솔루션, 소비자 중심 앱을 포함한 플랫폼을 제공한다.
+
+*Affirm Holdings, Inc. operates payment network in the United States, Canada, and internationally. Its platform includes point-of-sale payment solution for consumers, merchant commerce solutions, and a consumer-focused app.*
 
 ---
 

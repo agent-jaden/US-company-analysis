@@ -1,10 +1,12 @@
 # HUNTINGTON BANCSHARES INC /MD/ (HBAN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Regional | 시총 34B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 34B$ (#431위) | 결산월: 12월**
 
-Huntington Bancshares Incorporated operates as the bank holding company for The Huntington National Bank that provides commercial, consumer, and mortgage banking services. It offers financial products and services to consumer and business customers, including deposits, lending, payments, mortgage banking, dealer financing, investment management, trust, brokerage, insurance, and other financial products and services. The company also provides 24-Hour Grace, Asterisk-Free Checking, Money Scout, $50 Safety Zone, Standby Cash, Early Pay, Instant Access, Savings Goal Getter, And Huntington Heads Up; digitally powered consumer and business financial solutions to consumer finance, regional banking, branch banking, and wealth management customers; direct and indirect consumer loans; dealer finance loans and deposits; and private banking, wealth management and legacy planning through investment and portfolio management, fiduciary administration and trust, institutional custody, and full-service retail brokerage investment services.
+Huntington Bancshares는 The Huntington National Bank의 은행지주회사로 상업, 소비자, 모기지 뱅킹 서비스를 제공한다. 예금, 대출, 결제, 모기지, 딜러 금융, 투자관리, 신탁, 브로커리지, 보험, 디지털 금융 솔루션, 프라이빗뱅킹과 자산관리 서비스를 운영한다.
+
+*Huntington Bancshares Incorporated operates as the bank holding company for The Huntington National Bank that provides commercial, consumer, and mortgage banking services. It offers financial products and services to consumer and business customers, including deposits, lending, payments, mortgage banking, dealer financing, investment management, trust, brokerage, insurance, and other financial products and services. The company also provides 24-Hour Grace, Asterisk-Free Checking, Money Scout, $50 Safety Zone, Standby Cash, Early Pay, Instant Access, Savings Goal Getter, And Huntington Heads Up; digitally powered consumer and business financial solutions to consumer finance, regional banking, branch banking, and wealth management customers; direct and indirect consumer loans; dealer finance loans and deposits; and private banking, wealth management and legacy planning through investment and portfolio management, fiduciary administration and trust, institutional custody, and full-service retail brokerage investment services.*
 
 ---
 

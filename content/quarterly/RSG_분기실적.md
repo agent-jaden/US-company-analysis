@@ -1,10 +1,12 @@
 # REPUBLIC SERVICES, INC. (RSG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Waste Management | 시총 64B$ | 결산월: 12월**
+**Industrials | Waste Management | 시총 64B$ (#267위) | 결산월: 12월**
 
-Republic Services, Inc., together with its subsidiaries, offers environmental services in the United States and Canada. It is involved in the collection and processing of recyclable, solid waste, and industrial waste materials; transportation and disposal of non-hazardous and hazardous waste streams; and other environmental solutions. Its residential collection services include curbside collection of material for transport to transfer stations, landfills, recycling centers, and organics processing facilities; supply of recycling and waste containers; and renting of compactors.
+Republic Services는 미국과 캐나다에서 환경 서비스를 제공한다. 재활용품, 고형폐기물, 산업폐기물의 수거·처리, 비유해·유해 폐기물 운송·처분, 재활용·폐기물 컨테이너 공급, 압축기 임대 등 환경 솔루션을 운영한다.
+
+*Republic Services, Inc., together with its subsidiaries, offers environmental services in the United States and Canada. It is involved in the collection and processing of recyclable, solid waste, and industrial waste materials; transportation and disposal of non-hazardous and hazardous waste streams; and other environmental solutions. Its residential collection services include curbside collection of material for transport to transfer stations, landfills, recycling centers, and organics processing facilities; supply of recycling and waste containers; and renting of compactors.*
 
 ---
 

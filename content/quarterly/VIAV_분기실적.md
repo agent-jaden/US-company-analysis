@@ -1,10 +1,12 @@
 # VIAVI SOLUTIONS INC. (VIAV) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Communication Equipment | 시총 10B$ | 결산월: 6월**
+**Technology | Communication Equipment | 시총 10B$ (#955위) | 결산월: 6월**
 
-Viavi Solutions Inc. provides network test, monitoring, and assurance solutions for telecommunications, cloud, enterprises, first responders, military, aerospace, and critical infrastructures in the Americas, the Asia-Pacific, Europe, the Middle East, and Africa. It operates in two segments, Network and Service Enablement (NSE) and Optical Security and Performance Products (OSP).
+Viavi Solutions는 미주, 아시아태평양, 유럽, 중동, 아프리카에서 통신, 클라우드, 기업, 응급대응, 군사, 항공우주, 핵심 인프라용 네트워크 테스트, 모니터링, 보증 솔루션을 제공한다. Network and Service Enablement와 Optical Security and Performance Products 부문을 운영한다.
+
+*Viavi Solutions Inc. provides network test, monitoring, and assurance solutions for telecommunications, cloud, enterprises, first responders, military, aerospace, and critical infrastructures in the Americas, the Asia-Pacific, Europe, the Middle East, and Africa. It operates in two segments, Network and Service Enablement (NSE) and Optical Security and Performance Products (OSP).*
 
 ---
 

@@ -1,10 +1,12 @@
 # FEDEX CORP (FDX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Integrated Freight & Logistics | 시총 93B$ | 결산월: 5월**
+**Industrials | Integrated Freight & Logistics | 시총 93B$ (#182위) | 결산월: 5월**
 
-FedEx Corporation, together with its subsidiaries, provides transportation, e-commerce, and business services in the United States and internationally. It operates through Federal Express and FedEx Freight segments. The company offers transportation services, including express, freight, less-than-truckload freight, and time-specific freight-shipping; and small-package ground delivery services.
+FedEx는 미국과 해외에서 운송, 전자상거래, 비즈니스 서비스를 제공한다. Federal Express와 FedEx Freight 부문을 통해 특송, 화물, less-than-truckload, 정시 화물 운송, 소형 패키지 지상 배송 서비스를 운영한다.
+
+*FedEx Corporation, together with its subsidiaries, provides transportation, e-commerce, and business services in the United States and internationally. It operates through Federal Express and FedEx Freight segments. The company offers transportation services, including express, freight, less-than-truckload freight, and time-specific freight-shipping; and small-package ground delivery services.*
 
 ---
 

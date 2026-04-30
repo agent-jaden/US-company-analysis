@@ -1,10 +1,12 @@
 # NISOURCE INC. (NI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Gas | 시총 23B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Gas | 시총 23B$ (#564위) | 결산월: 12월**
 
-NiSource Inc., an energy holding company, operates as a regulated natural gas and electric utility company in the United States. It operates in two segments, Columbia Operations and NIPSCO Operations. The company provides natural gas to residential, commercial, and industrial customers through approximately 37,300 miles of distribution main pipeline and the associated individual customer service lines; and 310 miles of transmission main pipeline in Ohio, Pennsylvania, Virginia, Kentucky, and Maryland.
+NiSource는 미국에서 규제 천연가스 및 전력 유틸리티로 운영되는 에너지 지주회사다. Columbia Operations와 NIPSCO Operations 부문을 통해 Ohio, Pennsylvania, Virginia, Kentucky, Maryland 지역의 주거·상업·산업 고객에게 약 37,300마일의 배급관과 310마일의 송전관으로 천연가스를 공급한다.
+
+*NiSource Inc., an energy holding company, operates as a regulated natural gas and electric utility company in the United States. It operates in two segments, Columbia Operations and NIPSCO Operations. The company provides natural gas to residential, commercial, and industrial customers through approximately 37,300 miles of distribution main pipeline and the associated individual customer service lines; and 310 miles of transmission main pipeline in Ohio, Pennsylvania, Virginia, Kentucky, and Maryland.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Blackstone Inc. (BX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Asset Management | 시총 147B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 147B$ (#103위) | 결산월: 12월**
 
-Blackstone Inc. is an alternative asset management firm specializing in private equity, venture capital, real estate, hedge fund solutions, credit, secondary funds of funds, public debt and equity and multi-asset class strategies. The firm typically invests in early-stage, seed, middle market, mature, late venture, growth capital, emerging growth, turnaround, and later stage companies.
+Blackstone은 사모펀드, 부동산, 신용, 헤지펀드 솔루션, 세컨더리 펀드, 공모·비공모 채권 및 주식 등 다양한 대체자산을 운용하는 글로벌 투자회사다. 초기·성장·중견·성숙 단계 기업부터 턴어라운드와 후기 단계 기업까지 폭넓게 투자한다.
+
+*Blackstone Inc. is an alternative asset management firm specializing in private equity, venture capital, real estate, hedge fund solutions, credit, secondary funds of funds, public debt and equity and multi-asset class strategies. The firm typically invests in early-stage, seed, middle market, mature, late venture, growth capital, emerging growth, turnaround, and later stage companies.*
 
 ---
 

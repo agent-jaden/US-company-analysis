@@ -1,10 +1,12 @@
 # STERIS plc (STE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Devices | 시총 22B$ | 결산월: 3월**
+**Healthcare | Medical Devices | 시총 22B$ (#590위) | 결산월: 3월**
 
-STERIS plc provides infection prevention products and services worldwide. It operates in three segments: Healthcare, Applied Sterilization Technologies (AST), and Life Sciences. The Healthcare segment offers cleaning chemistries and sterility assurance products; automated endoscope reprocessing system and tracking products; endoscopy accessories, washers, sterilizers, and other pieces of capital equipment for the operation of a sterile processing department; and equipment used directly in procedure rooms, including surgical tables, lights, and connectivity solutions, as well as equipment management services.
+STERIS는 전 세계에서 감염 예방 제품과 서비스를 제공한다. Healthcare, Applied Sterilization Technologies, Life Sciences 부문을 운영하며 세척 화학제품, 멸균 보증 제품, 내시경 재처리 시스템, 세척기·멸균기, 수술대·조명·연결 솔루션, 장비관리 서비스를 제공한다.
+
+*STERIS plc provides infection prevention products and services worldwide. It operates in three segments: Healthcare, Applied Sterilization Technologies (AST), and Life Sciences. The Healthcare segment offers cleaning chemistries and sterility assurance products; automated endoscope reprocessing system and tracking products; endoscopy accessories, washers, sterilizers, and other pieces of capital equipment for the operation of a sterile processing department; and equipment used directly in procedure rooms, including surgical tables, lights, and connectivity solutions, as well as equipment management services.*
 
 ---
 

@@ -1,10 +1,12 @@
 # EDISON INTERNATIONAL (EIX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 26B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 26B$ (#510위) | 결산월: 12월**
 
-Edison International, through its subsidiaries, engages in the generation and distribution of electric power. The company supplies and delivers through its electrical infrastructure to an approximately 50,000 square-mile area of southern, central, and coastal California. It serves residential, commercial, industrial, public authorities, agricultural, street lighting, and other sectors.
+Edison International은 자회사를 통해 캘리포니아 중부, 남부 및 해안 지역의 약 50,000평방마일에 달하는 구역에 전력을 생산하고 배분하는 전력 공익사업 기업입니다. 자체 전력망 인프라를 통해 주거, 상업, 산업, 농업 및 공공 기관 등 다양한 부문에 안정적인 전기를 공급합니다.
+
+*Edison International, through its subsidiaries, engages in the generation and distribution of electric power. The company supplies and delivers through its electrical infrastructure to an approximately 50,000 square-mile area of southern, central, and coastal California. It serves residential, commercial, industrial, public authorities, agricultural, street lighting, and other sectors.*
 
 ---
 

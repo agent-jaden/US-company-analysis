@@ -1,10 +1,12 @@
 # AMERIPRISE FINANCIAL INC (AMP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Asset Management | 시총 43B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 43B$ (#359위) | 결산월: 12월**
 
-Ameriprise Financial, Inc., together with its subsidiaries, operates as a diversified financial services company in the United States and internationally. The company offers financial planning and advice services to individual and institutional clients. It operates through Advice & Wealth Management, Asset Management, Retirement & Protection Solutions, Corporate & Other segments.
+Ameriprise Financial은 미국과 해외에서 다양한 금융 서비스를 제공하는 종합 금융회사다. 개인 및 기관 고객에게 재무설계와 자문 서비스를 제공하며 Advice & Wealth Management, Asset Management, Retirement & Protection Solutions 부문을 운영한다.
+
+*Ameriprise Financial, Inc., together with its subsidiaries, operates as a diversified financial services company in the United States and internationally. The company offers financial planning and advice services to individual and institutional clients. It operates through Advice & Wealth Management, Asset Management, Retirement & Protection Solutions, Corporate & Other segments.*
 
 ---
 

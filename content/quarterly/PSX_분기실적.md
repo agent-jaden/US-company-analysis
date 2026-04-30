@@ -1,10 +1,12 @@
 # Phillips 66 (PSX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Refining & Marketing | 시총 66B$ | 결산월: 12월**
+**Energy | Oil & Gas Refining & Marketing | 시총 66B$ (#259위) | 결산월: 12월**
 
-Phillips 66 operates as an integrated downstream energy provider in the United States, the United Kingdom, Germany, and internationally. It operates through five segments: Midstream, Chemicals, Refining, Marketing and Specialties (M&S), and Renewable Fuels. The Midstream segment provides crude oil and refined petroleum product transportation, terminaling, and storage services, as well as natural gas and natural gas liquids (NGL) gathering, processing, transportation, fractionation, storage and marketing services.
+Phillips 66은 미국, 영국, 독일 등에서 통합 다운스트림 에너지 사업을 운영한다. Midstream, Chemicals, Refining, Marketing and Specialties, Renewable Fuels 부문을 통해 원유·정제제품 운송·터미널·저장, 천연가스·NGL 수집·처리·운송·분류·저장·마케팅 서비스를 제공한다.
+
+*Phillips 66 operates as an integrated downstream energy provider in the United States, the United Kingdom, Germany, and internationally. It operates through five segments: Midstream, Chemicals, Refining, Marketing and Specialties (M&S), and Renewable Fuels. The Midstream segment provides crude oil and refined petroleum product transportation, terminaling, and storage services, as well as natural gas and natural gas liquids (NGL) gathering, processing, transportation, fractionation, storage and marketing services.*
 
 ---
 

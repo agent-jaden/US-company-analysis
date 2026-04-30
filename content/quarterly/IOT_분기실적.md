@@ -1,10 +1,12 @@
 # Samsara Inc. (IOT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 17B$ | 결산월: 1월**
+**Technology | Software - Infrastructure | 시총 17B$ (#691위) | 결산월: 1월**
 
-Samsara Inc. provides solutions to connect physical operations data to its connected operations platform in the United States and internationally. The company's Connected Operations Platform includes Data Platform, which ingests, aggregates, and enriches data from its IoT devices and a growing ecosystem of connected assets and third-party systems, and which has embedded capabilities for AI, workflows and analytics, alerts, API connections, and data security and privacy.
+Samsara는 미국과 해외에서 물리적 운영 데이터를 connected operations platform에 연결하는 솔루션을 제공한다. Data Platform은 IoT 기기, 연결 자산, 제3자 시스템의 데이터를 수집·통합·고도화하고 AI, 워크플로, 분석, 알림, API 연결, 데이터 보안·프라이버시 기능을 제공한다.
+
+*Samsara Inc. provides solutions to connect physical operations data to its connected operations platform in the United States and internationally. The company's Connected Operations Platform includes Data Platform, which ingests, aggregates, and enriches data from its IoT devices and a growing ecosystem of connected assets and third-party systems, and which has embedded capabilities for AI, workflows and analytics, alerts, API connections, and data security and privacy.*
 
 ---
 

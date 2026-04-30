@@ -1,10 +1,12 @@
 # REGENCY CENTERS CORP (REG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Retail | 시총 15B$ | 결산월: 12월**
+**Real Estate | REIT - Retail | 시총 15B$ (#755위) | 결산월: 12월**
 
-Regency Centers Corporation is a fully integrated real estate company and self-administered and self-managed real estate investment trust that began its operations as a publicly-traded REIT in 1993. The Company conducts substantially all of its operations, and owns, directly or indirectly, substantially all of its assets. Our business consists of acquiring, developing, owning, and operating income-producing retail real estate principally located in suburban trade areas with compelling demographics within the United States of America.
+Regency Centers Corporation은 자체적으로 관리 및 운영되는 100% 통합형 부동산 투자 신탁(REIT) 기업입니다. 주로 미국 내 인구 통계학적으로 유리한 교외 상권에 위치한 식료품점 중심의 소매용 부동산을 인수, 개발 및 운영하여 임대 수익을 창출합니다.
+
+*Regency Centers Corporation is a fully integrated real estate company and self-administered and self-managed real estate investment trust that began its operations as a publicly-traded REIT in 1993. The Company conducts substantially all of its operations, and owns, directly or indirectly, substantially all of its assets. Our business consists of acquiring, developing, owning, and operating income-producing retail real estate principally located in suburban trade areas with compelling demographics within the United States of America.*
 
 ---
 

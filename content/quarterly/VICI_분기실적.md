@@ -1,10 +1,12 @@
 # VICI PROPERTIES INC. (VICI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Diversified | 시총 30B$ | 결산월: 12월**
+**Real Estate | REIT - Diversified | 시총 30B$ (#462위) | 결산월: 12월**
 
-VICI Properties Inc. is an S&P 500 experiential real estate investment trust that owns one of the largest portfolios of market-leading gaming, hospitality, wellness, entertainment and leisure destinations, including Caesars Palace Las Vegas, MGM Grand and the Venetian Resort Las Vegas, three of the most iconic entertainment facilities on the Las Vegas Strip. VICI Properties owns 93 experiential assets across a geographically diverse portfolio consisting of 54 gaming properties and 39 other experiential properties across the United States and Canada.
+미국과 캐나다 전역에서 Caesars Palace Las Vegas, MGM Grand, Venetian Resort Las Vegas 등 시장을 선도하는 게이밍 및 엔터테인먼트 목적지를 소유한 S&P 500 체험형 부동산 투자 신탁(REIT)입니다. 54개의 게이밍 시설을 포함해 총 93개의 다각화된 체험형 호스피탈리티 및 웰니스 자산 포트폴리오를 운영하고 있습니다.
+
+*VICI Properties Inc. is an S&P 500 experiential real estate investment trust that owns one of the largest portfolios of market-leading gaming, hospitality, wellness, entertainment and leisure destinations, including Caesars Palace Las Vegas, MGM Grand and the Venetian Resort Las Vegas, three of the most iconic entertainment facilities on the Las Vegas Strip. VICI Properties owns 93 experiential assets across a geographically diverse portfolio consisting of 54 gaming properties and 39 other experiential properties across the United States and Canada.*
 
 ---
 

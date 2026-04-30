@@ -1,10 +1,12 @@
 # Coupang, Inc. (CPNG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Internet Retail | 시총 37B$ | 결산월: 12월**
+**Consumer Cyclical | Internet Retail | 시총 37B$ (#398위) | 결산월: 12월**
 
-Coupang, Inc., together with its subsidiaries, owns and operates retail business through its mobile applications and internet websites in South Korea and internationally. It operates through Product Commerce and Developing Offerings segments. The Product Commerce segment includes Korean retail and marketplace offerings; Rocket Fresh, a fresh grocery offering; and advertising products.
+Coupang은 한국과 해외에서 모바일 앱과 웹사이트를 통해 리테일 사업을 운영한다. Product Commerce와 Developing Offerings 부문을 통해 한국 리테일·마켓플레이스, 신선식품 서비스 Rocket Fresh, 광고 상품 등을 제공한다.
+
+*Coupang, Inc., together with its subsidiaries, owns and operates retail business through its mobile applications and internet websites in South Korea and internationally. It operates through Product Commerce and Developing Offerings segments. The Product Commerce segment includes Korean retail and marketplace offerings; Rocket Fresh, a fresh grocery offering; and advertising products.*
 
 ---
 

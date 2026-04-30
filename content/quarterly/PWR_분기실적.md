@@ -1,10 +1,12 @@
 # QUANTA SERVICES, INC. (PWR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Engineering & Construction | 시총 96B$ | 결산월: 12월**
+**Industrials | Engineering & Construction | 시총 96B$ (#172위) | 결산월: 12월**
 
-Quanta Services, Inc. offers infrastructure solutions for the electric and gas utility, power generation, load center, manufacturing, communications, pipeline, and energy industries. The company's Electric Infrastructure Solutions segment engages in the design, procurement, construction, upgrade, repair, and maintenance of electric power transmission and distribution infrastructure and substation facilities; installation, maintenance, and upgrade of electric power infrastructure projects; installation of smart grid technologies on electric power networks; and design, installation, maintenance, and repair of commercial and industrial wirings.
+Quanta Services는 전력·가스 유틸리티, 발전, 제조, 통신, 파이프라인, 에너지 산업을 위한 인프라 솔루션을 제공한다. 전력 송배전망과 변전소의 설계·조달·건설·개량·수리·유지보수, 스마트그리드 설치, 상업·산업용 배선 설계·설치·보수 서비스를 수행한다.
+
+*Quanta Services, Inc. offers infrastructure solutions for the electric and gas utility, power generation, load center, manufacturing, communications, pipeline, and energy industries. The company's Electric Infrastructure Solutions segment engages in the design, procurement, construction, upgrade, repair, and maintenance of electric power transmission and distribution infrastructure and substation facilities; installation, maintenance, and upgrade of electric power infrastructure projects; installation of smart grid technologies on electric power networks; and design, installation, maintenance, and repair of commercial and industrial wirings.*
 
 ---
 

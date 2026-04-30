@@ -1,10 +1,12 @@
 # Ventas, Inc. (VTR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Healthcare Facilities | 시총 40B$ | 결산월: 12월**
+**Real Estate | REIT - Healthcare Facilities | 시총 40B$ (#375위) | 결산월: 12월**
 
-Ventas, Inc. is a leading S&P 500 real estate investment trust enabling exceptional environments that benefit a large and growing aging population. With approximately 1,400 properties in North America and the United Kingdom, Ventas occupies an essential role in the longevity economy.
+Ventas는 S&P 500에 포함된 주요 헬스케어·시니어 관련 REIT다. 북미와 영국에 약 1,400개 부동산을 보유하며 고령화 인구 증가에 대응하는 longevity economy의 핵심 부동산 인프라를 제공한다.
+
+*Ventas, Inc. is a leading S&P 500 real estate investment trust enabling exceptional environments that benefit a large and growing aging population. With approximately 1,400 properties in North America and the United Kingdom, Ventas occupies an essential role in the longevity economy.*
 
 ---
 

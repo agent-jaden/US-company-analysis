@@ -1,10 +1,12 @@
 # IREN Ltd (IREN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Capital Markets | 시총 16B$ | 결산월: 6월**
+**Financial Services | Capital Markets | 시총 16B$ (#726위) | 결산월: 6월**
 
-IREN Limited operates in the vertically integrated data center business in Australia and Canada. The company owns and operates computing hardware, as well as electrical infrastructure and data centers. It also mines Bitcoin, a scarce digital asset that is created and transmitted through the operation of a peer-to-peer network of computers running the Bitcoin software.
+IREN Limited는 호주와 캐나다에서 수직 계열화된 데이터 센터 사업을 운영하는 기업입니다. 컴퓨팅 하드웨어 및 전기 인프라를 직접 소유하고 관리하며, 이를 활용해 비트코인 등 암호화폐 채굴 비즈니스를 활발히 전개하고 있습니다.
+
+*IREN Limited operates in the vertically integrated data center business in Australia and Canada. The company owns and operates computing hardware, as well as electrical infrastructure and data centers. It also mines Bitcoin, a scarce digital asset that is created and transmitted through the operation of a peer-to-peer network of computers running the Bitcoin software.*
 
 ---
 

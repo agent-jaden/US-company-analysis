@@ -1,10 +1,12 @@
 # HOST HOTELS & RESORTS, INC. (HST) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Hotel & Motel | 시총 14B$ | 결산월: 12월**
+**Real Estate | REIT - Hotel & Motel | 시총 14B$ (#775위) | 결산월: 12월**
 
-Host Hotels & Resorts, Inc., herein referred to as we, Host Inc., or the Company, is a self-managed and self-administered real estate investment trust that owns hotel property. We conduct our operations as an umbrella partnership, REIT, through an operating partnership, Host Hotels & Resorts, L.P., of which we are the sole general partner. When distinguishing between Host Inc.
+Host Hotels & Resorts는 호텔 부동산을 보유한 자체 관리·운영 REIT다. Host Hotels & Resorts, L.P.의 단독 general partner로서 umbrella partnership REIT 구조를 통해 호텔 자산을 운영한다.
+
+*Host Hotels & Resorts, Inc., herein referred to as we, Host Inc., or the Company, is a self-managed and self-administered real estate investment trust that owns hotel property. We conduct our operations as an umbrella partnership, REIT, through an operating partnership, Host Hotels & Resorts, L.P., of which we are the sole general partner. When distinguishing between Host Inc.*
 
 ---
 

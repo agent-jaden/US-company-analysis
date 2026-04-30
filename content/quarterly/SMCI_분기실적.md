@@ -1,10 +1,12 @@
 # Super Micro Computer, Inc. (SMCI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Computer Hardware | 시총 17B$ | 결산월: 6월**
+**Technology | Computer Hardware | 시총 17B$ (#703위) | 결산월: 6월**
 
-Super Micro Computer, Inc., together with its subsidiaries, develops and sells server and storage solutions based on modular and open-standard architecture in the United States, Asia, Europe, and internationally. The company provides liquid and air-cooled AI servers for training and inferencing with integrated graphics processing units (GPUs) or PCIe based architectures; SuperBlade, MicroBlade, FlexTwin, GrandTwin, and BigTwin blade and multi-node systems; SuperStorage systems; Hyper, CloudDC, and WIO and rackmount systems; embedded (5G/IoT/Edge) systems; and MicroCloud server systems. It also offers workstations and networking devices; and modular server subsystems and accessories, including server boards, chassis, power supplies, and other accessories.
+Super Micro Computer는 미국, 아시아, 유럽 및 해외에서 모듈형·오픈스탠더드 아키텍처 기반 서버와 스토리지 솔루션을 개발·판매한다. 액랭·공랭 AI 서버, GPU 통합 서버, SuperBlade, MicroBlade, FlexTwin, GrandTwin, BigTwin, SuperStorage, CloudDC, 임베디드 5G·IoT·Edge 시스템, 워크스테이션, 네트워킹 장비와 서버 부품을 제공한다.
+
+*Super Micro Computer, Inc., together with its subsidiaries, develops and sells server and storage solutions based on modular and open-standard architecture in the United States, Asia, Europe, and internationally. The company provides liquid and air-cooled AI servers for training and inferencing with integrated graphics processing units (GPUs) or PCIe based architectures; SuperBlade, MicroBlade, FlexTwin, GrandTwin, and BigTwin blade and multi-node systems; SuperStorage systems; Hyper, CloudDC, and WIO and rackmount systems; embedded (5G/IoT/Edge) systems; and MicroCloud server systems. It also offers workstations and networking devices; and modular server subsystems and accessories, including server boards, chassis, power supplies, and other accessories.*
 
 ---
 

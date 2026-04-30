@@ -1,10 +1,12 @@
 # IQVIA HOLDINGS INC. (IQV) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Diagnostics & Research | 시총 28B$ | 결산월: 12월**
+**Healthcare | Diagnostics & Research | 시총 28B$ (#497위) | 결산월: 12월**
 
-IQVIA Holdings Inc. provides clinical research services, commercial insights, and healthcare intelligence to the life sciences and healthcare industries in the Americas, Europe, Africa, and the Asia-Pacific. It operates through three segments: Technology & Analytics Solutions, Research & Development Solutions, and Contract Sales & Medical Solutions.
+미주, 유럽, 아시아 태평양 등 전 세계 생명과학 및 헬스케어 산업에 임상 연구 서비스, 상업적 인사이트 및 의료 인텔리전스를 제공합니다. 기술 및 분석 솔루션, R&D 솔루션, 계약 판매 및 의료 솔루션 부문을 통해 신약 개발과 시장 진입을 지원합니다.
+
+*IQVIA Holdings Inc. provides clinical research services, commercial insights, and healthcare intelligence to the life sciences and healthcare industries in the Americas, Europe, Africa, and the Asia-Pacific. It operates through three segments: Technology & Analytics Solutions, Research & Development Solutions, and Contract Sales & Medical Solutions.*
 
 ---
 

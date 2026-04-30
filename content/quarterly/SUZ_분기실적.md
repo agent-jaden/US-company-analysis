@@ -1,10 +1,12 @@
 # Suzano S.A. (SUZ) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: BRL
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: BRL
 
-**Basic Materials | Paper & Paper Products | 시총 11B$ | 결산월: 12월**
+**Basic Materials | Paper & Paper Products | 시총 11B$ (#910위) | 결산월: 12월**
 
-Suzano S.A. manufactures and sells pulp and paper products in Brazil and internationally. It operates in two segments, Cellulose, and Paper.
+Suzano는 브라질과 해외에서 펄프와 종이 제품을 제조·판매한다. Cellulose와 Paper 부문을 통해 셀룰로오스 기반 원재료와 종이 제품을 공급한다.
+
+*Suzano S.A. manufactures and sells pulp and paper products in Brazil and internationally. It operates in two segments, Cellulose, and Paper.*
 
 ---
 

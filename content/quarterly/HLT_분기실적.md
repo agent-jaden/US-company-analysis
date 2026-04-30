@@ -1,10 +1,12 @@
 # Hilton Worldwide Holdings Inc. (HLT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Lodging | 시총 76B$ | 결산월: 12월**
+**Consumer Cyclical | Lodging | 시총 76B$ (#222위) | 결산월: 12월**
 
-Hilton Worldwide Holdings Inc., a hospitality company, engages in managing, franchising, and leasing hotels and resorts. It operates in two segments, Management and Franchise, and Ownership. The company engages in the hotel management and licensing of its brand names, trademarks, and service marks.
+Hilton Worldwide Holdings Inc.는 전 세계적으로 호텔과 리조트를 관리, 프랜차이즈, 임대하는 글로벌 호스피탈리티 기업입니다. 다양한 프리미엄 호텔 브랜드의 라이선싱을 운영하며 관리 및 프랜차이즈, 그리고 부동산 소유 부문으로 나뉘어 비즈니스를 전개합니다.
+
+*Hilton Worldwide Holdings Inc., a hospitality company, engages in managing, franchising, and leasing hotels and resorts. It operates in two segments, Management and Franchise, and Ownership. The company engages in the hotel management and licensing of its brand names, trademarks, and service marks.*
 
 ---
 

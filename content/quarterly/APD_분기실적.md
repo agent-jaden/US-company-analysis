@@ -1,10 +1,12 @@
 # Air Products & Chemicals, Inc. (APD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Specialty Chemicals | 시총 67B$ | 결산월: 9월**
+**Basic Materials | Specialty Chemicals | 시총 67B$ (#253위) | 결산월: 9월**
 
-Air Products and Chemicals, Inc. provides atmospheric gases, process and specialty gases, equipment, and related services in the Americas, Asia, Europe, the Middle East, India, and internationally. The company produces atmospheric gases, including oxygen, nitrogen, and argon; process gases, such as hydrogen, helium, carbon dioxide, carbon monoxide, and syngas; and specialty gases for customers in various industries, including refining, chemical, metals, manufacturing, electronics, energy production, medical, food, chemical and petrochemical manufacturing, oil and gas recovery and processing, and steel and primary metals processing.
+Air Products and Chemicals는 미주, 아시아, 유럽, 중동, 인도 등에서 산업용 가스, 공정·특수가스, 장비와 관련 서비스를 제공한다. 산소·질소·아르곤 같은 대기가스와 수소·헬륨·이산화탄소·일산화탄소·합성가스, 특수가스를 생산해 정유, 화학, 금속, 제조, 전자, 에너지, 의료, 식품, 석유·가스, 철강 산업 고객에게 공급한다.
+
+*Air Products and Chemicals, Inc. provides atmospheric gases, process and specialty gases, equipment, and related services in the Americas, Asia, Europe, the Middle East, India, and internationally. The company produces atmospheric gases, including oxygen, nitrogen, and argon; process gases, such as hydrogen, helium, carbon dioxide, carbon monoxide, and syngas; and specialty gases for customers in various industries, including refining, chemical, metals, manufacturing, electronics, energy production, medical, food, chemical and petrochemical manufacturing, oil and gas recovery and processing, and steel and primary metals processing.*
 
 ---
 

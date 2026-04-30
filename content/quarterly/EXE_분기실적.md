@@ -1,10 +1,12 @@
 # EXPAND ENERGY Corp (EXE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas E&P | 시총 23B$ | 결산월: 12월**
+**Energy | Oil & Gas E&P | 시총 23B$ (#563위) | 결산월: 12월**
 
-Expand Energy Corporation operates as an independent natural gas production company in the United States. The company engages in acquisition, exploration, and development of properties to produce oil, natural gas, and natural gas liquids. It holds interests in the Marcellus Shale in the northern Appalachian Basin in Pennsylvania; the Marcellus and Utica Shales in Ohio and West Virginia; and the Haynesville and Bossier Shales in Louisiana and Texas.
+Expand Energy는 미국에서 독립 천연가스 생산회사로 운영된다. 석유, 천연가스, NGL 생산을 위한 자산 취득·탐사·개발을 수행하며 Pennsylvania 북부 Appalachian Basin의 Marcellus Shale, Ohio·West Virginia의 Marcellus·Utica Shale, Louisiana·Texas의 Haynesville·Bossier Shale 자산을 보유한다.
+
+*Expand Energy Corporation operates as an independent natural gas production company in the United States. The company engages in acquisition, exploration, and development of properties to produce oil, natural gas, and natural gas liquids. It holds interests in the Marcellus Shale in the northern Appalachian Basin in Pennsylvania; the Marcellus and Utica Shales in Ohio and West Virginia; and the Haynesville and Bossier Shales in Louisiana and Texas.*
 
 ---
 

@@ -1,10 +1,12 @@
 # FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE (FNMAO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Mortgage Finance | 시총 11B$ | 결산월: 12월**
+**Financial Services | Mortgage Finance | 시총 11B$ (#901위) | 결산월: 12월**
 
-Federal National Mortgage Association provides financing solutions for residential mortgages in the United States. The company operates in two segments, Single-Family and Multifamily. It offers mortgage acquisitions and securitizations; and credit risk and loss management services.
+Fannie Mae로 알려진 Federal National Mortgage Association은 미국 주택 모기지 시장의 유동성을 지원하는 정부 후원 기관입니다. 주거용 및 다세대 주택 모기지 대출을 매입하고 이를 증권화하여 금융권의 신용 위험을 분산시키고 일반 가계의 주택 소유 기회를 확대합니다.
+
+*Federal National Mortgage Association provides financing solutions for residential mortgages in the United States. The company operates in two segments, Single-Family and Multifamily. It offers mortgage acquisitions and securitizations; and credit risk and loss management services.*
 
 ---
 

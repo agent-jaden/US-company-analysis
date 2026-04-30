@@ -1,10 +1,12 @@
 # HOME DEPOT, INC. (HD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Home Improvement Retail | 시총 331B$ | 결산월: 2월**
+**Consumer Cyclical | Home Improvement Retail | 시총 331B$ (#35위) | 결산월: 2월**
 
-The Home Depot, Inc. operates as a home improvement retailer in the United States and internationally. It sells various building materials, home improvement products, lawn and garden products, and décor products, as well as facilities maintenance, repair, and operations products.
+The Home Depot, Inc.는 미국 및 전 세계에서 주택 개조 전문 소매점을 운영합니다. 다양한 건축 자재, 주택 개조 용품, 잔디 및 정원 용품, 장식품을 비롯해 시설 유지보수 및 수리 관련 제품을 판매합니다.
+
+*The Home Depot, Inc. operates as a home improvement retailer in the United States and internationally. It sells various building materials, home improvement products, lawn and garden products, and décor products, as well as facilities maintenance, repair, and operations products.*
 
 ---
 

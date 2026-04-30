@@ -1,10 +1,12 @@
 # GENUINE PARTS CO (GPC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Auto Parts | 시총 15B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Parts | 시총 15B$ (#757위) | 결산월: 12월**
 
-Genuine Parts Company distributes automotive and industrial replacement parts. The company operates in three segments: North America Automotive Parts Group, International Automotive Parts Group, and Industrial Parts Group. It distributes automotive replacement parts, accessories, tools, equipment, and related solutions for hybrid and electric vehicles, trucks, buses, motorcycles, farm equipment, and heavy-duty equipment.
+Genuine Parts Company는 자동차 및 산업용 교체부품을 유통한다. North America Automotive Parts Group, International Automotive Parts Group, Industrial Parts Group 부문을 통해 하이브리드·전기차, 트럭, 버스, 오토바이, 농기계, 중장비용 교체부품, 액세서리, 공구, 장비와 관련 솔루션을 제공한다.
+
+*Genuine Parts Company distributes automotive and industrial replacement parts. The company operates in three segments: North America Automotive Parts Group, International Automotive Parts Group, and Industrial Parts Group. It distributes automotive replacement parts, accessories, tools, equipment, and related solutions for hybrid and electric vehicles, trucks, buses, motorcycles, farm equipment, and heavy-duty equipment.*
 
 ---
 

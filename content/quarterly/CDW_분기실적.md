@@ -1,10 +1,12 @@
 # CDW Corp (CDW) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Information Technology Services | 시총 17B$ | 결산월: 12월**
+**Technology | Information Technology Services | 시총 17B$ (#687위) | 결산월: 12월**
 
-CDW Corporation provides information technology (IT) solutions in the United States, the United Kingdom, and Canada. It operates through three segments: Commercial, Government, and Education. The company offers discrete hardware and software products and services, as well as integrated IT solutions, including on-premise and cloud capabilities across hybrid infrastructure, digital experience, and security.
+CDW는 미국, 영국, 캐나다에서 IT 솔루션을 제공한다. Commercial, Government, Education 부문을 통해 하드웨어·소프트웨어 제품과 서비스, 하이브리드 인프라, 디지털 경험, 보안 영역의 온프레미스·클라우드 통합 IT 솔루션을 제공한다.
+
+*CDW Corporation provides information technology (IT) solutions in the United States, the United Kingdom, and Canada. It operates through three segments: Commercial, Government, and Education. The company offers discrete hardware and software products and services, as well as integrated IT solutions, including on-premise and cloud capabilities across hybrid infrastructure, digital experience, and security.*
 
 ---
 

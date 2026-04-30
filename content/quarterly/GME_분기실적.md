@@ -1,10 +1,12 @@
 # GameStop Corp. (GME) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Specialty Retail | 시총 11B$ | 결산월: 2월**
+**Consumer Cyclical | Specialty Retail | 시총 11B$ (#902위) | 결산월: 2월**
 
-GameStop Corp., a specialty retailer, provides games, collectibles, and entertainment products through its stores and e-commerce platforms in United States, Australia and Europe. The company sells new and pre-owned gaming platforms; accessories, such as controllers, gaming headsets, and other peripheral devices; new and pre-owned gaming software; and in-game digital currency, digital downloadable content, and full-game downloads. It also sells collectibles comprising apparel, toys, trading cards, gadgets, and other retail products for pop culture and technology enthusiasts.
+GameStop Corp.는 북미, 유럽 등지에서 매장과 전자상거래 플랫폼을 통해 비디오 게임, 콘솔, 수집품 등을 판매하는 게임 및 엔터테인먼트 전문 소매업체입니다. 신규 및 중고 게임 소프트웨어와 기기, 팝 컬처 애호가를 위한 한정판 굿즈 및 디지털 게임 다운로드 상품 등을 다양하게 제공합니다.
+
+*GameStop Corp., a specialty retailer, provides games, collectibles, and entertainment products through its stores and e-commerce platforms in United States, Australia and Europe. The company sells new and pre-owned gaming platforms; accessories, such as controllers, gaming headsets, and other peripheral devices; new and pre-owned gaming software; and in-game digital currency, digital downloadable content, and full-game downloads. It also sells collectibles comprising apparel, toys, trading cards, gadgets, and other retail products for pop culture and technology enthusiasts.*
 
 ---
 

@@ -1,10 +1,12 @@
 # CARLISLE COMPANIES INC (CSL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Building Products & Equipment | 시총 15B$ | 결산월: 12월**
+**Industrials | Building Products & Equipment | 시총 15B$ (#763위) | 결산월: 12월**
 
-Carlisle Companies Incorporated operates as a manufacturer and supplier of building envelope products and solutions in the United States, Europe, North America, and internationally. It operates through two segments, Carlisle Construction Materials (CCM) and Carlisle Weatherproofing Technologies (CWT). The CCM segment offers single-ply roofing solutions, including ethylene propylene diene monomer, thermoplastic polyolefin, polyvinyl chloride membrane, polyiso insulation, and engineered metal roofing and wall panel systems for commercial and residential buildings.
+Carlisle Companies는 미국, 유럽, 북미 및 해외에서 building envelope 제품과 솔루션을 제조·공급한다. Carlisle Construction Materials와 Carlisle Weatherproofing Technologies 부문을 통해 상업·주거용 건물에 EPDM, TPO, PVC membrane, polyiso insulation, 금속 지붕·벽 패널 등 단일막 지붕 솔루션을 제공한다.
+
+*Carlisle Companies Incorporated operates as a manufacturer and supplier of building envelope products and solutions in the United States, Europe, North America, and internationally. It operates through two segments, Carlisle Construction Materials (CCM) and Carlisle Weatherproofing Technologies (CWT). The CCM segment offers single-ply roofing solutions, including ethylene propylene diene monomer, thermoplastic polyolefin, polyvinyl chloride membrane, polyiso insulation, and engineered metal roofing and wall panel systems for commercial and residential buildings.*
 
 ---
 

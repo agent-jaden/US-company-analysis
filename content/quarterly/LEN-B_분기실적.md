@@ -1,10 +1,12 @@
 # LENNAR CORP /NEW/ (LEN-B) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Residential Construction | 시총 22B$ | 결산월: 11월**
+**Consumer Cyclical | Residential Construction | 시총 22B$ (#580위) | 결산월: 11월**
 
-Lennar Corporation, together with its subsidiaries, operates as a homebuilder primarily under the Lennar brand in the United States. It operates through Homebuilding East, Homebuilding Central, Homebuilding South Central, Homebuilding West, Financial Services, Multifamily, and Lennar Other segments. The company's homebuilding operations include the construction and sale of single-family attached and detached homes, as well as the purchase, development, and sale of residential land; and development, construction, and management of multifamily rental properties.
+Lennar는 자회사를 통해 미국에서 Lennar 브랜드를 중심으로 주택건설 사업을 운영한다. 단독주택과 타운홈의 건설·판매, 주거용 토지 매입·개발·판매, 다가구 임대주택 개발·건설·관리를 수행하며 금융서비스와 Multifamily 부문도 운영한다.
+
+*Lennar Corporation, together with its subsidiaries, operates as a homebuilder primarily under the Lennar brand in the United States. It operates through Homebuilding East, Homebuilding Central, Homebuilding South Central, Homebuilding West, Financial Services, Multifamily, and Lennar Other segments. The company's homebuilding operations include the construction and sale of single-family attached and detached homes, as well as the purchase, development, and sale of residential land; and development, construction, and management of multifamily rental properties.*
 
 ---
 

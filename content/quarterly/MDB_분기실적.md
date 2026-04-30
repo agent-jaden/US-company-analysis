@@ -1,10 +1,12 @@
 # MongoDB, Inc. (MDB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 21B$ | 결산월: 1월**
+**Technology | Software - Infrastructure | 시총 21B$ (#607위) | 결산월: 1월**
 
-MongoDB, Inc., together with its subsidiaries, provides general purpose database platform worldwide. The company offers MongoDB Atlas, a hosted multi-cloud database-as-a-service solution; MongoDB Enterprise Advanced, a commercial database server for enterprise customers to run in the cloud, on-premises, or in a hybrid environment; and Community Server, a free-to-download version of its database, which includes the functionality that developers need to get started with MongoDB. It offers professional services comprising consulting and training.
+MongoDB, Inc.는 전 세계적으로 범용 데이터베이스 플랫폼을 제공하는 소프트웨어 기업입니다. 클라우드 기반의 데이터베이스 서비스인 MongoDB Atlas와 기업용 상용 서버인 MongoDB Enterprise Advanced, 무료 오픈소스인 Community Server 등을 통해 개발자와 기업의 데이터 관리를 지원합니다.
+
+*MongoDB, Inc., together with its subsidiaries, provides general purpose database platform worldwide. The company offers MongoDB Atlas, a hosted multi-cloud database-as-a-service solution; MongoDB Enterprise Advanced, a commercial database server for enterprise customers to run in the cloud, on-premises, or in a hybrid environment; and Community Server, a free-to-download version of its database, which includes the functionality that developers need to get started with MongoDB. It offers professional services comprising consulting and training.*
 
 ---
 

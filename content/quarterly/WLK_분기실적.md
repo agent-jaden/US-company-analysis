@@ -1,10 +1,12 @@
 # WESTLAKE CORP (WLK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Specialty Chemicals | 시총 14B$ | 결산월: 12월**
+**Basic Materials | Specialty Chemicals | 시총 14B$ (#780위) | 결산월: 12월**
 
-Westlake Corporation manufactures and markets performance and essential materials, and housing and infrastructure products in the United States, Canada, Germany, China, Mexico, Brazil, France, Italy, and internationally. It operates through two segments, Performance and Essential Materials and The Housing and Infrastructure Products. The Performance and Essential Materials segment offers ethylene, polyethylene, chlor-alkali, chlorinated derivative products, ethylene dichloride, vinyl chloride monomer, polyvinyl chloride (PVC), epoxy specialty resins, and base epoxy resins and intermediaries.
+Westlake는 미국, 캐나다, 독일, 중국, 멕시코, 브라질, 프랑스, 이탈리아 및 해외에서 고기능·필수 소재와 주택·인프라 제품을 제조·판매한다. Performance and Essential Materials 부문은 에틸렌, 폴리에틸렌, chlor-alkali, 염소화 유도체, EDC, VCM, PVC, epoxy specialty resin과 기초 epoxy resin·중간체를 제공한다.
+
+*Westlake Corporation manufactures and markets performance and essential materials, and housing and infrastructure products in the United States, Canada, Germany, China, Mexico, Brazil, France, Italy, and internationally. It operates through two segments, Performance and Essential Materials and The Housing and Infrastructure Products. The Performance and Essential Materials segment offers ethylene, polyethylene, chlor-alkali, chlorinated derivative products, ethylene dichloride, vinyl chloride monomer, polyvinyl chloride (PVC), epoxy specialty resins, and base epoxy resins and intermediaries.*
 
 ---
 

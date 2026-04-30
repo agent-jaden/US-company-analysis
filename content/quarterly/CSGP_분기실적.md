@@ -1,10 +1,12 @@
 # COSTAR GROUP, INC. (CSGP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | Real Estate Services | 시총 15B$ | 결산월: 12월**
+**Real Estate | Real Estate Services | 시총 15B$ (#743위) | 결산월: 12월**
 
-CoStar Group, Inc. provides information, analytics, and online marketplace services to real estate and related business communities in the United States, Australia, Canada, Europe, the Asia Pacific, and Latin America. It offers CoStar Property that provides inventory of office, industrial, retail, multifamily, hospitality, and student housing, and land properties; CoStar Leasing, a data on lease transactions and tools to manage user-entered lease data; CoStar Sales, a database of commercial real estate sales transactions; CoStar Owners provides detailed portfolio information; CoStar Markets to view and report on market and submarket trends; and CoStar Tenant that provides tenant information.
+CoStar Group, Inc.는 미국, 유럽, 아시아 등 전 세계 부동산 커뮤니티에 데이터 분석 및 온라인 마켓플레이스 서비스를 제공합니다. CoStar Property, Leasing, Sales 등의 플랫폼을 통해 상업용 부동산의 재고, 임대 및 매매 거래 데이터, 포트폴리오 정보 및 임차인 동향 등 심층적인 시장 인텔리전스를 지원합니다.
+
+*CoStar Group, Inc. provides information, analytics, and online marketplace services to real estate and related business communities in the United States, Australia, Canada, Europe, the Asia Pacific, and Latin America. It offers CoStar Property that provides inventory of office, industrial, retail, multifamily, hospitality, and student housing, and land properties; CoStar Leasing, a data on lease transactions and tools to manage user-entered lease data; CoStar Sales, a database of commercial real estate sales transactions; CoStar Owners provides detailed portfolio information; CoStar Markets to view and report on market and submarket trends; and CoStar Tenant that provides tenant information.*
 
 ---
 

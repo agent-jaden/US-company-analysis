@@ -1,10 +1,12 @@
 # THERMO FISHER SCIENTIFIC INC. (TMO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Diagnostics & Research | 시총 174B$ | 결산월: 12월**
+**Healthcare | Diagnostics & Research | 시총 174B$ (#81위) | 결산월: 12월**
 
-Thermo Fisher Scientific Inc. provides life sciences solutions, analytical instruments, specialty diagnostics, and laboratory products and biopharma services in the North America, Europe, Asia-Pacific, and internationally. It operates through four segments: Life Sciences Solutions, Analytical Instruments, Specialty Diagnostics, and Laboratory Products and Biopharma Services.
+Thermo Fisher Scientific Inc.는 북미, 유럽, 아시아 태평양 등 전 세계에 생명 과학 솔루션, 분석 기기, 특수 진단 및 실험실 제품을 제공합니다. 생명 과학, 분석 기기, 특수 진단, 실험실 제품 및 바이오파마 서비스의 네 가지 부문을 통해 연구 및 의료 분야를 지원합니다.
+
+*Thermo Fisher Scientific Inc. provides life sciences solutions, analytical instruments, specialty diagnostics, and laboratory products and biopharma services in the North America, Europe, Asia-Pacific, and internationally. It operates through four segments: Life Sciences Solutions, Analytical Instruments, Specialty Diagnostics, and Laboratory Products and Biopharma Services.*
 
 ---
 

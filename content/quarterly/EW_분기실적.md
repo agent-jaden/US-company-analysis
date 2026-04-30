@@ -1,10 +1,12 @@
 # Edwards Lifesciences Corp (EW) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Devices | 시총 48B$ | 결산월: 12월**
+**Healthcare | Medical Devices | 시총 48B$ (#334위) | 결산월: 12월**
 
-Edwards Lifesciences Corporation provides products and technologies to treat advanced cardiovascular diseases in the United States, Europe, Japan, and internationally. It offers transcatheter heart valve replacement products for minimally invasive replacement of aortic heart valves under the Edwards SAPIEN family of valves system; and transcatheter heart valve repair and replacement products to treat mitral and tricuspid valve diseases under the PASCAL and EVOQUE brands. The company also provides surgical structural heart solutions, such as aortic surgical valve under the INSPIRIS brand name; INSPIRIS RESILIA aortic valve, which offers RESILIA tissue and VFit technology; KONECT RESILIA, a pre-assembled tissue valve conduit for complex combined procedures; and MITRIS RESILIA valve.
+Edwards Lifesciences는 미국, 유럽, 일본 등에서 중증 심혈관질환 치료 제품과 기술을 제공한다. Edwards SAPIEN 계열의 경피적 대동맥판막 치환 제품, PASCAL·EVOQUE 브랜드의 승모판·삼첨판 치료 제품, INSPIRIS, KONECT RESILIA, MITRIS RESILIA 등 외과적 구조심장 솔루션을 공급한다.
+
+*Edwards Lifesciences Corporation provides products and technologies to treat advanced cardiovascular diseases in the United States, Europe, Japan, and internationally. It offers transcatheter heart valve replacement products for minimally invasive replacement of aortic heart valves under the Edwards SAPIEN family of valves system; and transcatheter heart valve repair and replacement products to treat mitral and tricuspid valve diseases under the PASCAL and EVOQUE brands. The company also provides surgical structural heart solutions, such as aortic surgical valve under the INSPIRIS brand name; INSPIRIS RESILIA aortic valve, which offers RESILIA tissue and VFit technology; KONECT RESILIA, a pre-assembled tissue valve conduit for complex combined procedures; and MITRIS RESILIA valve.*
 
 ---
 

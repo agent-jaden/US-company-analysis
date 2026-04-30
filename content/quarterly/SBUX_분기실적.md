@@ -1,10 +1,12 @@
 # STARBUCKS CORP (SBUX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Restaurants | 시총 112B$ | 결산월: 9월**
+**Consumer Cyclical | Restaurants | 시총 112B$ (#142위) | 결산월: 9월**
 
-Starbucks Corporation, together with its subsidiaries, operates as a roaster, marketer, and retailer of coffee internationally. The company operates through three segments: North America, International, and Channel Development. Its stores offer coffee, tea, and other beverages, roasted whole beans and ground coffees, complementary food, packaged coffees, single-serve products, and ready-to-drink beverages; and various food products, such as pastries, breakfast sandwiches, and lunch items.
+Starbucks는 전 세계에서 커피를 로스팅, 마케팅, 소매 판매하는 기업이다. North America, International, Channel Development 부문을 운영하며 매장에서 커피, 차, 음료, 원두·분쇄커피, 식품, 패키지 커피, single-serve 제품, ready-to-drink 음료를 판매한다.
+
+*Starbucks Corporation, together with its subsidiaries, operates as a roaster, marketer, and retailer of coffee internationally. The company operates through three segments: North America, International, and Channel Development. Its stores offer coffee, tea, and other beverages, roasted whole beans and ground coffees, complementary food, packaged coffees, single-serve products, and ready-to-drink beverages; and various food products, such as pastries, breakfast sandwiches, and lunch items.*
 
 ---
 

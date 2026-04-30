@@ -1,10 +1,12 @@
 # BROWN & BROWN, INC. (BRO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance Brokers | 시총 23B$ | 결산월: 1월**
+**Financial Services | Insurance Brokers | 시총 23B$ (#577위) | 결산월: 1월**
 
-Brown & Brown, Inc. markets and sells insurance products and services in the United States, the United Kingdom, and internationally. It operates through Retail and Specialty Distribution segments.
+Brown & Brown은 미국, 영국 및 해외에서 보험 상품과 서비스를 마케팅·판매한다. Retail과 Specialty Distribution 부문을 통해 개인·기업 고객 대상 보험 중개와 특수 보험 유통 서비스를 운영한다.
+
+*Brown & Brown, Inc. markets and sells insurance products and services in the United States, the United Kingdom, and internationally. It operates through Retail and Specialty Distribution segments.*
 
 ---
 

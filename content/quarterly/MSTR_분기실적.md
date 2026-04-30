@@ -1,10 +1,12 @@
 # Strategy Inc (MSTR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 59B$ | 결산월: 6월**
+**Technology | Software - Application | 시총 59B$ (#287위) | 결산월: 6월**
 
-Strategy Inc, together with its subsidiaries, operates as a bitcoin treasury company in the United States, Europe, the Middle East, Africa, and internationally. It offers investors varying degrees of economic exposure to Bitcoin by offering a range of securities, including equity and fixed income instruments. The company also provides AI-powered enterprise analytics software, including Strategy One, which provides non-technical users with the ability to directly access novel and actionable insights for decision-making.
+Strategy는 미국, 유럽, 중동, 아프리카 등에서 Bitcoin treasury 회사로 운영된다. 주식과 채권 등 다양한 증권을 통해 투자자에게 Bitcoin 노출을 제공하며, 비전문 사용자도 의사결정에 필요한 인사이트를 얻을 수 있는 AI 기반 기업 분석 소프트웨어 Strategy One도 제공한다.
+
+*Strategy Inc, together with its subsidiaries, operates as a bitcoin treasury company in the United States, Europe, the Middle East, Africa, and internationally. It offers investors varying degrees of economic exposure to Bitcoin by offering a range of securities, including equity and fixed income instruments. The company also provides AI-powered enterprise analytics software, including Strategy One, which provides non-technical users with the ability to directly access novel and actionable insights for decision-making.*
 
 ---
 

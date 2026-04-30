@@ -1,10 +1,12 @@
 # Viking Holdings Ltd (VIK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Travel Services | 시총 36B$ | 결산월: 12월**
+**Consumer Cyclical | Travel Services | 시총 36B$ (#414위) | 결산월: 12월**
 
-Viking Holdings Ltd focused on providing passenger cruises in North America, the United Kingdom, and internationally. It operates through the River and Ocean segments. The Group defines its products based on the type of cruise offering and language of the cruise service.
+Viking Holdings는 북미, 영국 및 해외에서 여객 크루즈 서비스를 제공하는 기업이다. River와 Ocean 부문을 운영하며 크루즈 상품 유형과 서비스 언어를 기준으로 제품을 구분해 운영한다.
+
+*Viking Holdings Ltd focused on providing passenger cruises in North America, the United Kingdom, and internationally. It operates through the River and Ocean segments. The Group defines its products based on the type of cruise offering and language of the cruise service.*
 
 ---
 

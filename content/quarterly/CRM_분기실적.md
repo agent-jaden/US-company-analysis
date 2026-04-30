@@ -1,10 +1,12 @@
 # Salesforce, Inc. (CRM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 147B$ | 결산월: 1월**
+**Technology | Software - Application | 시총 147B$ (#101위) | 결산월: 1월**
 
-Salesforce, Inc. provides customer relationship management technology services that connect companies and customers together in the United States, Europe, and the Asia Pacific. The company offers Agentforce, which enables customers to build, deploy, and manage enterprise-grade, autonomous AI agents at scale, enabling humans and agents to work together; Agentforce Sales, an integrated platform that brings together the power of humans with AI agents to help sales teams for selling, managing, and automating entire sales processes; Agentforce Service, which enables companies in every industry to bring all of their customer, employee, IT, and field service needs onto one integrated AI-powered platform; Data 360, a data engine that gives AI agents their context and serves as the foundation for how customers unify service offerings, making their data actionable for both humans and agents; Informatica, an AI-powered data management platform that enables customers to discover, integrate, govern, and deliver trusted data at scale across hybrid and multi-cloud environments; and Slack, a conversational interface for the agentic enterprise where people and agents work together, connecting knowledge, actions, and data in real time.
+Salesforce는 미국, 유럽, 아시아태평양 지역에서 기업과 고객을 연결하는 CRM 기술 서비스를 제공한다. Agentforce, Data 360, Informatica, Slack 등을 통해 기업용 AI 에이전트 구축·운영, 영업·고객서비스 자동화, 데이터 통합·관리, 실시간 협업 환경을 지원한다.
+
+*Salesforce, Inc. provides customer relationship management technology services that connect companies and customers together in the United States, Europe, and the Asia Pacific. The company offers Agentforce, which enables customers to build, deploy, and manage enterprise-grade, autonomous AI agents at scale, enabling humans and agents to work together; Agentforce Sales, an integrated platform that brings together the power of humans with AI agents to help sales teams for selling, managing, and automating entire sales processes; Agentforce Service, which enables companies in every industry to bring all of their customer, employee, IT, and field service needs onto one integrated AI-powered platform; Data 360, a data engine that gives AI agents their context and serves as the foundation for how customers unify service offerings, making their data actionable for both humans and agents; Informatica, an AI-powered data management platform that enables customers to discover, integrate, govern, and deliver trusted data at scale across hybrid and multi-cloud environments; and Slack, a conversational interface for the agentic enterprise where people and agents work together, connecting knowledge, actions, and data in real time.*
 
 ---
 

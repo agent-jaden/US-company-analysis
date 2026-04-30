@@ -1,10 +1,12 @@
 # Western Midstream Partners, LP (WES) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Midstream | 시총 17B$ | 결산월: 12월**
+**Energy | Oil & Gas Midstream | 시총 17B$ (#699위) | 결산월: 12월**
 
-Western Midstream Partners, LP, together with its subsidiaries, operates as a midstream energy company primarily in the United States. The company is involved in gathering, compressing, treating, processing, and transporting natural gas; gathering, stabilizing, and transporting condensate, natural gas liquids (NGLs), and crude oil; and gathering and disposing of produced water. It also buys and sells residue, NGLs, and condensates.
+Western Midstream Partners는 주로 미국에서 미드스트림 에너지 사업을 운영한다. 천연가스의 수집·압축·처리·가공·운송, 콘덴세이트·NGL·원유의 수집·안정화·운송, produced water 수집·처분을 수행하며 residue gas, NGL, condensate 매매도 한다.
+
+*Western Midstream Partners, LP, together with its subsidiaries, operates as a midstream energy company primarily in the United States. The company is involved in gathering, compressing, treating, processing, and transporting natural gas; gathering, stabilizing, and transporting condensate, natural gas liquids (NGLs), and crude oil; and gathering and disposing of produced water. It also buys and sells residue, NGLs, and condensates.*
 
 ---
 

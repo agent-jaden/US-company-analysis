@@ -1,10 +1,12 @@
 # Snap-on Inc (SNA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Tools & Accessories | 시총 20B$ | 결산월: 1월**
+**Industrials | Tools & Accessories | 시총 20B$ (#627위) | 결산월: 1월**
 
-Snap-on Incorporated manufactures and markets tools, equipment, diagnostics, and repair information and systems solutions for professional users worldwide. It operates through Commercial & Industrial Group, Snap-on Tools Group, Repair Systems & Information Group, and Financial Services segments. The company offers hand tools, such as wrenches, sockets, ratchet wrenches, pliers, screwdrivers, punches and chisels, saws and cutting tools, pruning tools, torque tools, and other similar products; power tools, including cordless, pneumatic, and hydraulic and corded tools; impact wrenches, ratchets, screwdrivers, drills, sanders, and grinders.
+Snap-on Incorporated는 전 세계 전문가들을 위한 수공구, 장비, 진단 기기 및 수리 정보 시스템 솔루션을 제조하고 판매합니다. 상업 및 산업 그룹, 도구, 수리 시스템 및 금융 서비스 부문을 통해 전문가용 렌치, 소켓, 전동 공구 등 고품질의 작업 도구와 유지보수 진단 소프트웨어를 제공하고 있습니다.
+
+*Snap-on Incorporated manufactures and markets tools, equipment, diagnostics, and repair information and systems solutions for professional users worldwide. It operates through Commercial & Industrial Group, Snap-on Tools Group, Repair Systems & Information Group, and Financial Services segments. The company offers hand tools, such as wrenches, sockets, ratchet wrenches, pliers, screwdrivers, punches and chisels, saws and cutting tools, pruning tools, torque tools, and other similar products; power tools, including cordless, pneumatic, and hydraulic and corded tools; impact wrenches, ratchets, screwdrivers, drills, sanders, and grinders.*
 
 ---
 

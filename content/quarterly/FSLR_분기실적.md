@@ -1,10 +1,12 @@
 # FIRST SOLAR, INC. (FSLR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Solar | 시총 21B$ | 결산월: 12월**
+**Technology | Solar | 시총 21B$ (#608위) | 결산월: 12월**
 
-First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar energy solutions in the United States, France, India, Chile, and internationally. The company manufactures and sells PV solar modules with thin film semiconductor technology that provides conventional crystalline silicon PV solar modules. It also designs, manufactures, and sells cadmium telluride solar modules that convert sunlight into electricity.
+First Solar, Inc.는 미국, 프랑스, 인도, 칠레 등 전 세계에 태양광(PV) 에너지 솔루션을 제공하는 태양광 기술 기업입니다. 기존 결정질 실리콘 모듈을 대체하는 박막 반도체 기술을 활용해 PV 태양광 모듈을 제조 및 판매하며, 햇빛을 전기로 변환하는 카드뮴 텔루라이드 모듈의 설계 및 생산에 주력하고 있습니다.
+
+*First Solar, Inc., a solar technology company, provides photovoltaic (PV) solar energy solutions in the United States, France, India, Chile, and internationally. The company manufactures and sells PV solar modules with thin film semiconductor technology that provides conventional crystalline silicon PV solar modules. It also designs, manufactures, and sells cadmium telluride solar modules that convert sunlight into electricity.*
 
 ---
 

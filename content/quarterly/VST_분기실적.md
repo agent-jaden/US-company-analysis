@@ -1,10 +1,12 @@
 # Vistra Corp. (VST) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Independent Power Producers | 시총 56B$ | 결산월: 12월**
+**Utilities | Utilities - Independent Power Producers | 시총 56B$ (#297위) | 결산월: 12월**
 
-Vistra Corp., together with its subsidiaries, operates as an integrated retail electricity and power generation company in the United States. The company operates through five segments: Retail, Texas, East, West, and Asset Closure. The company retails electricity and natural gas to residential, commercial, and industrial customers across states in the United States and the District of Columbia.
+Vistra는 미국에서 소매 전력과 발전을 통합 운영하는 에너지 기업이다. Retail, Texas, East, West, Asset Closure 부문을 통해 미국 여러 주와 워싱턴 D.C.의 주거·상업·산업 고객에게 전력과 천연가스를 소매 판매한다.
+
+*Vistra Corp., together with its subsidiaries, operates as an integrated retail electricity and power generation company in the United States. The company operates through five segments: Retail, Texas, East, West, and Asset Closure. The company retails electricity and natural gas to residential, commercial, and industrial customers across states in the United States and the District of Columbia.*
 
 ---
 

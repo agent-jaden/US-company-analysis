@@ -1,10 +1,12 @@
 # MARTIN MARIETTA MATERIALS INC (MLM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Building Materials | 시총 37B$ | 결산월: 12월**
+**Basic Materials | Building Materials | 시총 37B$ (#404위) | 결산월: 12월**
 
-Martin Marietta Materials, Inc., a natural resource-based building materials company, supplies aggregates and heavy-side building materials to the construction industry in the United States and internationally. It operates through East Group and West Group segments. The company offers crushed stone, sand, and gravel products; ready mixed concrete and asphalt; and paving products and services for use in the infrastructure projects, and nonresidential and residential construction projects, as well as in the railroad, agricultural, utility, and environmental industries.
+Martin Marietta Materials는 천연자원 기반 건축자재 기업으로, 미국과 해외 건설 산업에 골재와 heavy-side building materials를 공급한다. 쇄석, 모래, 자갈, ready mixed concrete, asphalt, 포장 제품과 서비스를 인프라, 비주거·주거 건설, 철도, 농업, 유틸리티, 환경 산업에 제공한다.
+
+*Martin Marietta Materials, Inc., a natural resource-based building materials company, supplies aggregates and heavy-side building materials to the construction industry in the United States and internationally. It operates through East Group and West Group segments. The company offers crushed stone, sand, and gravel products; ready mixed concrete and asphalt; and paving products and services for use in the infrastructure projects, and nonresidential and residential construction projects, as well as in the railroad, agricultural, utility, and environmental industries.*
 
 ---
 

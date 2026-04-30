@@ -1,10 +1,12 @@
 # RELIANCE, INC. (RS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Steel | 시총 18B$ | 결산월: 12월**
+**Basic Materials | Steel | 시총 18B$ (#656위) | 결산월: 12월**
 
-Reliance, Inc. operates as a diversified metal solutions provider and metals service center company primarily in the United States and Canada. The company distributes metal products, including alloy, aluminum, brass, copper, carbon steel, stainless steel, titanium, and other specialty steel products; and provides metals processing services to consumer products, general manufacturing, non-residential construction, transportation, aerospace, energy, electronics and semiconductor fabrication, industrial machinery, and heavy industries.
+Reliance, Inc.는 미국과 캐나다를 중심으로 다각화된 금속 솔루션과 금속 서비스 센터를 운영하는 기업입니다. 알루미늄, 구리, 스테인리스 스틸 등 다양한 특수 금속 제품을 유통하며, 항공우주, 자동차, 건설, 반도체 제조 등 광범위한 산업 고객에게 맞춤형 금속 가공 서비스를 제공합니다.
+
+*Reliance, Inc. operates as a diversified metal solutions provider and metals service center company primarily in the United States and Canada. The company distributes metal products, including alloy, aluminum, brass, copper, carbon steel, stainless steel, titanium, and other specialty steel products; and provides metals processing services to consumer products, general manufacturing, non-residential construction, transportation, aerospace, energy, electronics and semiconductor fabrication, industrial machinery, and heavy industries.*
 
 ---
 

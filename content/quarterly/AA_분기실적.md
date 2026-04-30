@@ -1,10 +1,12 @@
 # Alcoa Corp (AA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Aluminum | 시총 18B$ | 결산월: 12월**
+**Basic Materials | Aluminum | 시총 18B$ (#675위) | 결산월: 12월**
 
-Alcoa Corporation, together with its subsidiaries, engages in the bauxite mining, alumina refining, aluminum production, and energy generation business in Australia, Brazil, Canada, Iceland, Norway, Spain, the United States, and internationally. The company operates through two segments: Alumina and Aluminum. It operates bauxite and other aluminous ores mining and processes bauxite into alumina for sale to aluminum smelter customers and customers who process it into industrial chemical products through supply contracts to third parties, as well as aluminum smelting and casting businesses.
+Alcoa는 호주, 브라질, 캐나다, 아이슬란드, 노르웨이, 스페인, 미국 등에서 보크사이트 채굴, 알루미나 정련, 알루미늄 생산, 에너지 발전 사업을 운영한다. Alumina와 Aluminum 부문을 통해 보크사이트를 알루미나로 가공해 제련 고객과 산업화학 고객에게 공급하고, 알루미늄 제련·주조 사업도 수행한다.
+
+*Alcoa Corporation, together with its subsidiaries, engages in the bauxite mining, alumina refining, aluminum production, and energy generation business in Australia, Brazil, Canada, Iceland, Norway, Spain, the United States, and internationally. The company operates through two segments: Alumina and Aluminum. It operates bauxite and other aluminous ores mining and processes bauxite into alumina for sale to aluminum smelter customers and customers who process it into industrial chemical products through supply contracts to third parties, as well as aluminum smelting and casting businesses.*
 
 ---
 

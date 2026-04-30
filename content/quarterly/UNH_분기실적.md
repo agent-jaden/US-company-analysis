@@ -1,10 +1,12 @@
 # UNITEDHEALTH GROUP INC (UNH) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Healthcare Plans | 시총 322B$ | 결산월: 12월**
+**Healthcare | Healthcare Plans | 시총 322B$ (#39위) | 결산월: 12월**
 
-UnitedHealth Group Incorporated operates as a health care company in the United States and internationally. It operates through four segments: Optum Health, Optum Insight, Optum Rx; and UnitedHealthcare. The Optum Health segment provides care delivery, care management, wellness and consumer engagement, and health financial services with patients, consumers, care delivery systems, providers, employers, payers, and public-sector entities.
+UnitedHealth Group Incorporated는 미국 및 국제적으로 운영되는 헬스케어 기업입니다. Optum Health, Optum Insight, Optum Rx 및 UnitedHealthcare의 네 가지 주요 부문을 통해 환자, 고용주, 의료 제공자 등에게 진료 전달, 건강 관리 및 금융 서비스를 제공합니다.
+
+*UnitedHealth Group Incorporated operates as a health care company in the United States and internationally. It operates through four segments: Optum Health, Optum Insight, Optum Rx; and UnitedHealthcare. The Optum Health segment provides care delivery, care management, wellness and consumer engagement, and health financial services with patients, consumers, care delivery systems, providers, employers, payers, and public-sector entities.*
 
 ---
 

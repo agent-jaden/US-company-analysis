@@ -1,10 +1,12 @@
 # EAST WEST BANCORP INC (EWBC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Regional | 시총 17B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 17B$ (#690위) | 결산월: 12월**
 
-East West Bancorp, Inc. operates as the bank holding company for East West Bank that provides a range of personal and commercial banking services to businesses and individuals in the United States. The company operates through three segments: Consumer and Business Banking, Commercial Banking, and Treasury and Other.
+East West Bancorp는 East West Bank의 은행지주회사로 미국에서 개인과 기업에게 다양한 개인·상업은행 서비스를 제공한다. Consumer and Business Banking, Commercial Banking, Treasury and Other 부문을 통해 예금, 대출, 기업금융, 재무관리 서비스를 운영한다.
+
+*East West Bancorp, Inc. operates as the bank holding company for East West Bank that provides a range of personal and commercial banking services to businesses and individuals in the United States. The company operates through three segments: Consumer and Business Banking, Commercial Banking, and Treasury and Other.*
 
 ---
 

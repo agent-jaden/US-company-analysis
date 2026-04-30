@@ -1,10 +1,12 @@
 # DONALDSON Co INC (DCI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Industrial Machinery | 시총 10B$ | 결산월: 7월**
+**Industrials | Specialty Industrial Machinery | 시총 10B$ (#953위) | 결산월: 7월**
 
-Donaldson Company, Inc. manufactures and sells filtration systems and replacement parts worldwide. The company operates through Mobile Solutions, Industrial Solutions, and Life Sciences segments.
+Donaldson은 전 세계에서 여과 시스템과 교체부품을 제조·판매한다. Mobile Solutions, Industrial Solutions, Life Sciences 부문을 통해 이동장비, 산업설비, 생명과학 분야의 필터와 관련 솔루션을 제공한다.
+
+*Donaldson Company, Inc. manufactures and sells filtration systems and replacement parts worldwide. The company operates through Mobile Solutions, Industrial Solutions, and Life Sciences segments.*
 
 ---
 

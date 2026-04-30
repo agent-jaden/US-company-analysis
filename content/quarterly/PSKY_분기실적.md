@@ -1,10 +1,12 @@
 # Paramount Skydance Corp (PSKY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Entertainment | 시총 12B$ | 결산월: 12월**
+**Communication Services | Entertainment | 시총 12B$ (#885위) | 결산월: 12월**
 
-Paramount Skydance Corporation operates as a media and entertainment company worldwide. It operates in three segments: Studios, Direct-to-Consumer, and TV Media. The company operates CBS Television Network, a domestic broadcast television network; CBS Stations, a television station; international free-to-air networks comprising Network 10, Channel 5, Telefe, and Chilevisión; and domestic premium and basic cable networks, such as Nickelodeon, MTV, CMT, Comedy Central, BET, Paramount+ with SHOWTIME, Paramount Network, The Smithsonian Channel, BET Media Group, CBS Sports Network, and international extensions of these brands.
+Paramount Skydance Corporation은 전 세계적으로 텔레비전 네트워크, 영화 스튜디오 및 디지털 스트리밍 플랫폼을 운영하는 글로벌 미디어 및 엔터테인먼트 기업입니다. CBS, MTV, Nickelodeon 등의 주요 방송망과 Paramount+ 스트리밍 서비스, 그리고 헐리우드 영화 제작 스튜디오를 통해 광범위한 프리미엄 콘텐츠를 배급합니다.
+
+*Paramount Skydance Corporation operates as a media and entertainment company worldwide. It operates in three segments: Studios, Direct-to-Consumer, and TV Media. The company operates CBS Television Network, a domestic broadcast television network; CBS Stations, a television station; international free-to-air networks comprising Network 10, Channel 5, Telefe, and Chilevisión; and domestic premium and basic cable networks, such as Nickelodeon, MTV, CMT, Comedy Central, BET, Paramount+ with SHOWTIME, Paramount Network, The Smithsonian Channel, BET Media Group, CBS Sports Network, and international extensions of these brands.*
 
 ---
 

@@ -1,10 +1,12 @@
 # CURTISS WRIGHT CORP (CW) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 26B$ | 결산월: 12월**
+**Industrials | Aerospace & Defense | 시총 26B$ (#508위) | 결산월: 12월**
 
-Curtiss-Wright Corporation, together with its subsidiaries, provides engineered products, solutions, and services mainly to aerospace and defense, commercial nuclear power, process, and industrial markets worldwide. It operates through three segments: Aerospace & Industrial, Defense Electronics, and Naval & Power. The Aerospace & Industrial segment offers industrial and specialty vehicle products, such as power management electronics, traction inverters, transmission shifters, and control systems; sensors, controls, and electro-mechanical actuation components used on commercial and military aircraft; and surface technology services including shot peening, laser peening, and engineered coatings.
+Curtiss-Wright Corporation은 전 세계 항공우주, 국방, 상업용 원자력 및 다양한 산업 시장에 특수 엔지니어링 제품, 솔루션 및 서비스를 제공합니다. 항공우주 및 산업, 국방 전자, 해군 및 전력의 3개 부문을 통해 항공기 및 특수 차량용 제어 시스템, 센서, 그리고 레이저 피닝 같은 표면 처리 기술을 지원합니다.
+
+*Curtiss-Wright Corporation, together with its subsidiaries, provides engineered products, solutions, and services mainly to aerospace and defense, commercial nuclear power, process, and industrial markets worldwide. It operates through three segments: Aerospace & Industrial, Defense Electronics, and Naval & Power. The Aerospace & Industrial segment offers industrial and specialty vehicle products, such as power management electronics, traction inverters, transmission shifters, and control systems; sensors, controls, and electro-mechanical actuation components used on commercial and military aircraft; and surface technology services including shot peening, laser peening, and engineered coatings.*
 
 ---
 

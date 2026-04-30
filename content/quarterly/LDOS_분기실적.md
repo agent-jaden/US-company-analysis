@@ -1,10 +1,12 @@
 # Leidos Holdings, Inc. (LDOS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Information Technology Services | 시총 18B$ | 결산월: 1월**
+**Technology | Information Technology Services | 시총 18B$ (#662위) | 결산월: 1월**
 
-Leidos Holdings, Inc., together with its subsidiaries, provides services and solutions for government and commercial customers in the United States and internationally. The National Security & Digital segment provides national security software; services by using artificial intelligence and machine learning to coordinate sea, ground, air, and space to help warfighters; offensive, defensive, and physical cyber operation solutions; intelligence analysis, operational support, logistics operations, security, linguistics, force production, biometrics, chemical, biological, radiological, nuclear, and explosives, energetics, training, and other services; and Digital Modernization and transformation services. The Health & Civil segment offers air traffic control systems; health mission software; managed health services; infrastructure management and operation; logistical operations and information technology support; and life science research and development support services.
+Leidos는 미국과 해외에서 정부 및 상업 고객에게 기술 서비스와 솔루션을 제공한다. National Security & Digital 부문은 AI·머신러닝 기반 국방·정보·사이버·디지털 현대화 서비스를 제공하고, Health & Civil 부문은 항공교통관제, 헬스케어 미션 소프트웨어, 인프라 운영, 생명과학 R&D 지원 서비스를 제공한다.
+
+*Leidos Holdings, Inc., together with its subsidiaries, provides services and solutions for government and commercial customers in the United States and internationally. The National Security & Digital segment provides national security software; services by using artificial intelligence and machine learning to coordinate sea, ground, air, and space to help warfighters; offensive, defensive, and physical cyber operation solutions; intelligence analysis, operational support, logistics operations, security, linguistics, force production, biometrics, chemical, biological, radiological, nuclear, and explosives, energetics, training, and other services; and Digital Modernization and transformation services. The Health & Civil segment offers air traffic control systems; health mission software; managed health services; infrastructure management and operation; logistical operations and information technology support; and life science research and development support services.*
 
 ---
 

@@ -1,10 +1,12 @@
 # CRH PUBLIC LTD CO (CRH) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Building Materials | 시총 78B$ | 결산월: 12월**
+**Basic Materials | Building Materials | 시총 78B$ (#213위) | 결산월: 12월**
 
-CRH plc, together with its subsidiaries, provides building materials solutions in Ireland, the United States, the United Kingdom, rest of Europe, and internationally. It operates through three segments: Americas Materials Solutions, Americas Building Solutions, and International Solutions. The company offers building materials for the construction and maintenance of public infrastructure, and commercial and residential buildings, as well as construction and renovation of transportation infrastructure, critical utility networks, commercial and residential buildings, and outdoor living spaces; paving and construction services; and produces and sells aggregates, cementitious materials, ready mixed concrete and mortars, and asphalt.
+CRH plc는 아일랜드, 미국, 유럽 및 전 세계에서 건축 자재 솔루션을 제공하는 글로벌 기업입니다. 골재, 시멘트, 레미콘 및 아스팔트 등을 생산하여 공공 인프라, 상업 및 주거용 건물의 건설과 유지 보수에 필요한 필수 자재와 포장 서비스를 공급합니다.
+
+*CRH plc, together with its subsidiaries, provides building materials solutions in Ireland, the United States, the United Kingdom, rest of Europe, and internationally. It operates through three segments: Americas Materials Solutions, Americas Building Solutions, and International Solutions. The company offers building materials for the construction and maintenance of public infrastructure, and commercial and residential buildings, as well as construction and renovation of transportation infrastructure, critical utility networks, commercial and residential buildings, and outdoor living spaces; paving and construction services; and produces and sells aggregates, cementitious materials, ready mixed concrete and mortars, and asphalt.*
 
 ---
 

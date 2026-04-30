@@ -1,10 +1,12 @@
 # US BANCORP \DE\ (USB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Regional | 시총 87B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 87B$ (#192위) | 결산월: 12월**
 
-U.S. Bancorp, a financial services holding company, provides various financial services to individuals, businesses, institutional organizations, governmental entities, and other financial institutions in the United States. The company operates through Wealth, Corporate, Commercial and Institutional Banking; Consumer and Business Banking; Payment Services; and Treasury and Corporate Support segments.
+U.S. Bancorp는 미국에서 개인, 기업, 기관, 정부기관, 금융기관에 다양한 금융 서비스를 제공하는 금융지주회사다. Wealth, Corporate, Commercial and Institutional Banking, Consumer and Business Banking, Payment Services, Treasury and Corporate Support 부문을 운영한다.
+
+*U.S. Bancorp, a financial services holding company, provides various financial services to individuals, businesses, institutional organizations, governmental entities, and other financial institutions in the United States. The company operates through Wealth, Corporate, Commercial and Institutional Banking; Consumer and Business Banking; Payment Services; and Treasury and Corporate Support segments.*
 
 ---
 

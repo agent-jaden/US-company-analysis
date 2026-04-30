@@ -1,10 +1,12 @@
 # Booking Holdings Inc. (BKNG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Travel Services | 시총 138B$ | 결산월: 12월**
+**Consumer Cyclical | Travel Services | 시총 138B$ (#109위) | 결산월: 12월**
 
-Booking Holdings Inc., together with its subsidiaries, provides online and traditional travel and restaurant reservations and related services in the United States, the Netherlands, the United Kingdom, and internationally. The company operates Booking.com, which offers online accommodation reservations; and Priceline, which provides discount travel reservations services, as well as online accommodation, flight, rental car reservation services, vacation packages, cruises, activity, and affiliate programs. It also operates Agoda that offers online accommodation reservation, flight, ground transportation, and attractions.
+Booking Holdings는 전 세계에서 온라인 및 전통 방식의 여행·레스토랑 예약과 관련 서비스를 제공한다. Booking.com, Priceline, Agoda 등을 통해 숙박, 항공, 렌터카, 패키지여행, 크루즈, 액티비티, 지상교통 예약 서비스를 운영한다.
+
+*Booking Holdings Inc., together with its subsidiaries, provides online and traditional travel and restaurant reservations and related services in the United States, the Netherlands, the United Kingdom, and internationally. The company operates Booking.com, which offers online accommodation reservations; and Priceline, which provides discount travel reservations services, as well as online accommodation, flight, rental car reservation services, vacation packages, cruises, activity, and affiliate programs. It also operates Agoda that offers online accommodation reservation, flight, ground transportation, and attractions.*
 
 ---
 

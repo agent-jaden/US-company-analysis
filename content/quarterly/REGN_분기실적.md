@@ -1,10 +1,12 @@
 # REGENERON PHARMACEUTICALS, INC. (REGN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Biotechnology | 시총 78B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 78B$ (#211위) | 결산월: 12월**
 
-Regeneron Pharmaceuticals, Inc. discovers, invents, develops, manufactures, and commercializes medicines to treat various diseases worldwide. The company develops product candidates to treat eye, allergic and inflammatory, cardiovascular, metabolic, neurological, infectious, and rare diseases; and cancer, hematologic conditions.
+Regeneron Pharmaceuticals, Inc.는 전 세계적으로 다양한 질병을 치료하기 위한 의약품을 발굴, 개발, 제조 및 상용화하는 생명공학 기업입니다. 안과, 알레르기 및 염증, 심혈관, 대사 질환뿐만 아니라 암과 희귀 질환을 치료하는 신약 후보 물질을 중점적으로 연구합니다.
+
+*Regeneron Pharmaceuticals, Inc. discovers, invents, develops, manufactures, and commercializes medicines to treat various diseases worldwide. The company develops product candidates to treat eye, allergic and inflammatory, cardiovascular, metabolic, neurological, infectious, and rare diseases; and cancer, hematologic conditions.*
 
 ---
 

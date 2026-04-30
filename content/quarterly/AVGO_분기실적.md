@@ -1,10 +1,12 @@
 # Broadcom Inc. (AVGO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 1980B$ | 결산월: 11월**
+**Technology | Semiconductors | 시총 1980B$ (#8위) | 결산월: 11월**
 
-Broadcom Inc. designs, develops, and supplies various semiconductor devices and infrastructure software solutions internationally. The company operates in two segments: Semiconductor Solutions and Infrastructure Software.
+Broadcom Inc.는 전 세계적으로 다양한 반도체 소자 및 인프라 소프트웨어 솔루션을 설계, 개발 및 공급합니다. 사업 부문은 크게 반도체 솔루션과 인프라 소프트웨어로 나뉘어 운영됩니다.
+
+*Broadcom Inc. designs, develops, and supplies various semiconductor devices and infrastructure software solutions internationally. The company operates in two segments: Semiconductor Solutions and Infrastructure Software.*
 
 ---
 

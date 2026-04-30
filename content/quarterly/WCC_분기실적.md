@@ -1,10 +1,12 @@
 # WESCO INTERNATIONAL INC (WCC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Industrial Distribution | 시총 15B$ | 결산월: 12월**
+**Industrials | Industrial Distribution | 시총 15B$ (#742위) | 결산월: 12월**
 
-WESCO International, Inc. provides business-to-business distribution, logistics services, and supply chain solutions in the United States, Canada, and internationally. It operates through three segments: Electrical & Electronic Solutions (EES), Communications & Security Solutions (CSS), and Utility & Broadband Solutions (UBS).
+WESCO International, Inc.는 북미 및 국제 시장에서 B2B 물류 및 공급망 솔루션을 제공하는 유통 기업입니다. 전기 및 전자 솔루션, 통신 및 보안 장비, 유틸리티 및 광대역 솔루션 부문을 통해 다양한 산업용 부품과 장비 네트워크를 유통하고 관리합니다.
+
+*WESCO International, Inc. provides business-to-business distribution, logistics services, and supply chain solutions in the United States, Canada, and internationally. It operates through three segments: Electrical & Electronic Solutions (EES), Communications & Security Solutions (CSS), and Utility & Broadband Solutions (UBS).*
 
 ---
 

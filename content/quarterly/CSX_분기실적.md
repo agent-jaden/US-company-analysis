@@ -1,10 +1,12 @@
 # CSX CORP (CSX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Railroads | 시총 84B$ | 결산월: 12월**
+**Industrials | Railroads | 시총 84B$ (#196위) | 결산월: 12월**
 
-CSX Corporation, together with its subsidiaries, provides rail-based freight transportation services in the United States and Canada. It operates through two segments: rail and trucking. The company offers rail services; and transportation of intermodal containers and trailers, as well as other transportation services, such as rail-to-truck transfers and bulk commodity operations.
+CSX는 자회사를 통해 미국과 캐나다에서 철도 기반 화물 운송 서비스를 제공한다. 철도와 트럭 부문을 운영하며 철도 운송, intermodal 컨테이너·트레일러 운송, 철도-트럭 환적, 벌크 원자재 운송 서비스를 수행한다.
+
+*CSX Corporation, together with its subsidiaries, provides rail-based freight transportation services in the United States and Canada. It operates through two segments: rail and trucking. The company offers rail services; and transportation of intermodal containers and trailers, as well as other transportation services, such as rail-to-truck transfers and bulk commodity operations.*
 
 ---
 

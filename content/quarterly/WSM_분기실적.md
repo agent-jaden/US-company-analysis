@@ -1,10 +1,12 @@
 # WILLIAMS SONOMA INC (WSM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Specialty Retail | 시총 23B$ | 결산월: 2월**
+**Consumer Cyclical | Specialty Retail | 시총 23B$ (#571위) | 결산월: 2월**
 
-Williams-Sonoma, Inc. operates as an omni-channel specialty retailer of various products for home the United States and internationally. The company provides cooking, dining, and entertaining products, such as cookware, tools, electrics, cutlery, tabletop and bar, outdoor, furniture, and a library of cookbooks.
+Williams-Sonoma는 미국과 해외에서 가정용품을 판매하는 옴니채널 전문 소매업체다. 조리, 다이닝, 엔터테인먼트 관련 조리기구, 주방도구, 전기제품, 커틀러리, 테이블·바 용품, 야외용품, 가구, 요리책 등을 제공한다.
+
+*Williams-Sonoma, Inc. operates as an omni-channel specialty retailer of various products for home the United States and internationally. The company provides cooking, dining, and entertaining products, such as cookware, tools, electrics, cutlery, tabletop and bar, outdoor, furniture, and a library of cookbooks.*
 
 ---
 

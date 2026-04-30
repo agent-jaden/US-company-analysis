@@ -1,10 +1,12 @@
 # Hyatt Hotels Corp (H) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Lodging | 시총 15B$ | 결산월: 12월**
+**Consumer Cyclical | Lodging | 시총 15B$ (#738위) | 결산월: 12월**
 
-Hyatt Hotels Corporation operates as a hospitality company in the United States and internationally. It operates through Management and Franchising, Owned and Leased, and Distribution segments. The company develops, owns, operates, manages, franchises, leases, and licenses a portfolio of properties, consisting of full-service hotels and resorts, select service hotels, and other properties, including timeshare, fractional, and other forms of residential and vacation units.
+Hyatt Hotels Corporation은 미국 및 전 세계에서 다양한 숙박 시설을 운영하는 글로벌 호스피탈리티 기업입니다. 직접 소유 및 임대, 위탁 운영, 프랜차이즈 라이선싱을 통해 풀 서비스 호텔, 리조트, 타임쉐어 등 다양한 형태의 주거 및 휴양 포트폴리오를 관리합니다.
+
+*Hyatt Hotels Corporation operates as a hospitality company in the United States and internationally. It operates through Management and Franchising, Owned and Leased, and Distribution segments. The company develops, owns, operates, manages, franchises, leases, and licenses a portfolio of properties, consisting of full-service hotels and resorts, select service hotels, and other properties, including timeshare, fractional, and other forms of residential and vacation units.*
 
 ---
 

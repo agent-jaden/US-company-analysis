@@ -1,10 +1,12 @@
 # NetApp, Inc. (NTAP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 21B$ | 결산월: 4월**
+**Technology | Software - Infrastructure | 시총 21B$ (#601위) | 결산월: 4월**
 
-NetApp, Inc. provides a range of enterprise software, systems, and services that customers use to transform their data infrastructures in the United States, Canada, Latin America, Europe, the Middle East, Africa, and the Asia Pacific. It operates through two segments, Hybrid Cloud and Public Cloud.
+NetApp은 미국, 캐나다, 라틴아메리카, 유럽, 중동, 아프리카, 아시아태평양에서 기업용 소프트웨어, 시스템, 서비스를 제공한다. Hybrid Cloud와 Public Cloud 부문을 통해 고객의 데이터 인프라 전환을 지원하는 스토리지와 데이터 관리 솔루션을 운영한다.
+
+*NetApp, Inc. provides a range of enterprise software, systems, and services that customers use to transform their data infrastructures in the United States, Canada, Latin America, Europe, the Middle East, Africa, and the Asia Pacific. It operates through two segments, Hybrid Cloud and Public Cloud.*
 
 ---
 

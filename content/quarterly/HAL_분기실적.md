@@ -1,10 +1,12 @@
 # HALLIBURTON CO (HAL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Equipment & Services | 시총 34B$ | 결산월: 12월**
+**Energy | Oil & Gas Equipment & Services | 시총 34B$ (#430위) | 결산월: 12월**
 
-Halliburton Company provides products and services to the energy industry worldwide. It operates in two segments, Completion and Production, and Drilling and Evaluation. The Completion and Production segment offers production enhancement services that include stimulation and sand control services; cementing services, such as well bonding and casing, and casing equipment; and completion tools that offer downhole solutions and services, including well completion products and services, intelligent well completions, liner hanger systems, sand control systems, multilateral systems, and service tools.
+Halliburton은 전 세계 에너지 산업에 제품과 서비스를 제공한다. Completion and Production, Drilling and Evaluation 부문을 운영하며 생산성 향상, 자극·모래제어, 시멘팅, 케이싱 장비, 지하 완결 솔루션, intelligent well completion, liner hanger, 서비스 툴 등을 제공한다.
+
+*Halliburton Company provides products and services to the energy industry worldwide. It operates in two segments, Completion and Production, and Drilling and Evaluation. The Completion and Production segment offers production enhancement services that include stimulation and sand control services; cementing services, such as well bonding and casing, and casing equipment; and completion tools that offer downhole solutions and services, including well completion products and services, intelligent well completions, liner hanger systems, sand control systems, multilateral systems, and service tools.*
 
 ---
 

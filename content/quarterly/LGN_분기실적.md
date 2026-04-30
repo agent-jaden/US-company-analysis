@@ -1,10 +1,12 @@
 # Legence Corp. (LGN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Engineering & Construction | 시총 13B$ | 결산월: 12월**
+**Industrials | Engineering & Construction | 시총 13B$ (#811위) | 결산월: 12월**
 
-Legence Corp. provides engineering, installation, and maintenance services for mission-critical systems in buildings in the United States. The company operates through two segments, Engineering & Consulting, and Installation & Maintenance.
+Legence는 미국에서 건물 내 mission-critical 시스템의 엔지니어링, 설치, 유지보수 서비스를 제공한다. Engineering & Consulting과 Installation & Maintenance 부문을 통해 핵심 건물 시스템의 설계·자문·시공·관리 서비스를 수행한다.
+
+*Legence Corp. provides engineering, installation, and maintenance services for mission-critical systems in buildings in the United States. The company operates through two segments, Engineering & Consulting, and Installation & Maintenance.*
 
 ---
 

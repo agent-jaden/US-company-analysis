@@ -1,10 +1,12 @@
 # Snap Inc (SNAP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Internet Content & Information | 시총 10B$ | 결산월: 12월**
+**Communication Services | Internet Content & Information | 시총 10B$ (#967위) | 결산월: 12월**
 
-Snap Inc. operates as a technology company in North America, Europe, and internationally. The company offers Snapchat, a visual messaging application with various tabs, such as camera, visual messaging, snap map, stories, and spotlight that enable people to communicate visually through short videos and snaps.
+Snap은 북미, 유럽 및 해외에서 기술 기업으로 운영된다. Snapchat은 카메라, 비주얼 메시징, Snap Map, Stories, Spotlight 등 탭을 통해 사람들이 짧은 영상과 snap으로 시각적으로 소통할 수 있게 하는 비주얼 메시징 앱이다.
+
+*Snap Inc. operates as a technology company in North America, Europe, and internationally. The company offers Snapchat, a visual messaging application with various tabs, such as camera, visual messaging, snap map, stories, and spotlight that enable people to communicate visually through short videos and snaps.*
 
 ---
 

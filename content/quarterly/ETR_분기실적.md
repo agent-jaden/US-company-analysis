@@ -1,10 +1,12 @@
 # ENTERGY CORP /DE/ (ETR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 52B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 52B$ (#314위) | 결산월: 12월**
 
-Entergy Corporation, together with its subsidiaries, engages in the production and retail distribution of electricity in the United States. It generates, transmits, distributes, and sells electric power in portions of Arkansas, Louisiana, Mississippi, and Texas, including the City of New Orleans. It also engages in the ownership of interests in non-nuclear power plants that sell electric power to wholesale customers, as well as provides decommissioning services to other nuclear power plant owners.
+Entergy는 자회사를 통해 미국에서 전력 생산과 소매 배전 사업을 영위한다. Arkansas, Louisiana, Mississippi, Texas 일부 지역과 New Orleans에서 전력을 생산·송전·배전·판매하며, 비원전 발전소 지분 보유와 원전 해체 서비스도 수행한다.
+
+*Entergy Corporation, together with its subsidiaries, engages in the production and retail distribution of electricity in the United States. It generates, transmits, distributes, and sells electric power in portions of Arkansas, Louisiana, Mississippi, and Texas, including the City of New Orleans. It also engages in the ownership of interests in non-nuclear power plants that sell electric power to wholesale customers, as well as provides decommissioning services to other nuclear power plant owners.*
 
 ---
 

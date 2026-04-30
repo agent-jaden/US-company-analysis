@@ -1,10 +1,12 @@
 # NORDSON CORP (NDSN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Industrial Machinery | 시총 16B$ | 결산월: 10월**
+**Industrials | Specialty Industrial Machinery | 시총 16B$ (#731위) | 결산월: 10월**
 
-Nordson Corporation engineers, manufactures, and markets products and systems to dispense, apply, and control adhesives, coatings, polymers, sealants, biomaterials, medical components, and other fluids. The Industrial Precision Solutions segment provides dispensing, coating, and laminating systems for adhesives, lotions, liquids, and fibers to disposable products and roll goods; automated adhesive dispensing systems; components and systems for thermoplastic and biopolymer melt stream; fluid components, such as nozzles, pumps, and filters; smart components that measure and control the flow, quantity and location of dispensed fluid; control systems; and product assembly solutions. It also offers automated and manual dispensing products and systems for cold materials, container coating, liquid finishing, and powder coating, as well as ultraviolet equipment.
+Nordson Corporation은 접착제, 코팅, 폴리머 및 의료용 생체 재료 등 다양한 유체의 분사, 도포 및 제어 시스템을 설계하고 제조합니다. 산업용 정밀 솔루션 부문을 통해 일회용품 생산용 디스펜싱 기기, 유체 양과 흐름을 측정하는 스마트 부품, 코팅 및 라미네이팅 시스템 등을 제공합니다. 또한 분체 도장 및 액상 마감을 위한 자동 및 수동 장비, 자외선(UV) 경화 장비 등을 공급하여 산업 공정의 자동화를 돕습니다.
+
+*Nordson Corporation engineers, manufactures, and markets products and systems to dispense, apply, and control adhesives, coatings, polymers, sealants, biomaterials, medical components, and other fluids. The Industrial Precision Solutions segment provides dispensing, coating, and laminating systems for adhesives, lotions, liquids, and fibers to disposable products and roll goods; automated adhesive dispensing systems; components and systems for thermoplastic and biopolymer melt stream; fluid components, such as nozzles, pumps, and filters; smart components that measure and control the flow, quantity and location of dispensed fluid; control systems; and product assembly solutions. It also offers automated and manual dispensing products and systems for cold materials, container coating, liquid finishing, and powder coating, as well as ultraviolet equipment.*
 
 ---
 

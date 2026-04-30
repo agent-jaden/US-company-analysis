@@ -1,10 +1,12 @@
 # KIMCO REALTY CORP (KIM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Retail | 시총 16B$ | 결산월: 12월**
+**Real Estate | REIT - Retail | 시총 16B$ (#724위) | 결산월: 12월**
 
-Kimco Realty Corporation is a real estate investment trust and leading owner and operator of high-quality, open-air, grocery-anchored shopping centers and mixed-use properties in the United States. The company's portfolio is strategically concentrated in the first-ring suburbs of the top major metropolitan markets, including high-barrier-to-entry coastal markets and Sun Belt cities. Its tenant mix is focused on essential, necessity-based goods and services that drive multiple shopping trips per week.
+Kimco Realty Corporation은 미국 내에서 식료품점 중심의 야외 쇼핑센터와 주상복합 부동산을 주로 소유하고 운영하는 부동산 투자 신탁(REIT)입니다. 진입 장벽이 높은 해안가 시장과 썬벨트 도시 등 주요 대도시 외곽에 전략적으로 자산을 집중하고 있습니다. 특히 주간 방문 빈도를 높이는 필수 소비재 및 서비스 중심의 임차인 구성을 채택하여 안정적인 수익을 창출합니다.
+
+*Kimco Realty Corporation is a real estate investment trust and leading owner and operator of high-quality, open-air, grocery-anchored shopping centers and mixed-use properties in the United States. The company's portfolio is strategically concentrated in the first-ring suburbs of the top major metropolitan markets, including high-barrier-to-entry coastal markets and Sun Belt cities. Its tenant mix is focused on essential, necessity-based goods and services that drive multiple shopping trips per week.*
 
 ---
 

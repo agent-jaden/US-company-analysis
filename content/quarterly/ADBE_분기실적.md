@@ -1,10 +1,12 @@
 # ADOBE INC. (ADBE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 97B$ | 결산월: 11월**
+**Technology | Software - Application | 시총 97B$ (#170위) | 결산월: 11월**
 
-Adobe Inc. operates as a technology company worldwide. The Digital Media segment offers products and services that enable individuals, teams, and enterprises to create, publish, and promote content.
+Adobe는 전 세계에서 디지털 콘텐츠 제작과 활용을 지원하는 기술 기업이다. Digital Media 부문은 개인, 팀, 기업이 콘텐츠를 제작, 게시, 홍보할 수 있도록 소프트웨어와 서비스를 제공한다.
+
+*Adobe Inc. operates as a technology company worldwide. The Digital Media segment offers products and services that enable individuals, teams, and enterprises to create, publish, and promote content.*
 
 ---
 

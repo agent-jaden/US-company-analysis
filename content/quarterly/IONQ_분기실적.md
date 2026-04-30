@@ -1,10 +1,12 @@
 # IonQ, Inc. (IONQ) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Computer Hardware | 시총 16B$ | 결산월: 12월**
+**Technology | Computer Hardware | 시총 16B$ (#725위) | 결산월: 12월**
 
-IonQ, Inc. develops quantum computing systems in the United States, Switzerland, and Internationally. It sells access to quantum computers of various qubit capacities.
+IonQ, Inc.는 미국, 스위스 및 전 세계를 대상으로 양자 컴퓨팅 시스템을 개발하고 제공하는 선도적인 기술 기업입니다. 고객들에게 다양한 큐비트(Qubit) 용량을 가진 양자 컴퓨터에 접근할 수 있는 클라우드 기반 서비스를 판매합니다.
+
+*IonQ, Inc. develops quantum computing systems in the United States, Switzerland, and Internationally. It sells access to quantum computers of various qubit capacities.*
 
 ---
 

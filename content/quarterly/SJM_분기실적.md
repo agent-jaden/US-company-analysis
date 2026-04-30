@@ -1,10 +1,12 @@
 # J M SMUCKER Co (SJM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Packaged Foods | 시총 10B$ | 결산월: 4월**
+**Consumer Defensive | Packaged Foods | 시총 10B$ (#969위) | 결산월: 4월**
 
-The J. M. Smucker Company manufactures and markets branded food and beverage products worldwide.
+J. M. Smucker는 전 세계에서 브랜드 식품과 음료 제품을 제조·마케팅한다. 잼, 스프레드, 커피, 반려동물 식품 등 다양한 소비재 식품 브랜드 포트폴리오를 운영한다.
+
+*The J. M. Smucker Company manufactures and markets branded food and beverage products worldwide.*
 
 ---
 

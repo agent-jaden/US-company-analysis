@@ -1,10 +1,12 @@
 # NORTHERN TRUST CORP (NTRS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Asset Management | 시총 31B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 31B$ (#454위) | 결산월: 12월**
 
-Northern Trust Corporation, a financial holding company, provides wealth management, asset servicing, asset management, and banking solutions for corporations, institutions, families, and individuals. It operates in two segments, Asset Servicing and Wealth Management. The Asset Servicing segment offers asset servicing and related services, including custody, fund administration, investment operations outsourcing, investment management, investment risk and analytical, employee benefit, securities lending, foreign exchange, treasury management, brokerage, transition management, banking, and cash management services.
+Northern Trust는 기업, 기관, 가족, 개인에게 자산관리, 자산서비스, 운용, 은행 솔루션을 제공하는 금융지주회사다. Asset Servicing 부문은 수탁, 펀드관리, 투자운영 아웃소싱, 투자위험·분석, 직원복지, 증권대여, 외환, 자금관리, 브로커리지, 전환관리, 은행·현금관리 서비스를 제공한다.
+
+*Northern Trust Corporation, a financial holding company, provides wealth management, asset servicing, asset management, and banking solutions for corporations, institutions, families, and individuals. It operates in two segments, Asset Servicing and Wealth Management. The Asset Servicing segment offers asset servicing and related services, including custody, fund administration, investment operations outsourcing, investment management, investment risk and analytical, employee benefit, securities lending, foreign exchange, treasury management, brokerage, transition management, banking, and cash management services.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Roivant Sciences Ltd. (ROIV) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Biotechnology | 시총 20B$ | 결산월: 3월**
+**Healthcare | Biotechnology | 시총 20B$ (#626위) | 결산월: 3월**
 
-Roivant Sciences Ltd., a clinical-stage biopharmaceutical company, focuses on the discovery, development, and commercialization of medicines and technologies. Its clinical product candidates include IMVT-1402, a fully human monoclonal antibody that targets the neonatal fragment crystallizable receptor for the treatment of graves' disease, difficult-to-treat rheumatoid arthritis, sjögren's disease, myasthenia gravis, chronic inflammatory demyelinating polyneuropathy, and cutaneous lupus erythematosus indications; batoclimab, a fully human monoclonal antibody for the treatment of thyroid eye disease; and brepocitinib, a potent small molecule inhibitor of TYK2 and JAK1 in development for the treatment of dermatomyositis, non-infectious uveitis, cutaneous sarcoidosis, and other immune-mediated diseases. The company's lead program consists of mosliciguat, an inhaled sGC activator for the treatment of pulmonary hypertension associated with interstitial lung disease and other cardiopulmonary diseases.
+Roivant Sciences Ltd.는 혁신적인 의약품과 기술의 발굴, 개발 및 상용화에 중점을 둔 임상 단계의 바이오 제약 기업입니다. 류마티스 관절염 등 자가면역 질환을 표적으로 하는 항체인 IMVT-1402 및 batoclimab과 더불어, 심폐 질환 치료를 위한 흡입형 치료제 mosliciguat 등 다양한 파이프라인을 임상 개발 중입니다.
+
+*Roivant Sciences Ltd., a clinical-stage biopharmaceutical company, focuses on the discovery, development, and commercialization of medicines and technologies. Its clinical product candidates include IMVT-1402, a fully human monoclonal antibody that targets the neonatal fragment crystallizable receptor for the treatment of graves' disease, difficult-to-treat rheumatoid arthritis, sjögren's disease, myasthenia gravis, chronic inflammatory demyelinating polyneuropathy, and cutaneous lupus erythematosus indications; batoclimab, a fully human monoclonal antibody for the treatment of thyroid eye disease; and brepocitinib, a potent small molecule inhibitor of TYK2 and JAK1 in development for the treatment of dermatomyositis, non-infectious uveitis, cutaneous sarcoidosis, and other immune-mediated diseases. The company's lead program consists of mosliciguat, an inhaled sGC activator for the treatment of pulmonary hypertension associated with interstitial lung disease and other cardiopulmonary diseases.*
 
 ---
 

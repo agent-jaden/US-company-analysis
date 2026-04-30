@@ -1,10 +1,12 @@
 # KINDER MORGAN, INC. (KMI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Midstream | 시총 69B$ | 결산월: 12월**
+**Energy | Oil & Gas Midstream | 시총 69B$ (#247위) | 결산월: 12월**
 
-Kinder Morgan, Inc. operates as an energy infrastructure company primarily in North America. It operates through Natural Gas Pipelines, Products Pipelines, Terminals, and CO2 segments.
+Kinder Morgan, Inc.는 북미 지역을 중심으로 방대한 파이프라인 네트워크를 운영하는 주요 에너지 인프라 기업입니다. 천연가스 및 정제품 파이프라인, 터미널 운영, 이산화탄소(CO2) 운송 등의 부문을 통해 에너지를 안전하게 저장하고 수송합니다.
+
+*Kinder Morgan, Inc. operates as an energy infrastructure company primarily in North America. It operates through Natural Gas Pipelines, Products Pipelines, Terminals, and CO2 segments.*
 
 ---
 

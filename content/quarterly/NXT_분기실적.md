@@ -1,10 +1,12 @@
 # Nextpower Inc. (NXT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Solar | 시총 18B$ | 결산월: 3월**
+**Technology | Solar | 시총 18B$ (#663위) | 결산월: 3월**
 
-Nextpower Inc. provides solar tracker technologies and solutions for utility-scale and distributed generation solar applications in the United States and internationally. The company offers tracking solutions, including NX Horizon, a solar tracking solution; NX Horizon-XTR, a terrain-following tracker to expand the addressable market for trackers on sites with sloped, uneven, and challenging terrain; NX Horizon Hail Pro adds automatic stowing using weather service information; and NX Horizon Low Carbon, a solar tracker solution with a reduced carbon footprint.
+Nextpower는 미국과 해외에서 유틸리티급 및 분산형 태양광 발전용 solar tracker 기술과 솔루션을 제공한다. NX Horizon, 경사지·불균형 지형용 NX Horizon-XTR, 기상 정보를 활용한 자동 대피 기능의 NX Horizon Hail Pro, 탄소발자국을 줄인 NX Horizon Low Carbon 등을 공급한다.
+
+*Nextpower Inc. provides solar tracker technologies and solutions for utility-scale and distributed generation solar applications in the United States and internationally. The company offers tracking solutions, including NX Horizon, a solar tracking solution; NX Horizon-XTR, a terrain-following tracker to expand the addressable market for trackers on sites with sloped, uneven, and challenging terrain; NX Horizon Hail Pro adds automatic stowing using weather service information; and NX Horizon Low Carbon, a solar tracker solution with a reduced carbon footprint.*
 
 ---
 

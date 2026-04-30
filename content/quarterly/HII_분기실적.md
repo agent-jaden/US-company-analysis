@@ -1,10 +1,12 @@
 # HUNTINGTON INGALLS INDUSTRIES, INC. (HII) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 14B$ | 결산월: 12월**
+**Industrials | Aerospace & Defense | 시총 14B$ (#783위) | 결산월: 12월**
 
-Huntington Ingalls Industries, Inc. designs, builds, overhauls, and repairs military ships in the United States. It operates through three segments: Ingalls, Newport News, and Mission Technologies.
+Huntington Ingalls Industries는 미국에서 군함을 설계, 건조, 오버홀, 수리한다. Ingalls, Newport News, Mission Technologies 부문을 통해 해군 함정 건조와 방산 기술 서비스를 제공한다.
+
+*Huntington Ingalls Industries, Inc. designs, builds, overhauls, and repairs military ships in the United States. It operates through three segments: Ingalls, Newport News, and Mission Technologies.*
 
 ---
 

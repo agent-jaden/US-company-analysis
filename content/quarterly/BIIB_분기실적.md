@@ -1,10 +1,12 @@
 # BIOGEN INC. (BIIB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Drug Manufacturers - General | 시총 27B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - General | 시총 27B$ (#506위) | 결산월: 12월**
 
-Biogen Inc. discovers, develops, manufactures, and delivers therapies in the United States, Europe, Germany, Asia, and internationally. The company provides TECFIDERA, VUMERITY, AVONEX, PLEGRIDY, and TYSABRI for multiple sclerosis (MS); SPINRAZA for spinal muscular atrophy; SKYCLARYS to treat Friedreich's Ataxia; QALSODY for treating amyotrophic lateral sclerosis; FUMADERM to treat plaque psoriasis; BENEPALI, an etanercept biosimilar referencing ENBREL; IMRALDI, an adalimumab biosimilar referencing HUMIRA; FLIXABI, an infliximab biosimilar referencing REMICADE.
+Biogen Inc.는 미국, 유럽, 아시아 등 전 세계적으로 치료제를 발굴, 개발, 제조 및 공급하는 다국적 생명공학 기업입니다. 다발성 경화증(MS), 척수성 근위축증(SMA), 루게릭병(ALS) 등 희귀 난치성 신경 질환 치료제와 건선 치료제 및 자가면역 질환용 바이오시밀러를 제공합니다.
+
+*Biogen Inc. discovers, develops, manufactures, and delivers therapies in the United States, Europe, Germany, Asia, and internationally. The company provides TECFIDERA, VUMERITY, AVONEX, PLEGRIDY, and TYSABRI for multiple sclerosis (MS); SPINRAZA for spinal muscular atrophy; SKYCLARYS to treat Friedreich's Ataxia; QALSODY for treating amyotrophic lateral sclerosis; FUMADERM to treat plaque psoriasis; BENEPALI, an etanercept biosimilar referencing ENBREL; IMRALDI, an adalimumab biosimilar referencing HUMIRA; FLIXABI, an infliximab biosimilar referencing REMICADE.*
 
 ---
 

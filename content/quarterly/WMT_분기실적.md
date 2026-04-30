@@ -1,10 +1,12 @@
 # Walmart Inc. (WMT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Discount Stores | 시총 1017B$ | 결산월: 1월**
+**Consumer Defensive | Discount Stores | 시총 1017B$ (#13위) | 결산월: 1월**
 
-Walmart Inc. engages in the operation of retail and wholesale stores and clubs, ecommerce websites, and mobile applications worldwide. The company operates through three segments: Walmart U.S., Walmart International, and Sam's Club U.S.
+Walmart Inc.는 전 세계적으로 소매 및 도매 매장, 회원제 할인매장, 이커머스 웹사이트 및 모바일 앱을 운영합니다. 사업은 Walmart U.S., Walmart International, Sam's Club U.S. 세 가지 부문으로 나뉘어 있습니다.
+
+*Walmart Inc. engages in the operation of retail and wholesale stores and clubs, ecommerce websites, and mobile applications worldwide. The company operates through three segments: Walmart U.S., Walmart International, and Sam's Club U.S.*
 
 ---
 

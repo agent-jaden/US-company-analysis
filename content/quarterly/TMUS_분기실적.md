@@ -1,10 +1,12 @@
 # T-Mobile US, Inc. (TMUS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Telecom Services | 시총 201B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 201B$ (#67위) | 결산월: 12월**
 
-T-Mobile US, Inc., together with its subsidiaries, provides wireless communications services in the United States, Puerto Rico, and the United States Virgin Islands. The company offers voice, messaging, and data services to postpaid, prepaid, and wholesale and other services customers. It also provides wireless devices, including smartphones, wearables, tablets, home broadband gateways, headsets, and other mobile communication devices, as well as accessories; financing through equipment installment plans; reinsurance for device insurance policies and extended warranty contracts.
+T-Mobile US, Inc.는 미국 및 푸에르토리코 지역에서 음성, 메시징 및 데이터 무선 통신 서비스를 제공합니다. 스마트폰, 웨어러블, 홈 브로드밴드 기기 등의 무선 단말기 판매와 함께 할부 금융 및 기기 보험 서비스도 지원합니다.
+
+*T-Mobile US, Inc., together with its subsidiaries, provides wireless communications services in the United States, Puerto Rico, and the United States Virgin Islands. The company offers voice, messaging, and data services to postpaid, prepaid, and wholesale and other services customers. It also provides wireless devices, including smartphones, wearables, tablets, home broadband gateways, headsets, and other mobile communication devices, as well as accessories; financing through equipment installment plans; reinsurance for device insurance policies and extended warranty contracts.*
 
 ---
 

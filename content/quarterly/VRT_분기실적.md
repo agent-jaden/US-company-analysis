@@ -1,10 +1,12 @@
 # Vertiv Holdings Co (VRT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Electrical Equipment & Parts | 시총 124B$ | 결산월: 12월**
+**Industrials | Electrical Equipment & Parts | 시총 124B$ (#128위) | 결산월: 12월**
 
-Vertiv Holdings Co designs, manufactures, and services critical digital infrastructure technologies and life cycle services for data centers, communication networks, and commercial and industrial environments in the Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company offers AC and DC power management products, low/medium voltage switchgear, busbar, thermal management products, air cooled and liquid cooled thermal management products, integrated modular solutions, racks, single phase UPS, rack power distribution, rack thermal systems, configurable integrated solutions, energy storage solutions, hardware, and software infrastructure that are integral to the technologies used for various services, including artificial intelligence, e-commerce, online banking, file sharing, video on-demand, energy storage, wireless communications, Internet of Things, and online gaming. It also provides lifecycle management services, predictive analytics, and professional services for deploying, maintaining, and optimizing its products and their related systems; and preventative maintenance, acceptance testing, engineering and consulting, fluid management, performance assessments, remote monitoring, training, spare parts, and critical digital infrastructure software services.
+Vertiv는 데이터센터, 통신망, 상업·산업 환경에 필요한 핵심 디지털 인프라 기술과 라이프사이클 서비스를 설계·제조·제공한다. 전력관리, 스위치기어, busbar, 공랭·액랭 열관리, 모듈형 솔루션, 랙, UPS, 에너지저장, 하드웨어·소프트웨어 인프라와 유지보수·예측분석·전문 서비스를 공급한다.
+
+*Vertiv Holdings Co designs, manufactures, and services critical digital infrastructure technologies and life cycle services for data centers, communication networks, and commercial and industrial environments in the Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company offers AC and DC power management products, low/medium voltage switchgear, busbar, thermal management products, air cooled and liquid cooled thermal management products, integrated modular solutions, racks, single phase UPS, rack power distribution, rack thermal systems, configurable integrated solutions, energy storage solutions, hardware, and software infrastructure that are integral to the technologies used for various services, including artificial intelligence, e-commerce, online banking, file sharing, video on-demand, energy storage, wireless communications, Internet of Things, and online gaming. It also provides lifecycle management services, predictive analytics, and professional services for deploying, maintaining, and optimizing its products and their related systems; and preventative maintenance, acceptance testing, engineering and consulting, fluid management, performance assessments, remote monitoring, training, spare parts, and critical digital infrastructure software services.*
 
 ---
 

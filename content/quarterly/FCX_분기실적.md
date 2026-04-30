@@ -1,10 +1,12 @@
 # FREEPORT-MCMORAN INC (FCX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Copper | 시총 87B$ | 결산월: 12월**
+**Basic Materials | Copper | 시총 87B$ (#193위) | 결산월: 12월**
 
-Freeport-McMoRan Inc. engages in the mining of mineral properties in North America, South America, and Indonesia. The company primarily explores for copper, gold, molybdenum, silver, and other metals.
+Freeport-McMoRan은 북미, 남미, 인도네시아에서 광물 자산을 채굴하는 광산기업이다. 주로 구리, 금, 몰리브덴, 은 및 기타 금속을 탐사·생산한다.
+
+*Freeport-McMoRan Inc. engages in the mining of mineral properties in North America, South America, and Indonesia. The company primarily explores for copper, gold, molybdenum, silver, and other metals.*
 
 ---
 

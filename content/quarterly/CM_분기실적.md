@@ -1,10 +1,12 @@
 # CANADIAN IMPERIAL BANK OF COMMERCE /CAN/ (CM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: CAD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: CAD
 
-**Financial Services | Banks - Diversified | 시총 102B$ | 결산월: 10월**
+**Financial Services | Banks - Diversified | 시총 102B$ (#156위) | 결산월: 10월**
 
-Canadian Imperial Bank of Commerce, a diversified financial institution, provides various financial products and services to personal, business, public sector, and institutional clients in Canada, the United States, and internationally. The company operates through Canadian Personal and Business Banking; Canadian Commercial Banking and Wealth Management; U.S. Commercial Banking and Wealth Management; Capital Markets and Direct Financial Services; and Corporate and Other segments.
+Canadian Imperial Bank of Commerce는 캐나다, 미국 및 해외에서 개인, 기업, 공공부문, 기관 고객에게 다양한 금융 상품과 서비스를 제공하는 종합 금융기관이다. 개인·기업은행, 상업은행·자산관리, 미국 상업은행·자산관리, 자본시장 및 직접금융 서비스 부문을 운영한다.
+
+*Canadian Imperial Bank of Commerce, a diversified financial institution, provides various financial products and services to personal, business, public sector, and institutional clients in Canada, the United States, and internationally. The company operates through Canadian Personal and Business Banking; Canadian Commercial Banking and Wealth Management; U.S. Commercial Banking and Wealth Management; Capital Markets and Direct Financial Services; and Corporate and Other segments.*
 
 ---
 

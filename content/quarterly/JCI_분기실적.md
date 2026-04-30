@@ -1,10 +1,12 @@
 # Johnson Controls International plc (JCI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Building Products & Equipment | 시총 88B$ | 결산월: 9월**
+**Industrials | Building Products & Equipment | 시총 88B$ (#190위) | 결산월: 9월**
 
-Johnson Controls International plc, together with its subsidiaries, engages in engineering, manufacturing, commissioning, and retrofitting building products and systems in the Americas, Europe, the Middle East, Africa, and the Asia-Pacific. The company designs, manufactures, sells, installs, and services heating, ventilating, air conditioning, controls, building management, refrigeration, integrated electronic security, integrated fire detection and suppression systems, and digital solutions. It also provides energy solutions and technical services, including inspection, scheduled maintenance, and repair and replacement of mechanical and control systems, as well as data-driven building solutions.
+Johnson Controls는 미주, 유럽, 중동, 아프리카, 아시아태평양에서 건물 제품과 시스템을 설계·제조·시공·개조한다. HVAC, 제어, 빌딩관리, 냉동, 전자보안, 화재감지·진압, 디지털 솔루션과 에너지·기술 서비스, 점검·정비·수리 서비스를 제공한다.
+
+*Johnson Controls International plc, together with its subsidiaries, engages in engineering, manufacturing, commissioning, and retrofitting building products and systems in the Americas, Europe, the Middle East, Africa, and the Asia-Pacific. The company designs, manufactures, sells, installs, and services heating, ventilating, air conditioning, controls, building management, refrigeration, integrated electronic security, integrated fire detection and suppression systems, and digital solutions. It also provides energy solutions and technical services, including inspection, scheduled maintenance, and repair and replacement of mechanical and control systems, as well as data-driven building solutions.*
 
 ---
 

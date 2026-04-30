@@ -1,6 +1,14 @@
 # JPMORGAN CHASE & CO (JPM) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+
+**Financial Services | Banks - Diversified | 시총 835B$ (#14위) | 결산월: 12월**
+
+JPMorgan Chase & Co.는 미국을 비롯한 북미, 유럽, 아시아 태평양 등 전 세계에서 은행 및 금융 지주 회사로 운영됩니다. 주요 사업 부문은 소비자 및 커뮤니티 뱅킹, 상업 및 투자 은행, 자산 및 자산 관리로 구성됩니다.
+
+*JPMorgan Chase & Co. operates as a bank and financial holding company in the United States, rest of North America, Europe, the Middle East, Africa, the Asia Pacific, Latin America, and the Caribbean. It operates in three segments: Consumer & Community Banking, Commercial & Investment Bank, and Asset & Wealth Management.*
+
+---
 
 ### 분기별 실적 추이
 

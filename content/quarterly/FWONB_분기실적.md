@@ -1,10 +1,12 @@
 # Liberty Media Corp (FWONB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Entertainment | 시총 21B$ | 결산월: 12월**
+**Communication Services | Entertainment | 시총 21B$ (#619위) | 결산월: 12월**
 
-Formula One Group, together with its subsidiaries, engages in the motorsports business in the United States, the United Kingdom, Spain, and internationally. The company holds commercial rights for the Fédération Internationale de l'Automobile (FIA) Formula One World Championship, an annual nine-month long motor race-based competition in which teams compete for the Constructors' championship and drivers compete for the Drivers' championship. It is also involved in filming, television production and post-production, and digital and social media activities; provision of freight, logistical, and travel related services, as well as technical support at Formula 1 events; production of the international television feed; and operation of the Formula 1 Paddock Club hospitality program, F2 and F3 race series, and F1 Academy.
+Formula One Group은 전 세계적으로 모터스포츠 비즈니스를 전개하며 FIA Formula One World Championship의 독점적 상업권을 보유하고 있습니다. 경주 대회의 글로벌 방송 제작, 디지털 미디어 운영, 물류 및 기술 지원을 총괄하며, Formula 1 Paddock Club 및 F2, F3 레이스 시리즈 등의 관련 부가 사업도 함께 운영합니다.
+
+*Formula One Group, together with its subsidiaries, engages in the motorsports business in the United States, the United Kingdom, Spain, and internationally. The company holds commercial rights for the Fédération Internationale de l'Automobile (FIA) Formula One World Championship, an annual nine-month long motor race-based competition in which teams compete for the Constructors' championship and drivers compete for the Drivers' championship. It is also involved in filming, television production and post-production, and digital and social media activities; provision of freight, logistical, and travel related services, as well as technical support at Formula 1 events; production of the international television feed; and operation of the Formula 1 Paddock Club hospitality program, F2 and F3 race series, and F1 Academy.*
 
 ---
 

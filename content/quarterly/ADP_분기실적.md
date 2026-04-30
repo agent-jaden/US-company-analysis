@@ -1,10 +1,12 @@
 # AUTOMATIC DATA PROCESSING INC (ADP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 79B$ | 결산월: 6월**
+**Technology | Software - Application | 시총 79B$ (#207위) | 결산월: 6월**
 
-Automatic Data Processing, Inc. provides cloud-based human capital management (HCM) solutions worldwide. It operates in two segments, Employer Services and Professional Employer Organization (PEO).
+Automatic Data Processing, Inc.는 전 세계적으로 클라우드 기반 인적 자본 관리(HCM) 솔루션을 제공하는 기업입니다. 고용주 서비스와 전문 고용주 조직(PEO) 부문을 통해 급여 처리, 세무 및 포괄적인 인사 관리 솔루션을 운영합니다.
+
+*Automatic Data Processing, Inc. provides cloud-based human capital management (HCM) solutions worldwide. It operates in two segments, Employer Services and Professional Employer Organization (PEO).*
 
 ---
 

@@ -1,10 +1,12 @@
 # On Holding AG (ONON) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CHF
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CHF
 
-**Consumer Cyclical | Footwear & Accessories | 시총 12B$ | 결산월: 12월**
+**Consumer Cyclical | Footwear & Accessories | 시총 12B$ (#878위) | 결산월: 12월**
 
-On Holding AG, together with its subsidiaries, develops and distributes performance sports products under the On brand in Switzerland, the rest of Europe, the Middle East, Africa, the United States, the rest of the Americas, and the Asia-Pacific. The company offers athletic footwear, apparel, and accessories for performance running, performance outdoor, performance all day, performance training, performance tennis, and young movers. It sells its products to athletes and active customers through wholesale and direct-to-consumer channels; run specialty, general sporting goods, outdoor, luxury, street fashion, and lifestyle retailers; owned retail stores; and e-commerce platforms.
+On Holding AG는 스위스를 비롯해 미국, 유럽, 아시아 등 전 세계에 프리미엄 퍼포먼스 스포츠 브랜드 'On'의 제품을 개발하고 유통합니다. 혁신적인 기술이 적용된 러닝화, 아웃도어 신발, 운동복 등을 도매 파트너, 직영 매장 및 전자상거래 채널을 통해 판매합니다.
+
+*On Holding AG, together with its subsidiaries, develops and distributes performance sports products under the On brand in Switzerland, the rest of Europe, the Middle East, Africa, the United States, the rest of the Americas, and the Asia-Pacific. The company offers athletic footwear, apparel, and accessories for performance running, performance outdoor, performance all day, performance training, performance tennis, and young movers. It sells its products to athletes and active customers through wholesale and direct-to-consumer channels; run specialty, general sporting goods, outdoor, luxury, street fashion, and lifestyle retailers; owned retail stores; and e-commerce platforms.*
 
 ---
 

@@ -1,10 +1,12 @@
 # BOEING CO (BA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 182B$ | 결산월: 12월**
+**Industrials | Aerospace & Defense | 시총 182B$ (#76위) | 결산월: 12월**
 
-The Boeing Company, together with its subsidiaries, designs, develops, manufactures, sells, services, and supports commercial jetliners, military aircraft, satellites, missile defense, human space flight and launch systems, and services worldwide. The company operates through three segments: Commercial Airplanes; Defense, Space & Security; and Global Services. The Commercial Airplanes segment develops, produces, and markets commercial jet aircraft for passenger and cargo requirements.
+The Boeing Company는 전 세계적으로 상업용 제트기, 군용 항공기, 위성, 유인 우주 비행 시스템 등을 설계, 제조 및 판매하는 기업입니다. 상업용 항공기, 방위 및 우주 보안, 글로벌 서비스의 세 부문을 통해 여객 및 화물용 항공기와 관련 애프터마켓 서비스를 지원합니다.
+
+*The Boeing Company, together with its subsidiaries, designs, develops, manufactures, sells, services, and supports commercial jetliners, military aircraft, satellites, missile defense, human space flight and launch systems, and services worldwide. The company operates through three segments: Commercial Airplanes; Defense, Space & Security; and Global Services. The Commercial Airplanes segment develops, produces, and markets commercial jet aircraft for passenger and cargo requirements.*
 
 ---
 

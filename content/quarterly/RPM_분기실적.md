@@ -1,10 +1,12 @@
 # RPM INTERNATIONAL INC/DE/ (RPM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Specialty Chemicals | 시총 13B$ | 결산월: 5월**
+**Basic Materials | Specialty Chemicals | 시총 13B$ (#805위) | 결산월: 5월**
 
-RPM International Inc. provides specialty chemicals for the construction, industrial, specialty, and consumer markets. It operates in four segments: CPG, PCG, Consumer, and SPG.
+RPM International은 건설, 산업, specialty, 소비자 시장용 특수화학 제품을 제공한다. CPG, PCG, Consumer, SPG 부문을 통해 코팅, 실란트, 방수재, 보수·보호 소재 등 다양한 화학 제품을 공급한다.
+
+*RPM International Inc. provides specialty chemicals for the construction, industrial, specialty, and consumer markets. It operates in four segments: CPG, PCG, Consumer, and SPG.*
 
 ---
 

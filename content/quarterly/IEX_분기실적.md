@@ -1,10 +1,12 @@
 # IDEX CORP /DE/ (IEX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Industrial Machinery | 시총 15B$ | 결산월: 12월**
+**Industrials | Specialty Industrial Machinery | 시총 15B$ (#740위) | 결산월: 12월**
 
-IDEX Corporation, together with its subsidiaries, provides applied solutions in the United States, North America, Europe, Asia, and internationally. It operates through three segments: Health & Science Technologies (HST), Fluid & Metering Technologies (FMT) and Fire & Safety/Diversified Products (FSDP). The HST segment designs, produces, and distributes a range of precision fluidics, positive displacement pumps, powder and liquid processing technologies, drying systems, micro-precision components, pneumatic components and sealing solutions, high performance molded and extruded sealing components, and custom mechanical and shaft seals.
+IDEX Corporation은 전 세계 산업 현장에 맞춤형 응용 기술 솔루션을 제공하는 제조 기업입니다. 보건 및 과학 기술(HST), 유체 및 계량 기술(FMT), 소방 및 안전 장비의 세 부문을 통해 펌프, 계량기, 특수 밀봉 구성품 및 미세 정밀 부품 등을 설계하고 유통합니다.
+
+*IDEX Corporation, together with its subsidiaries, provides applied solutions in the United States, North America, Europe, Asia, and internationally. It operates through three segments: Health & Science Technologies (HST), Fluid & Metering Technologies (FMT) and Fire & Safety/Diversified Products (FSDP). The HST segment designs, produces, and distributes a range of precision fluidics, positive displacement pumps, powder and liquid processing technologies, drying systems, micro-precision components, pneumatic components and sealing solutions, high performance molded and extruded sealing components, and custom mechanical and shaft seals.*
 
 ---
 

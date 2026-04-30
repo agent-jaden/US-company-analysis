@@ -1,10 +1,12 @@
 # EVEREST GROUP, LTD. (EG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Reinsurance | 시총 14B$ | 결산월: 12월**
+**Financial Services | Insurance - Reinsurance | 시총 14B$ (#795위) | 결산월: 12월**
 
-Everest Group, Ltd., together with subsidiaries, provides reinsurance and insurance products in the United States, Europe, and internationally. It operates in two segment, Insurance and Reinsurance. The company writes property and casualty reinsurance; treaty and facultative reinsurance products; and specialty lines of business through reinsurance brokers, as well as directly with ceding companies; and writes property and casualty insurance directly, as well as through brokers, surplus lines, and general agents.
+Everest Group은 미국, 유럽 및 해외에서 재보험과 보험 상품을 제공한다. Insurance와 Reinsurance 부문을 통해 재산·상해 재보험, treaty·facultative 재보험, specialty line, 재산·상해보험을 브로커, surplus line, general agent 및 직접 채널로 인수한다.
+
+*Everest Group, Ltd., together with subsidiaries, provides reinsurance and insurance products in the United States, Europe, and internationally. It operates in two segment, Insurance and Reinsurance. The company writes property and casualty reinsurance; treaty and facultative reinsurance products; and specialty lines of business through reinsurance brokers, as well as directly with ceding companies; and writes property and casualty insurance directly, as well as through brokers, surplus lines, and general agents.*
 
 ---
 

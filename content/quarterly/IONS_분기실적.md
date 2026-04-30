@@ -1,10 +1,12 @@
 # IONIS PHARMACEUTICALS INC (IONS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Biotechnology | 시총 12B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 12B$ (#877위) | 결산월: 12월**
 
-Ionis Pharmaceuticals, Inc., a commercial-stage biotechnology company, provides RNA-targeted medicines in the United States. The company offers TRYNGOLZA reduces triglyceride levels in adults with familial chylomicronemia syndrome (FCS) and acute pancreatitis; DAWNZERA for prophylaxis to prevent attacks of hereditary angioedema in adults; WAINUA for the treatment of the polyneuropathy of hereditary transthyretin-medicated amyloidosis (ATTRv-PN) in adults; and SPINRAZA for pediatric and adult patients with spinal muscular atrophy (SMA). It also provides QALSODY for the treatment of Amyotrophic Lateral Sclerosis (ALS); TEGSEDI for the treatment of ATTRv-PN in adults; and WAYLIVRA for treatment for FCS and familial partial lipodystrophy.
+Ionis Pharmaceuticals, Inc.는 미국 시장에서 리보핵산(RNA) 표적 치료제를 개발하고 상용화하는 생명공학 선도 기업입니다. 척수성 근위축증(SMA) 치료제 SPINRAZA, 유전성 혈관부종 치료제 DAWNZERA, 루게릭병(ALS) 치료제 QALSODY 등 희귀 난치성 질환을 위한 다양한 혁신 신약을 제공합니다.
+
+*Ionis Pharmaceuticals, Inc., a commercial-stage biotechnology company, provides RNA-targeted medicines in the United States. The company offers TRYNGOLZA reduces triglyceride levels in adults with familial chylomicronemia syndrome (FCS) and acute pancreatitis; DAWNZERA for prophylaxis to prevent attacks of hereditary angioedema in adults; WAINUA for the treatment of the polyneuropathy of hereditary transthyretin-medicated amyloidosis (ATTRv-PN) in adults; and SPINRAZA for pediatric and adult patients with spinal muscular atrophy (SMA). It also provides QALSODY for the treatment of Amyotrophic Lateral Sclerosis (ALS); TEGSEDI for the treatment of ATTRv-PN in adults; and WAYLIVRA for treatment for FCS and familial partial lipodystrophy.*
 
 ---
 

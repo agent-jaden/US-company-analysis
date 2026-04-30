@@ -1,10 +1,12 @@
 # EMERSON ELECTRIC CO (EMR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Industrial Machinery | 시총 80B$ | 결산월: 9월**
+**Industrials | Specialty Industrial Machinery | 시총 80B$ (#206위) | 결산월: 9월**
 
-Emerson Electric Co., a technology and software company, provides various solutions in the Americas, Asia, the Middle East, Africa, and Europe. It operates through Final Control, Measurement & Analytical, Discrete Automation, Safety & Productivity, Control Systems & Software, and Test & Measurement segments. The Final Control segment provides control valves, isolation valves, shutoff valves, pressure relief valves, pressure safety valves, actuators, and regulators for process and hybrid industries under Anderson Greenwood, Bettis, Crosby, Fisher, Keystone, KTM, and Vanessa brands.
+Emerson Electric Co.는 미주, 아시아, 유럽 등지에서 산업용 기술 및 소프트웨어 솔루션을 제공하는 기업입니다. 제어 및 측정 기기, 안전 및 생산성 솔루션을 비롯해 Fisher, Keystone 등의 브랜드를 통해 공정 산업용 밸브 및 조절기 제품을 공급합니다.
+
+*Emerson Electric Co., a technology and software company, provides various solutions in the Americas, Asia, the Middle East, Africa, and Europe. It operates through Final Control, Measurement & Analytical, Discrete Automation, Safety & Productivity, Control Systems & Software, and Test & Measurement segments. The Final Control segment provides control valves, isolation valves, shutoff valves, pressure relief valves, pressure safety valves, actuators, and regulators for process and hybrid industries under Anderson Greenwood, Bettis, Crosby, Fisher, Keystone, KTM, and Vanessa brands.*
 
 ---
 

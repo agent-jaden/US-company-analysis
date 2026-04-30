@@ -1,10 +1,12 @@
 # Marathon Petroleum Corp (MPC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Refining & Marketing | 시총 67B$ | 결산월: 12월**
+**Energy | Oil & Gas Refining & Marketing | 시총 67B$ (#255위) | 결산월: 12월**
 
-Marathon Petroleum Corporation, together with its subsidiaries, operates as an integrated downstream energy company in the United States. The company operates through three segments: Refining & Marketing; Midstream; and Renewable Diesel. The Refining & Marketing segment refines crude oil and other feedstocks at its refineries in the Gulf Coast, Mid-Continent, and West Coast regions of the United States; and purchases refined products and ethanol for resale and distributes refined products through transportation, storage, distribution, and marketing services.
+Marathon Petroleum은 미국에서 통합 다운스트림 에너지 사업을 운영한다. Refining & Marketing, Midstream, Renewable Diesel 부문을 통해 원유와 원료를 정제하고, 정제제품과 에탄올의 구매·재판매, 운송·저장·유통·마케팅 서비스를 제공한다.
+
+*Marathon Petroleum Corporation, together with its subsidiaries, operates as an integrated downstream energy company in the United States. The company operates through three segments: Refining & Marketing; Midstream; and Renewable Diesel. The Refining & Marketing segment refines crude oil and other feedstocks at its refineries in the Gulf Coast, Mid-Continent, and West Coast regions of the United States; and purchases refined products and ethanol for resale and distributes refined products through transportation, storage, distribution, and marketing services.*
 
 ---
 

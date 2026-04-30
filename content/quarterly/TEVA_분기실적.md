@@ -1,10 +1,12 @@
 # TEVA PHARMACEUTICAL INDUSTRIES LTD (TEVA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Drug Manufacturers - Specialty & Generic | 시총 36B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - Specialty & Generic | 시총 36B$ (#409위) | 결산월: 12월**
 
-Teva Pharmaceutical Industries Limited develops, manufactures, markets, and distributes generic and other medicines, and biopharmaceutical products in the United States, Europe, Israel, and internationally. It offers generic medicines in various dosage forms, such as tablets, capsules, injectables, inhalants, liquids, transdermal patches, ointments, and creams; sterile products, hormones, high-potency drugs, and cytotoxic substances in parenteral and solid dosage forms; and generic products with medical devices and combination products. The company also focuses on the central nervous system (CNS), respiratory, and oncology areas.
+Teva Pharmaceutical Industries는 미국, 유럽, 이스라엘 및 해외에서 제네릭 의약품, 기타 의약품, 바이오의약품을 개발·제조·마케팅·유통한다. 정제, 캡슐, 주사제, 흡입제, 액제, 패치, 연고·크림 등 다양한 제형의 제네릭과 의료기기 결합 제품을 제공하며 CNS, 호흡기, 항암 분야에도 집중한다.
+
+*Teva Pharmaceutical Industries Limited develops, manufactures, markets, and distributes generic and other medicines, and biopharmaceutical products in the United States, Europe, Israel, and internationally. It offers generic medicines in various dosage forms, such as tablets, capsules, injectables, inhalants, liquids, transdermal patches, ointments, and creams; sterile products, hormones, high-potency drugs, and cytotoxic substances in parenteral and solid dosage forms; and generic products with medical devices and combination products. The company also focuses on the central nervous system (CNS), respiratory, and oncology areas.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Cboe Global Markets, Inc. (CBOE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Financial Data & Stock Exchanges | 시총 31B$ | 결산월: 12월**
+**Financial Services | Financial Data & Stock Exchanges | 시총 31B$ (#453위) | 결산월: 12월**
 
-Cboe Global Markets, Inc., through its subsidiaries, operates as a derivatives and securities exchange network that delivers cutting-edge trading, clearing, and investment solutions in the United States and internationally. It operates through five segments: Options, North American Equities, Europe and Asia Pacific, Futures, and Global FX. The Options segment includes options on market indices, as well as on the stocks of individual corporations and on trading solutions and products in multiple asset classes, including equities, derivatives, and FX, across North America, Europe, and Asia Pacific (ETPs), such as exchange-traded funds (ETFs) and exchange-traded notes (ETNs); and trading in listed options through a single system.
+Cboe Global Markets는 미국과 해외에서 파생상품 및 증권 거래소 네트워크를 운영하며 거래, 청산, 투자 솔루션을 제공한다. Options, North American Equities, Europe and Asia Pacific, Futures, Global FX 부문을 통해 지수·개별주식 옵션, ETF·ETN, 주식, 파생상품, FX 거래 서비스를 제공한다.
+
+*Cboe Global Markets, Inc., through its subsidiaries, operates as a derivatives and securities exchange network that delivers cutting-edge trading, clearing, and investment solutions in the United States and internationally. It operates through five segments: Options, North American Equities, Europe and Asia Pacific, Futures, and Global FX. The Options segment includes options on market indices, as well as on the stocks of individual corporations and on trading solutions and products in multiple asset classes, including equities, derivatives, and FX, across North America, Europe, and Asia Pacific (ETPs), such as exchange-traded funds (ETFs) and exchange-traded notes (ETNs); and trading in listed options through a single system.*
 
 ---
 

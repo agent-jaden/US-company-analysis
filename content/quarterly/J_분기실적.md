@@ -1,10 +1,12 @@
 # JACOBS SOLUTIONS INC. (J) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Engineering & Construction | 시총 15B$ | 결산월: 9월**
+**Industrials | Engineering & Construction | 시총 15B$ (#759위) | 결산월: 9월**
 
-Jacobs Solutions Inc. engages in the infrastructure and advanced facilities, and consulting businesses in the United States, Europe, Canada, India, Asia, Australia, New Zealand, the Middle East, and Africa. The company provides consulting, planning, architecture, design, engineering, and infrastructure delivery services including project, program, and construction management and long-term operation of facilities.
+Jacobs Solutions는 미국, 유럽, 캐나다, 인도, 아시아, 호주, 뉴질랜드, 중동, 아프리카에서 인프라, 첨단 시설, 컨설팅 사업을 운영한다. 컨설팅, 기획, 건축, 설계, 엔지니어링, 프로젝트·프로그램·건설관리, 시설 장기 운영 등 인프라 제공 서비스를 수행한다.
+
+*Jacobs Solutions Inc. engages in the infrastructure and advanced facilities, and consulting businesses in the United States, Europe, Canada, India, Asia, Australia, New Zealand, the Middle East, and Africa. The company provides consulting, planning, architecture, design, engineering, and infrastructure delivery services including project, program, and construction management and long-term operation of facilities.*
 
 ---
 

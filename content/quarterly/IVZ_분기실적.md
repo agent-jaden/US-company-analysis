@@ -1,10 +1,12 @@
 # Invesco Ltd. (IVZ) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Asset Management | 시총 11B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 11B$ (#905위) | 결산월: 12월**
 
-Invesco Ltd. is a publicly owned investment manager. The firm provides its services to retail clients, institutional clients, high-net worth clients, public entities, corporations, unions, non-profit organizations, endowments, foundations, pension funds, financial institutions, and sovereign wealth funds.
+Invesco Ltd.는 전 세계 소매 고객부터 국부 펀드, 연기금 및 기관 투자자까지 다양한 고객층을 대상으로 자산 관리 서비스를 제공하는 글로벌 투자 운용사입니다. 주식, 채권, 대체 투자 상품 등 폭넓은 상장 지수 및 능동형 펀드 포트폴리오를 관리합니다.
+
+*Invesco Ltd. is a publicly owned investment manager. The firm provides its services to retail clients, institutional clients, high-net worth clients, public entities, corporations, unions, non-profit organizations, endowments, foundations, pension funds, financial institutions, and sovereign wealth funds.*
 
 ---
 

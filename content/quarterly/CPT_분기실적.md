@@ -1,10 +1,12 @@
 # CAMDEN PROPERTY TRUST (CPT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Residential | 시총 11B$ | 결산월: 12월**
+**Real Estate | REIT - Residential | 시총 11B$ (#944위) | 결산월: 12월**
 
-Camden Property Trust, an S&P 500 Company, is a real estate company. The firm is primarily engaged in the ownership, management, development, redevelopment, acquisition, and construction of multifamily apartment communities. Camden owns and operates 172 properties containing 58,759 apartment homes across the United States.
+Camden Property Trust는 S&P 500에 포함된 부동산 회사로, multifamily 아파트 커뮤니티의 보유, 관리, 개발, 재개발, 취득, 건설에 주력한다. 미국 전역에서 172개 부동산과 58,759개 아파트 주택을 보유·운영한다.
+
+*Camden Property Trust, an S&P 500 Company, is a real estate company. The firm is primarily engaged in the ownership, management, development, redevelopment, acquisition, and construction of multifamily apartment communities. Camden owns and operates 172 properties containing 58,759 apartment homes across the United States.*
 
 ---
 

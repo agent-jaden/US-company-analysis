@@ -1,10 +1,12 @@
 # APPLIED INDUSTRIAL TECHNOLOGIES INC (AIT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Industrial Distribution | 시총 11B$ | 결산월: 6월**
+**Industrials | Industrial Distribution | 시총 11B$ (#919위) | 결산월: 6월**
 
-Applied Industrial Technologies, Inc. distributes industrial motion, power, control, and automation technology solutions in the United States, Canada, Mexico, Australia, New Zealand, Singapore, and Costa Rica. It operates in two segments, Service Center and Engineered Solutions.
+Applied Industrial Technologies는 미국, 캐나다, 멕시코, 호주, 뉴질랜드, 싱가포르, 코스타리카에서 산업용 모션, 동력, 제어, 자동화 기술 솔루션을 유통한다. Service Center와 Engineered Solutions 부문을 통해 산업 고객에게 부품 공급과 맞춤형 엔지니어링 솔루션을 제공한다.
+
+*Applied Industrial Technologies, Inc. distributes industrial motion, power, control, and automation technology solutions in the United States, Canada, Mexico, Australia, New Zealand, Singapore, and Costa Rica. It operates in two segments, Service Center and Engineered Solutions.*
 
 ---
 

@@ -1,10 +1,12 @@
 # LATTICE SEMICONDUCTOR CORP (LSCC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 16B$ | 결산월: 1월**
+**Technology | Semiconductors | 시총 16B$ (#718위) | 결산월: 1월**
 
-Lattice Semiconductor Corporation, together with its subsidiaries, develops and sells semiconductor, silicon-based and silicon-enabling, evaluation boards, and development hardware products in Asia, Europe, and the Americas. It offers field programmable gate arrays (FPGA), which are regular arrays of logic that can be custom-configured by the user through software. The company's products include small FPGA platforms, including Lattice Nexus and Lattice Nexus 2; Lattice Avant, a mid-range FPGA platform; general purpose FPGA, such as Lattice Avant-G, Certus-NX, CertusPro, and Certus-N2; and specialized FPGAs, which includes Lattice Avant-E, Avant-X, SCP, MachXO, iCE, CrossLink,and CrossLinkPlus.
+Lattice Semiconductor Corporation은 아시아, 유럽 및 미주 지역에서 소프트웨어를 통해 사용자가 맞춤형으로 구성할 수 있는 프로그래머블 반도체(FPGA)를 개발하고 판매합니다. Lattice Nexus 등 소형 FPGA 플랫폼부터 중급형 플랫폼인 Lattice Avant까지 다양한 제품군을 제공합니다. 이를 통해 통신, 컴퓨팅 및 산업 현장에 최적화된 저전력, 다목적 논리 회로 솔루션을 지원합니다.
+
+*Lattice Semiconductor Corporation, together with its subsidiaries, develops and sells semiconductor, silicon-based and silicon-enabling, evaluation boards, and development hardware products in Asia, Europe, and the Americas. It offers field programmable gate arrays (FPGA), which are regular arrays of logic that can be custom-configured by the user through software. The company's products include small FPGA platforms, including Lattice Nexus and Lattice Nexus 2; Lattice Avant, a mid-range FPGA platform; general purpose FPGA, such as Lattice Avant-G, Certus-NX, CertusPro, and Certus-N2; and specialized FPGAs, which includes Lattice Avant-E, Avant-X, SCP, MachXO, iCE, CrossLink,and CrossLinkPlus.*
 
 ---
 

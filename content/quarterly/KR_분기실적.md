@@ -1,10 +1,12 @@
 # KROGER CO (KR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Grocery Stores | 시총 42B$ | 결산월: 1월**
+**Consumer Defensive | Grocery Stores | 시총 42B$ (#368위) | 결산월: 1월**
 
-The Kroger Co. operates as a food and drug retailer in the United States. The company operates combination food and drug stores, multi-department stores, marketplace stores, and price impact warehouses.
+Kroger는 미국에서 식품 및 드럭스토어 소매업을 운영한다. 식품·의약품 복합 매장, multi-department store, marketplace store, price impact warehouse 등 다양한 유통 포맷을 운영한다.
+
+*The Kroger Co. operates as a food and drug retailer in the United States. The company operates combination food and drug stores, multi-department stores, marketplace stores, and price impact warehouses.*
 
 ---
 

@@ -1,10 +1,12 @@
 # OMNICOM GROUP INC. (OMC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Advertising Agencies | 시총 24B$ | 결산월: 12월**
+**Communication Services | Advertising Agencies | 시총 24B$ (#556위) | 결산월: 12월**
 
-Omnicom Group Inc., together with its subsidiaries, offers advertising, marketing, and corporate communications services. It provides a range of services in the areas of media and advertising, precision marketing, public relations, healthcare, branding and retail commerce, experiential, execution, and support. The company's services include advertising, branding, content marketing, crisis communications, customer data analytics and data-driven decision making, customer relationship management, decision sciences, digital experience design, digital transformation, e-commerce optimization, entertainment marketing, experiential marketing, field marketing, healthcare marketing and communications, in-store design, investor relations, and marketing research.Its services also comprise media planning and buying, merchandising and point of sale, mobile marketing, multi-cultural marketing, organizational communications, package design, performance marketing, product placement, promotional marketing, public affairs, public relations, retail media and e-commerce, shopper marketing, structured innovation, studio production, social media and influencer marketing, and sports and event marketing.
+Omnicom Group은 자회사를 통해 광고, 마케팅, 기업 커뮤니케이션 서비스를 제공한다. 미디어·광고, 정밀 마케팅, PR, 헬스케어, 브랜딩·리테일 커머스, 경험 마케팅, 데이터 분석, CRM, 디지털 전환, 이커머스 최적화, 스포츠·이벤트 마케팅 등 폭넓은 서비스를 운영한다.
+
+*Omnicom Group Inc., together with its subsidiaries, offers advertising, marketing, and corporate communications services. It provides a range of services in the areas of media and advertising, precision marketing, public relations, healthcare, branding and retail commerce, experiential, execution, and support. The company's services include advertising, branding, content marketing, crisis communications, customer data analytics and data-driven decision making, customer relationship management, decision sciences, digital experience design, digital transformation, e-commerce optimization, entertainment marketing, experiential marketing, field marketing, healthcare marketing and communications, in-store design, investor relations, and marketing research.Its services also comprise media planning and buying, merchandising and point of sale, mobile marketing, multi-cultural marketing, organizational communications, package design, performance marketing, product placement, promotional marketing, public affairs, public relations, retail media and e-commerce, shopper marketing, structured innovation, studio production, social media and influencer marketing, and sports and event marketing.*
 
 ---
 

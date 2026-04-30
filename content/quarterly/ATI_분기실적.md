@@ -1,10 +1,12 @@
 # ATI INC (ATI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Metal Fabrication | 시총 21B$ | 결산월: 12월**
+**Industrials | Metal Fabrication | 시총 21B$ (#610위) | 결산월: 12월**
 
-ATI Inc. produces and sells specialty materials and complex components worldwide. It operates in two segments, High Performance Materials & Components, and Advanced Alloys & Solutions.
+ATI Inc.는 전 세계적으로 특수 소재와 복잡한 부품을 생산하여 판매하는 기업입니다. 고성능 소재 및 부품(High Performance Materials & Components) 부문과 첨단 합금 및 솔루션(Advanced Alloys & Solutions) 부문을 통해 다양한 산업 분야에 혁신적인 재료 솔루션을 제공합니다.
+
+*ATI Inc. produces and sells specialty materials and complex components worldwide. It operates in two segments, High Performance Materials & Components, and Advanced Alloys & Solutions.*
 
 ---
 

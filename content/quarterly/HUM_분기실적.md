@@ -1,10 +1,12 @@
 # HUMANA INC (HUM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Healthcare Plans | 시총 27B$ | 결산월: 12월**
+**Healthcare | Healthcare Plans | 시총 27B$ (#503위) | 결산월: 12월**
 
-Humana Inc. provides medical and specialty insurance products in the United States. It operates in two segments, Insurance and CenterWell.
+미국에서 다양한 의료 및 특수 건강 보험 상품을 제공하는 헬스케어 기업입니다. 주로 개인 및 단체 보험 부문과 의료 서비스 제공에 중점을 둔 CenterWell 부문을 통해 종합적인 건강 관리 및 혜택 솔루션을 운영합니다.
+
+*Humana Inc. provides medical and specialty insurance products in the United States. It operates in two segments, Insurance and CenterWell.*
 
 ---
 

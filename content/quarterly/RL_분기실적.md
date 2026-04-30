@@ -1,10 +1,12 @@
 # RALPH LAUREN CORP (RL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Apparel Manufacturing | 시총 22B$ | 결산월: 3월**
+**Consumer Cyclical | Apparel Manufacturing | 시총 22B$ (#578위) | 결산월: 3월**
 
-Ralph Lauren Corporation designs, markets, and distributes lifestyle products in North America, Europe, Asia, and internationally. It offers apparel, including a range of men's, women's, and children's clothing; footwear and accessories, which comprise casual shoes, dress shoes, boots, sneakers, sandals, eyewear, watches, fashion and fine jewelry, scarves, hats, gloves, and umbrellas, as well as leather goods comprising handbags, luggage, small leather goods, and belts; home products, such as bed and bath lines, furniture, fabric and wall coverings, lighting, dining, floor coverings, decorative accessories, and giftware; and fragrances. The company sells apparel and accessories under the Ralph Lauren Collection, Ralph Lauren Purple Label, Polo Ralph Lauren, Double RL, Lauren Ralph Lauren, Polo Golf Ralph Lauren, Ralph Lauren Golf, RLX Ralph Lauren, Polo Ralph Lauren Children, and Chaps brands; women's fragrances under the Ralph Lauren Collection, Woman by Ralph Lauren, Romance Collection, and Ralph Collection brand names; and men's fragrances under the Ralph's Club, Purple Label, Polo Blue, Polo Red, Polo Green, Polo Black, Polo 67, Safari, Polo Sport, and Big Pony Men's brand names.
+Ralph Lauren은 북미, 유럽, 아시아 및 해외에서 라이프스타일 제품을 설계·마케팅·유통한다. 의류, 신발, 액세서리, 가죽제품, 홈제품, 향수를 제공하며 Ralph Lauren Collection, Polo Ralph Lauren, Double RL, Lauren Ralph Lauren, RLX Ralph Lauren 등 다양한 브랜드를 운영한다.
+
+*Ralph Lauren Corporation designs, markets, and distributes lifestyle products in North America, Europe, Asia, and internationally. It offers apparel, including a range of men's, women's, and children's clothing; footwear and accessories, which comprise casual shoes, dress shoes, boots, sneakers, sandals, eyewear, watches, fashion and fine jewelry, scarves, hats, gloves, and umbrellas, as well as leather goods comprising handbags, luggage, small leather goods, and belts; home products, such as bed and bath lines, furniture, fabric and wall coverings, lighting, dining, floor coverings, decorative accessories, and giftware; and fragrances. The company sells apparel and accessories under the Ralph Lauren Collection, Ralph Lauren Purple Label, Polo Ralph Lauren, Double RL, Lauren Ralph Lauren, Polo Golf Ralph Lauren, Ralph Lauren Golf, RLX Ralph Lauren, Polo Ralph Lauren Children, and Chaps brands; women's fragrances under the Ralph Lauren Collection, Woman by Ralph Lauren, Romance Collection, and Ralph Collection brand names; and men's fragrances under the Ralph's Club, Purple Label, Polo Blue, Polo Red, Polo Green, Polo Black, Polo 67, Safari, Polo Sport, and Big Pony Men's brand names.*
 
 ---
 

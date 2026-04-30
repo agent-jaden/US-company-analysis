@@ -1,10 +1,12 @@
 # INTEL CORP (INTC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 427B$ | 결산월: 12월**
+**Technology | Semiconductors | 시총 427B$ (#25위) | 결산월: 12월**
 
-Intel Corporation designs, develops, manufactures, markets, sells, and services computing and related end products and services in the United States, Ireland, Israel, and internationally. It operates through three segments: CCG, DCAI, and Intel Foundry. The company offers client computing group products, including client and commercial CPUs, discrete client GPUs, edge computing, and connectivity products; data center and AI products, such as server CPUs, discrete GPUs, and networking products; and semiconductors comprising wafer fabrication, substrates, and other related products and services.
+Intel Corporation은 전 세계적으로 컴퓨팅 및 관련 최종 제품을 설계, 개발, 제조 및 판매합니다. 주요 사업은 클라이언트 컴퓨팅(CCG), 데이터 센터 및 AI(DCAI), 반도체 위탁생산을 담당하는 Intel Foundry 세 가지 부문으로 운영됩니다.
+
+*Intel Corporation designs, develops, manufactures, markets, sells, and services computing and related end products and services in the United States, Ireland, Israel, and internationally. It operates through three segments: CCG, DCAI, and Intel Foundry. The company offers client computing group products, including client and commercial CPUs, discrete client GPUs, edge computing, and connectivity products; data center and AI products, such as server CPUs, discrete GPUs, and networking products; and semiconductors comprising wafer fabrication, substrates, and other related products and services.*
 
 ---
 

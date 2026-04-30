@@ -1,10 +1,12 @@
 # OLD DOMINION FREIGHT LINE, INC. (ODFL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Trucking | 시총 46B$ | 결산월: 12월**
+**Industrials | Trucking | 시총 46B$ (#341위) | 결산월: 12월**
 
-Old Dominion Freight Line, Inc. operates as a less-than-truckload motor carrier in the United States and North America. The company offers regional, inter-regional, and national less-than-truckload services, as well as expedited transportation services.
+Old Dominion Freight Line은 미국과 북미에서 less-than-truckload 화물 운송업체로 운영된다. 지역, 광역, 전국 LTL 운송 서비스와 expedited transportation 서비스를 제공한다.
+
+*Old Dominion Freight Line, Inc. operates as a less-than-truckload motor carrier in the United States and North America. The company offers regional, inter-regional, and national less-than-truckload services, as well as expedited transportation services.*
 
 ---
 

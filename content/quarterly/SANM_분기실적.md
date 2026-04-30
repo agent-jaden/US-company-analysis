@@ -1,10 +1,12 @@
 # SANMINA CORP (SANM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Electronic Components | 시총 10B$ | 결산월: 10월**
+**Technology | Electronic Components | 시총 10B$ (#963위) | 결산월: 10월**
 
-Sanmina Corporation provides integrated manufacturing solutions, components, products and repair, logistics, and after-market services in the Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company operates through two businesses: Integrated Manufacturing Solutions; and Components, Products and Services. The company offers product design and engineering, including concept development, detailed design, prototyping, validation, preproduction, manufacturing design release, and product industrialization; assembly and test services; direct order fulfillment and logistics services; after-market product service and support; and supply chain management services, as well as engaging in the manufacture of components, subassemblies, and complete systems; and direct order fulfilment and logistics services.
+Sanmina는 미주, 아시아태평양, 유럽, 중동, 아프리카에서 통합 제조 솔루션, 부품, 제품, 수리, 물류, 애프터마켓 서비스를 제공한다. 제품 설계·엔지니어링, 프로토타입, 검증, 조립·테스트, 주문이행·물류, 애프터서비스, 공급망 관리와 부품·서브어셈블리·완제품 제조를 수행한다.
+
+*Sanmina Corporation provides integrated manufacturing solutions, components, products and repair, logistics, and after-market services in the Americas, the Asia Pacific, Europe, the Middle East, and Africa. The company operates through two businesses: Integrated Manufacturing Solutions; and Components, Products and Services. The company offers product design and engineering, including concept development, detailed design, prototyping, validation, preproduction, manufacturing design release, and product industrialization; assembly and test services; direct order fulfillment and logistics services; after-market product service and support; and supply chain management services, as well as engaging in the manufacture of components, subassemblies, and complete systems; and direct order fulfilment and logistics services.*
 
 ---
 

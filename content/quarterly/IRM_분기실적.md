@@ -1,10 +1,12 @@
 # IRON MOUNTAIN INC (IRM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Specialty | 시총 34B$ | 결산월: 12월**
+**Real Estate | REIT - Specialty | 시총 34B$ (#429위) | 결산월: 12월**
 
-Iron Mountain Incorporated is a global leader in information management services, and is trusted by more than 240,000 customers in 61 countries. It also includes approximately 95% of the Fortune 1000, to help unlock value and intelligence from their assets through services that transcend the physical and digital worlds. Their broad range of solutions address their information management, digital transformation, information security, data center and asset lifecycle management (ALM) needs.
+Iron Mountain은 61개국 240,000곳 이상의 고객에게 정보관리 서비스를 제공하는 글로벌 기업이다. 물리·디지털 자산의 가치를 활용할 수 있도록 정보관리, 디지털 전환, 정보보안, 데이터센터, 자산 수명주기 관리 솔루션을 제공한다.
+
+*Iron Mountain Incorporated is a global leader in information management services, and is trusted by more than 240,000 customers in 61 countries. It also includes approximately 95% of the Fortune 1000, to help unlock value and intelligence from their assets through services that transcend the physical and digital worlds. Their broad range of solutions address their information management, digital transformation, information security, data center and asset lifecycle management (ALM) needs.*
 
 ---
 

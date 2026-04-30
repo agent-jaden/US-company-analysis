@@ -1,10 +1,12 @@
 # Elevance Health, Inc. (ELV) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Healthcare Plans | 시총 77B$ | 결산월: 12월**
+**Healthcare | Healthcare Plans | 시총 77B$ (#217위) | 결산월: 12월**
 
-Elevance Health, Inc., together with its subsidiaries, operates as a health benefits company in the United States. The company operates in four segments: Health Benefits, CarelonRx, Carelon Services, and Corporate & Other. It offers a variety of health plans and services to individual, employer group risk-based and fee-based, BlueCard, Medicare, Medicaid, and FEP members; health products; a broad array of fee-based administrative managed care services; and specialty and other insurance products and services, such as stop loss, dental, vision, and supplemental health insurance benefits.
+Elevance Health, Inc.는 미국 내에서 종합적인 건강 혜택 및 보험 서비스를 제공하는 헬스케어 기업입니다. Medicare, Medicaid 가입자 및 일반 기업 고객을 대상으로 다양한 건강 보험 플랜을 제공하며 약국 혜택, 치과, 안과 등의 보충 건강 보험도 함께 지원합니다.
+
+*Elevance Health, Inc., together with its subsidiaries, operates as a health benefits company in the United States. The company operates in four segments: Health Benefits, CarelonRx, Carelon Services, and Corporate & Other. It offers a variety of health plans and services to individual, employer group risk-based and fee-based, BlueCard, Medicare, Medicaid, and FEP members; health products; a broad array of fee-based administrative managed care services; and specialty and other insurance products and services, such as stop loss, dental, vision, and supplemental health insurance benefits.*
 
 ---
 

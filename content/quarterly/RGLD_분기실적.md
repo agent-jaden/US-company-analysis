@@ -1,10 +1,12 @@
 # ROYAL GOLD INC (RGLD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Gold | 시총 21B$ | 결산월: 12월**
+**Basic Materials | Gold | 시총 21B$ (#613위) | 결산월: 12월**
 
-Royal Gold, Inc., together with its subsidiaries, acquires and manages precious metal streams, royalties, and related interests in North America, South and Central America, Europe, the Middle East, Africa, and the Australia Pacific. It operates through Acquisition and Management of Stream Interests and Acquisition and Management of Royalty Interests segments. The company engages in the acquisition of existing stream and royalty interests; and the financing of projects that are in production, development, or in the exploration stage in exchange for stream or royalty interests, which consists of gold, silver, copper, nickel, zinc, lead, molybdenum, diamonds, uranium, iron, platinum, palladium, rhodium, lithium, titanium, cobalt, barite, tungsten, and coal.
+Royal Gold, Inc.는 북미, 중남미, 유럽, 아프리카 등 전 세계적으로 귀금속 스트리밍 및 로열티 권리를 인수하고 관리하는 귀금속 투자 기업입니다. 금, 은, 구리, 니켈 등 다양한 광물 프로젝트의 탐사 및 개발에 자금을 지원하는 대가로 해당 광산의 생산물이나 로열티 지분을 확보하여 수익을 창출합니다.
+
+*Royal Gold, Inc., together with its subsidiaries, acquires and manages precious metal streams, royalties, and related interests in North America, South and Central America, Europe, the Middle East, Africa, and the Australia Pacific. It operates through Acquisition and Management of Stream Interests and Acquisition and Management of Royalty Interests segments. The company engages in the acquisition of existing stream and royalty interests; and the financing of projects that are in production, development, or in the exploration stage in exchange for stream or royalty interests, which consists of gold, silver, copper, nickel, zinc, lead, molybdenum, diamonds, uranium, iron, platinum, palladium, rhodium, lithium, titanium, cobalt, barite, tungsten, and coal.*
 
 ---
 

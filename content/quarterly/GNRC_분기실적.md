@@ -1,10 +1,12 @@
 # GENERAC HOLDINGS INC. (GNRC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Industrial Machinery | 시총 13B$ | 결산월: 12월**
+**Industrials | Specialty Industrial Machinery | 시총 13B$ (#824위) | 결산월: 12월**
 
-Generac Holdings Inc. designs, manufactures, and distributes energy technology products and solutions worldwide. The company offers residential automatic standby generators, automatic transfer switch, air-cooled engine home standby generators, and liquid-cooled engine generators; Mobile Link, a remote monitoring system for home standby generators; propane tank monitoring solution; and smart home solutions, such as smart thermostats and a suite of home monitoring products.
+Generac은 전 세계에서 에너지 기술 제품과 솔루션을 설계·제조·유통한다. 주거용 자동 standby generator, 자동 transfer switch, 공랭·수랭식 발전기, Mobile Link 원격 모니터링, propane tank monitoring, smart thermostat 등 스마트홈 솔루션을 제공한다.
+
+*Generac Holdings Inc. designs, manufactures, and distributes energy technology products and solutions worldwide. The company offers residential automatic standby generators, automatic transfer switch, air-cooled engine home standby generators, and liquid-cooled engine generators; Mobile Link, a remote monitoring system for home standby generators; propane tank monitoring solution; and smart home solutions, such as smart thermostats and a suite of home monitoring products.*
 
 ---
 

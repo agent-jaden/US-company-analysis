@@ -1,10 +1,12 @@
 # Coterra Energy Inc. (CTRA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas E&P | 시총 26B$ | 결산월: 12월**
+**Energy | Oil & Gas E&P | 시총 26B$ (#526위) | 결산월: 12월**
 
-Coterra Energy Inc., an independent oil and gas company, engages in the exploration, development, and production of oil, natural gas, and natural gas liquids in the United States. The company's properties include the Permian Basin, which covers approximately 345,000 net acres in the Delaware Basin in west Texas and southeast New Mexico, and an additional approximate of 49,000 net acres in the Delaware Basin in Lea County, New Mexico; Marcellus Shale properties, which covers approximately 186,000 net acres located in Susquehanna County, northeast Pennsylvania; and Anadarko Basin, which covers approximately 208,000 net acres located in the mid-continent region in Oklahoma. It also operates natural gas and saltwater gathering, and disposal systems in Texas.
+Coterra Energy Inc.는 미국 내 주요 분지에서 석유, 천연가스 및 천연가스 액체(NGL)를 탐사, 개발 및 생산하는 독립 에너지 기업입니다. 텍사스 및 뉴멕시코의 Permian Basin, 펜실베이니아의 Marcellus Shale, 오클라호마의 Anadarko Basin에 광범위한 시추 자산을 보유하고 있으며, 텍사스에서 가스 수집 및 폐수 처리 시스템도 운영합니다.
+
+*Coterra Energy Inc., an independent oil and gas company, engages in the exploration, development, and production of oil, natural gas, and natural gas liquids in the United States. The company's properties include the Permian Basin, which covers approximately 345,000 net acres in the Delaware Basin in west Texas and southeast New Mexico, and an additional approximate of 49,000 net acres in the Delaware Basin in Lea County, New Mexico; Marcellus Shale properties, which covers approximately 186,000 net acres located in Susquehanna County, northeast Pennsylvania; and Anadarko Basin, which covers approximately 208,000 net acres located in the mid-continent region in Oklahoma. It also operates natural gas and saltwater gathering, and disposal systems in Texas.*
 
 ---
 

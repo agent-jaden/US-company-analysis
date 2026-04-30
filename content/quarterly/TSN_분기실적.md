@@ -1,10 +1,12 @@
 # TYSON FOODS, INC. (TSN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Farm Products | 시총 22B$ | 결산월: 10월**
+**Consumer Defensive | Farm Products | 시총 22B$ (#583위) | 결산월: 10월**
 
-Tyson Foods, Inc., together with its subsidiaries, operates as a food company worldwide. It operates through four segments: Beef, Pork, Chicken, and Prepared Foods. The company processes live fed cattle and hogs; fabricates dressed beef and pork carcasses into primal and sub-primal meat cuts, as well as case ready beef and pork, and fully cooked meats; raises and processes chickens into fresh, frozen, and value-added chicken products, including breaded chicken strips, nuggets, patties, and other ready-to-fix or fully cooked chicken parts; and supplies poultry breeding stock.
+Tyson Foods는 자회사를 통해 전 세계에서 식품 사업을 운영한다. Beef, Pork, Chicken, Prepared Foods 부문을 통해 소와 돼지를 도축·가공하고, 신선·냉동·부가가치 닭고기 제품과 조리육, 가금류 종계 등을 공급한다.
+
+*Tyson Foods, Inc., together with its subsidiaries, operates as a food company worldwide. It operates through four segments: Beef, Pork, Chicken, and Prepared Foods. The company processes live fed cattle and hogs; fabricates dressed beef and pork carcasses into primal and sub-primal meat cuts, as well as case ready beef and pork, and fully cooked meats; raises and processes chickens into fresh, frozen, and value-added chicken products, including breaded chicken strips, nuggets, patties, and other ready-to-fix or fully cooked chicken parts; and supplies poultry breeding stock.*
 
 ---
 

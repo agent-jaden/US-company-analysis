@@ -1,10 +1,12 @@
 # Solstice Advanced Materials Inc. (SOLS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Specialty Chemicals | 시총 13B$ | 결산월: 12월**
+**Basic Materials | Specialty Chemicals | 시총 13B$ (#825위) | 결산월: 12월**
 
-Solstice Advanced Materials, Inc. operates as a specialty chemicals and advanced materials company in the United States and internationally. It operates in two segments: Refrigerants & Applied Solutions (RAS), and Electronic & Specialty Materials (ESM).
+Solstice Advanced Materials는 미국과 해외에서 특수화학 및 첨단소재 기업으로 운영된다. Refrigerants & Applied Solutions와 Electronic & Specialty Materials 부문을 통해 냉매·응용 솔루션, 전자·특수소재 제품을 제공한다.
+
+*Solstice Advanced Materials, Inc. operates as a specialty chemicals and advanced materials company in the United States and internationally. It operates in two segments: Refrigerants & Applied Solutions (RAS), and Electronic & Specialty Materials (ESM).*
 
 ---
 

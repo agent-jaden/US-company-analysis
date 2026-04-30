@@ -1,10 +1,12 @@
 # MICROCHIP TECHNOLOGY INC (MCHP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 47B$ | 결산월: 3월**
+**Technology | Semiconductors | 시총 47B$ (#338위) | 결산월: 3월**
 
-Microchip Technology Incorporated develops, manufactures, and sells smart, connected, and secure embedded control solutions in the Americas, Europe, and Asia. It operates through two segments, Semiconductor Products and Technology Licensing. The company offers general purpose 8-bit, 16-bit, 32-bit, and 64-bit mixed-signal microcontrollers; 32-bit and 64-bit embedded mixed-signal microprocessors; and specialized mixed-signal microcontrollers for automotive, industrial, computing, communications, lighting, power supplies, motor control, human machine interface, security, wired connectivity, and wireless connectivity applications.
+Microchip Technology는 미주, 유럽, 아시아에서 스마트하고 연결되며 보안성이 높은 임베디드 제어 솔루션을 개발·제조·판매한다. 8·16·32·64비트 mixed-signal 마이크로컨트롤러, 임베디드 마이크로프로세서, 자동차·산업·컴퓨팅·통신·조명·전원·모터제어·보안·유무선 연결용 특수 마이크로컨트롤러를 제공한다.
+
+*Microchip Technology Incorporated develops, manufactures, and sells smart, connected, and secure embedded control solutions in the Americas, Europe, and Asia. It operates through two segments, Semiconductor Products and Technology Licensing. The company offers general purpose 8-bit, 16-bit, 32-bit, and 64-bit mixed-signal microcontrollers; 32-bit and 64-bit embedded mixed-signal microprocessors; and specialized mixed-signal microcontrollers for automotive, industrial, computing, communications, lighting, power supplies, motor control, human machine interface, security, wired connectivity, and wireless connectivity applications.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Bloom Energy Corp (BE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Electrical Equipment & Parts | 시총 67B$ | 결산월: 12월**
+**Industrials | Electrical Equipment & Parts | 시총 67B$ (#258위) | 결산월: 12월**
 
-Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide fuel cell systems for on-site power generation in the United States and internationally. It offers Bloom Energy Server, an energy server platform to convert fuel, such as natural gas, biogas, hydrogen, or a blend of these fuels, into electricity through a non-combustion electrochemical process. The company also provides Bloom Electrolyzer for producing hydrogen.
+Bloom Energy는 미국과 해외에서 현장 전력 생산용 고체산화물 연료전지 시스템을 설계·제조·판매·설치한다. Bloom Energy Server는 천연가스, 바이오가스, 수소 또는 혼합 연료를 비연소 전기화학 공정으로 전기로 전환하며, 수소 생산용 Bloom Electrolyzer도 제공한다.
+
+*Bloom Energy Corporation designs, manufactures, sells, and installs solid oxide fuel cell systems for on-site power generation in the United States and internationally. It offers Bloom Energy Server, an energy server platform to convert fuel, such as natural gas, biogas, hydrogen, or a blend of these fuels, into electricity through a non-combustion electrochemical process. The company also provides Bloom Electrolyzer for producing hydrogen.*
 
 ---
 

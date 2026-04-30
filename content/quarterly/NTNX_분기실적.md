@@ -1,10 +1,12 @@
 # Nutanix, Inc. (NTNX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 11B$ | 결산월: 7월**
+**Technology | Software - Infrastructure | 시총 11B$ (#936위) | 결산월: 7월**
 
-Nutanix, Inc. provides an enterprise cloud platform in North America, Europe, the Asia Pacific, the Middle East, Latin America, and Africa. It offers hyperconverged infrastructure software; Nutanix Cloud Platform, which is designed to enable organizations to build hybrid multicloud infrastructure; Nutanix cloud infrastructure, is a distributed HCI for enterprise IT applications, includes Nutanix AOS; Nutanix AHV; Nutanix data services for Kubernetes; flow network security; flow virtual networking provides software-defined networking with multi-tenant isolation; Nutanix Cloud Clusters; Nutanix central provides management of the Nutanix hybrid multicloud environment; and Nutanix prism, is the unified control plane and UI; Nutanix Cloud Manager, is a unified management solution; NCM Intelligent Operations; NCM Self-Service and Orchestration; NCM Cost Governance; and Nutanix Security Central unifies cloud security operations.
+Nutanix는 북미, 유럽, 아시아태평양, 중동, 라틴아메리카, 아프리카에서 엔터프라이즈 클라우드 플랫폼을 제공한다. 하이퍼컨버지드 인프라 소프트웨어, Nutanix Cloud Platform, AOS, AHV, Kubernetes 데이터 서비스, 네트워크 보안, Cloud Clusters, Prism, Cloud Manager, 비용관리와 보안 운영 솔루션을 제공한다.
+
+*Nutanix, Inc. provides an enterprise cloud platform in North America, Europe, the Asia Pacific, the Middle East, Latin America, and Africa. It offers hyperconverged infrastructure software; Nutanix Cloud Platform, which is designed to enable organizations to build hybrid multicloud infrastructure; Nutanix cloud infrastructure, is a distributed HCI for enterprise IT applications, includes Nutanix AOS; Nutanix AHV; Nutanix data services for Kubernetes; flow network security; flow virtual networking provides software-defined networking with multi-tenant isolation; Nutanix Cloud Clusters; Nutanix central provides management of the Nutanix hybrid multicloud environment; and Nutanix prism, is the unified control plane and UI; Nutanix Cloud Manager, is a unified management solution; NCM Intelligent Operations; NCM Self-Service and Orchestration; NCM Cost Governance; and Nutanix Security Central unifies cloud security operations.*
 
 ---
 

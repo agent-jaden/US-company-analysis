@@ -1,10 +1,12 @@
 # ANALOG DEVICES INC (ADI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 192B$ | 결산월: 11월**
+**Technology | Semiconductors | 시총 192B$ (#71위) | 결산월: 11월**
 
-Analog Devices, Inc. engages in the design, manufacture, testing, and marketing of integrated circuits (ICs), software, and subsystems products in the United States, rest of North and South America, Europe, Japan, China, and rest of Asia. It provides data converter products, which translate real-world analog signals into digital data, as well as translates digital data into analog signals; power management and reference products for power conversion, driver monitoring, sequencing, and energy management applications in the automotive, communications, industrial, and consumer markets; and power ICs that include performance, integration, and software design simulation tools for accurate power supply designs.
+Analog Devices, Inc.는 미국, 유럽, 아시아 전역에서 집적 회로(IC), 소프트웨어 및 하위 시스템 제품을 설계, 제조 및 판매합니다. 실제 아날로그 신호를 디지털로 변환하는 데이터 변환 제품과 자동차, 산업, 통신 시장을 위한 정밀한 전력 관리 및 기준 제품을 제공합니다.
+
+*Analog Devices, Inc. engages in the design, manufacture, testing, and marketing of integrated circuits (ICs), software, and subsystems products in the United States, rest of North and South America, Europe, Japan, China, and rest of Asia. It provides data converter products, which translate real-world analog signals into digital data, as well as translates digital data into analog signals; power management and reference products for power conversion, driver monitoring, sequencing, and energy management applications in the automotive, communications, industrial, and consumer markets; and power ICs that include performance, integration, and software design simulation tools for accurate power supply designs.*
 
 ---
 

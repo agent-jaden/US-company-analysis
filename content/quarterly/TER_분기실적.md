@@ -1,10 +1,12 @@
 # TERADYNE, INC (TER) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductor Equipment & Materials | 시총 63B$ | 결산월: 12월**
+**Technology | Semiconductor Equipment & Materials | 시총 63B$ (#270위) | 결산월: 12월**
 
-Teradyne, Inc. engages in the design, development, manufacture, and sale of automated test systems and robotics products in the United States, Asia Pacific, Europe, the Middle East, and Africa. The company operates through Semiconductor Test, Robotics, and Other segments.
+Teradyne은 미국, 아시아태평양, 유럽, 중동, 아프리카에서 자동화 테스트 시스템과 로봇 제품을 설계·개발·제조·판매한다. Semiconductor Test, Robotics, Other 부문을 통해 반도체 테스트 장비와 산업 자동화·로봇 솔루션을 제공한다.
+
+*Teradyne, Inc. engages in the design, development, manufacture, and sale of automated test systems and robotics products in the United States, Asia Pacific, Europe, the Middle East, and Africa. The company operates through Semiconductor Test, Robotics, and Other segments.*
 
 ---
 

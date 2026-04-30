@@ -1,10 +1,12 @@
 # Stellantis N.V. (STLA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
 
-**Consumer Cyclical | Auto Manufacturers | 시총 23B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Manufacturers | 시총 23B$ (#562위) | 결산월: 12월**
 
-Stellantis N.V. engages in the designing, engineering, manufacturing, distribution, and sale of automobiles and light commercial vehicles, engines, transmission systems, and mobility services worldwide. It provides luxury and premium vehicles; global sport utility vehicles; American and European brand vehicles, as well as parts and accessories.
+Stellantis는 전 세계에서 자동차, 경상용차, 엔진, 변속기 시스템, 모빌리티 서비스를 설계·엔지니어링·제조·유통·판매한다. 럭셔리·프리미엄 차량, 글로벌 SUV, 미국·유럽 브랜드 차량과 부품·액세서리를 제공한다.
+
+*Stellantis N.V. engages in the designing, engineering, manufacturing, distribution, and sale of automobiles and light commercial vehicles, engines, transmission systems, and mobility services worldwide. It provides luxury and premium vehicles; global sport utility vehicles; American and European brand vehicles, as well as parts and accessories.*
 
 ---
 

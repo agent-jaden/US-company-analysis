@@ -1,10 +1,12 @@
 # Vulcan Materials CO (VMC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Building Materials | 시총 38B$ | 결산월: 12월**
+**Basic Materials | Building Materials | 시총 38B$ (#391위) | 결산월: 12월**
 
-Vulcan Materials Company produces and supplies construction aggregates in the United States. It operates through three segments: Aggregates, Asphalt, and Concrete. The company provides crushed stone, sand and gravel, sand, and other aggregates for use in construction and maintenance of highways, streets, and other public works, as well as in the construction of housing and commercial, industrial, and other nonresidential facilities; aggregates that are used as ballast for construction and maintenance of railroad tracks; riprap and jetty stones for use in erosion control along roads and waterways; asphalt mix; asphalt construction paving services; and ready-mixed concrete products.
+Vulcan Materials는 미국에서 건설용 골재를 생산·공급한다. Aggregates, Asphalt, Concrete 부문을 통해 쇄석, 모래·자갈, 철도 ballast, 도로·수로 침식 방지용 riprap·jetty stone, 아스팔트 혼합물, 포장 서비스, ready-mixed concrete를 제공한다.
+
+*Vulcan Materials Company produces and supplies construction aggregates in the United States. It operates through three segments: Aggregates, Asphalt, and Concrete. The company provides crushed stone, sand and gravel, sand, and other aggregates for use in construction and maintenance of highways, streets, and other public works, as well as in the construction of housing and commercial, industrial, and other nonresidential facilities; aggregates that are used as ballast for construction and maintenance of railroad tracks; riprap and jetty stones for use in erosion control along roads and waterways; asphalt mix; asphalt construction paving services; and ready-mixed concrete products.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Intercontinental Exchange, Inc. (ICE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Financial Data & Stock Exchanges | 시총 89B$ | 결산월: 12월**
+**Financial Services | Financial Data & Stock Exchanges | 시총 89B$ (#189위) | 결산월: 12월**
 
-Intercontinental Exchange, Inc., together with its subsidiaries, provides technology and data to financial institutions, corporations, and government entities in the United States, the United Kingdom, the European Union, Canada, Asia Pacific, and the Middle East. It operates through three segments: Exchanges, Fixed Income and Data Services, and Mortgage Technology. The Exchanges segment operates regulated marketplace technology for the listing, trading, and clearing of an array of derivatives contracts and financial securities, such as commodities, interest rates, foreign exchange and equities, and corporate and exchange-traded funds, as well as data and connectivity services related to its exchanges and clearing houses.
+Intercontinental Exchange는 미국, 영국, EU, 캐나다, 아시아태평양, 중동에서 금융기관, 기업, 정부기관에 기술과 데이터를 제공한다. Exchanges, Fixed Income and Data Services, Mortgage Technology 부문을 운영하며 파생상품과 금융증권의 상장·거래·청산을 위한 규제 시장 기술, 데이터, 연결 서비스를 제공한다.
+
+*Intercontinental Exchange, Inc., together with its subsidiaries, provides technology and data to financial institutions, corporations, and government entities in the United States, the United Kingdom, the European Union, Canada, Asia Pacific, and the Middle East. It operates through three segments: Exchanges, Fixed Income and Data Services, and Mortgage Technology. The Exchanges segment operates regulated marketplace technology for the listing, trading, and clearing of an array of derivatives contracts and financial securities, such as commodities, interest rates, foreign exchange and equities, and corporate and exchange-traded funds, as well as data and connectivity services related to its exchanges and clearing houses.*
 
 ---
 

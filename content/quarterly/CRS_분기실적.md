@@ -1,10 +1,12 @@
 # CARPENTER TECHNOLOGY CORP (CRS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Metal Fabrication | 시총 21B$ | 결산월: 6월**
+**Industrials | Metal Fabrication | 시총 21B$ (#605위) | 결산월: 6월**
 
-Carpenter Technology Corporation engages in the manufacture, fabrication, and distribution of specialty metals in the United States, Europe, the Asia Pacific, Mexico, Canada, and internationally. It operates in two segments, Specialty Alloys Operations and Performance Engineered Products. The company offers specialty alloys, including titanium alloys, powder metals, stainless steels, alloy steels, and tool steels, as well as metal powders and parts.
+Carpenter Technology는 미국, 유럽, 아시아태평양, 멕시코, 캐나다 및 해외에서 특수금속을 제조, 가공, 유통한다. Specialty Alloys Operations와 Performance Engineered Products 부문을 통해 티타늄 합금, 분말금속, 스테인리스강, 합금강, 공구강, 금속분말과 부품을 제공한다.
+
+*Carpenter Technology Corporation engages in the manufacture, fabrication, and distribution of specialty metals in the United States, Europe, the Asia Pacific, Mexico, Canada, and internationally. It operates in two segments, Specialty Alloys Operations and Performance Engineered Products. The company offers specialty alloys, including titanium alloys, powder metals, stainless steels, alloy steels, and tool steels, as well as metal powders and parts.*
 
 ---
 

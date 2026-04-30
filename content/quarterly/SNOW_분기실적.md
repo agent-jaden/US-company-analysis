@@ -1,10 +1,12 @@
 # Snowflake Inc. (SNOW) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 50B$ | 결산월: 1월**
+**Technology | Software - Application | 시총 50B$ (#323위) | 결산월: 1월**
 
-Snowflake Inc. provides a cloud-based data platform for various organizations in the United States and internationally. The company's platform includes artificial intelligence (AI) Data Cloud, which enables customers to consolidate data into a single source of truth to drive meaningful business insights, build data applications, and share data and data products, as well as applies AI for solving business problems.
+Snowflake는 미국과 해외 조직을 대상으로 클라우드 기반 데이터 플랫폼을 제공한다. AI Data Cloud를 통해 고객이 데이터를 단일 신뢰 원천으로 통합하고, 비즈니스 인사이트 도출, 데이터 애플리케이션 구축, 데이터 및 데이터 제품 공유, AI 기반 문제 해결을 수행할 수 있도록 지원한다.
+
+*Snowflake Inc. provides a cloud-based data platform for various organizations in the United States and internationally. The company's platform includes artificial intelligence (AI) Data Cloud, which enables customers to consolidate data into a single source of truth to drive meaningful business insights, build data applications, and share data and data products, as well as applies AI for solving business problems.*
 
 ---
 

@@ -1,10 +1,12 @@
 # IMPERIAL OIL LTD (IMO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Integrated | 시총 63B$ | 결산월: 12월**
+**Energy | Oil & Gas Integrated | 시총 63B$ (#271위) | 결산월: 12월**
 
-Imperial Oil Limited engages in exploration, production, and sale of crude oil and natural gas in Canada. The company operates in three segments: Upstream, Downstream and Chemical segments. The Upstream segment explores and produces crude oil, natural gas, synthetic crude oil, and bitumen.
+Imperial Oil은 캐나다에서 원유와 천연가스의 탐사, 생산, 판매를 수행한다. Upstream, Downstream, Chemical 부문을 운영하며 Upstream 부문은 원유, 천연가스, synthetic crude oil, bitumen을 탐사·생산한다.
+
+*Imperial Oil Limited engages in exploration, production, and sale of crude oil and natural gas in Canada. The company operates in three segments: Upstream, Downstream and Chemical segments. The Upstream segment explores and produces crude oil, natural gas, synthetic crude oil, and bitumen.*
 
 ---
 

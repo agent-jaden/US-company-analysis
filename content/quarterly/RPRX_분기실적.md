@@ -1,10 +1,12 @@
 # Royalty Pharma plc (RPRX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Biotechnology | 시총 29B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 29B$ (#481위) | 결산월: 12월**
 
-Royalty Pharma plc operates as a buyer of biopharmaceutical royalties and a funder of innovation in the biopharmaceutical industry in the United States. Its portfolio consists of royalties on approximately 35 marketed therapies and 20 development-stage product candidates that address various therapeutic areas, such as rare disease, oncology, neuroscience, infectious disease, hematology, and diabetes. The company has research and development funding collaboration to advance the development of JNJ-4804, an investigational medicine for autoimmune diseases.
+미국 바이오 제약 산업에서 혁신적인 치료제 개발에 자금을 지원하고 의약품 로열티를 인수하는 전문 투자 기업입니다. 희귀 질환, 종양학, 신경 과학 등 다양한 치료 분야의 약 35개 상용화 약물과 20개의 개발 단계 파이프라인에 대한 로열티 포트폴리오를 보유하고 있습니다.
+
+*Royalty Pharma plc operates as a buyer of biopharmaceutical royalties and a funder of innovation in the biopharmaceutical industry in the United States. Its portfolio consists of royalties on approximately 35 marketed therapies and 20 development-stage product candidates that address various therapeutic areas, such as rare disease, oncology, neuroscience, infectious disease, hematology, and diabetes. The company has research and development funding collaboration to advance the development of JNJ-4804, an investigational medicine for autoimmune diseases.*
 
 ---
 

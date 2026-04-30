@@ -1,10 +1,12 @@
 # SOUTHERN COPPER CORP/ (SCCO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Copper | 시총 147B$ | 결산월: 12월**
+**Basic Materials | Copper | 시총 147B$ (#102위) | 결산월: 12월**
 
-Southern Copper Corporation engages in mining, exploring, smelting, and refining copper and other minerals in Mexico, the United States, Peru, Brazil, Chile, and Other American countries. The company is involved in the mining, milling, and flotation of copper ore to produce copper and molybdenum concentrates; smelting of copper concentrates to produce blister and anode copper; refining of anode copper to produce copper cathodes; production of copper-molybdenum concentrates and sulfuric acid; production of refined silver, gold, and other materials; and mining and processing of copper, molybdenum, zinc, silver, gold and lead. It operates the Toquepala and Cuajone open-pit mines, smelter, and refinery in Peru; La Caridad, an open-pit copper mine, as well as copper ore concentrator; and SX-EW plant, a smelter, refinery, and rod plant in Mexico.
+Southern Copper는 멕시코, 미국, 페루 등 미주 지역에서 구리와 기타 광물의 채굴, 탐사, 제련, 정련 사업을 영위한다. 구리·몰리브덴 정광, 구리 cathode, 황산, 은·금 등을 생산하며 페루 Toquepala·Cuajone 광산과 멕시코 La Caridad 광산 및 제련·정련 설비를 운영한다.
+
+*Southern Copper Corporation engages in mining, exploring, smelting, and refining copper and other minerals in Mexico, the United States, Peru, Brazil, Chile, and Other American countries. The company is involved in the mining, milling, and flotation of copper ore to produce copper and molybdenum concentrates; smelting of copper concentrates to produce blister and anode copper; refining of anode copper to produce copper cathodes; production of copper-molybdenum concentrates and sulfuric acid; production of refined silver, gold, and other materials; and mining and processing of copper, molybdenum, zinc, silver, gold and lead. It operates the Toquepala and Cuajone open-pit mines, smelter, and refinery in Peru; La Caridad, an open-pit copper mine, as well as copper ore concentrator; and SX-EW plant, a smelter, refinery, and rod plant in Mexico.*
 
 ---
 

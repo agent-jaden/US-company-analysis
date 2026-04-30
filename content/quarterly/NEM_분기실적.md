@@ -1,10 +1,12 @@
 # NEWMONT Corp /DE/ (NEM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Gold | 시총 124B$ | 결산월: 12월**
+**Basic Materials | Gold | 시총 124B$ (#127위) | 결산월: 12월**
 
-Newmont Corporation operates as a gold producer. It also explores for copper, silver, lead, zinc, and other metals. It has operations and/or assets in the United States, Papua New Guinea, Australia, Ghana, Suriname, Argentina, Dominican Republic, Chile, Peru, Ecuador, Mexico, and Canada.
+Newmont는 금 생산을 주력으로 하는 글로벌 광산 기업이다. 금 외에도 구리, 은, 납, 아연 등 금속을 탐사하며 미국, 파푸아뉴기니, 호주, 가나, 수리남, 아르헨티나, 도미니카공화국, 칠레, 페루, 에콰도르, 멕시코, 캐나다 등에 자산과 운영 거점을 보유한다.
+
+*Newmont Corporation operates as a gold producer. It also explores for copper, silver, lead, zinc, and other metals. It has operations and/or assets in the United States, Papua New Guinea, Australia, Ghana, Suriname, Argentina, Dominican Republic, Chile, Peru, Ecuador, Mexico, and Canada.*
 
 ---
 

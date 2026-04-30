@@ -1,10 +1,12 @@
 # JOHNSON & JOHNSON (JNJ) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Drug Manufacturers - General | 시총 542B$ | 결산월: 1월**
+**Healthcare | Drug Manufacturers - General | 시총 542B$ (#21위) | 결산월: 1월**
 
-Johnson & Johnson, together with its subsidiaries, engages in the research and development, manufacture, and sale of a range of products in the healthcare field worldwide. It operates in two segments, Innovative Medicine and MedTech. The Innovative Medicine segment offers products for various therapeutic areas, such as oncology, immunology, neuroscience, pulmonary hypertension, infectious diseases, and cardiovascular and metabolism distributed through retailers, wholesalers, distributors, hospitals, and healthcare professionals for prescription use.
+Johnson & Johnson은 전 세계 헬스케어 분야에서 다양한 제품의 연구 개발, 제조 및 판매를 수행합니다. 사업 부문은 Innovative Medicine과 MedTech로 나뉘며, 종양학, 면역학, 신경과학 등 다양한 치료 영역의 처방약을 제공합니다.
+
+*Johnson & Johnson, together with its subsidiaries, engages in the research and development, manufacture, and sale of a range of products in the healthcare field worldwide. It operates in two segments, Innovative Medicine and MedTech. The Innovative Medicine segment offers products for various therapeutic areas, such as oncology, immunology, neuroscience, pulmonary hypertension, infectious diseases, and cardiovascular and metabolism distributed through retailers, wholesalers, distributors, hospitals, and healthcare professionals for prescription use.*
 
 ---
 

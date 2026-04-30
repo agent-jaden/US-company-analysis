@@ -1,10 +1,12 @@
 # Philip Morris International Inc. (PM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Tobacco | 시총 251B$ | 결산월: 12월**
+**Consumer Defensive | Tobacco | 시총 251B$ (#49위) | 결산월: 12월**
 
-Philip Morris International Inc. operates as a tobacco company. The company offers cigarettes and smoke-free products, including heat-not-burn, e-vapor, and oral nicotine products under the IQOS, VEEV, and ZYN brands; and consumer accessories, such as lighters and matches.
+Philip Morris International Inc.는 일반 담배 및 궐련형 전자담배, 경구용 니코틴 제품 등을 제공하는 글로벌 담배 기업입니다. IQOS, VEEV, ZYN 브랜드의 무연 제품을 주력으로 판매하며 라이터, 성냥 등의 소비자 액세서리도 함께 제공합니다.
+
+*Philip Morris International Inc. operates as a tobacco company. The company offers cigarettes and smoke-free products, including heat-not-burn, e-vapor, and oral nicotine products under the IQOS, VEEV, and ZYN brands; and consumer accessories, such as lighters and matches.*
 
 ---
 

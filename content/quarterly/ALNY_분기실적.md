@@ -1,10 +1,12 @@
 # ALNYLAM PHARMACEUTICALS, INC. (ALNY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Biotechnology | 시총 41B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 41B$ (#371위) | 결산월: 12월**
 
-Alnylam Pharmaceuticals, Inc. discovers, develops, manufactures, and commercializes therapeutics based on ribonucleic acid interference in the United States, Europe, and internationally. The company offers ONPATTRO for hereditary transthyretin-mediated (hATTR) amyloidosis; AMVUTTRA for ATTR and hATTR amyloidosis; Leqvio for hypercholesterolemia; Qfitlia for hemophilia A or B; GIVLAARI for acute hepatic porphyria; and OXLUMO for primary hyperoxaluria type 1.
+Alnylam Pharmaceuticals는 미국, 유럽 및 해외에서 RNA interference 기반 치료제를 발굴·개발·제조·상업화한다. ONPATTRO, AMVUTTRA, Leqvio, Qfitlia, GIVLAARI, OXLUMO 등을 통해 hATTR amyloidosis, ATTR, 고콜레스테롤혈증, 혈우병, 급성 간성 포르피린증, 원발성 고옥살산뇨증 치료제를 제공한다.
+
+*Alnylam Pharmaceuticals, Inc. discovers, develops, manufactures, and commercializes therapeutics based on ribonucleic acid interference in the United States, Europe, and internationally. The company offers ONPATTRO for hereditary transthyretin-mediated (hATTR) amyloidosis; AMVUTTRA for ATTR and hATTR amyloidosis; Leqvio for hypercholesterolemia; Qfitlia for hemophilia A or B; GIVLAARI for acute hepatic porphyria; and OXLUMO for primary hyperoxaluria type 1.*
 
 ---
 

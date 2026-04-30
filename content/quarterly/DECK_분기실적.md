@@ -1,10 +1,12 @@
 # DECKERS OUTDOOR CORP (DECK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Footwear & Accessories | 시총 15B$ | 결산월: 3월**
+**Consumer Cyclical | Footwear & Accessories | 시총 15B$ (#747위) | 결산월: 3월**
 
-Deckers Outdoor Corporation, together with its subsidiaries, designs, markets, and distributes footwear, apparel, and accessories for casual lifestyle use and high-performance activities in the United States and internationally. The company offers premium footwear, apparel, and accessories under the UGG brand name; footwear, such as running, trail, hiking, fitness, and lifestyle shoes, as well as apparel and accessories under the HOKA brand name; and sandals, shoes, and boots under the Teva brand name. It also provides a casual footwear fashion line under the Koolaburra brand name; and footwear products under the AHNU brand name.
+Deckers Outdoor Corporation은 캐주얼 라이프스타일 및 고성능 스포츠 활동을 위한 신발, 의류 및 액세서리를 전 세계에 디자인하고 유통합니다. 프리미엄 패션 브랜드인 UGG와 고성능 러닝화 브랜드인 HOKA를 필두로, 아웃도어 샌들인 Teva 등 다양한 라인업을 제공하여 폭넓은 소비자층을 확보하고 있습니다.
+
+*Deckers Outdoor Corporation, together with its subsidiaries, designs, markets, and distributes footwear, apparel, and accessories for casual lifestyle use and high-performance activities in the United States and internationally. The company offers premium footwear, apparel, and accessories under the UGG brand name; footwear, such as running, trail, hiking, fitness, and lifestyle shoes, as well as apparel and accessories under the HOKA brand name; and sandals, shoes, and boots under the Teva brand name. It also provides a casual footwear fashion line under the Koolaburra brand name; and footwear products under the AHNU brand name.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Solventum Corp (SOLV) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Instruments & Supplies | 시총 12B$ | 결산월: 12월**
+**Healthcare | Medical Instruments & Supplies | 시총 12B$ (#865위) | 결산월: 12월**
 
-Solventum Corporation, a healthcare company, develops, manufactures, and commercializes a portfolio of solutions to address critical customer and patient needs in the United States and internationally. It operates through three segments: Medsurg, Dental Solutions, and Health Information Systems. The Medsurg segment offers solutions, such as negative pressure wound therapy, advanced wound dressings, advanced skin care, synthetic tissue matrices, I.V.
+Solventum Corporation은 고객과 환자의 중요한 니즈를 해결하기 위해 다양한 헬스케어 솔루션을 개발 및 상용화하는 3M의 독립 기업입니다. 의료-수술(Medsurg), 치과 솔루션, 의료 정보 시스템 부문을 통해 음압 창상 치료기, 고급 상처 드레싱, 인공 조직 등 첨단 의료 제품을 시장에 공급합니다.
+
+*Solventum Corporation, a healthcare company, develops, manufactures, and commercializes a portfolio of solutions to address critical customer and patient needs in the United States and internationally. It operates through three segments: Medsurg, Dental Solutions, and Health Information Systems. The Medsurg segment offers solutions, such as negative pressure wound therapy, advanced wound dressings, advanced skin care, synthetic tissue matrices, I.V.*
 
 ---
 

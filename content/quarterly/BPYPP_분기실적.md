@@ -1,10 +1,12 @@
 # Brookfield Property Partners L.P. (BPYPP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | Real Estate Services | 시총 11B$ | 결산월: 12월**
+**Real Estate | Real Estate Services | 시총 11B$ (#942위) | 결산월: 12월**
 
-Brookfield Property Partners, through Brookfield Property Partners L.P. and its subsidiary Brookfield Property REIT Inc., is one of the world's premier real estate companies, with approximately $88 billion in total assets. We own and operate iconic properties in the world's major markets, and our global portfolio includes office, retail, multifamily, logistics, hospitality, triple net lease, manufactured housing and student housing.
+Brookfield Property Partners는 Brookfield Property Partners L.P.와 Brookfield Property REIT Inc.를 통해 약 88 billion 달러 규모의 자산을 보유한 글로벌 부동산 회사다. 주요 글로벌 시장의 오피스, 리테일, multifamily, 물류, 호텔, triple net lease, manufactured housing, 학생주택 자산을 보유·운영한다.
+
+*Brookfield Property Partners, through Brookfield Property Partners L.P. and its subsidiary Brookfield Property REIT Inc., is one of the world's premier real estate companies, with approximately $88 billion in total assets. We own and operate iconic properties in the world's major markets, and our global portfolio includes office, retail, multifamily, logistics, hospitality, triple net lease, manufactured housing and student housing.*
 
 ---
 

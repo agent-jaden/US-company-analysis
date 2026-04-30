@@ -1,10 +1,12 @@
 # UNITED THERAPEUTICS Corp (UTHR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Drug Manufacturers - Specialty & Generic | 시총 25B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - Specialty & Generic | 시총 25B$ (#532위) | 결산월: 12월**
 
-United Therapeutics Corporation engages in the development and commercialization of products to address the unmet medical needs of patients with chronic and life-threatening diseases in the United States and internationally. It offers Tyvaso DPI, an inhaled dry powder via pre-filled and single-use cartridges; Nebulized Tyvaso, an inhaled solution via ultrasonic nebulizer; Remodulin (treprostinil) injection to treat patients with pulmonary arterial hypertension to diminish symptoms associated with exercise; Orenitram, a tablet dosage form of treprostinil, to delay disease progression and improve exercise capacity in PAH patients; and Adcirca, an oral PDE-5 inhibitor to enhance the exercise ability in PAH patients. It also markets and sells Unituxin (dinutuximab) injection, a monoclonal antibody for high-risk neuroblastoma; and Remunity Pump, which contains a pump and separate controller for Remodulin.
+United Therapeutics Corporation은 미국 및 국제 시장에서 미충족 의료 수요가 높은 만성 질환 치료제를 개발하고 상용화합니다. 폐동맥 고혈압(PAH) 증상 개선을 위한 흡입형 치료제인 Tyvaso DPI 및 Nebulized Tyvaso, 주사제인 Remodulin, 그리고 고위험 신경모세포종 치료제인 Unituxin 등을 시장에 공급하고 있습니다.
+
+*United Therapeutics Corporation engages in the development and commercialization of products to address the unmet medical needs of patients with chronic and life-threatening diseases in the United States and internationally. It offers Tyvaso DPI, an inhaled dry powder via pre-filled and single-use cartridges; Nebulized Tyvaso, an inhaled solution via ultrasonic nebulizer; Remodulin (treprostinil) injection to treat patients with pulmonary arterial hypertension to diminish symptoms associated with exercise; Orenitram, a tablet dosage form of treprostinil, to delay disease progression and improve exercise capacity in PAH patients; and Adcirca, an oral PDE-5 inhibitor to enhance the exercise ability in PAH patients. It also markets and sells Unituxin (dinutuximab) injection, a monoclonal antibody for high-risk neuroblastoma; and Remunity Pump, which contains a pump and separate controller for Remodulin.*
 
 ---
 

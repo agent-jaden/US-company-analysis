@@ -1,10 +1,12 @@
 # SLB LIMITED/NV (SLB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Equipment & Services | 시총 83B$ | 결산월: 12월**
+**Energy | Oil & Gas Equipment & Services | 시총 83B$ (#200위) | 결산월: 12월**
 
-SLB N.V. engages in the provision of technology for the energy industry worldwide. The company operates through four divisions: Digital & Integration, Reservoir Performance, Well Construction, and Production Systems.
+SLB는 전 세계 에너지 산업에 기술을 제공하는 기업이다. Digital & Integration, Reservoir Performance, Well Construction, Production Systems 부문을 통해 유전 개발, 시추, 생산, 디지털 에너지 솔루션을 지원한다.
+
+*SLB N.V. engages in the provision of technology for the energy industry worldwide. The company operates through four divisions: Digital & Integration, Reservoir Performance, Well Construction, and Production Systems.*
 
 ---
 

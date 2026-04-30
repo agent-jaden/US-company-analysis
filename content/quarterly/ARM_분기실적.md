@@ -1,10 +1,12 @@
 # ARM HOLDINGS PLC /UK (ARM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 229B$ | 결산월: 3월**
+**Technology | Semiconductors | 시총 229B$ (#58위) | 결산월: 3월**
 
-Arm Holdings plc architects, develops, and licenses central processing unit products and related technologies for semiconductor companies and original equipment manufacturers. The company is involved in the licensing, marketing, research, and development of microprocessors, systems intellectual property (IPs), graphics processing units, physical IP and associated systems IPs, software, tools, and other related services. It also offers arm central processing units, accelerators, system IP products, and compute platform products, as well as development tools and software.
+Arm Holdings plc는 반도체 기업 및 장비 제조업체를 위해 중앙 처리 장치(CPU) 제품과 관련 기술을 설계, 개발 및 라이선스합니다. 마이크로프로세서, 그래픽 처리 장치, 시스템 IP, 소프트웨어 및 개발 도구의 연구 개발과 마케팅을 통해 통합 컴퓨팅 플랫폼을 제공합니다.
+
+*Arm Holdings plc architects, develops, and licenses central processing unit products and related technologies for semiconductor companies and original equipment manufacturers. The company is involved in the licensing, marketing, research, and development of microprocessors, systems intellectual property (IPs), graphics processing units, physical IP and associated systems IPs, software, tools, and other related services. It also offers arm central processing units, accelerators, system IP products, and compute platform products, as well as development tools and software.*
 
 ---
 

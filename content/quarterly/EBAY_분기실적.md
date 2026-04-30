@@ -1,10 +1,12 @@
 # EBAY INC (EBAY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Internet Retail | 시총 45B$ | 결산월: 12월**
+**Consumer Cyclical | Internet Retail | 시총 45B$ (#349위) | 결산월: 12월**
 
-eBay Inc., together with its subsidiaries, operates marketplace platforms that connect buyers and sellers in the United States, the United Kingdom, China, Germany, and internationally. Its marketplace platform includes its online marketplace at ebay.com, off-platform businesses, and the eBay suite of mobile apps. The company's platforms enable users to list, sell, buy, and pay various products.
+eBay는 미국, 영국, 중국, 독일 등에서 구매자와 판매자를 연결하는 마켓플레이스 플랫폼을 운영한다. ebay.com 온라인 마켓플레이스, 외부 플랫폼 사업, 모바일 앱을 통해 사용자가 다양한 상품을 등록, 판매, 구매, 결제할 수 있도록 지원한다.
+
+*eBay Inc., together with its subsidiaries, operates marketplace platforms that connect buyers and sellers in the United States, the United Kingdom, China, Germany, and internationally. Its marketplace platform includes its online marketplace at ebay.com, off-platform businesses, and the eBay suite of mobile apps. The company's platforms enable users to list, sell, buy, and pay various products.*
 
 ---
 

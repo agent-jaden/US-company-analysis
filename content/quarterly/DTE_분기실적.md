@@ -1,10 +1,12 @@
 # DTE ENERGY CO (DTE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 30B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 30B$ (#459위) | 결산월: 12월**
 
-DTE Energy Company engages in energy-related businesses and services. The company operates through four segments: Electric, Gas, DTE Vantage, and Energy Trading.The company's Electric segment generates, purchases, distributes, and sells electricity to approximately 2.3 million residential, commercial, and industrial customers in southeastern Michigan. It generates electricity through coal-fired plants, natural gas plant, hydroelectric pumped storage, and nuclear plants, as well as wind and solar assets.
+미시간주 남동부의 약 230만 명의 주거, 상업 및 산업용 고객에게 전력을 생산, 분배 및 판매하는 종합 에너지 기업입니다. 전기, 가스, DTE Vantage 및 에너지 거래 부문을 통해 석탄, 원자력, 수력, 천연가스는 물론 풍력 및 태양광 등의 재생 에너지 자원으로 에너지를 공급합니다.
+
+*DTE Energy Company engages in energy-related businesses and services. The company operates through four segments: Electric, Gas, DTE Vantage, and Energy Trading.The company's Electric segment generates, purchases, distributes, and sells electricity to approximately 2.3 million residential, commercial, and industrial customers in southeastern Michigan. It generates electricity through coal-fired plants, natural gas plant, hydroelectric pumped storage, and nuclear plants, as well as wind and solar assets.*
 
 ---
 

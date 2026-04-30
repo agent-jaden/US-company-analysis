@@ -1,10 +1,12 @@
 # HUBBELL INC (HUBB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Electrical Equipment & Parts | 시총 30B$ | 결산월: 12월**
+**Industrials | Electrical Equipment & Parts | 시총 30B$ (#478위) | 결산월: 12월**
 
-Hubbell Incorporated, together with its subsidiaries, manufactures and sells electrical and utility solutions in the United States and internationally. It operates through two segments, Electrical Solutions and Utility Solutions. The Utility Solution segment offers critical components that allow the grid to transmit and distribute energy, as well as the communications and controls technologies, including  utility transmission and distribution components, such as arresters, insulators, connectors, anchors, bushings, enclosures, cutouts, and switches; and solutions that serve the edge of the utility infrastructure comprising smart meters, communications systems, and protection and control devices.
+미국 및 전 세계에서 전기 및 유틸리티 솔루션을 제조하고 판매하는 기업입니다. 전력 송배전에 필요한 애자, 커넥터, 스위치 등 핵심 유틸리티 인프라 부품과 더불어 스마트 미터, 통신 시스템 및 제어 장비 등 첨단 전력망 기술 솔루션을 제공합니다.
+
+*Hubbell Incorporated, together with its subsidiaries, manufactures and sells electrical and utility solutions in the United States and internationally. It operates through two segments, Electrical Solutions and Utility Solutions. The Utility Solution segment offers critical components that allow the grid to transmit and distribute energy, as well as the communications and controls technologies, including  utility transmission and distribution components, such as arresters, insulators, connectors, anchors, bushings, enclosures, cutouts, and switches; and solutions that serve the edge of the utility infrastructure comprising smart meters, communications systems, and protection and control devices.*
 
 ---
 

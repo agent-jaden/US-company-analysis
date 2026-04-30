@@ -1,10 +1,12 @@
 # CORPAY, INC. (CPAY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 21B$ | 결산월: 12월**
+**Technology | Software - Infrastructure | 시총 21B$ (#615위) | 결산월: 12월**
 
-Corpay, Inc. operates as a payments company that helps businesses and consumers to manage and pay their expenses. It operates through Corporate Payments, Vehicle Payments, Lodging Payments, and Other segments.
+Corpay, Inc.는 기업과 소비자의 지출 관리 및 결제를 지원하는 글로벌 결제 솔루션 기업입니다. 기업 결제, 차량 관리 결제, 숙박 결제 등의 사업 부문을 통해 고객의 효율적인 자금 운영과 B2B 경비 처리 프로세스를 돕습니다.
+
+*Corpay, Inc. operates as a payments company that helps businesses and consumers to manage and pay their expenses. It operates through Corporate Payments, Vehicle Payments, Lodging Payments, and Other segments.*
 
 ---
 

@@ -1,10 +1,12 @@
 # CADENCE DESIGN SYSTEMS INC (CDNS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 93B$ | 결산월: 12월**
+**Technology | Software - Application | 시총 93B$ (#181위) | 결산월: 12월**
 
-Cadence Design Systems, Inc. develops computational, AI-driven software, hardware, and silicon intellectual property products and solutions. The company offers functional verification services, such as Jasper, a formal verification platform; Xcelium, a parallel logic simulation platform; Verisium, a generative AI solution; Palladium, an enterprise emulation platform; and Protium, a prototyping platform for chip verification, as well as digital IC design and sign off products, including In novus platform; and custom IC design and simulation product include Virtuoso, a platform to design and verify analog.
+Cadence Design Systems는 계산 기반·AI 기반 소프트웨어, 하드웨어, silicon IP 제품과 솔루션을 개발한다. Jasper, Xcelium, Verisium, Palladium, Protium 등 검증 플랫폼과 Innovus 디지털 IC 설계·signoff 제품, Virtuoso 아날로그 설계·검증 플랫폼을 제공한다.
+
+*Cadence Design Systems, Inc. develops computational, AI-driven software, hardware, and silicon intellectual property products and solutions. The company offers functional verification services, such as Jasper, a formal verification platform; Xcelium, a parallel logic simulation platform; Verisium, a generative AI solution; Palladium, an enterprise emulation platform; and Protium, a prototyping platform for chip verification, as well as digital IC design and sign off products, including In novus platform; and custom IC design and simulation product include Virtuoso, a platform to design and verify analog.*
 
 ---
 

@@ -1,10 +1,12 @@
 # NEWS CORP (NWS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Entertainment | 시총 17B$ | 결산월: 6월**
+**Communication Services | Entertainment | 시총 17B$ (#701위) | 결산월: 6월**
 
-News Corporation, a media and information services company, creates and distributes authoritative and engaging content, and other products and services for consumers and businesses. It operates through five segments: Digital Real Estate Services, Dow Jones, Book Publishing, News Media, and Other. The company distributes content and data products through various media channels, such as newspapers, newswires, websites, mobile apps, newsletters, magazines, proprietary databases, live journalism, video, and podcasts under the MarketWatch, The Wall Street Journal, Barron's, Investor's Business Daily, Factiva, Dow Jones Risk & Compliance, Dow Jones Newswires, and Dow Jones Energy brands.
+News Corporation은 소비자와 기업을 위한 신뢰도 높은 콘텐츠와 정보 서비스를 제작·배포하는 미디어·정보 서비스 기업이다. Digital Real Estate Services, Dow Jones, Book Publishing, News Media 등 부문을 운영하며 MarketWatch, The Wall Street Journal, Barron's, Factiva, Dow Jones Newswires 등 브랜드로 뉴스, 데이터, 출판, 디지털 콘텐츠를 제공한다.
+
+*News Corporation, a media and information services company, creates and distributes authoritative and engaging content, and other products and services for consumers and businesses. It operates through five segments: Digital Real Estate Services, Dow Jones, Book Publishing, News Media, and Other. The company distributes content and data products through various media channels, such as newspapers, newswires, websites, mobile apps, newsletters, magazines, proprietary databases, live journalism, video, and podcasts under the MarketWatch, The Wall Street Journal, Barron's, Investor's Business Daily, Factiva, Dow Jones Risk & Compliance, Dow Jones Newswires, and Dow Jones Energy brands.*
 
 ---
 

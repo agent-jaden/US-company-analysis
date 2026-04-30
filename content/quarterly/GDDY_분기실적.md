@@ -1,10 +1,12 @@
 # GoDaddy Inc. (GDDY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Infrastructure | 시총 11B$ | 결산월: 12월**
+**Technology | Software - Infrastructure | 시총 11B$ (#909위) | 결산월: 12월**
 
-GoDaddy Inc. engages in the design and development of cloud-based products in the United States and internationally. It operates in two segments: Applications and Commerce (A&C), and Core Platform (Core).
+GoDaddy는 미국과 해외에서 클라우드 기반 제품을 설계·개발한다. Applications and Commerce와 Core Platform 부문을 통해 웹사이트 구축, 도메인, 커머스, 온라인 비즈니스 운영 관련 솔루션을 제공한다.
+
+*GoDaddy Inc. engages in the design and development of cloud-based products in the United States and internationally. It operates in two segments: Applications and Commerce (A&C), and Core Platform (Core).*
 
 ---
 

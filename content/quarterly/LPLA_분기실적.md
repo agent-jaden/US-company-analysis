@@ -1,10 +1,12 @@
 # LPL Financial Holdings Inc. (LPLA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Capital Markets | 시총 26B$ | 결산월: 12월**
+**Financial Services | Capital Markets | 시총 26B$ (#507위) | 결산월: 12월**
 
-LPL Financial Holdings Inc., together with its subsidiaries, provides an integrated platform of brokerage and investment advisory services to independent financial advisors and financial advisors at institutions in the United States. The company's brokerage offerings include variable and fixed annuities, mutual funds, equities, fixed income, alternative investments, retirement and 529 education savings plans, and insurance; and client cash programs consist of Federal Deposit Insurance Corporation (FDIC) insured bank sweep vehicles, and a client cash and money market account. It also provides fee-based platforms that provide access to mutual funds, exchange traded funds, stocks, bonds, certain options strategies, unit investment trusts, institutional money managers, and no-load multi-manager variable annuities.
+LPL Financial Holdings Inc.는 자회사를 통해 미국 내 독립 재무 고문과 기관 소속 재무 고문에게 통합적인 증권 중개 및 투자 자문 플랫폼을 제공합니다. 뮤추얼 펀드, 주식, 채권, 대안 투자 및 은퇴 저축 플랜(529) 등을 포함한 폭넓은 투자 상품과 함께 FDIC 보험이 적용되는 고객 현금 관리 프로그램을 지원합니다.
+
+*LPL Financial Holdings Inc., together with its subsidiaries, provides an integrated platform of brokerage and investment advisory services to independent financial advisors and financial advisors at institutions in the United States. The company's brokerage offerings include variable and fixed annuities, mutual funds, equities, fixed income, alternative investments, retirement and 529 education savings plans, and insurance; and client cash programs consist of Federal Deposit Insurance Corporation (FDIC) insured bank sweep vehicles, and a client cash and money market account. It also provides fee-based platforms that provide access to mutual funds, exchange traded funds, stocks, bonds, certain options strategies, unit investment trusts, institutional money managers, and no-load multi-manager variable annuities.*
 
 ---
 

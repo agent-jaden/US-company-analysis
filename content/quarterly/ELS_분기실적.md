@@ -1,10 +1,12 @@
 # EQUITY LIFESTYLE PROPERTIES INC (ELS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Real Estate | REIT - Residential | 시총 12B$ | 결산월: 12월**
+**Real Estate | REIT - Residential | 시총 12B$ (#863위) | 결산월: 12월**
 
-Equity LifeStyle Properties, Inc. is a self-administered, self-managed real estate investment trust. As of March 31, 2026, they own or have an interest in 453 properties in 35 states and British Columbia consisting of 173,419 sites.
+Equity LifeStyle Properties, Inc.는 이동식 주택 단지, RV 리조트 및 마리나를 직접 운영하고 관리하는 부동산 투자 신탁(REIT) 기업입니다. 2026년 3월 31일 기준, 미국 35개 주와 캐나다 브리티시컬럼비아주에 걸쳐 173,419개의 사이트가 포함된 453개 부동산 지분을 소유하고 있습니다.
+
+*Equity LifeStyle Properties, Inc. is a self-administered, self-managed real estate investment trust. As of March 31, 2026, they own or have an interest in 453 properties in 35 states and British Columbia consisting of 173,419 sites.*
 
 ---
 

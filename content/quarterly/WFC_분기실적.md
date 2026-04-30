@@ -1,10 +1,12 @@
 # WELLS FARGO & COMPANY/MN (WFC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Diversified | 시총 247B$ | 결산월: 12월**
+**Financial Services | Banks - Diversified | 시총 247B$ (#52위) | 결산월: 12월**
 
-Wells Fargo & Company, a financial services company, provides diversified banking, investment, mortgage, and consumer and commercial finance products and services in the United States and internationally. It operates through four segments: Consumer Banking and Lending; Commercial Banking; Corporate and Investment Banking; and Wealth and Investment Management. The company's financial products and services includes checking and savings accounts, and credit and debit cards, as well as home, auto, personal, and small business lending services.
+Wells Fargo & Company는 미국 및 전 세계에서 다양한 은행, 투자, 모기지, 소비자 및 상업용 금융 상품과 서비스를 제공하는 금융 서비스 기업입니다. 개인 및 상업용 뱅킹, 기업 및 투자 뱅킹, 자산 관리 부문을 통해 주택, 자동차, 소상공인 대출 및 신용카드 서비스를 운영합니다.
+
+*Wells Fargo & Company, a financial services company, provides diversified banking, investment, mortgage, and consumer and commercial finance products and services in the United States and internationally. It operates through four segments: Consumer Banking and Lending; Commercial Banking; Corporate and Investment Banking; and Wealth and Investment Management. The company's financial products and services includes checking and savings accounts, and credit and debit cards, as well as home, auto, personal, and small business lending services.*
 
 ---
 

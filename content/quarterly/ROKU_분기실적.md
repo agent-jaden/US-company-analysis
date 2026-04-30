@@ -1,10 +1,12 @@
 # ROKU, INC (ROKU) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Entertainment | 시총 17B$ | 결산월: 12월**
+**Communication Services | Entertainment | 시총 17B$ (#694위) | 결산월: 12월**
 
-Roku, Inc., together with its subsidiaries, operates a TV streaming platform in the United States and internationally. The company operates in two segments, Platform and Devices. Its streaming platform allows users to find and access TV shows, movies, news, sports, and others, as well as offers digital advertising services.
+Roku는 미국과 해외에서 TV 스트리밍 플랫폼을 운영한다. Platform과 Devices 부문을 통해 사용자가 TV 프로그램, 영화, 뉴스, 스포츠 등 콘텐츠를 검색·접근할 수 있도록 지원하고 디지털 광고 서비스도 제공한다.
+
+*Roku, Inc., together with its subsidiaries, operates a TV streaming platform in the United States and internationally. The company operates in two segments, Platform and Devices. Its streaming platform allows users to find and access TV shows, movies, news, sports, and others, as well as offers digital advertising services.*
 
 ---
 
