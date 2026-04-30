@@ -1,8 +1,12 @@
 # MAGNA INTERNATIONAL INC (MGA) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 17B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Parts | 시총 17B$ (#685위) | 결산월: 12월**
+
+Magna International은 북미, 유럽, 아시아태평양 및 해외에서 자동차 부품 공급업체로 운영된다. Body Exteriors & Structures, Power & Vision, Seating Systems, Complete Vehicles 부문을 통해 차체·외장, 파워트레인·비전, 시트, 완성차 위탁 생산 솔루션을 제공한다.
+
+*Magna International Inc. operates as an automotive supplier in North America, Europe, the Asia Pacific, and internationally. It operates through four segments: Body Exteriors & Structures, Power & Vision, Seating Systems, and Complete Vehicles.*
 
 ---
 

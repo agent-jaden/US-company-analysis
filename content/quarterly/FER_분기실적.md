@@ -1,10 +1,12 @@
 # Ferrovial SE (FER) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Engineering & Construction | 시총 49B$ | 결산월: 12월**
+**Industrials | Engineering & Construction | 시총 49B$ (#332위) | 결산월: 12월**
 
-Ferrovial SE, together with its subsidiaries, engages in the development, construction, and operation of highways and airports in the United States, Poland, Spain, the United Kingdom, Canada, and internationally. It operates through four segments: Construction, Highways, Airports, and Energy. The company is involved in the development, financing, and operation of toll road infrastructure and construction activities, including the design and construction of public and private works; construction of public infrastructures; and development, financing, investing, and operation of airports.
+Ferrovial은 미국, 폴란드, 스페인, 영국, 캐나다 등에서 고속도로와 공항의 개발, 건설, 운영을 수행한다. Construction, Highways, Airports, Energy 부문을 통해 유료도로 인프라의 개발·금융·운영, 공공·민간 공사 설계·시공, 공항 개발·투자·운영을 담당한다.
+
+*Ferrovial SE, together with its subsidiaries, engages in the development, construction, and operation of highways and airports in the United States, Poland, Spain, the United Kingdom, Canada, and internationally. It operates through four segments: Construction, Highways, Airports, and Energy. The company is involved in the development, financing, and operation of toll road infrastructure and construction activities, including the design and construction of public and private works; construction of public infrastructures; and development, financing, investing, and operation of airports.*
 
 ---
 

@@ -1,10 +1,12 @@
 # CARNIVAL PLC (CUK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Travel Services | 시총 37B$ | 결산월: 11월**
+**Consumer Cyclical | Travel Services | 시총 37B$ (#401위) | 결산월: 11월**
 
-Carnival Corporation & plc, a cruise company, provides leisure travel services in North America, Australia, Europe, and internationally. The company operates through four segments: North America Cruise Operations, Europe Cruise Operations, Cruise Support, and Tour and Other. It operates port destinations and islands, as well as owns and operates hotels, lodges, glass-domed railcars, and motorcoaches.
+Carnival Corporation & plc는 북미, 호주, 유럽 및 해외에서 크루즈 기반 레저 여행 서비스를 제공한다. North America Cruise Operations, Europe Cruise Operations, Cruise Support, Tour and Other 부문을 운영하며 항구 목적지와 섬, 호텔, 로지, 유리돔 열차, 모터코치를 보유·운영한다.
+
+*Carnival Corporation & plc, a cruise company, provides leisure travel services in North America, Australia, Europe, and internationally. The company operates through four segments: North America Cruise Operations, Europe Cruise Operations, Cruise Support, and Tour and Other. It operates port destinations and islands, as well as owns and operates hotels, lodges, glass-domed railcars, and motorcoaches.*
 
 ---
 

@@ -1,10 +1,12 @@
 # CHINA LIFE INSURANCE CO LTD (CILJF) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Life | 시총 97B$ | 결산월: 12월**
+**Financial Services | Insurance - Life | 시총 97B$ (#168위) | 결산월: 12월**
 
-China Life Insurance Company Limited, together with its subsidiaries, operates as a life insurance company in the People's Republic of China. The company operates through Life Insurance Business, Health Insurance Business, Accident Insurance Business, and Other Businesses segments. It offers life, annuity, health, and accident insurance products to individuals and groups.
+China Life Insurance는 중국에서 생명보험을 중심으로 보험 사업을 운영한다. Life Insurance, Health Insurance, Accident Insurance, Other Businesses 부문을 통해 개인과 단체 고객에게 생명보험, 연금보험, 건강보험, 상해보험 상품을 제공한다.
+
+*China Life Insurance Company Limited, together with its subsidiaries, operates as a life insurance company in the People's Republic of China. The company operates through Life Insurance Business, Health Insurance Business, Accident Insurance Business, and Other Businesses segments. It offers life, annuity, health, and accident insurance products to individuals and groups.*
 
 ---
 

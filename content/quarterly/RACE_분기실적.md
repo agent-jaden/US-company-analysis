@@ -1,10 +1,12 @@
 # Ferrari N.V. (RACE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Auto Manufacturers | 시총 62B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Manufacturers | 시총 62B$ (#273위) | 결산월: 12월**
 
-Ferrari N.V., through its subsidiaries, engages in design, engineering, production, and sale of luxury performance sports cars worldwide. It offers sports, track, one-off, and road cars, as well as supercars. The company also provides spare parts and engines, as well as after sales, repair, maintenance, and restoration services for cars; and licenses its Ferrari brand to various producers and retailers of luxury and lifestyle goods.
+Ferrari는 전 세계에서 럭셔리 고성능 스포츠카를 설계·엔지니어링·생산·판매한다. 스포츠카, 트랙카, one-off, 로드카, 슈퍼카를 제공하며 부품·엔진, 애프터서비스, 수리·정비·복원 서비스와 Ferrari 브랜드 라이선스 사업도 운영한다.
+
+*Ferrari N.V., through its subsidiaries, engages in design, engineering, production, and sale of luxury performance sports cars worldwide. It offers sports, track, one-off, and road cars, as well as supercars. The company also provides spare parts and engines, as well as after sales, repair, maintenance, and restoration services for cars; and licenses its Ferrari brand to various producers and retailers of luxury and lifestyle goods.*
 
 ---
 

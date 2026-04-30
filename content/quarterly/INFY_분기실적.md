@@ -1,10 +1,12 @@
 # Infosys Ltd (INFY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Information Technology Services | 시총 50B$ | 결산월: 3월**
+**Technology | Information Technology Services | 시총 50B$ (#325위) | 결산월: 3월**
 
-Infosys Limited provides consulting, technology, outsourcing, and digital services worldwide. It provides digital marketing and digital workplace, digital commerce, digital experience and interactions, and metaverse; data analytics and AI, applied AI, generative AI, and sustainability; blockchain, engineering, and Internet of Things; enterprise agile DevOps, API economy and microservices, application modernization, cloud, digital process automation, digital supply chain, Microsoft business application and cloud business, service experience transformation, energy transition, Network Transformation Services, Infrastructure Services cyber security, and quality engineering solutions; Oracle, SAP, and Saleforce solutions; Topaz, an AI-first set of services, solutions, and platforms using generative AI technologies; and Aster, a set of AI-amplified marketing services, solutions, and platforms. The company also offers Finacle, a core banking solution; Edge suite of products; Panaya platform, Infosys Equinox, Infosys Live Enterprise Suite, Infosys Wingspan, Infosys Helix, Infosys Meridian, Infosys Polycloud, Infosys Cortex, and Stater digital platforms; and Infosys McCamish, an insurance platform.
+Infosys는 전 세계에서 컨설팅, 기술, 아웃소싱, 디지털 서비스를 제공한다. 디지털 마케팅·워크플레이스, 데이터 분석·AI, 생성형 AI, 클라우드, 사이버보안, 엔지니어링, IoT, Oracle·SAP·Salesforce 솔루션과 Topaz, Aster, Finacle, Infosys Equinox 등 플랫폼을 통해 기업의 디지털 전환을 지원한다.
+
+*Infosys Limited provides consulting, technology, outsourcing, and digital services worldwide. It provides digital marketing and digital workplace, digital commerce, digital experience and interactions, and metaverse; data analytics and AI, applied AI, generative AI, and sustainability; blockchain, engineering, and Internet of Things; enterprise agile DevOps, API economy and microservices, application modernization, cloud, digital process automation, digital supply chain, Microsoft business application and cloud business, service experience transformation, energy transition, Network Transformation Services, Infrastructure Services cyber security, and quality engineering solutions; Oracle, SAP, and Saleforce solutions; Topaz, an AI-first set of services, solutions, and platforms using generative AI technologies; and Aster, a set of AI-amplified marketing services, solutions, and platforms. The company also offers Finacle, a core banking solution; Edge suite of products; Panaya platform, Infosys Equinox, Infosys Live Enterprise Suite, Infosys Wingspan, Infosys Helix, Infosys Meridian, Infosys Polycloud, Infosys Cortex, and Stater digital platforms; and Infosys McCamish, an insurance platform.*
 
 ---
 

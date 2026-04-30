@@ -1,10 +1,12 @@
 # TIM S.A. (TIMB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Telecom Services | 시총 12B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 12B$ (#856위) | 결산월: 12월**
 
-TIM S.A. engages in the telecommunications sector in Brazil. It offers landline switched telephone services in local, national, and international long-distance modes, as well as personal mobile and multimedia communication services.
+TIM은 브라질 통신 부문에서 사업을 운영한다. 유선 교환전화의 지역·국내·국제 장거리 서비스와 개인 모바일 및 멀티미디어 통신 서비스를 제공한다.
+
+*TIM S.A. engages in the telecommunications sector in Brazil. It offers landline switched telephone services in local, national, and international long-distance modes, as well as personal mobile and multimedia communication services.*
 
 ---
 

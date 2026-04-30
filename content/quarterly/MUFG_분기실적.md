@@ -1,10 +1,12 @@
 # MITSUBISHI UFJ FINANCIAL GROUP INC (MUFG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 3월 | 분기 기준: 캘린더 | 통화: JPY
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 3월 | 분기 기준: 캘린더 | 통화: JPY
 
-**Financial Services | Banks - Diversified | 시총 197B$ | 결산월: 3월**
+**Financial Services | Banks - Diversified | 시총 197B$ (#69위) | 결산월: 3월**
 
-Mitsubishi UFJ Financial Group, Inc. operates as a bank holding company that engages in a range of financial businesses in Japan, the United States, Europe, Asia/Oceania, and internationally. It operates through seven segments: Digital Services, Retail & Commercial Banking, Japanese Corporate & Investment Banking, Global Commercial Banking, Asset Management & Investor Services, Global Corporate & Investment Banking, and Global Markets.
+Mitsubishi UFJ Financial Group, Inc.는 일본, 미국, 유럽 및 전 세계에서 다양한 금융 사업을 전개하는 은행 지주 회사입니다. 디지털 서비스, 소매 및 상업 뱅킹, 자산 관리, 글로벌 기업 및 투자 뱅킹 등 7개 부문을 통해 광범위한 금융 솔루션을 제공합니다.
+
+*Mitsubishi UFJ Financial Group, Inc. operates as a bank holding company that engages in a range of financial businesses in Japan, the United States, Europe, Asia/Oceania, and internationally. It operates through seven segments: Digital Services, Retail & Commercial Banking, Japanese Corporate & Investment Banking, Global Commercial Banking, Asset Management & Investor Services, Global Corporate & Investment Banking, and Global Markets.*
 
 ---
 

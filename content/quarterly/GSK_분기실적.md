@@ -1,10 +1,12 @@
 # GSK plc (GSK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: GBP
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: GBP
 
-**Healthcare | Drug Manufacturers - General | 시총 108B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - General | 시총 108B$ (#148위) | 결산월: 12월**
 
-GSK plc, together with its subsidiaries, engages in the research, development, and manufacture of vaccines, specialty medicines, and general medicines to prevent and treat disease in the United Kingdom, the United States, and internationally. It operates through Commercial Operations and Total R&D segments. The company offers specialty medicines that include oncology, respiratory/immunology, inflammation, and inhaled medicines for HIV, respiratory eosinophildriven diseases, lupus and lupus nephritis, ovarian cancer, and endometrial cancer.
+GSK는 영국, 미국 등 글로벌 시장에서 백신, specialty medicines, 일반 의약품을 연구·개발·제조한다. Commercial Operations와 Total R&D 부문을 운영하며 HIV, 호흡기 호산구성 질환, 루푸스, 난소암, 자궁내막암 등에 쓰이는 항암, 호흡기·면역, 염증, 흡입제 제품을 제공한다.
+
+*GSK plc, together with its subsidiaries, engages in the research, development, and manufacture of vaccines, specialty medicines, and general medicines to prevent and treat disease in the United Kingdom, the United States, and internationally. It operates through Commercial Operations and Total R&D segments. The company offers specialty medicines that include oncology, respiratory/immunology, inflammation, and inhaled medicines for HIV, respiratory eosinophildriven diseases, lupus and lupus nephritis, ovarian cancer, and endometrial cancer.*
 
 ---
 

@@ -1,10 +1,12 @@
 # ASML HOLDING NV (ASML) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
 
-**Technology | Semiconductor Equipment & Materials | 시총 552B$ | 결산월: 12월**
+**Technology | Semiconductor Equipment & Materials | 시총 552B$ (#19위) | 결산월: 12월**
 
-ASML Holding N.V. provides lithography solutions for the development, production, marketing, sales, upgrading, and servicing of advanced semiconductor equipment systems. The company offers lithography, metrology, and inspection systems.
+ASML Holding N.V.는 첨단 반도체 장비 시스템의 개발, 생산, 마케팅 및 유지보수를 위한 리소그래피(노광) 솔루션을 제공합니다. 주로 리소그래피, 계측 및 검사 시스템을 반도체 제조 기업에 공급하고 있습니다.
+
+*ASML Holding N.V. provides lithography solutions for the development, production, marketing, sales, upgrading, and servicing of advanced semiconductor equipment systems. The company offers lithography, metrology, and inspection systems.*
 
 ---
 

@@ -1,10 +1,12 @@
 # UNITED MICROELECTRONICS CORP (UMC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 29B$ | 결산월: 12월**
+**Technology | Semiconductors | 시총 29B$ (#483위) | 결산월: 12월**
 
-United Microelectronics Corporation operates as a semiconductor wafer foundry in Taiwan, China, Hong Kong, Japan, Korea, the United States, Europe, and internationally. The company manufactures and sells integrated circuits. It offers backend and design support services for mobile and wireless communications, IoT and wearables, computing and data processing, and automotive markets.
+대만, 중국, 미국, 유럽 등 전 세계적으로 반도체 웨이퍼 파운드리(위탁 생산) 사업을 운영하며 집적 회로를 제조 및 판매합니다. 모바일 통신, IoT, 웨어러블, 자동차 등 다양한 첨단 산업 분야에 필요한 백엔드 및 설계 지원 서비스를 제공합니다.
+
+*United Microelectronics Corporation operates as a semiconductor wafer foundry in Taiwan, China, Hong Kong, Japan, Korea, the United States, Europe, and internationally. The company manufactures and sells integrated circuits. It offers backend and design support services for mobile and wireless communications, IoT and wearables, computing and data processing, and automotive markets.*
 
 ---
 

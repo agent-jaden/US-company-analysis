@@ -1,10 +1,12 @@
 # Sprott Physical Gold Trust (PHYS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Asset Management | 시총 17B$ | 결산월: 12월**
+**Financial Services | Asset Management | 시총 17B$ (#692위) | 결산월: 12월**
 
-Sprott Physical Gold Trust is an exchange traded commodity launched and managed by Sprott Asset Management LP. The fund invests in the commodity markets. It primarily invests in physical gold bullion in London Good Delivery bar form.
+Sprott Physical Gold Trust는 Sprott Asset Management가 운용하는 거래소 상장 원자재 펀드다. 주로 London Good Delivery bar 형태의 실물 금괴에 투자한다.
+
+*Sprott Physical Gold Trust is an exchange traded commodity launched and managed by Sprott Asset Management LP. The fund invests in the commodity markets. It primarily invests in physical gold bullion in London Good Delivery bar form.*
 
 ---
 

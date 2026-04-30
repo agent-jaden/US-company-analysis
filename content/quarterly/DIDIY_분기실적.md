@@ -1,10 +1,12 @@
 # DiDi Global Inc. (DIDIY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Software - Application | 시총 17B$ | 결산월: 12월**
+**Technology | Software - Application | 시총 17B$ (#689위) | 결산월: 12월**
 
-DiDi Global Inc. operates a mobility technology platform that provides various mobility and other services in the People's Republic of China, Brazil, Mexico, and internationally. The company operates through three segments: China Mobility, International, and Other Initiatives.
+DiDi Global은 중국, 브라질, 멕시코 및 해외에서 모빌리티 기술 플랫폼을 운영한다. China Mobility, International, Other Initiatives 부문을 통해 차량호출 등 다양한 이동 서비스와 관련 기술 서비스를 제공한다.
+
+*DiDi Global Inc. operates a mobility technology platform that provides various mobility and other services in the People's Republic of China, Brazil, Mexico, and internationally. The company operates through three segments: China Mobility, International, and Other Initiatives.*
 
 ---
 

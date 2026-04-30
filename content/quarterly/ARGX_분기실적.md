@@ -1,10 +1,12 @@
 # ARGENX SE (ARGX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Biotechnology | 시총 49B$ | 결산월: 12월**
+**Healthcare | Biotechnology | 시총 49B$ (#330위) | 결산월: 12월**
 
-argenx SE, a commercial-stage biopharma company, develops various therapies for the treatment of autoimmune diseases in the United States, Japan, China, the Netherlands, and internationally. The company offers VYVGART for the treatment of gMG and immune thrombocytopenia (ITP), and VYVGART HYTRULO for the treatment of gMG and chronic inflammatory demyelinating polyneuropathy (CIDP). It also develops efgartigimod for the treatment of seronegative gMG, ocular myasthenia gravis (MG), primary ITP, grave's disease, myositis, Sjögren's disease, systemic sclerosis, and AMR; empasiprubart for MMN, delayed graft function, and CIDP; and adimanebart for congenital myasthenic syndrome and spinal muscular atrophy.
+argenx는 미국, 일본, 중국, 네덜란드 등에서 자가면역질환 치료제를 개발하는 상업화 단계 바이오제약 기업이다. VYVGART와 VYVGART HYTRULO를 gMG, ITP, CIDP 등에 제공하며 efgartigimod, empasiprubart, adimanebart를 다양한 자가면역·신경근육 질환 적응증으로 개발 중이다.
+
+*argenx SE, a commercial-stage biopharma company, develops various therapies for the treatment of autoimmune diseases in the United States, Japan, China, the Netherlands, and internationally. The company offers VYVGART for the treatment of gMG and immune thrombocytopenia (ITP), and VYVGART HYTRULO for the treatment of gMG and chronic inflammatory demyelinating polyneuropathy (CIDP). It also develops efgartigimod for the treatment of seronegative gMG, ocular myasthenia gravis (MG), primary ITP, grave's disease, myositis, Sjögren's disease, systemic sclerosis, and AMR; empasiprubart for MMN, delayed graft function, and CIDP; and adimanebart for congenital myasthenic syndrome and spinal muscular atrophy.*
 
 ---
 

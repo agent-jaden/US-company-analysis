@@ -1,10 +1,12 @@
 # James Hardie Industries plc (JHX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Building Materials | 시총 13B$ | 결산월: 3월**
+**Basic Materials | Building Materials | 시총 13B$ (#827위) | 결산월: 3월**
 
-James Hardie Industries plc engages in the manufacture and sale of fiber cement, fiber gypsum, and cement bonded boards in the United States, Australia, Europe, and New Zealand. It operates in three segments: North America Fiber Cement, Asia Pacific Fiber Cement, and Europe Building Products. The company offers fiber cement interior linings, exterior siding products, and related accessories.
+James Hardie Industries는 미국, 호주, 유럽, 뉴질랜드에서 fiber cement, fiber gypsum, cement bonded board를 제조·판매한다. North America Fiber Cement, Asia Pacific Fiber Cement, Europe Building Products 부문을 통해 내부 마감재, 외장 siding 제품과 관련 액세서리를 제공한다.
+
+*James Hardie Industries plc engages in the manufacture and sale of fiber cement, fiber gypsum, and cement bonded boards in the United States, Australia, Europe, and New Zealand. It operates in three segments: North America Fiber Cement, Asia Pacific Fiber Cement, and Europe Building Products. The company offers fiber cement interior linings, exterior siding products, and related accessories.*
 
 ---
 

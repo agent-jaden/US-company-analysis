@@ -1,10 +1,12 @@
 # TFI International Inc. (TFII) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Trucking | 시총 11B$ | 결산월: 12월**
+**Industrials | Trucking | 시총 11B$ (#903위) | 결산월: 12월**
 
-TFI International Inc., together with its subsidiaries, provides transportation and logistics services in the United States, Canada, and Mexico. It operates through Less-Than-Truckload (LTL), Truckload (TL), and Logistics segments. The Less-Than-Truckload segment is involved in the pickup, consolidation, transportation, and delivery of smaller loads.
+TFI International Inc.는 북미(미국, 캐나다, 멕시코) 전역에서 광범위한 화물 운송 및 물류 서비스를 제공하는 기업입니다. 트럭 단위(TL) 배송 및 물류 솔루션을 비롯해 소규모 수화물의 픽업, 혼적, 운송 및 최종 배송을 담당하는 소량 화물 운송(LTL) 부문을 주력으로 운영합니다.
+
+*TFI International Inc., together with its subsidiaries, provides transportation and logistics services in the United States, Canada, and Mexico. It operates through Less-Than-Truckload (LTL), Truckload (TL), and Logistics segments. The Less-Than-Truckload segment is involved in the pickup, consolidation, transportation, and delivery of smaller loads.*
 
 ---
 

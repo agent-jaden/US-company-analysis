@@ -1,10 +1,12 @@
 # Vale S.A. (VALE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: BRL
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: BRL
 
-**Basic Materials | Other Industrial Metals & Mining | 시총 73B$ | 결산월: 12월**
+**Basic Materials | Other Industrial Metals & Mining | 시총 73B$ (#233위) | 결산월: 12월**
 
-Vale S.A., together with its subsidiaries, produces iron ore and nickel in Brazil, Asia, the Middle East, North Africa, Europe, the Americas, and Oceania. The company operates in two segments, Iron Ore Solutions and Vale Base Metals. It extracts, produces, and distributes iron ore, iron ore pellets, briquettes, nickel, copper, other ferrous products, and by-products, including gold, silver, cobalt, platinum-group metals, and other base metals, as well as low-carbon critical minerals.
+Vale S.A.는 브라질을 비롯한 전 세계 여러 지역에서 철광석과 니켈을 주로 생산하는 글로벌 광업 기업입니다. 철광석 솔루션 및 베이스 메탈 부문을 통해 철광석 펠릿, 구리, 코발트 등 주요 산업용 금속과 저탄소 핵심 광물을 채굴하여 유통합니다.
+
+*Vale S.A., together with its subsidiaries, produces iron ore and nickel in Brazil, Asia, the Middle East, North Africa, Europe, the Americas, and Oceania. The company operates in two segments, Iron Ore Solutions and Vale Base Metals. It extracts, produces, and distributes iron ore, iron ore pellets, briquettes, nickel, copper, other ferrous products, and by-products, including gold, silver, cobalt, platinum-group metals, and other base metals, as well as low-carbon critical minerals.*
 
 ---
 

@@ -1,10 +1,12 @@
 # BANCO SANTANDER CHILE (BSAC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Regional | 시총 16B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 16B$ (#733위) | 결산월: 12월**
 
-Banco Santander-Chile, together with its subsidiaries, provides commercial and retail banking products and services in Chile. It operates through Retail, Wealth Management & Insurance, Middle-Market, Corporate and Investment Banking, and Corporate Activities and Other segments. The company provides checking accounts and savings products; debit and credit cards; consumer, auto, commercial, mortgage, and government-guaranteed loans; and Chilean peso and foreign currency denominated loans to finance various commercial transactions, trade, foreign currency forward contracts, and credit lines, as well as mortgage financing services.
+Banco Santander-Chile는 칠레 전역에서 상업 및 소매 금융 상품을 제공하는 주요 은행입니다. 소매 금융, 자산 관리 및 보험, 기업 및 투자 은행 등 여러 부문을 통해 예적금 계좌부터 신용카드, 자동차 및 모기지 대출 서비스를 포괄적으로 운영합니다. 또한 기업의 무역 거래 자금 조달, 외환 선도 계약, 정부 보증 대출 등 다양한 상업 금융 솔루션을 지원합니다.
+
+*Banco Santander-Chile, together with its subsidiaries, provides commercial and retail banking products and services in Chile. It operates through Retail, Wealth Management & Insurance, Middle-Market, Corporate and Investment Banking, and Corporate Activities and Other segments. The company provides checking accounts and savings products; debit and credit cards; consumer, auto, commercial, mortgage, and government-guaranteed loans; and Chilean peso and foreign currency denominated loans to finance various commercial transactions, trade, foreign currency forward contracts, and credit lines, as well as mortgage financing services.*
 
 ---
 

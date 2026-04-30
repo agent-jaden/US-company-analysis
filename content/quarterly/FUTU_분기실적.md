@@ -1,10 +1,12 @@
 # Futu Holdings Ltd (FUTU) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Capital Markets | 시총 22B$ | 결산월: 12월**
+**Financial Services | Capital Markets | 시총 22B$ (#579위) | 결산월: 12월**
 
-Futu Holdings Limited engages in the provision of digitalized securities brokerage and wealth management product distribution service in Hong Kong and internationally. It offers online financial services, including securities and derivative trades brokerage, margin financing and fund distribution services through its Futubull and Moomoo digital platforms. The company also provides financial information and online community services; online wealth management services under the Money Plus brand name through its Futubull and moomoo platforms, which provides its client access to mutual funds, private funds, bonds, structured products, and other wealth management products; market data and information services; and NiuNiu Community, an open forum for users and clients to share insights, ask questions, and exchange ideas.
+Futu Holdings는 홍콩과 해외에서 디지털 증권중개와 자산관리 상품 유통 서비스를 제공한다. Futubull과 Moomoo 플랫폼을 통해 증권·파생상품 거래, 마진금융, 펀드 유통, 금융정보, 온라인 커뮤니티, Money Plus 자산관리 서비스를 운영한다.
+
+*Futu Holdings Limited engages in the provision of digitalized securities brokerage and wealth management product distribution service in Hong Kong and internationally. It offers online financial services, including securities and derivative trades brokerage, margin financing and fund distribution services through its Futubull and Moomoo digital platforms. The company also provides financial information and online community services; online wealth management services under the Money Plus brand name through its Futubull and moomoo platforms, which provides its client access to mutual funds, private funds, bonds, structured products, and other wealth management products; market data and information services; and NiuNiu Community, an open forum for users and clients to share insights, ask questions, and exchange ideas.*
 
 ---
 

@@ -1,10 +1,12 @@
 # FIRST MAJESTIC SILVER CORP (AG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Silver | 시총 10B$ | 결산월: 12월**
+**Basic Materials | Silver | 시총 10B$ (#974위) | 결산월: 12월**
 
-First Majestic Silver Corp. engages in the acquisition, exploration, development, and production of mineral properties in North America. The company explores for silver and gold deposits.
+First Majestic Silver는 북미에서 광물 자산의 취득, 탐사, 개발, 생산을 수행한다. 주로 은과 금 광상을 탐사하는 귀금속 광산 기업이다.
+
+*First Majestic Silver Corp. engages in the acquisition, exploration, development, and production of mineral properties in North America. The company explores for silver and gold deposits.*
 
 ---
 

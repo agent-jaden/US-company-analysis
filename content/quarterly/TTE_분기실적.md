@@ -1,10 +1,12 @@
 # TotalEnergies SE (TTE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Integrated | 시총 189B$ | 결산월: 12월**
+**Energy | Oil & Gas Integrated | 시총 189B$ (#72위) | 결산월: 12월**
 
-TotalEnergies SE, an integrated energy company, produces and markets oil and biofuels, natural gas, biogas and low-carbon hydrogen, renewables, and electricity in France, the United States, Europe, Brazil, India, and internationally. The company was formerly known as TOTAL SE and changed its name to TotalEnergies SE in June 2021. TotalEnergies SE was incorporated in 1924 and is headquartered in Courbevoie, France.
+TotalEnergies SE는 프랑스, 미국, 인도 등 전 세계적으로 석유, 바이오 연료, 천연가스, 재생 에너지 및 전력을 생산하고 판매하는 종합 에너지 기업입니다. 2021년 TOTAL SE에서 사명을 변경하였으며, 저탄소 수소 및 바이오가스를 포함한 광범위한 에너지 포트폴리오를 운영합니다.
+
+*TotalEnergies SE, an integrated energy company, produces and markets oil and biofuels, natural gas, biogas and low-carbon hydrogen, renewables, and electricity in France, the United States, Europe, Brazil, India, and internationally. The company was formerly known as TOTAL SE and changed its name to TotalEnergies SE in June 2021. TotalEnergies SE was incorporated in 1924 and is headquartered in Courbevoie, France.*
 
 ---
 

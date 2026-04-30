@@ -1,10 +1,12 @@
 # BANK OF CHILE (BCH) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Regional | 시총 19B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 19B$ (#638위) | 결산월: 12월**
 
-Banco de Chile, together with its subsidiaries, provides commercial banking services in Chile. It operates through four segments: Retail Banking, Wholesale Banking, Treasury, and Subsidiaries. The company offers current account and digital student plans; digital and checking accounts; mortgage loans; credit and debit cards; consumer credit; applications; deposits and savings; financing; autoleasing; online payments; cell phone top-ups; foreign currency; and income accreditation.
+Banco de Chile는 칠레 전역에서 광범위한 상업 은행 서비스를 제공하는 금융 기관입니다. 소매 금융, 도매 금융, 자금 및 자회사 부문을 통해 개인 및 기업 고객에게 당좌 예금, 모기지 대출, 신용카드, 소비자 신용 및 디지털 뱅킹 솔루션을 포괄적으로 지원합니다.
+
+*Banco de Chile, together with its subsidiaries, provides commercial banking services in Chile. It operates through four segments: Retail Banking, Wholesale Banking, Treasury, and Subsidiaries. The company offers current account and digital student plans; digital and checking accounts; mortgage loans; credit and debit cards; consumer credit; applications; deposits and savings; financing; autoleasing; online payments; cell phone top-ups; foreign currency; and income accreditation.*
 
 ---
 

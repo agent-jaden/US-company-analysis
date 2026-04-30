@@ -1,10 +1,12 @@
 # CGI INC (GIB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Information Technology Services | 시총 16B$ | 결산월: 9월**
+**Technology | Information Technology Services | 시총 16B$ (#732위) | 결산월: 9월**
 
-CGI Inc. provides information technology and business process services in Western and Southern Europe, the United States, Canada, Scandinavia, Northwest and Central-East Europe, the United Kingdom, Australia, Germany, Finland, Poland, Baltics, and the Asia Pacific. It offers end-to-end services and solutions, including business and strategic IT consulting; systems integration, such as data integration, AI and automation integration, cloud integration, Internet of Things, enterprise application integration, application programming interface integration, and legacy system modernization; managed IT and business process; and application services comprising application management, DevSecOps, application modernization and rationalization, and quality engineering and assurance.
+CGI Inc.는 북미, 유럽, 아시아 태평양 등 전 세계적으로 정보 기술(IT) 및 비즈니스 프로세스 아웃소싱 서비스를 제공합니다. 비즈니스 전략 컨설팅, 클라우드 및 AI 시스템 통합, 구형 시스템 현대화 등 포괄적인 엔드투엔드 IT 솔루션을 지원합니다. 더불어 보안 관리(DevSecOps) 및 품질 보증을 포함한 포괄적인 애플리케이션 및 데이터 관리 서비스로 기업의 디지털 전환을 이끕니다.
+
+*CGI Inc. provides information technology and business process services in Western and Southern Europe, the United States, Canada, Scandinavia, Northwest and Central-East Europe, the United Kingdom, Australia, Germany, Finland, Poland, Baltics, and the Asia Pacific. It offers end-to-end services and solutions, including business and strategic IT consulting; systems integration, such as data integration, AI and automation integration, cloud integration, Internet of Things, enterprise application integration, application programming interface integration, and legacy system modernization; managed IT and business process; and application services comprising application management, DevSecOps, application modernization and rationalization, and quality engineering and assurance.*
 
 ---
 

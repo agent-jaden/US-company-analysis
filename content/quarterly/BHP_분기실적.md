@@ -1,10 +1,12 @@
 # BHP Group Ltd (BHP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Other Industrial Metals & Mining | 시총 203B$ | 결산월: 6월**
+**Basic Materials | Other Industrial Metals & Mining | 시총 203B$ (#66위) | 결산월: 6월**
 
-BHP Group Limited operates as a resources company in Australia, Europe, China, Japan, India, South Korea, rest of Asia, North America, South America, and internationally. The company operates through Copper, Iron Ore, and Coal segments. It also engages in the mining of copper, uranium, gold, zinc, lead, molybdenum, silver, iron ore, cobalt, and metallurgical and energy coal.
+BHP Group Limited는 호주, 아시아, 아메리카 등 전 세계적으로 활동하는 글로벌 자원 기업입니다. 구리, 철광석, 석탄 부문을 통해 사업을 운영하며 우라늄, 금, 아연, 코발트 등 다양한 광물 자원의 채굴을 담당합니다.
+
+*BHP Group Limited operates as a resources company in Australia, Europe, China, Japan, India, South Korea, rest of Asia, North America, South America, and internationally. The company operates through Copper, Iron Ore, and Coal segments. It also engages in the mining of copper, uranium, gold, zinc, lead, molybdenum, silver, iron ore, cobalt, and metallurgical and energy coal.*
 
 ---
 

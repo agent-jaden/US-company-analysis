@@ -1,10 +1,12 @@
 # Anheuser-Busch InBev SA/NV (BUD) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Beverages - Brewers | 시총 142B$ | 결산월: 12월**
+**Consumer Defensive | Beverages - Brewers | 시총 142B$ (#105위) | 결산월: 12월**
 
-Anheuser-Busch InBev SA/NV produces and sells beer in North America, Middle Americas, South America, Europe, the Middle East, Africa, and the Asia Pacific. It operates through North America, Middle Americas, South America, EMEA, Asia Pacific, and Global Export and Holding Companies segments. The company also offers flavored malt beverages, soft drinks, spirit-based ready-to-drink cocktails and beverages, and energy drinks.
+Anheuser-Busch InBev는 북미, 중남미, 유럽, 중동, 아프리카, 아시아태평양 지역에서 맥주를 생산·판매하는 글로벌 주류 기업이다. 맥주 외에도 flavored malt beverages, 무알코올 음료, spirit-based ready-to-drink 칵테일, 에너지음료 등을 제공한다.
+
+*Anheuser-Busch InBev SA/NV produces and sells beer in North America, Middle Americas, South America, Europe, the Middle East, Africa, and the Asia Pacific. It operates through North America, Middle Americas, South America, EMEA, Asia Pacific, and Global Export and Holding Companies segments. The company also offers flavored malt beverages, soft drinks, spirit-based ready-to-drink cocktails and beverages, and energy drinks.*
 
 ---
 

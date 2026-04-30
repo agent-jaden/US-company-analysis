@@ -1,10 +1,12 @@
 # AMERICA MOVIL SAB DE CV/ (AMX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Telecom Services | 시총 78B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 78B$ (#216위) | 결산월: 12월**
 
-América Móvil, S.A.B. de C.V. provides telecommunications services in Latin America and internationally.
+América Móvil, S.A.B. de C.V.는 라틴 아메리카를 비롯한 전 세계 시장을 대상으로 광범위한 유무선 통신 서비스를 제공하는 선도적인 이동통신 기업입니다.
+
+*América Móvil, S.A.B. de C.V. provides telecommunications services in Latin America and internationally.*
 
 ---
 

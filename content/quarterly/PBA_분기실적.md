@@ -1,10 +1,12 @@
 # PEMBINA PIPELINE CORP (PBA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Midstream | 시총 25B$ | 결산월: 12월**
+**Energy | Oil & Gas Midstream | 시총 25B$ (#531위) | 결산월: 12월**
 
-Pembina Pipeline Corporation provides energy transportation and midstream services. It operates through three segments: Pipelines, Facilities, and Marketing & New Ventures. The Pipelines segment operates conventional, oil sands and heavy oil, and transmission assets with a transportation capacity of 3.0 million of barrels of oil equivalent per day, and the ground storage capacity of 10 million of barrels serving markets and basins across North America.
+Pembina Pipeline Corporation은 북미 전역에서 에너지 운송 및 미드스트림 서비스를 제공하는 기업입니다. 파이프라인, 시설, 마케팅 및 신규 벤처 부문을 운영하며, 일일 300만 배럴의 석유 운송 용량과 1,000만 배럴의 지상 저장 인프라를 통해 재래식 원유 및 오일샌드를 처리합니다.
+
+*Pembina Pipeline Corporation provides energy transportation and midstream services. It operates through three segments: Pipelines, Facilities, and Marketing & New Ventures. The Pipelines segment operates conventional, oil sands and heavy oil, and transmission assets with a transportation capacity of 3.0 million of barrels of oil equivalent per day, and the ground storage capacity of 10 million of barrels serving markets and basins across North America.*
 
 ---
 

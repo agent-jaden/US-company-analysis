@@ -1,10 +1,12 @@
 # EMBRAER S.A. (EMBJ) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Aerospace & Defense | 시총 11B$ | 결산월: 12월**
+**Industrials | Aerospace & Defense | 시총 11B$ (#912위) | 결산월: 12월**
 
-Embraer S.A., together with its subsidiaries, engages in the design, development, manufacture, and sale of aircraft and systems worldwide. The company operates through Commercial Aviation; Defense & Security; Executive Aviation; Services & Support; and Other segments. The Commercial Aviation segment develops, produces, and sells commercial jets.
+Embraer는 자회사를 통해 전 세계에서 항공기와 시스템을 설계, 개발, 제조, 판매한다. Commercial Aviation, Defense & Security, Executive Aviation, Services & Support 부문을 운영하며 Commercial Aviation 부문은 상업용 제트기를 개발·생산·판매한다.
+
+*Embraer S.A., together with its subsidiaries, engages in the design, development, manufacture, and sale of aircraft and systems worldwide. The company operates through Commercial Aviation; Defense & Security; Executive Aviation; Services & Support; and Other segments. The Commercial Aviation segment develops, produces, and sells commercial jets.*
 
 ---
 

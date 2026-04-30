@@ -1,10 +1,12 @@
 # CANADIAN NATURAL RESOURCES LTD (CNQ) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas E&P | 시총 94B$ | 결산월: 12월**
+**Energy | Oil & Gas E&P | 시총 94B$ (#177위) | 결산월: 12월**
 
-Canadian Natural Resources Limited engages in the acquisition, exploration, development, production, marketing, and sale of crude oil, natural gas, and natural gas liquids (NGLs) in Western Canada, the United Kingdom sector of the North Sea, and Offshore Africa. The company offers synthetic crude oil (SCO), mining bitumen, light and medium crude oil and NGLs, thermal bitumen, primary heavy crude oil and Pelican Lake heavy crude oil. Its midstream assets include two crude oil pipeline systems; and a 50% working interest in an 84-megawatt cogeneration plant at Primrose.
+Canadian Natural Resources는 서부 캐나다, 북해 영국 해역, 아프리카 해상 지역에서 원유, 천연가스, NGL의 취득, 탐사, 개발, 생산, 마케팅, 판매를 수행한다. synthetic crude oil, mining bitumen, 경질·중질 원유, NGL, thermal bitumen, heavy crude oil을 생산하며 원유 파이프라인과 Primrose 열병합발전 지분도 보유한다.
+
+*Canadian Natural Resources Limited engages in the acquisition, exploration, development, production, marketing, and sale of crude oil, natural gas, and natural gas liquids (NGLs) in Western Canada, the United Kingdom sector of the North Sea, and Offshore Africa. The company offers synthetic crude oil (SCO), mining bitumen, light and medium crude oil and NGLs, thermal bitumen, primary heavy crude oil and Pelican Lake heavy crude oil. Its midstream assets include two crude oil pipeline systems; and a 50% working interest in an 84-megawatt cogeneration plant at Primrose.*
 
 ---
 

@@ -1,10 +1,12 @@
 # GFL Environmental Inc. (GFL) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Waste Management | 시총 14B$ | 결산월: 12월**
+**Industrials | Waste Management | 시총 14B$ (#777위) | 결산월: 12월**
 
-GFL Environmental Inc. provides non-hazardous solid waste management services in Canada and the United States. It offers solid waste management services, including collection, transportation, transfer, recycling, and disposal services for municipal, residential, commercial, and industrial customers.
+GFL Environmental은 캐나다와 미국에서 비유해 고형폐기물 관리 서비스를 제공한다. 지자체, 주거, 상업, 산업 고객을 대상으로 폐기물 수거, 운송, 이송, 재활용, 처분 서비스를 운영한다.
+
+*GFL Environmental Inc. provides non-hazardous solid waste management services in Canada and the United States. It offers solid waste management services, including collection, transportation, transfer, recycling, and disposal services for municipal, residential, commercial, and industrial customers.*
 
 ---
 

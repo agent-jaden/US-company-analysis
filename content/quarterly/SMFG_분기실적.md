@@ -1,10 +1,12 @@
 # SUMITOMO MITSUI FINANCIAL GROUP, INC. (SMFG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 3월 | 분기 기준: 캘린더 | 통화: JPY
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 3월 | 분기 기준: 캘린더 | 통화: JPY
 
-**Financial Services | Banks - Diversified | 시총 129B$ | 결산월: 3월**
+**Financial Services | Banks - Diversified | 시총 129B$ (#121위) | 결산월: 3월**
 
-Sumitomo Mitsui Financial Group, Inc., together with its subsidiaries, provides banking, leasing, securities, consumer finance, and other services in Japan, the Americas, Europe, the Middle East, Asia, and Oceania. It operates through four segments: Wholesale Business Unit, Retail Business Unit, Global Business Unit, and Global Markets Business Unit. The Wholesale Business Unit segment offers bilateral loans, syndicated loans, commitment lines, structured finance, project finance, and nonrecourse loans; deposits and investment trusts; risk hedging services, including forward exchange contracts and derivatives; stand-by credit, and performance bond and credit guarantee services; remittance, cash management, trade finance, and supply chain finance services; merger and acquisition, and other advisory services; digital services; and equipment, operating and leveraged leasing services.
+Sumitomo Mitsui Financial Group은 일본, 미주, 유럽, 중동, 아시아, 오세아니아에서 은행, 리스, 증권, 소비자금융 등 금융 서비스를 제공한다. 도매금융 부문에서는 기업대출, 신디케이트론, 구조화금융, 프로젝트파이낸스, 예금·투자신탁, 환헤지, 보증, 송금·자금관리, 무역금융, M&A 자문과 리스 서비스를 운영한다.
+
+*Sumitomo Mitsui Financial Group, Inc., together with its subsidiaries, provides banking, leasing, securities, consumer finance, and other services in Japan, the Americas, Europe, the Middle East, Asia, and Oceania. It operates through four segments: Wholesale Business Unit, Retail Business Unit, Global Business Unit, and Global Markets Business Unit. The Wholesale Business Unit segment offers bilateral loans, syndicated loans, commitment lines, structured finance, project finance, and nonrecourse loans; deposits and investment trusts; risk hedging services, including forward exchange contracts and derivatives; stand-by credit, and performance bond and credit guarantee services; remittance, cash management, trade finance, and supply chain finance services; merger and acquisition, and other advisory services; digital services; and equipment, operating and leveraged leasing services.*
 
 ---
 

@@ -1,10 +1,12 @@
 # TOYOTA MOTOR CORP/ (TM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 3월 | 분기 기준: 캘린더 | 통화: JPY
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 3월 | 분기 기준: 캘린더 | 통화: JPY
 
-**Consumer Cyclical | Auto Manufacturers | 시총 250B$ | 결산월: 3월**
+**Consumer Cyclical | Auto Manufacturers | 시총 250B$ (#50위) | 결산월: 3월**
 
-Toyota Motor Corporation designs, manufactures, assembles, and sells passenger vehicles, minivans and commercial vehicles, and related parts and accessories in Japan, North America, Europe, Asia, Central and South America, Oceania, Africa, the Middle East, and internationally. It operates through Automotive, Financial Services, and All Other segments. The company offers subcompact and compact cars; mini-vehicles; mid-size, luxury, sports, and specialty cars; recreational and sport-utility vehicles; pickup trucks; minivans; trucks; and buses.
+Toyota Motor Corporation은 전 세계적으로 승용차, 미니밴, 상용차 및 관련 부품을 설계, 제조, 조립 및 판매합니다. 자동차 부문과 금융 서비스 부문 등을 통해 소형차, 고급차, SUV, 픽업트럭, 버스 등 다양한 차량 라인업을 제공하고 있습니다.
+
+*Toyota Motor Corporation designs, manufactures, assembles, and sells passenger vehicles, minivans and commercial vehicles, and related parts and accessories in Japan, North America, Europe, Asia, Central and South America, Oceania, Africa, the Middle East, and internationally. It operates through Automotive, Financial Services, and All Other segments. The company offers subcompact and compact cars; mini-vehicles; mid-size, luxury, sports, and specialty cars; recreational and sport-utility vehicles; pickup trucks; minivans; trucks; and buses.*
 
 ---
 

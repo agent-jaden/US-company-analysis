@@ -1,8 +1,12 @@
 # TELEFONICA BRASIL S.A. (VIV) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**시총 26B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 26B$ (#528위) | 결산월: 12월**
+
+Telefônica Brasil S.A.는 브라질에서 유무선 음성 통화 및 브로드밴드 인터넷 접속 서비스를 제공하는 모바일 통신 기업입니다. 4G, 5G 기반의 모바일 데이터와 가족 요금제, 무제한 통화 패키지를 제공할 뿐만 아니라 유선 광대역, 공중전화 및 월정액 기반의 지역 서비스도 지원합니다.
+
+*Telefônica Brasil S.A., together with its subsidiaries, operates as a mobile telecommunications company in Brazil. Its fixed line voice services portfolio includes local, domestic long-distance, and international long-distance calls; and mobile portfolio comprises voice and broadband internet access through 3G, 4G, 4.5G, and 5G, as well as value-added, prepaid plans with data sharing features, family plans, voice mail, caller identification, voice minutes in unlimited bundles to mobile and fixed-line phones, and digital services, and wireless roaming services. The company also offers data services, including broadband and mobile data services; fixed-line local services consist of activation, monthly subscription, public telephones and measured services.*
 
 ---
 

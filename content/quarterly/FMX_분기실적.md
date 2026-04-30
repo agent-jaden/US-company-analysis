@@ -1,10 +1,12 @@
 # MEXICAN ECONOMIC DEVELOPMENT INC (FMX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Beverages - Brewers | 시총 39B$ | 결산월: 12월**
+**Consumer Defensive | Beverages - Brewers | 시총 39B$ (#386위) | 결산월: 12월**
 
-Fomento Económico Mexicano, S.A.B. de C.V., through its subsidiaries, operates as a franchise bottler of Coca-Cola trademark beverages worldwide. The company operates through Coca-Cola FEMSA, Proximity Americas Division, Proximity Europe Division, Health Division, Fuel Division, and Others segments.
+Fomento Económico Mexicano는 자회사를 통해 전 세계에서 Coca-Cola 상표 음료의 프랜차이즈 보틀러로 운영된다. Coca-Cola FEMSA, Proximity Americas, Proximity Europe, Health, Fuel 등 부문을 통해 음료, 근린 유통, 헬스케어, 연료 사업을 전개한다.
+
+*Fomento Económico Mexicano, S.A.B. de C.V., through its subsidiaries, operates as a franchise bottler of Coca-Cola trademark beverages worldwide. The company operates through Coca-Cola FEMSA, Proximity Americas Division, Proximity Europe Division, Health Division, Fuel Division, and Others segments.*
 
 ---
 

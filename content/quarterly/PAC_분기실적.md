@@ -1,10 +1,12 @@
 # Pacific Airport Group (PAC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Airports & Air Services | 시총 13B$ | 결산월: 12월**
+**Industrials | Airports & Air Services | 시총 13B$ (#833위) | 결산월: 12월**
 
-Grupo Aeroportuario del Pacífico, S.A.B. de C.V., together with its subsidiaries, develops, operates, and manages airports in Mexico and Jamaica. The company operates twelve international airports in the Pacific and Central region of Mexico; and two international airports in Jamaica.
+Grupo Aeroportuario del Pacífico는 자회사를 통해 멕시코와 자메이카에서 공항을 개발, 운영, 관리한다. 멕시코 태평양·중부 지역의 12개 국제공항과 자메이카의 2개 국제공항을 운영한다.
+
+*Grupo Aeroportuario del Pacífico, S.A.B. de C.V., together with its subsidiaries, develops, operates, and manages airports in Mexico and Jamaica. The company operates twelve international airports in the Pacific and Central region of Mexico; and two international airports in Jamaica.*
 
 ---
 

@@ -1,10 +1,12 @@
 # Alibaba Group Holding Ltd (BABA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
 
-**Consumer Cyclical | Internet Retail | 시총 327B$ | 결산월: 12월**
+**Consumer Cyclical | Internet Retail | 시총 327B$ (#36위) | 결산월: 12월**
 
-Alibaba Group Holding Limited, through its subsidiaries, provides technology infrastructure and marketing reach to help merchants, brands, retailers, and other businesses to engage with their users and customers in the People's Republic of China and internationally. It operates digital retail platforms under the Taobao and Tmall names; wholesale marketplaces through 1688.com and Alibaba.com; global e-commerce platform under the AliExpress name; e-commerce platforms under the Lazada, Trendyol, and Daraz names; and consumer-to-consumer community and marketplace under the Tmall Global, Tmall Supermarket, and Xianyu names. The company also operates Cainiao, an e-commerce logistics solution; Ele.me, an on-demand delivery and local services platform; and Amap, a provider of mobile digital map, navigation, and real-time traffic information; Youku, an online video platform; and Damai Entertainment that provides content production, promotion and distribution, performance and event ticketing management, IP-related licensing and operations, cinema ticketing management, and internet data services for the entertainment industry.
+Alibaba Group Holding Limited는 자회사를 통해 중국 및 전 세계 상인, 브랜드, 소매업체 등을 위한 기술 인프라와 마케팅 채널을 제공합니다. Taobao, Tmall, AliExpress와 같은 디지털 전자상거래 플랫폼을 운영하며 물류 솔루션인 Cainiao, 로컬 배달 서비스인 Ele.me, 온라인 비디오 플랫폼 Youku 등도 함께 서비스합니다.
+
+*Alibaba Group Holding Limited, through its subsidiaries, provides technology infrastructure and marketing reach to help merchants, brands, retailers, and other businesses to engage with their users and customers in the People's Republic of China and internationally. It operates digital retail platforms under the Taobao and Tmall names; wholesale marketplaces through 1688.com and Alibaba.com; global e-commerce platform under the AliExpress name; e-commerce platforms under the Lazada, Trendyol, and Daraz names; and consumer-to-consumer community and marketplace under the Tmall Global, Tmall Supermarket, and Xianyu names. The company also operates Cainiao, an e-commerce logistics solution; Ele.me, an on-demand delivery and local services platform; and Amap, a provider of mobile digital map, navigation, and real-time traffic information; Youku, an online video platform; and Damai Entertainment that provides content production, promotion and distribution, performance and event ticketing management, IP-related licensing and operations, cinema ticketing management, and internet data services for the entertainment industry.*
 
 ---
 

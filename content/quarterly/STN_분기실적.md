@@ -1,10 +1,12 @@
 # STANTEC INC (STN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Engineering & Construction | 시총 10B$ | 결산월: 12월**
+**Industrials | Engineering & Construction | 시총 10B$ (#958위) | 결산월: 12월**
 
-Stantec Inc. provides professional services in the areas of infrastructure and facilities to private and public sectors in Canada, the United States, and internationally. The company offers evaluation, planning, and designing infrastructure solutions; various permitting, conservation, ecosystem restoration, health sciences, and environmental, social, and governance strategy services; solutions for sustainable water resources, planning, management, and infrastructure; integrated architecture, engineering, interior design, and planning solutions for buildings; and energy and resources solutions.
+Stantec은 캐나다, 미국 및 해외에서 민간·공공 부문을 대상으로 인프라와 시설 관련 전문 서비스를 제공한다. 인프라 평가·계획·설계, 인허가, 보전, 생태계 복원, 환경·사회·거버넌스 전략, 지속가능한 수자원 관리, 건축·엔지니어링·인테리어 설계, 에너지·자원 솔루션을 수행한다.
+
+*Stantec Inc. provides professional services in the areas of infrastructure and facilities to private and public sectors in Canada, the United States, and internationally. The company offers evaluation, planning, and designing infrastructure solutions; various permitting, conservation, ecosystem restoration, health sciences, and environmental, social, and governance strategy services; solutions for sustainable water resources, planning, management, and infrastructure; integrated architecture, engineering, interior design, and planning solutions for buildings; and energy and resources solutions.*
 
 ---
 

@@ -1,10 +1,12 @@
 # CREDICORP LTD (BAP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Regional | 시총 25B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 25B$ (#529위) | 결산월: 12월**
 
-Credicorp Ltd., together with its subsidiaries, provides various banking services and products in Peru, Bermuda, Colombia, Bolivia, Panama, Chile, the United States, the Cayman Islands, and Mexico. It operates through Universal Banking; Insurance, Medical Services, and Pensions; Microfinance; and Investment Management and Advisory segments. The company grants various credits and financial instruments to individuals and legal entities; and various deposits and current accounts.
+Credicorp Ltd.는 페루, 콜롬비아, 파나마, 칠레 등 라틴 아메리카를 비롯해 미국 및 버뮤다 등지에서 광범위한 금융 상품을 제공합니다. 유니버설 뱅킹, 보험 및 연금, 소액 금융, 투자 관리 및 자문 부문을 통해 개인과 기업 고객에게 대출, 예금 및 종합 자산 관리 서비스를 지원합니다.
+
+*Credicorp Ltd., together with its subsidiaries, provides various banking services and products in Peru, Bermuda, Colombia, Bolivia, Panama, Chile, the United States, the Cayman Islands, and Mexico. It operates through Universal Banking; Insurance, Medical Services, and Pensions; Microfinance; and Investment Management and Advisory segments. The company grants various credits and financial instruments to individuals and legal entities; and various deposits and current accounts.*
 
 ---
 

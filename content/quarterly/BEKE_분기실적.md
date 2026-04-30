@@ -1,10 +1,12 @@
 # KE Holdings Inc. (BEKE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
 
-**Real Estate | Real Estate Services | 시총 18B$ | 결산월: 12월**
+**Real Estate | Real Estate Services | 시총 18B$ (#673위) | 결산월: 12월**
 
-KE Holdings Inc., through its subsidiaries, engages in operating an integrated online and offline platform for housing transactions and services in the People's Republic of China. The company operates through five segments: Existing Home Transaction Services, New Home Transaction Services, Home Renovation and Furnishing, Home rental services, and Emerging and Other Services. It operates Beike, an integrated online and offline platform for housing transactions and services; Lianjia, a real estate brokerage brand; Agent Cooperation Network, an operating system that fosters reciprocity and bonding among various service providers.
+KE Holdings는 자회사를 통해 중국에서 주택 거래와 서비스를 위한 통합 온·오프라인 플랫폼을 운영한다. Beike 플랫폼, 부동산 중개 브랜드 Lianjia, Agent Cooperation Network를 기반으로 기존주택·신축주택 거래, 주택 리노베이션·인테리어, 임대 및 기타 서비스를 제공한다.
+
+*KE Holdings Inc., through its subsidiaries, engages in operating an integrated online and offline platform for housing transactions and services in the People's Republic of China. The company operates through five segments: Existing Home Transaction Services, New Home Transaction Services, Home Renovation and Furnishing, Home rental services, and Emerging and Other Services. It operates Beike, an integrated online and offline platform for housing transactions and services; Lianjia, a real estate brokerage brand; Agent Cooperation Network, an operating system that fosters reciprocity and bonding among various service providers.*
 
 ---
 

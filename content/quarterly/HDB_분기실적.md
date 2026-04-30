@@ -1,10 +1,12 @@
 # HDFC BANK LTD (HDB) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Regional | 시총 132B$ | 결산월: 3월**
+**Financial Services | Banks - Regional | 시총 132B$ (#116위) | 결산월: 3월**
 
-HDFC Bank Limited provides banking and financial products and services to individuals and businesses in India, Bahrain, Hong Kong, Singapore, and Dubai. The company operates through Treasury, Retail Banking, Wholesale Banking, Other Banking Business, Insurance Business, and Other segments. It offers savings, salary, current, rural, public provident fund, pension, and demat accounts; fixed and recurring deposits; and safe deposit lockers, as well as offshore accounts and deposits, and overdrafts against fixed deposits.
+HDFC Bank는 인도와 바레인, 홍콩, 싱가포르, 두바이에서 개인과 기업 고객에게 은행 및 금융 서비스를 제공한다. 예금, 급여·당좌·연금·demat 계좌, 정기·반복 예금, 대여금고, 역외 계좌, 고정예금 담보 대출 등 다양한 상품을 운영한다.
+
+*HDFC Bank Limited provides banking and financial products and services to individuals and businesses in India, Bahrain, Hong Kong, Singapore, and Dubai. The company operates through Treasury, Retail Banking, Wholesale Banking, Other Banking Business, Insurance Business, and Other segments. It offers savings, salary, current, rural, public provident fund, pension, and demat accounts; fixed and recurring deposits; and safe deposit lockers, as well as offshore accounts and deposits, and overdrafts against fixed deposits.*
 
 ---
 

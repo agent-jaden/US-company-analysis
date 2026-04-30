@@ -1,10 +1,12 @@
 # ROGERS COMMUNICATIONS INC (RCIAF) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Telecom Services | 시총 20B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 20B$ (#622위) | 결산월: 12월**
 
-Rogers Communications Inc. operates as a communications, sports, and entertainment company in Canada. It operates through Wireless, Cable, and Media segments.
+Rogers Communications Inc.는 캐나다 전역에서 통신, 스포츠 및 엔터테인먼트 서비스를 제공하는 미디어 및 통신 기업입니다. 무선 통신, 케이블 방송, 미디어의 세 가지 사업 부문을 통해 모바일 네트워크 서비스부터 미디어 콘텐츠 제작 및 배급까지 포괄적인 비즈니스를 운영합니다.
+
+*Rogers Communications Inc. operates as a communications, sports, and entertainment company in Canada. It operates through Wireless, Cable, and Media segments.*
 
 ---
 

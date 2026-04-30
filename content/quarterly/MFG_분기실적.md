@@ -1,10 +1,12 @@
 # MIZUHO FINANCIAL GROUP INC (MFG) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: JPY
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: JPY
 
-**Financial Services | Banks - Regional | 시총 101B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 101B$ (#158위) | 결산월: 12월**
 
-Mizuho Financial Group, Inc., together with its subsidiaries, engages in banking, trust banking, securities, and other businesses related to financial services in Japan, the Americas, Europe, Asia/Oceania, and internationally. It operates through Retail & Business Banking Company; Corporate & Investment Banking Company; Global Corporate & Investment Banking Company; Global Markets Company; Asset Management Company; and Others segments. The company provides deposit products; syndicated, housing, and card loans; business matching services; management of retirement payments; and advisory services related to overseas expansions, and mergers and acquisitions-related services.
+Mizuho Financial Group은 일본, 미주, 유럽, 아시아·오세아니아 등에서 은행, 신탁은행, 증권 및 기타 금융 서비스를 제공한다. 예금, 신디케이트론, 주택·카드대출, 비즈니스 매칭, 퇴직급여 관리, 해외진출 자문, M&A 관련 서비스를 운영한다.
+
+*Mizuho Financial Group, Inc., together with its subsidiaries, engages in banking, trust banking, securities, and other businesses related to financial services in Japan, the Americas, Europe, Asia/Oceania, and internationally. It operates through Retail & Business Banking Company; Corporate & Investment Banking Company; Global Corporate & Investment Banking Company; Global Markets Company; Asset Management Company; and Others segments. The company provides deposit products; syndicated, housing, and card loans; business matching services; management of retirement payments; and advisory services related to overseas expansions, and mergers and acquisitions-related services.*
 
 ---
 

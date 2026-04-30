@@ -1,10 +1,12 @@
 # ALCON INC (ALC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Medical Instruments & Supplies | 시총 38B$ | 결산월: 12월**
+**Healthcare | Medical Instruments & Supplies | 시총 38B$ (#392위) | 결산월: 12월**
 
-Alcon Inc. researches, develops, manufactures, distributes, and sells eye care products worldwide. The company operates through two segments, Surgical and Vision Care.
+Alcon은 전 세계에서 안과 치료 제품을 연구·개발·제조·유통·판매한다. Surgical과 Vision Care 부문을 통해 안과 수술 장비·소모품과 시력관리 제품을 제공한다.
+
+*Alcon Inc. researches, develops, manufactures, distributes, and sells eye care products worldwide. The company operates through two segments, Surgical and Vision Care.*
 
 ---
 

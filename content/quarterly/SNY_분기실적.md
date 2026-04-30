@@ -1,10 +1,12 @@
 # Sanofi (SNY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
 
-**Healthcare | Drug Manufacturers - General | 시총 110B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - General | 시총 110B$ (#144위) | 결산월: 12월**
 
-Sanofi engages in the research, development, manufacture, and marketing of therapeutic solutions. It provides immunology and inflammation, rare diseases neurology, oncology, and other vaccines. It also offers poliomyelitis, pertussis, and haemophilus influenzae type b (Hib) pediatric vaccines; respiratory syncytial virus protection and hexavalent combination vaccines that includes hepatitis A, typhoid, yellow fever, and rabies vaccines.
+Sanofi는 치료 솔루션의 연구, 개발, 제조, 마케팅을 수행하는 글로벌 제약사다. 면역·염증, 희귀질환, 신경질환, 항암, 백신 분야 제품을 제공하며 소아마비, 백일해, Hib, RSV 예방, 6가 혼합백신, A형간염, 장티푸스, 황열, 광견병 백신 등을 보유한다.
+
+*Sanofi engages in the research, development, manufacture, and marketing of therapeutic solutions. It provides immunology and inflammation, rare diseases neurology, oncology, and other vaccines. It also offers poliomyelitis, pertussis, and haemophilus influenzae type b (Hib) pediatric vaccines; respiratory syncytial virus protection and hexavalent combination vaccines that includes hepatitis A, typhoid, yellow fever, and rabies vaccines.*
 
 ---
 

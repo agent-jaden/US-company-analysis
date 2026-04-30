@@ -1,10 +1,12 @@
 # PAN AMERICAN SILVER CORP (PAAS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Gold | 시총 23B$ | 결산월: 12월**
+**Basic Materials | Gold | 시총 23B$ (#561위) | 결산월: 12월**
 
-Pan American Silver Corp. engages in the exploration, mine development, extraction, processing, refining, and reclamation of mines in Chile, Peru, Brazil, Mexico, Canada, Argentina, Bolivia, and Guatemala. The Silver segment includes the La Colorada, Juanicipio, Cerro Moro, Huaron, and San Vicente mines.
+Pan American Silver는 칠레, 페루, 브라질, 멕시코, 캐나다, 아르헨티나, 볼리비아, 과테말라에서 광산 탐사, 개발, 채굴, 가공, 정련, 복구를 수행한다. Silver 부문에는 La Colorada, Juanicipio, Cerro Moro, Huaron, San Vicente 광산이 포함된다.
+
+*Pan American Silver Corp. engages in the exploration, mine development, extraction, processing, refining, and reclamation of mines in Chile, Peru, Brazil, Mexico, Canada, Argentina, Bolivia, and Guatemala. The Silver segment includes the La Colorada, Juanicipio, Cerro Moro, Huaron, and San Vicente mines.*
 
 ---
 

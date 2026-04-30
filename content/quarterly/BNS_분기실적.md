@@ -1,10 +1,12 @@
 # BANK OF NOVA SCOTIA (BNS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 10월 | 분기 기준: 캘린더 | 통화: CAD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 10월 | 분기 기준: 캘린더 | 통화: CAD
 
-**Financial Services | Banks - Diversified | 시총 94B$ | 결산월: 10월**
+**Financial Services | Banks - Diversified | 시총 94B$ (#176위) | 결산월: 10월**
 
-The Bank of Nova Scotia provides various banking products and services in Canada, the United States, Mexico, Peru, Chile, Colombia, the Caribbean and Central America, and internationally. It operates through Canadian Banking, International Banking, Global Wealth Management, and Global Banking and Markets segments. The company offers financial advice and solutions, and banking products, including debit and credit cards, chequing and saving accounts, investments, mortgages, loans, and insurance to individuals; and retail automotive financing solutions.
+Bank of Nova Scotia는 캐나다, 미국, 멕시코, 페루, 칠레, 콜롬비아, 카리브해·중미 등에서 은행 상품과 서비스를 제공한다. 개인 고객에게 카드, 당좌·저축계좌, 투자, 모기지, 대출, 보험, 자동차 금융을 제공하고 자산관리와 글로벌 뱅킹·마켓 서비스도 운영한다.
+
+*The Bank of Nova Scotia provides various banking products and services in Canada, the United States, Mexico, Peru, Chile, Colombia, the Caribbean and Central America, and internationally. It operates through Canadian Banking, International Banking, Global Wealth Management, and Global Banking and Markets segments. The company offers financial advice and solutions, and banking products, including debit and credit cards, chequing and saving accounts, investments, mortgages, loans, and insurance to individuals; and retail automotive financing solutions.*
 
 ---
 

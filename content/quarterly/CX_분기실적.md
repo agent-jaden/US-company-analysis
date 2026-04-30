@@ -1,10 +1,12 @@
 # CEMEX SAB DE CV (CX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Building Materials | 시총 18B$ | 결산월: 12월**
+**Basic Materials | Building Materials | 시총 18B$ (#676위) | 결산월: 12월**
 
-CEMEX, S.A.B. de C.V., together with its subsidiaries, engages in the production, marketing, distribution, and sale of cement, ready-mix concrete, aggregates, urbanization solutions, and other construction materials and services worldwide. It offers gray ordinary portland, white portland, and blended cement products; masonry or mortar products; standard ready-mix, architectural and decorative, rapid-setting, fiber-reinforced, fluid-fill, roller-compacted, self-consolidating, pervious, and antibacterial, and other concrete products; aggregate products, including crushed stone and manufactured sand, gravel, sand, and recycled concrete; and vertua products.
+CEMEX는 전 세계에서 시멘트, ready-mix concrete, 골재, 도시화 솔루션 및 기타 건설자재·서비스를 생산·마케팅·유통·판매한다. 일반·백색·혼합 포틀랜드 시멘트, 모르타르, 다양한 콘크리트 제품, 쇄석·모래·자갈·재활용 콘크리트 골재, Vertua 제품을 제공한다.
+
+*CEMEX, S.A.B. de C.V., together with its subsidiaries, engages in the production, marketing, distribution, and sale of cement, ready-mix concrete, aggregates, urbanization solutions, and other construction materials and services worldwide. It offers gray ordinary portland, white portland, and blended cement products; masonry or mortar products; standard ready-mix, architectural and decorative, rapid-setting, fiber-reinforced, fluid-fill, roller-compacted, self-consolidating, pervious, and antibacterial, and other concrete products; aggregate products, including crushed stone and manufactured sand, gravel, sand, and recycled concrete; and vertua products.*
 
 ---
 

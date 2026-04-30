@@ -1,10 +1,12 @@
 # HONDA MOTOR CO LTD (HMC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 3월 | 분기 기준: 캘린더 | 통화: JPY
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 3월 | 분기 기준: 캘린더 | 통화: JPY
 
-**Consumer Cyclical | Auto Manufacturers | 시총 32B$ | 결산월: 3월**
+**Consumer Cyclical | Auto Manufacturers | 시총 32B$ (#452위) | 결산월: 3월**
 
-Honda Motor Co., Ltd. develops, manufactures, and distributes motorcycles, automobiles, and power products in Japan, North America, Europe, Asia, and internationally. It operates through four segments: Motorcycle Business, Automobile Business, Financial Services Business, and Power Product and Other Businesses.
+Honda Motor는 일본, 북미, 유럽, 아시아 및 해외에서 모터사이클, 자동차, power products를 개발·제조·유통한다. Motorcycle Business, Automobile Business, Financial Services Business, Power Product and Other Businesses 부문을 운영한다.
+
+*Honda Motor Co., Ltd. develops, manufactures, and distributes motorcycles, automobiles, and power products in Japan, North America, Europe, Asia, and internationally. It operates through four segments: Motorcycle Business, Automobile Business, Financial Services Business, and Power Product and Other Businesses.*
 
 ---
 

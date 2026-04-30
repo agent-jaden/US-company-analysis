@@ -1,10 +1,12 @@
 # EQUINOR ASA (EQNR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Integrated | 시총 95B$ | 결산월: 12월**
+**Energy | Oil & Gas Integrated | 시총 95B$ (#175위) | 결산월: 12월**
 
-Equinor ASA operates as an energy company in Norway and internationally. It operates through Exploration & Production Norway; Exploration & Production International; Exploration & Production USA; Marketing, Midstream & Processing; and Renewables segments. The company engages in the discovery and appraisal of new resources, as well as commercial development and operation of the oil and gas portfolios; oil and gas field development, well deliveries, and sourcing; research, technology development, specialist advisory services, digitalization, IT, improvement, innovation, and ventures and future business; and developing, exploring, investing in, and operating areas within renewable energy, such as offshore wind, green hydrogen, storage solutions, and solar power.
+Equinor는 노르웨이와 해외에서 에너지 사업을 운영하는 기업이다. 석유·가스 자원 탐사, 개발, 생산, 마케팅·미드스트림·처리 사업을 수행하며 해상풍력, 그린수소, 저장 솔루션, 태양광 등 재생에너지 분야도 개발·투자·운영한다.
+
+*Equinor ASA operates as an energy company in Norway and internationally. It operates through Exploration & Production Norway; Exploration & Production International; Exploration & Production USA; Marketing, Midstream & Processing; and Renewables segments. The company engages in the discovery and appraisal of new resources, as well as commercial development and operation of the oil and gas portfolios; oil and gas field development, well deliveries, and sourcing; research, technology development, specialist advisory services, digitalization, IT, improvement, innovation, and ventures and future business; and developing, exploring, investing in, and operating areas within renewable energy, such as offshore wind, green hydrogen, storage solutions, and solar power.*
 
 ---
 

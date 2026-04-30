@@ -1,10 +1,12 @@
 # BARCLAYS PLC (BCS) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Diversified | 시총 79B$ | 결산월: 12월**
+**Financial Services | Banks - Diversified | 시총 79B$ (#209위) | 결산월: 12월**
 
-Barclays PLC provides various financial services in the United Kingdom, Europe, the Americas, Africa, the Middle East, and Asia. The company operates through Barclays UK; Barclays UK Corporate Bank; Barclays Private Bank and Wealth Management; Barclays Investment Bank; and Barclays US Consumer Bank segments. It offers financial services, such as current accounts, savings accounts, mortgages and unsecured lending, such as credit cards and loans retail banking, wholesale banking, investment banking, wealth management, and investment management services, as well as lending products.
+Barclays PLC는 영국, 유럽, 미주, 아시아 등 전 세계에서 광범위한 금융 서비스를 제공합니다. Barclays UK 및 글로벌 투자 은행 부문을 통해 소매 및 기업 고객을 대상으로 당좌 예금, 모기지, 신용카드, 자산 관리 및 투자 뱅킹 서비스를 지원합니다.
+
+*Barclays PLC provides various financial services in the United Kingdom, Europe, the Americas, Africa, the Middle East, and Asia. The company operates through Barclays UK; Barclays UK Corporate Bank; Barclays Private Bank and Wealth Management; Barclays Investment Bank; and Barclays US Consumer Bank segments. It offers financial services, such as current accounts, savings accounts, mortgages and unsecured lending, such as credit cards and loans retail banking, wholesale banking, investment banking, wealth management, and investment management services, as well as lending products.*
 
 ---
 

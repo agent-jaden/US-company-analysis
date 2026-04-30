@@ -1,10 +1,12 @@
 # ASE Technology Holding Co., Ltd. (ASX) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Semiconductors | 시총 68B$ | 결산월: 12월**
+**Technology | Semiconductors | 시총 68B$ (#251위) | 결산월: 12월**
 
-ASE Technology Holding Co., Ltd., together with its subsidiaries, provides semiconductor manufacturing services in the United States, Taiwan, rest of Asia, Europe, and internationally. It operates through Packaging, Testing, and EMS. The company offers semiconductor packaging, interconnect materials production, front-end engineering testing, wafer probing, and final testing services, as well as integrated solutions for EMS (electronic manufacturing services) in relation to computing, peripherals, communications, industrial, automotive, and server applications.
+ASE Technology Holding Co., Ltd.는 대만, 미국, 유럽 등지에서 글로벌 반도체 제조 및 외주 후공정(OSAT) 서비스를 제공하는 기업입니다. 반도체 패키징 및 웨이퍼 테스트 서비스와 함께 컴퓨팅, 통신, 자동차 등 다양한 산업용 전자 제조 서비스(EMS) 통합 솔루션을 운영합니다.
+
+*ASE Technology Holding Co., Ltd., together with its subsidiaries, provides semiconductor manufacturing services in the United States, Taiwan, rest of Asia, Europe, and internationally. It operates through Packaging, Testing, and EMS. The company offers semiconductor packaging, interconnect materials production, front-end engineering testing, wafer probing, and final testing services, as well as integrated solutions for EMS (electronic manufacturing services) in relation to computing, peripherals, communications, industrial, automotive, and server applications.*
 
 ---
 

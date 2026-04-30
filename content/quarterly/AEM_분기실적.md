@@ -1,10 +1,12 @@
 # AGNICO EAGLE MINES LTD (AEM) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Gold | 시총 99B$ | 결산월: 12월**
+**Basic Materials | Gold | 시총 99B$ (#161위) | 결산월: 12월**
 
-Agnico Eagle Mines Limited, a gold mining company, engages in the exploration, development, and production of precious metals. It explores for gold, silver, copper, and zinc. The company's mines are located in Canada, Australia, Finland, and Mexico; and with exploration and development activities in Canada, Australia, Europe, Latin America, and the United States.
+Agnico Eagle Mines는 금을 중심으로 귀금속의 탐사, 개발, 생산을 수행하는 광산기업이다. 금, 은, 구리, 아연을 탐사하며 캐나다, 호주, 핀란드, 멕시코에 광산을 보유하고 캐나다, 호주, 유럽, 라틴아메리카, 미국에서 탐사·개발 활동을 진행한다.
+
+*Agnico Eagle Mines Limited, a gold mining company, engages in the exploration, development, and production of precious metals. It explores for gold, silver, copper, and zinc. The company's mines are located in Canada, Australia, Finland, and Mexico; and with exploration and development activities in Canada, Australia, Europe, Latin America, and the United States.*
 
 ---
 

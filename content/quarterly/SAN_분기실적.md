@@ -1,10 +1,12 @@
 # Banco Santander, S.A. (SAN) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
 
-**Financial Services | Banks - Diversified | 시총 173B$ | 결산월: 12월**
+**Financial Services | Banks - Diversified | 시총 173B$ (#82위) | 결산월: 12월**
 
-Banco Santander, S.A. provides various financial products and services to individuals, small and medium-sized enterprises, large corporations, and public entities worldwide. The company operates through five segments: Retail & Commercial Banking, Digital Consumer Bank, Corporate & Investment Banking, Wealth Management & Insurance, and Payments.
+Banco Santander, S.A.는 전 세계 개인, 중소기업, 대기업 및 공공 기관에 다양한 금융 상품과 서비스를 제공합니다. 소매 및 상업 뱅킹, 디지털 소비자 은행, 기업 및 투자 뱅킹, 자산 관리 및 보험, 결제 서비스 등 5개 부문으로 사업을 전개하고 있습니다.
+
+*Banco Santander, S.A. provides various financial products and services to individuals, small and medium-sized enterprises, large corporations, and public entities worldwide. The company operates through five segments: Retail & Commercial Banking, Digital Consumer Bank, Corporate & Investment Banking, Wealth Management & Insurance, and Payments.*
 
 ---
 

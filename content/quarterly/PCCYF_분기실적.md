@@ -1,10 +1,12 @@
 # PETROCHINA CO LTD (PCCYF) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Integrated | 시총 357B$ | 결산월: 12월**
+**Energy | Oil & Gas Integrated | 시총 357B$ (#30위) | 결산월: 12월**
 
-PetroChina Company Limited, together with its subsidiaries, engages in a range of petroleum related products, services, and activities in Mainland China and internationally. It operates through the Oil and Gas and New Energy; Refining, Chemicals and New Materials; Sales; and Natural Gas Sales Segments. The Oil, Gas and New Energy Resource segment engages in the exploration, development, transportation, production, and marketing of crude oil and natural gas, as well as is involved in the new energy resource business.
+PetroChina Company Limited는 자회사를 통해 중국 및 전 세계에서 석유 관련 제품, 서비스 및 활동에 참여합니다. 원유 및 천연가스의 탐사, 생산, 마케팅을 비롯해 정유, 화학, 신에너지 자원 사업 등 4개의 주요 부문으로 운영됩니다.
+
+*PetroChina Company Limited, together with its subsidiaries, engages in a range of petroleum related products, services, and activities in Mainland China and internationally. It operates through the Oil and Gas and New Energy; Refining, Chemicals and New Materials; Sales; and Natural Gas Sales Segments. The Oil, Gas and New Energy Resource segment engages in the exploration, development, transportation, production, and marketing of crude oil and natural gas, as well as is involved in the new energy resource business.*
 
 ---
 

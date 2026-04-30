@@ -1,10 +1,12 @@
 # WIPRO LTD (WIT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Information Technology Services | 시총 22B$ | 결산월: 3월**
+**Technology | Information Technology Services | 시총 22B$ (#585위) | 결산월: 3월**
 
-Wipro Limited operates as an information technology (IT), consulting, and business process services company worldwide. It operates through IT Services and IT Products segments. The IT Services segment offers AI-powered IT and IT-enabled services, including digital strategy advisory, customer-centric design, technology and IT consulting, custom application design, development, re-engineering and maintenance, systems integration, package implementation, cloud and infrastructure, business process, cloud, mobility and analytics, research and development, and hardware and software design services to enterprises.
+Wipro는 전 세계에서 IT, 컨설팅, 비즈니스 프로세스 서비스를 제공한다. IT Services 부문은 디지털 전략, 고객 중심 디자인, IT 컨설팅, 애플리케이션 개발·유지보수, 시스템 통합, 클라우드·인프라, 비즈니스 프로세스, 모빌리티·분석, R&D, 하드웨어·소프트웨어 설계 서비스를 제공한다.
+
+*Wipro Limited operates as an information technology (IT), consulting, and business process services company worldwide. It operates through IT Services and IT Products segments. The IT Services segment offers AI-powered IT and IT-enabled services, including digital strategy advisory, customer-centric design, technology and IT consulting, custom application design, development, re-engineering and maintenance, systems integration, package implementation, cloud and infrastructure, business process, cloud, mobility and analytics, research and development, and hardware and software design services to enterprises.*
 
 ---
 

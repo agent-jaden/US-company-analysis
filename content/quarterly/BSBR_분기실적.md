@@ -1,10 +1,12 @@
 # Banco Santander (Brasil) S.A. (BSBR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Regional | 시총 44B$ | 결산월: 12월**
+**Financial Services | Banks - Regional | 시총 44B$ (#353위) | 결산월: 12월**
 
-Banco Santander (Brasil) S.A., together with its subsidiaries, provides various banking products and services to individuals, small and medium enterprises, and corporate customers in Brazil and internationally. It operates in two segments, Commercial Banking and Global Wholesale Banking. The company offers payment and loyalty products, including credit and debit cards; payroll and real estate loans; home equity financing solutions; microfinance programs; consortiums; agribusiness products, such as credit, securities and other products; call center and digital solutions; nonperforming assets; and insurance products comprising life, personal accident, vehicle, property, and credit insurance, as well as insurance for travel and banking transactions.
+Banco Santander Brasil은 브라질과 해외에서 개인, 중소기업, 기업 고객에게 다양한 은행 상품과 서비스를 제공한다. Commercial Banking과 Global Wholesale Banking 부문을 통해 카드, 급여·부동산 대출, home equity 금융, 마이크로파이낸스, 농업금융, 콜센터·디지털 솔루션, 부실자산 관리, 생명·상해·차량·재산·신용·여행 보험을 제공한다.
+
+*Banco Santander (Brasil) S.A., together with its subsidiaries, provides various banking products and services to individuals, small and medium enterprises, and corporate customers in Brazil and internationally. It operates in two segments, Commercial Banking and Global Wholesale Banking. The company offers payment and loyalty products, including credit and debit cards; payroll and real estate loans; home equity financing solutions; microfinance programs; consortiums; agribusiness products, such as credit, securities and other products; call center and digital solutions; nonperforming assets; and insurance products comprising life, personal accident, vehicle, property, and credit insurance, as well as insurance for travel and banking transactions.*
 
 ---
 

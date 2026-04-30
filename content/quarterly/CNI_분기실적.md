@@ -1,8 +1,12 @@
 # CANADIAN NATIONAL RAILWAY CO (CNI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Railroads | 시총 70B$ | 결산월: 12월**
+**Industrials | Railroads | 시총 70B$ (#243위) | 결산월: 12월**
+
+Canadian National Railway Company는 캐나다와 미국 전역을 연결하는 대규모 철도, 복합 운송 및 트럭 운송 비즈니스를 운영합니다. 철도 화물 운송뿐만 아니라 통관, 창고, 특수 화물 처리 및 공급망 물류 관리를 아우르는 종합 운송 솔루션을 지원합니다.
+
+*Canadian National Railway Company, together with its subsidiaries, engages in the rail, intermodal, trucking, and related transportation businesses in Canada and the United States. The company provides rail services, which include equipment, customs brokerage, transloading and warehousing, business development, dimensional loads, and private railcar storage, less-than-truckload, and mexico services; intermodal services, such as temperature controlled multimodal, mobile transport trays, port partnerships, transloading and distribution, logistics parks, trucking, and supply chain services. It also offers connecting to rail, short lines, maps and network services.*
 
 ---
 

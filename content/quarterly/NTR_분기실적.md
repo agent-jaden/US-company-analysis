@@ -1,10 +1,12 @@
 # Nutrien Ltd. (NTR) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Agricultural Inputs | 시총 35B$ | 결산월: 12월**
+**Basic Materials | Agricultural Inputs | 시총 35B$ (#419위) | 결산월: 12월**
 
-Nutrien Ltd. provides crop inputs and services. The company operates through four segments: Retail, Potash, Nitrogen, and Phosphate.
+Nutrien은 작물 투입재와 관련 서비스를 제공하는 농업 기업이다. Retail, Potash, Nitrogen, Phosphate 부문을 통해 비료와 농업 자재, 농가 대상 유통·서비스를 운영한다.
+
+*Nutrien Ltd. provides crop inputs and services. The company operates through four segments: Retail, Potash, Nitrogen, and Phosphate.*
 
 ---
 

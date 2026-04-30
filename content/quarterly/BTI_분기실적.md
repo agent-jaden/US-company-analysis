@@ -1,10 +1,12 @@
 # British American Tobacco p.l.c. (BTI) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Tobacco | 시총 124B$ | 결산월: 12월**
+**Consumer Defensive | Tobacco | 시총 124B$ (#126위) | 결산월: 12월**
 
-British American Tobacco p.l.c. provides tobacco and nicotine products to consumers in the United States, Europe, Latin America, Canada, the Asia-Pacific, the Middle East, Central Asia, Caucasus, and Africa. The company offers vapour products; heated products, which consists of a battery-powered device and a plant-based substance consumable that is heated; modern oral products, such as nicotine pouches; combustibles, including cigarette sticks and other tobacco stick products; traditional oral products, such as snus and moist snuff; and fine cut/roll-your-own tobacco products.
+British American Tobacco는 미국, 유럽, 중남미, 캐나다, 아시아태평양, 중동, 중앙아시아, 아프리카 등에서 담배와 니코틴 제품을 판매한다. vapour 제품, heated products, 니코틴 파우치 같은 modern oral products, 일반 궐련, snus와 moist snuff, fine cut/roll-your-own 담배를 제공한다.
+
+*British American Tobacco p.l.c. provides tobacco and nicotine products to consumers in the United States, Europe, Latin America, Canada, the Asia-Pacific, the Middle East, Central Asia, Caucasus, and Africa. The company offers vapour products; heated products, which consists of a battery-powered device and a plant-based substance consumable that is heated; modern oral products, such as nicotine pouches; combustibles, including cigarette sticks and other tobacco stick products; traditional oral products, such as snus and moist snuff; and fine cut/roll-your-own tobacco products.*
 
 ---
 

@@ -1,10 +1,12 @@
 # EMERA INC (EMA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Utilities | Utilities - Regulated Electric | 시총 16B$ | 결산월: 12월**
+**Utilities | Utilities - Regulated Electric | 시총 16B$ (#723위) | 결산월: 12월**
 
-Emera Incorporated, an energy and services company, invests in generation, transmission, and distribution of electricity in the United States, Canada, Barbados, and the Bahamas. The company operates through Florida Electric Utility, Canadian Electric Utilities, Gas Utilities and Infrastructure, Other Electric Utilities, and Other segments. It is involved in the purchase, transmission, distribution, and sale of natural gas; and physical energy marketing, trading, and other energy asset management activities.
+Emera Incorporated는 미국, 캐나다, 바베이도스 및 바하마에서 전력 및 천연가스 에너지를 생산, 송전, 배전하는 공익사업 기업입니다. 플로리다 및 캐나다 전력망 부문, 가스 유틸리티 및 인프라 부문 등을 통해 에너지를 유통하며 에너지 마케팅 및 자산 관리 비즈니스도 운영합니다.
+
+*Emera Incorporated, an energy and services company, invests in generation, transmission, and distribution of electricity in the United States, Canada, Barbados, and the Bahamas. The company operates through Florida Electric Utility, Canadian Electric Utilities, Gas Utilities and Infrastructure, Other Electric Utilities, and Other segments. It is involved in the purchase, transmission, distribution, and sale of natural gas; and physical energy marketing, trading, and other energy asset management activities.*
 
 ---
 

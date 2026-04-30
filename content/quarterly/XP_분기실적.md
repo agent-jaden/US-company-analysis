@@ -1,10 +1,12 @@
 # XP Inc. (XP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Capital Markets | 시총 10B$ | 결산월: 12월**
+**Financial Services | Capital Markets | 시총 10B$ (#972위) | 결산월: 12월**
 
-XP Inc. provides financial products and services in Brazil. The company operates XP Platform, an open product platform that provides clients to access investment products in the market comprising brokerage securities, fixed income securities, mutual, hedge, and private equity funds; derivatives and synthetic instruments; credit cards; loan operations/collateralized credit products; pension and social security funds, and life and travel insurance products; and other investment products comprising real estate funds, and equity and debt capital markets solutions, as well as wealth management services.
+XP는 브라질에서 금융 상품과 서비스를 제공한다. XP Platform을 통해 증권 중개, 채권, 뮤추얼·헤지·사모펀드, 파생·합성상품, 신용카드, 담보대출, 연금·사회보장 펀드, 생명·여행보험, 부동산펀드, ECM·DCM 솔루션과 자산관리 서비스를 제공한다.
+
+*XP Inc. provides financial products and services in Brazil. The company operates XP Platform, an open product platform that provides clients to access investment products in the market comprising brokerage securities, fixed income securities, mutual, hedge, and private equity funds; derivatives and synthetic instruments; credit cards; loan operations/collateralized credit products; pension and social security funds, and life and travel insurance products; and other investment products comprising real estate funds, and equity and debt capital markets solutions, as well as wealth management services.*
 
 ---
 

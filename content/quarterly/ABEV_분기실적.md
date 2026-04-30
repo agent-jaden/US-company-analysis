@@ -1,10 +1,12 @@
 # AMBEV S.A. (ABEV) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Beverages - Brewers | 시총 45B$ | 결산월: 12월**
+**Consumer Defensive | Beverages - Brewers | 시총 45B$ (#347위) | 결산월: 12월**
 
-Ambev S.A., through its subsidiaries, engages in the production, distribution, and sale of beer, draft beer, soft drinks, malt and food, and other beverages in Brazil, Central America and Caribbean, Latin America South, and Canada. The company offers beer, ready-to-drink cocktails and spritzers, soft drinks, water, teas, and isotonic drinks under the Brahma, Skol, Antarctica, Original, Quilmes, Andes Origen, Patricia, Paceha, Huari, Pilsen, Presidente, Balboa, Guaraná Antarctica, and Beats brands. It sells its products to distributors, supermarkets, and retailers within a broad distribution network.
+Ambev는 자회사를 통해 브라질, 중미·카리브해, 남미, 캐나다에서 맥주, 생맥주, 청량음료, malt and food 및 기타 음료를 생산·유통·판매한다. Brahma, Skol, Antarctica, Original, Quilmes, Andes Origen, Presidente, Guaraná Antarctica, Beats 등 브랜드로 맥주, ready-to-drink 칵테일, 탄산음료, 물, 차, 이온음료를 판매한다.
+
+*Ambev S.A., through its subsidiaries, engages in the production, distribution, and sale of beer, draft beer, soft drinks, malt and food, and other beverages in Brazil, Central America and Caribbean, Latin America South, and Canada. The company offers beer, ready-to-drink cocktails and spritzers, soft drinks, water, teas, and isotonic drinks under the Brahma, Skol, Antarctica, Original, Quilmes, Andes Origen, Patricia, Paceha, Huari, Pilsen, Presidente, Balboa, Guaraná Antarctica, and Beats brands. It sells its products to distributors, supermarkets, and retailers within a broad distribution network.*
 
 ---
 

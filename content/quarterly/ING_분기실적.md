@@ -1,10 +1,12 @@
 # ING GROEP NV (ING) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Banks - Diversified | 시총 81B$ | 결산월: 12월**
+**Financial Services | Banks - Diversified | 시총 81B$ (#204위) | 결산월: 12월**
 
-ING Groep N.V. provides various banking products and services in the Netherlands, Belgium, Germany, rest of Europe, and internationally. The company operates through five segments: Retail Netherlands, Retail Belgium, Retail Germany, Retail Other, and Wholesale Banking.
+ING Groep N.V.는 네덜란드, 벨기에, 독일 등 유럽 및 전 세계에서 다양한 은행 상품과 서비스를 제공합니다. 여러 지역의 소매 뱅킹 및 글로벌 도매 뱅킹 부문을 통해 개인 및 기업 고객에게 종합적인 금융 솔루션을 지원합니다.
+
+*ING Groep N.V. provides various banking products and services in the Netherlands, Belgium, Germany, rest of Europe, and internationally. The company operates through five segments: Retail Netherlands, Retail Belgium, Retail Germany, Retail Other, and Wholesale Banking.*
 
 ---
 

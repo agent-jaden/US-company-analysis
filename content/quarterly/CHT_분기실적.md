@@ -1,10 +1,12 @@
 # CHUNGHWA TELECOM CO LTD (CHT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Communication Services | Telecom Services | 시총 34B$ | 결산월: 12월**
+**Communication Services | Telecom Services | 시총 34B$ (#426위) | 결산월: 12월**
 
-Chunghwa Telecom Co., Ltd., together with its subsidiaries, operates as an integrated telecommunications service provider in Taiwan and internationally. The company operates through Consumer Business, Enterprise Business, International Business, and Others segments. Its services primarily include mobile, fixed-line, information and communication technology (ICT), and sales and other services.
+Chunghwa Telecom은 대만과 해외에서 통합 통신 서비스를 제공한다. Consumer Business, Enterprise Business, International Business 부문 등을 통해 모바일, 유선통신, ICT, 판매 및 기타 서비스를 운영한다.
+
+*Chunghwa Telecom Co., Ltd., together with its subsidiaries, operates as an integrated telecommunications service provider in Taiwan and internationally. The company operates through Consumer Business, Enterprise Business, International Business, and Others segments. Its services primarily include mobile, fixed-line, information and communication technology (ICT), and sales and other services.*
 
 ---
 

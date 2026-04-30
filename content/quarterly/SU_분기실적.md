@@ -1,10 +1,12 @@
 # SUNCOR ENERGY INC (SU) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Integrated | 시총 77B$ | 결산월: 12월**
+**Energy | Oil & Gas Integrated | 시총 77B$ (#220위) | 결산월: 12월**
 
-Suncor Energy Inc. operates as an integrated energy company in Canada, the United States, and internationally. The company operates through Oil Sands; Exploration and Production; and Refining and Marketing segments.
+Suncor Energy Inc.는 캐나다, 미국 등지에서 활동하는 캐나다의 선도적인 통합 에너지 기업입니다. 오일샌드의 탐사 및 생산부터 원유 정제, 그리고 주유소를 통한 최종 제품 마케팅까지 석유 산업의 전 과정을 운영합니다.
+
+*Suncor Energy Inc. operates as an integrated energy company in Canada, the United States, and internationally. The company operates through Oil Sands; Exploration and Production; and Refining and Marketing segments.*
 
 ---
 

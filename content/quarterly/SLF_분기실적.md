@@ -1,10 +1,12 @@
 # SUN LIFE FINANCIAL INC (SLF) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Diversified | 시총 39B$ | 결산월: 12월**
+**Financial Services | Insurance - Diversified | 시총 39B$ (#383위) | 결산월: 12월**
 
-Sun Life Financial Inc., a financial services company, provides asset management, wealth, insurance and health solutions to individual and institutional customers in Canada, the United States, the United Kingdom, Ireland, Hong Kong, the Philippines, Japan, Indonesia, India, China, Australia, Singapore, Vietnam, Malaysia, and Bermuda. It offers various insurance products, such as term and permanent life; personal health, which includes prescription drugs, dental, and vision care; critical illness; long-term care; and disability. The company also provides investments products, such as mutual funds, segregated funds, annuities, and guaranteed investment products; financial planning services; and asset management products, including pooled funds, institutional portfolios and pension funds.
+Sun Life Financial은 캐나다, 미국, 영국, 아일랜드, 아시아 여러 국가와 버뮤다에서 개인·기관 고객에게 자산관리, 웰스, 보험, 건강 솔루션을 제공한다. 생명·건강·중대질병·장기요양·장애보험과 뮤추얼펀드, segregated fund, 연금, 보장형 투자상품, 재무설계, 기관 포트폴리오·연금펀드 운용 서비스를 제공한다.
+
+*Sun Life Financial Inc., a financial services company, provides asset management, wealth, insurance and health solutions to individual and institutional customers in Canada, the United States, the United Kingdom, Ireland, Hong Kong, the Philippines, Japan, Indonesia, India, China, Australia, Singapore, Vietnam, Malaysia, and Bermuda. It offers various insurance products, such as term and permanent life; personal health, which includes prescription drugs, dental, and vision care; critical illness; long-term care; and disability. The company also provides investments products, such as mutual funds, segregated funds, annuities, and guaranteed investment products; financial planning services; and asset management products, including pooled funds, institutional portfolios and pension funds.*
 
 ---
 

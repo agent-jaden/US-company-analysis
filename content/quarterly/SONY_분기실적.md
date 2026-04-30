@@ -1,10 +1,12 @@
 # Sony Group Corp (SONY) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 3월 | 분기 기준: 캘린더 | 통화: JPY
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 3월 | 분기 기준: 캘린더 | 통화: JPY
 
-**Technology | Consumer Electronics | 시총 119B$ | 결산월: 3월**
+**Technology | Consumer Electronics | 시총 119B$ (#133위) | 결산월: 3월**
 
-Sony Group Corporation designs, develops, produces, and sells electronic equipment, instruments, and devices for the consumer, professional, and industrial markets in Japan, the United States, Europe, China, the Asia-Pacific, and internationally. The company distributes software titles and add-on content through digital networks; network services related to game, video, and music content; hardware and home gaming consoles, packaged and game software, and peripheral devices. It also develops, produces, markets, and distributes recorded music; publishes music; and produces and distributes animation titles, game applications, and various services for music and visual products.
+Sony Group은 일본, 미국, 유럽, 중국, 아시아태평양 등에서 소비자·전문가·산업용 전자기기와 장비를 설계·개발·생산·판매한다. 게임 콘솔과 소프트웨어, 디지털 콘텐츠 네트워크 서비스, 음악 제작·유통·출판, 애니메이션, 게임 애플리케이션과 영상·음악 관련 서비스를 운영한다.
+
+*Sony Group Corporation designs, develops, produces, and sells electronic equipment, instruments, and devices for the consumer, professional, and industrial markets in Japan, the United States, Europe, China, the Asia-Pacific, and internationally. The company distributes software titles and add-on content through digital networks; network services related to game, video, and music content; hardware and home gaming consoles, packaged and game software, and peripheral devices. It also develops, produces, markets, and distributes recorded music; publishes music; and produces and distributes animation titles, game applications, and various services for music and visual products.*
 
 ---
 

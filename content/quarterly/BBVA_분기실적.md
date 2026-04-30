@@ -1,10 +1,12 @@
 # BANCO BILBAO VIZCAYA ARGENTARIA, S.A. (BBVA) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
 
-**Financial Services | Banks - Diversified | 시총 123B$ | 결산월: 12월**
+**Financial Services | Banks - Diversified | 시총 123B$ (#131위) | 결산월: 12월**
 
-Banco Bilbao Vizcaya Argentaria, S.A., together with its subsidiaries, provides various financial services in Spain, Mexico, Turkey, South America, Europe, the United States, and Asia. The company offers traditional retail, wholesale, investment, and transaction banking. It also engages in financial, insurance, asset management, and capital markets businesses, as well as digital banking.
+Banco Bilbao Vizcaya Argentaria는 스페인, 멕시코, 터키, 남미, 유럽, 미국, 아시아에서 금융 서비스를 제공한다. 전통적인 리테일·도매·투자·거래은행 업무와 함께 보험, 자산관리, 자본시장, 디지털뱅킹 사업을 운영한다.
+
+*Banco Bilbao Vizcaya Argentaria, S.A., together with its subsidiaries, provides various financial services in Spain, Mexico, Turkey, South America, Europe, the United States, and Asia. The company offers traditional retail, wholesale, investment, and transaction banking. It also engages in financial, insurance, asset management, and capital markets businesses, as well as digital banking.*
 
 ---
 

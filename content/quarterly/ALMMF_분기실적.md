@@ -1,10 +1,12 @@
 # ALUMINUM CORP OF CHINA LTD (ALMMF) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Aluminum | 시총 26B$ | 결산월: 12월**
+**Basic Materials | Aluminum | 시총 26B$ (#509위) | 결산월: 12월**
 
-Aluminum Corporation of China Limited, together with its subsidiaries, primarily engages in the exploration and mining of bauxite, coal, and other resources in the People's Republic of China and internationally. It operates through five segments: Alumina, Primary Aluminum, Energy, Marketing, and Corporate and Other Operating. The Alumina segment mines for and purchases bauxite and other raw materials; refines bauxite into alumina; and sells alumina, as well as produces and sells refined alumina, gallium, and multi-form alumina bauxite.
+Aluminum Corporation of China Limited는 자회사를 통해 중국 내외에서 보크사이트, 석탄 및 기타 자원의 탐사와 채굴을 주로 영위하는 광업 기업입니다. 알루미나, 일차 알루미늄 및 에너지 부문을 통해 원자재를 채굴 및 구매하고, 이를 정제하여 다품종 알루미나 및 갈륨을 생산하고 판매합니다.
+
+*Aluminum Corporation of China Limited, together with its subsidiaries, primarily engages in the exploration and mining of bauxite, coal, and other resources in the People's Republic of China and internationally. It operates through five segments: Alumina, Primary Aluminum, Energy, Marketing, and Corporate and Other Operating. The Alumina segment mines for and purchases bauxite and other raw materials; refines bauxite into alumina; and sells alumina, as well as produces and sells refined alumina, gallium, and multi-form alumina bauxite.*
 
 ---
 

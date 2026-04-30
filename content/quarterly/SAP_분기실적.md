@@ -1,10 +1,12 @@
 # SAP SE (SAP) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
 
-**Technology | Software - Application | 시총 204B$ | 결산월: 12월**
+**Technology | Software - Application | 시총 204B$ (#65위) | 결산월: 12월**
 
-SAP SE, together with its subsidiaries, provides enterprise application and business solutions worldwide. It offers SAP Business AI; SAP S/4HANA that provides software capabilities for finance, risk and project management, procurement, manufacturing, supply chain and asset management, and research and development; SAP SuccessFactors solutions for human resources, including HR, time, payroll, talent and employee experience management, and analytics and planning; and spend management solutions that covers direct and indirect spend, travel and expense, and external workforce management. The company also provides SAP customer experience solutions; SAP Business Technology platform that enables customers and partners to build, integrate, and automate applications; and SAP Business Network, a business-to-business collaboration platform that helps digitalize key business processes across the supply chain and enables communication between trading partners.
+SAP SE는 전 세계에 기업용 애플리케이션 및 비즈니스 솔루션을 제공하는 소프트웨어 기업입니다. SAP S/4HANA, SAP SuccessFactors 등의 플랫폼을 통해 재무, 인적 자원, 공급망 관리 및 지출 관리 등 핵심 비즈니스 프로세스의 디지털화와 자동화를 지원합니다.
+
+*SAP SE, together with its subsidiaries, provides enterprise application and business solutions worldwide. It offers SAP Business AI; SAP S/4HANA that provides software capabilities for finance, risk and project management, procurement, manufacturing, supply chain and asset management, and research and development; SAP SuccessFactors solutions for human resources, including HR, time, payroll, talent and employee experience management, and analytics and planning; and spend management solutions that covers direct and indirect spend, travel and expense, and external workforce management. The company also provides SAP customer experience solutions; SAP Business Technology platform that enables customers and partners to build, integrate, and automate applications; and SAP Business Network, a business-to-business collaboration platform that helps digitalize key business processes across the supply chain and enables communication between trading partners.*
 
 ---
 

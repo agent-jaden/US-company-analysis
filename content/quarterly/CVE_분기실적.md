@@ -1,10 +1,12 @@
 # CENOVUS ENERGY INC. (CVE) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Integrated | 시총 50B$ | 결산월: 12월**
+**Energy | Oil & Gas Integrated | 시총 50B$ (#321위) | 결산월: 12월**
 
-Cenovus Energy Inc., together with its subsidiaries, develops, produces, refines, transports, and markets crude oil, natural gas, and refined petroleum products in Canada, the United States, and China. It operates through Upstream and Downstream segments. The company is involved in the development and production of bitumen and heavy oil; owns and operates pipeline gathering systems and terminals; operation of assets rich in NGLs and natural gas in Alberta and British Columbia; and offshore operations, exploration, and development activities in the East Coast of Canada and the Asia Pacific region.
+Cenovus Energy는 캐나다, 미국, 중국에서 원유, 천연가스, 정제 석유제품을 개발·생산·정제·운송·마케팅한다. Upstream과 Downstream 부문을 운영하며 bitumen과 heavy oil 개발·생산, 파이프라인 수집 시스템과 터미널 운영, Alberta와 British Columbia의 NGL·천연가스 자산, 캐나다 동해안과 아시아태평양 해상 사업을 수행한다.
+
+*Cenovus Energy Inc., together with its subsidiaries, develops, produces, refines, transports, and markets crude oil, natural gas, and refined petroleum products in Canada, the United States, and China. It operates through Upstream and Downstream segments. The company is involved in the development and production of bitumen and heavy oil; owns and operates pipeline gathering systems and terminals; operation of assets rich in NGLs and natural gas in Alberta and British Columbia; and offshore operations, exploration, and development activities in the East Coast of Canada and the Asia Pacific region.*
 
 ---
 

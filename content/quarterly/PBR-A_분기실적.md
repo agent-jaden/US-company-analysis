@@ -1,10 +1,12 @@
 # PETROBRAS - PETROLEO BRASILEIRO SA (PBR-A) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Energy | Oil & Gas Integrated | 시총 130B$ | 결산월: 12월**
+**Energy | Oil & Gas Integrated | 시총 130B$ (#120위) | 결산월: 12월**
 
-Petróleo Brasileiro S.A. - Petrobras explores, produces, and sells oil and gas in Brazil and internationally. It operates through three segments: Exploration and Production; Refining, Transportation & Marketing; and Gas & Low Carbon Energies.
+Petrobras는 브라질과 해외에서 석유와 가스를 탐사, 생산, 판매하는 종합 에너지 기업이다. 사업은 Exploration and Production, Refining, Transportation & Marketing, Gas & Low Carbon Energies 부문으로 구성된다.
+
+*Petróleo Brasileiro S.A. - Petrobras explores, produces, and sells oil and gas in Brazil and internationally. It operates through three segments: Exploration and Production; Refining, Transportation & Marketing; and Gas & Low Carbon Energies.*
 
 ---
 

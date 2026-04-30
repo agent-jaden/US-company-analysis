@@ -1,10 +1,12 @@
 # XPENG INC. (XPEV) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
 
-**Consumer Cyclical | Auto Manufacturers | 시총 16B$ | 결산월: 12월**
+**Consumer Cyclical | Auto Manufacturers | 시총 16B$ (#730위) | 결산월: 12월**
 
-XPeng Inc. designs, develops, manufactures, and markets smart electric vehicles (EVs) in the People's Republic of China. The company offers P7 and P7i, a four-door sports sedan; G9, a smart EV and a mid- to large-sized sport utility vehicle (SUV); G7 for families and individual consumers seeking advanced technology and comfort; G6, a smart EV and a coupe SUV; X9, Smart EV and a large seven-seater multi-purpose vehicle (MPV); MONA M03, an all-electric hatchback coupe; Next P7, an all-new coupe sports sedan; and P7+, smart EV of XPeng series.
+XPeng Inc.는 중국에서 스마트 전기차(EV)를 설계, 개발, 제조 및 판매하는 모빌리티 기업입니다. 4도어 스포츠 세단인 P7 시리즈부터 중대형 SUV인 G9, 7인승 대형 MPV인 X9에 이르기까지 첨단 기술과 편안함을 결합한 다양한 전기차 라인업을 제공합니다.
+
+*XPeng Inc. designs, develops, manufactures, and markets smart electric vehicles (EVs) in the People's Republic of China. The company offers P7 and P7i, a four-door sports sedan; G9, a smart EV and a mid- to large-sized sport utility vehicle (SUV); G7 for families and individual consumers seeking advanced technology and comfort; G6, a smart EV and a coupe SUV; X9, Smart EV and a large seven-seater multi-purpose vehicle (MPV); MONA M03, an all-electric hatchback coupe; Next P7, an all-new coupe sports sedan; and P7+, smart EV of XPeng series.*
 
 ---
 

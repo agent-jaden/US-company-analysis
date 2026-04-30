@@ -1,10 +1,12 @@
 # Spotify Technology S.A. (SPOT) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
 
-**Communication Services | Internet Content & Information | 시총 102B$ | 결산월: 12월**
+**Communication Services | Internet Content & Information | 시총 102B$ (#155위) | 결산월: 12월**
 
-Spotify Technology S.A., together with its subsidiaries, provides audio streaming subscription services worldwide. It operates in two segments, Premium and Ad-Supported. The Premium segment offers online and offline streaming access to its catalog of music and podcasts, including video, lossless music, and audiobooks in select markets through subscription offerings primarily sold directly to end users and partners.
+Spotify Technology는 전 세계에서 오디오 스트리밍 구독 서비스를 제공한다. Premium과 Ad-Supported 부문을 운영하며, Premium 부문은 음악, 팟캐스트, 비디오, 일부 시장의 lossless music과 오디오북을 온라인·오프라인 스트리밍 방식으로 제공한다.
+
+*Spotify Technology S.A., together with its subsidiaries, provides audio streaming subscription services worldwide. It operates in two segments, Premium and Ad-Supported. The Premium segment offers online and offline streaming access to its catalog of music and podcasts, including video, lossless music, and audiobooks in select markets through subscription offerings primarily sold directly to end users and partners.*
 
 ---
 

@@ -1,10 +1,12 @@
 # TAKEDA PHARMACEUTICAL CO LTD (TAK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Healthcare | Drug Manufacturers - Specialty & Generic | 시총 52B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - Specialty & Generic | 시총 52B$ (#317위) | 결산월: 12월**
 
-Takeda Pharmaceutical Company Limited engages in the research, development, manufacture, marketing, and out-licensing of pharmaceutical products in Japan and internationally. It offers pharmaceutical products in the areas of gastroenterology, rare diseases, plasma-derived therapies, immunology, oncology, and neuroscience. The company provides its products under the Entyvio, Gattex/Revestive, Takecab/Vocinti, EOHILIA, Alofisel, Dexilant, Pantoloc/Controloc, Adynovate/Adynovi, Feiba Fiber, Recombinate, Hemofil, Immunate, Immunine, Takhzyro, Livtencity, ADZYNMA, Elaprase, Replagal, Advate, Flexbumin, Vpriv, Gammagard Liquid/Kiovig, Hyqvia, Cuvitru, Exkivity, FRUZAQLA, Ninlaro, Velcade, Azilva, Iclusig, Leuplin/Enantone, Adcetris, vyvanse/elvanse, Trintellix, QDENGA, and Alunbrig brands.
+Takeda Pharmaceutical은 일본과 해외에서 의약품의 연구, 개발, 제조, 마케팅, 라이선스 아웃을 수행한다. 소화기, 희귀질환, 혈장유래 치료제, 면역, 항암, 신경과학 분야 제품을 보유하며 Entyvio, Gattex/Revestive, Takecab/Vocinti, Takhzyro, Vyvanse/Elvanse, Trintellix, QDENGA 등 다양한 브랜드를 판매한다.
+
+*Takeda Pharmaceutical Company Limited engages in the research, development, manufacture, marketing, and out-licensing of pharmaceutical products in Japan and internationally. It offers pharmaceutical products in the areas of gastroenterology, rare diseases, plasma-derived therapies, immunology, oncology, and neuroscience. The company provides its products under the Entyvio, Gattex/Revestive, Takecab/Vocinti, EOHILIA, Alofisel, Dexilant, Pantoloc/Controloc, Adynovate/Adynovi, Feiba Fiber, Recombinate, Hemofil, Immunate, Immunine, Takhzyro, Livtencity, ADZYNMA, Elaprase, Replagal, Advate, Flexbumin, Vpriv, Gammagard Liquid/Kiovig, Hyqvia, Cuvitru, Exkivity, FRUZAQLA, Ninlaro, Velcade, Azilva, Iclusig, Leuplin/Enantone, Adcetris, vyvanse/elvanse, Trintellix, QDENGA, and Alunbrig brands.*
 
 ---
 

@@ -1,10 +1,12 @@
 # NOKIA CORP (NOK) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: yfinance | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Communication Equipment | 시총 60B$ | 결산월: 12월**
+**Technology | Communication Equipment | 시총 60B$ (#284위) | 결산월: 12월**
 
-Nokia Oyj, together with its subsidiaries, provides mobile, fixed, and cloud network solutions in North and Latin America, Greater China, India, Asia Pacific, Europe, the Middle East, and Africa. It operates in four segments: Network Infrastructure, Mobile Networks, Cloud and Network Services, and Nokia Technologies. The company offers fixed network solutions, such as fiber and copper technologies, access infrastructure, in-home Wi-Fi solutions, and cloud and virtualization services; IP network solutions, which delivers IP edge routing and data center networking solutions for residential, mobile, enterprise, and cloud applications; and optical networks solutions, which provides optical transport networks for metro, regional, and long-haul applications.
+Nokia는 북미·라틴아메리카, 중화권, 인도, 아시아태평양, 유럽, 중동, 아프리카에서 모바일·유선·클라우드 네트워크 솔루션을 제공한다. Network Infrastructure, Mobile Networks, Cloud and Network Services, Nokia Technologies 부문을 운영하며 광섬유·구리 기반 유선망, IP 라우팅·데이터센터 네트워킹, 광전송망 솔루션을 제공한다.
+
+*Nokia Oyj, together with its subsidiaries, provides mobile, fixed, and cloud network solutions in North and Latin America, Greater China, India, Asia Pacific, Europe, the Middle East, and Africa. It operates in four segments: Network Infrastructure, Mobile Networks, Cloud and Network Services, and Nokia Technologies. The company offers fixed network solutions, such as fiber and copper technologies, access infrastructure, in-home Wi-Fi solutions, and cloud and virtualization services; IP network solutions, which delivers IP edge routing and data center networking solutions for residential, mobile, enterprise, and cloud applications; and optical networks solutions, which provides optical transport networks for metro, regional, and long-haul applications.*
 
 ---
 

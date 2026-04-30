@@ -1,10 +1,12 @@
 # HSBC HOLDINGS PLC (HSBC) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: GBP
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: GBP
 
-**Financial Services | Banks - Diversified | 시총 312B$ | 결산월: 12월**
+**Financial Services | Banks - Diversified | 시총 312B$ (#41위) | 결산월: 12월**
 
-HSBC Holdings plc engages in the provision of banking and financial products and services worldwide. It operates through four segments: Hong Kong, UK, Corporate and Institutional Banking, and International Wealth and Premier Banking. The Hong Kong segment is involved in the retail banking and wealth and commercial banking of HSBC Hong Kong and Hang Seng Bank.
+HSBC Holdings plc는 전 세계적으로 뱅킹 및 금융 상품과 서비스를 제공합니다. 홍콩, 영국, 기업 및 기관 뱅킹, 국제 자산 및 프리미어 뱅킹 등 4개 부문으로 나뉘어 소매 및 상업 은행 업무를 운영하고 있습니다.
+
+*HSBC Holdings plc engages in the provision of banking and financial products and services worldwide. It operates through four segments: Hong Kong, UK, Corporate and Institutional Banking, and International Wealth and Premier Banking. The Hong Kong segment is involved in the retail banking and wealth and commercial banking of HSBC Hong Kong and Hang Seng Bank.*
 
 ---
 

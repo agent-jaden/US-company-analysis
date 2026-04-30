@@ -1,10 +1,12 @@
 # NOVO NORDISK A S (NVO) 분기 실적 히스토리
 
-> 생성일: 2026-04-29 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: DKK
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: DKK
 
-**Healthcare | Drug Manufacturers - General | 시총 183B$ | 결산월: 12월**
+**Healthcare | Drug Manufacturers - General | 시총 183B$ (#75위) | 결산월: 12월**
 
-Novo Nordisk A/S, together with its subsidiaries, engages in the research and development, manufacture, and distribution of pharmaceutical products. It operates through two segments, Obesity and Diabetes Care, and Rare Disease. The Obesity and Diabetes care segment provides products for diabetes, obesity, cardiovascular, and other emerging therapy areas.
+Novo Nordisk A/S는 의약품의 연구, 개발, 제조 및 유통을 전문으로 하는 제약 기업입니다. 주로 비만 및 당뇨병 치료 부문과 희귀 질환 부문으로 나뉘어 운영되며, 심혈관 및 기타 신흥 치료 영역의 제품도 제공합니다.
+
+*Novo Nordisk A/S, together with its subsidiaries, engages in the research and development, manufacture, and distribution of pharmaceutical products. It operates through two segments, Obesity and Diabetes Care, and Rare Disease. The Obesity and Diabetes care segment provides products for diabetes, obesity, cardiovascular, and other emerging therapy areas.*
 
 ---
 
