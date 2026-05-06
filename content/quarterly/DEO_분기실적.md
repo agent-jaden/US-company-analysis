@@ -1,8 +1,12 @@
 # DIAGEO PLC (DEO) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: Alpha Vantage | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Beverages - Wineries & Distilleries | 시총 44B$ | 결산월: 6월**
+**Consumer Defensive | Beverages - Wineries & Distilleries | 시총 44B$ (#355위) | 결산월: 6월**
+
+Diageo는 자회사를 통해 북미, 유럽, 아시아태평양, 라틴아메리카·카리브해, 아프리카에서 주류를 생산·마케팅·유통한다. 맥주, 스카치, 진, 보드카, 럼, 리큐어, 와인, 위스키, 테킬라, 브랜디, 중국 백주와 함께 ready-to-drink 및 무알코올 음료도 제공한다.
+
+*Diageo plc, together with its subsidiaries, engages in the production, marketing, and distribution of alcoholic beverages in North America, Europe, the Asia Pacific, Latin America and Caribbean, and Africa. It offers beer, scotch, gin, vodka, rum, liqueur, raki, wine, Irish and Canadian whisky, US and Indian whisky, Chinese whisky, cachaça, tequila, brandy, and Chinese white spirit beverages. The company also provides ready-to-drink and non-alcoholic beverages.*
 
 ---
 

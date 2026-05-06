@@ -1,8 +1,12 @@
 # PRUDENTIAL PLC (PUK) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Financial Services | Insurance - Life | 시총 38B$ | 결산월: 12월**
+**Financial Services | Insurance - Life | 시총 38B$ (#387위) | 결산월: 12월**
+
+Prudential은 자회사를 통해 아시아와 아프리카 개인 고객에게 생명·건강보험과 자산관리 솔루션을 제공한다. 저축·투자 상품과 웰스, 건강, 보장성 상품을 운영한다.
+
+*Prudential plc, through its subsidiaries, provides life and health insurance, and asset management solutions to individuals in Asia and Africa. It offers savings and investments products; and wealth, health, and protection products. The company was founded in 1848 and is headquartered in Central, Hong Kong.*
 
 ---
 

@@ -1,8 +1,12 @@
 # GOLD FIELDS LTD (GFI) 분기 실적 히스토리
 
-> 생성일: 2026-04-28 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Basic Materials | Gold | 시총 40B$ | 결산월: 12월**
+**Basic Materials | Gold | 시총 40B$ (#376위) | 결산월: 12월**
+
+Gold Fields는 남아프리카공화국, 가나, 호주, 페루, 캐나다, 칠레에 매장량과 자원을 보유한 금 생산 기업이다. 금을 주로 생산하며 금, 구리, 은 광상도 탐사한다.
+
+*Gold Fields Limited operates as a gold producer with reserves and resources in South Africa, Ghana, Australia, Peru, Canada, and Chile. It also explores for gold, copper and silver deposits. Gold Fields Limited was founded in 1887 and is based in Sandton, South Africa.*
 
 ---
 
