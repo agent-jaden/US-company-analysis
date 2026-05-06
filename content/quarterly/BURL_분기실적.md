@@ -1,8 +1,15 @@
 # Burlington Stores, Inc. (BURL) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Apparel Retail | 시총 21B$ (#620위) | 결산월: 2월**
+**Consumer Cyclical | Apparel Retail | 시총 21B$ (#620위) | 결산월: 1월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 32.9x |
+| P/E (Forward)  | 23.2x |
+| P/B            | 10.7x |
+| EV/EBITDA      | 19.5x |
 
 Burlington Stores, Inc.는 미국 및 푸에르토리코에서 유명 브랜드 상품을 할인된 가격에 판매하는 오프프라이스 소매업체입니다. 남녀 기성복, 아동복, 신발, 액세서리를 비롯해 가정용품, 장난감, 유아 용품 및 미용 제품 등 다양한 패션 중심의 생활용품을 제공합니다.
 

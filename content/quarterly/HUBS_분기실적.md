@@ -1,8 +1,15 @@
 # HUBSPOT INC (HUBS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Application | 시총 12B$ (#880위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 286.1x |
+| P/E (Forward)  | 16.1x |
+| P/B            | 6.3x |
+| EV/EBITDA      | 374.5x |
 
 HubSpot, Inc.는 전 세계 기업을 대상으로 클라우드 기반의 고객 관계 관리(CRM) 플랫폼을 제공하는 소프트웨어 기업입니다. 마케팅 자동화(Marketing Hub), 영업 파이프라인 관리(Sales Hub), 고객 서비스(Service Hub)와 더불어 AI 비서인 Breeze를 통해 비즈니스 전반의 워크플로우와 고객 응대를 간소화합니다.
 

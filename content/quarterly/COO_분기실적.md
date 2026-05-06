@@ -1,8 +1,15 @@
 # COOPER COMPANIES, INC. (COO) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Medical Instruments & Supplies | 시총 13B$ (#844위) | 결산월: 10월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 30.5x |
+| P/E (Forward)  | 12.2x |
+| P/B            | 1.4x |
+| EV/EBITDA      | 13.3x |
 
 Cooper Companies는 자회사를 통해 콘택트렌즈 관련 제품을 개발·제조·마케팅한다. CooperVision과 CooperSurgical 부문을 운영하며 CooperVision은 난시, 노안, 근시 등 시력 문제를 해결하는 spherical, toric, multifocal 콘택트렌즈를 제공한다.
 

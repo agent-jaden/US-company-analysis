@@ -1,8 +1,15 @@
 # ZILLOW GROUP, INC. (Z) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Internet Content & Information | 시총 11B$ (#933위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 483.8x |
+| P/E (Forward)  | 14.6x |
+| P/B            | 2.1x |
+| EV/EBITDA      | 139.1x |
 
 Zillow Group은 미국에서 소비자를 기술, 부동산 에이전트, 대출 담당자, 디지털 솔루션과 연결하는 부동산 앱과 웹사이트를 운영한다. Residential, Mortgages, Rentals, Other 부문을 통해 주거용 매물, 모기지, 임대, 에이전트·소프트웨어, 신축 마케팅, StreetEasy 매물 서비스를 제공한다.
 

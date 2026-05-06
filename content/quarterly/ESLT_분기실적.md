@@ -4,6 +4,14 @@
 
 **Industrials | Aerospace & Defense | 시총 38B$ (#390위) | 결산월: 12월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 74.6x |
+| P/E (Forward)  | 49.1x |
+| P/B            | 9.6x |
+| EV/EBITDA      | 46.3x |
+| 배당수익률     | 0.36% |
+
 Elbit Systems는 이스라엘, 북미, 유럽, 아시아태평양, 라틴아메리카 등에서 방산과 국토안보 제품·서비스를 개발·공급한다. Aerospace, C4I and Cyber, ISTAR and Electronic Warfare, Land, Elbit Systems of America 부문을 통해 항공 플랫폼, 무인항공 솔루션, 정밀유도탄 센서, 훈련·시뮬레이터, C4ISR, 데이터링크, 무선통신, 사이버 인텔리전스, 자율·국토안보 솔루션을 제공한다.
 
 *Elbit Systems Ltd., together with its subsidiaries, develops and supplies defense and homeland security arenas products and services in Israel, North America, Europe, the Asia-Pacific, Latin America, and internationally. The company operates through five segments: Aerospace; C4I and Cyber; Intelligence, Surveillance, Target Acquisition and Reconnaissance and Electronic Warfare; Land; and Elbit Systems of America. It offers airborne platforms, unmanned aerial solutions, precision guided munition sensors, aerostructures, training and simulator systems, flight academy solutions, and commercial aviation systems; and command, control, communications, computer, intelligence, surveillance and reconnaissance systems, as well as data links and radio communication systems and equipment, cyber intelligence solutions, and autonomous and homeland security solutions.*

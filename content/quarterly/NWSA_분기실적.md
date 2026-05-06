@@ -1,8 +1,16 @@
 # NEWS CORP (NWSA) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Entertainment | 시총 14B$ (#766위) | 결산월: 6월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 33.0x |
+| P/E (Forward)  | 20.3x |
+| P/B            | 1.6x |
+| EV/EBITDA      | 13.2x |
+| 배당수익률     | 0.78% |
 
 News Corporation은 소비자와 기업을 위한 신뢰도 높은 콘텐츠와 정보 서비스를 제작·배포하는 미디어·정보 서비스 기업이다. Digital Real Estate Services, Dow Jones, Book Publishing, News Media 등 부문을 운영하며 MarketWatch, The Wall Street Journal, Barron's, Factiva, Dow Jones Newswires 등 브랜드로 뉴스, 데이터, 출판, 디지털 콘텐츠를 제공한다.
 

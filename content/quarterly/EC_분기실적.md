@@ -4,6 +4,13 @@
 
 **Energy | Oil & Gas Integrated | 시총 28B$ (#492위) | 결산월: 12월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 10.2x |
+| P/E (Forward)  | 9.5x |
+| P/B            | 0.0x |
+| 배당수익률     | 466.00% |
+
 탐사부터 정제까지 아우르는 종합 통합 에너지 기업입니다. 탐사 및 생산, 운송 및 물류, 정제 및 석유화학, 그리고 전력 송전 및 유료 도로 양보(Concessions)의 네 가지 핵심 부문을 통해 광범위한 인프라를 운영합니다.
 
 *Ecopetrol S.A. operates as an integrated energy company. It operates through four segments: Exploration and Production; Transport and Logistics; Refining and Petrochemicals; and Electric Power Transmission and Toll Roads Concessions.*

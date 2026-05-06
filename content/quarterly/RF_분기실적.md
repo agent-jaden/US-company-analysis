@@ -1,8 +1,15 @@
 # REGIONS FINANCIAL CORP (RF) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Banks - Regional | 시총 24B$ (#544위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 11.6x |
+| P/E (Forward)  | 9.8x |
+| P/B            | 1.4x |
+| 배당수익률     | 2.82% |
 
 Regions Financial Corporation은 개인 및 기업 고객에게 다양한 은행업 및 관련 상품을 제공하는 금융 지주 회사입니다. 기업 은행, 소비자 은행, 자산 관리 부문을 통해 상업 및 부동산 대출, 장비 임대 금융, 자본 시장 활동 그리고 인수합병 자문 등의 종합적인 금융 솔루션을 운영합니다.
 

@@ -1,8 +1,16 @@
 # Targa Resources Corp. (TRGP) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Midstream | 시총 52B$ (#315위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 30.6x |
+| P/E (Forward)  | 22.3x |
+| P/B            | 18.2x |
+| EV/EBITDA      | 15.1x |
+| 배당수익률     | 1.54% |
 
 Targa Resources는 북미에서 상호보완적인 국내 에너지 인프라 자산을 보유·운영·취득·개발한다. Gathering and Processing, Logistics and Transportation 부문을 통해 천연가스의 수집·압축·처리·가공·운송·판매, NGL의 저장·분류·처리·운송·판매, 원유의 수집·저장·터미널링·매매를 수행한다.
 

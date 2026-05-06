@@ -1,8 +1,14 @@
 # SITIME Corp (SITM) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductors | 시총 14B$ (#767위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 89.5x |
+| P/B            | 13.6x |
+| EV/EBITDA      | -676.0x |
 
 SiTime은 홍콩, 대만, 미국, 싱가포르 및 해외에서 silicon timing system 솔루션을 설계·개발·판매한다. AI 시스템, 데이터센터, 통신, 기업, 자동차, 산업, 항공우주·방산, 모바일, IoT, 소비자 시장에 oscillator, clock IC, resonator, 동기화 소프트웨어를 제공한다.
 

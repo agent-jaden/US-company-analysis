@@ -1,8 +1,16 @@
 # Haleon plc (HLN) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Drug Manufacturers - Specialty & Generic | 시총 42B$ (#367위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 18.3x |
+| P/E (Forward)  | 15.0x |
+| P/B            | 1.8x |
+| EV/EBITDA      | 32.5x |
+| 배당수익률     | 0.77% |
 
 Haleon은 북미, 유럽, 중동, 아프리카, 라틴아메리카, 아시아태평양에서 소비자 헬스케어 제품을 연구·개발·제조·판매한다. Sensodyne, Polident, Centrum, Theraflu, Flonase, Voltaren, Panadol, Advil, TUMS 등 브랜드로 구강관리, 비타민·보충제, 감기·알레르기, 통증완화, 소화 건강 제품을 제공한다.
 

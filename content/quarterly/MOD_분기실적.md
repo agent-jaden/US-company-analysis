@@ -1,8 +1,15 @@
 # MODINE MANUFACTURING CO (MOD) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Auto Parts | 시총 13B$ (#826위) | 결산월: 3월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 149.2x |
+| P/E (Forward)  | 36.8x |
+| P/B            | 12.8x |
+| EV/EBITDA      | 35.7x |
 
 Modine Manufacturing은 미국, 캐나다, 이탈리아, 헝가리, 영국, 중국 및 해외에서 mission-critical 열관리 솔루션을 설계·엔지니어링·시험·제조·판매한다. 난방·냉방·환기·열교환 제품과 데이터센터용 정밀 공조, CRAC·CRAH, 하이브리드 팬코일, fan wall, 칠러, 콘덴서, 고밀도 컴퓨팅용 액체냉각 솔루션 및 유지보수·제어 서비스를 제공한다.
 

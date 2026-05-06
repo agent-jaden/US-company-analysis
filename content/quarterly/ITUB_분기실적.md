@@ -1,8 +1,15 @@
 # Itau Unibanco Holding S.A. (ITUB) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: BRL
+> 생성일: 2026-05-06 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: BRL
 
 **Financial Services | Banks - Regional | 시총 97B$ (#167위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 10.6x |
+| P/E (Forward)  | 8.9x |
+| P/B            | 2.3x |
+| 배당수익률     | 34.90% |
 
 Itaú Unibanco는 브라질과 해외에서 개인 및 기업 고객에게 다양한 금융 상품과 서비스를 제공한다. Retail Business, Wholesale Business, Activities with the Market + Corporation 부문을 통해 소매금융, 도매금융, 시장 관련 금융활동을 운영한다.
 

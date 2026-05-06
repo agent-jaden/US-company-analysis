@@ -1,8 +1,16 @@
 # Fresenius Medical Care AG (FMS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Medical Care Facilities | 시총 12B$ (#855위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 10.5x |
+| P/E (Forward)  | 5.0x |
+| P/B            | 0.7x |
+| EV/EBITDA      | 6.4x |
+| 배당수익률     | 404.00% |
 
 Fresenius Medical Care는 독일, 미국 및 해외에서 신장질환 환자에게 투석과 관련 서비스를 제공한다. 외래 투석 클리닉 네트워크를 통해 투석 치료, 검사·진단, 교육·환자지원, 재택 공급품 배송 지원을 제공하며 미국 병원 내 ESRD·급성신부전 환자 대상 계약 투석 서비스도 운영한다.
 

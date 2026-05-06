@@ -1,8 +1,15 @@
 # CHARTER COMMUNICATIONS, INC. /MO/ (CHTR) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Telecom Services | 시총 25B$ (#534위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 4.3x |
+| P/E (Forward)  | 3.6x |
+| P/B            | 1.2x |
+| EV/EBITDA      | 5.5x |
 
 Charter Communications, Inc.는 미국 전역에서 광대역 연결 및 통신 서비스를 제공하는 선도적인 기업입니다. Spectrum 브랜드 하에 초고속 인터넷, 모바일 통신, 비디오 및 음성 서비스를 구독 기반으로 제공하며 고성능 라우터가 포함된 가정용 WiFi 환경도 지원합니다.
 

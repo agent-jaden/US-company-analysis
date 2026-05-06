@@ -1,8 +1,15 @@
 # CBRE GROUP, INC. (CBRE) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | Real Estate Services | 시총 43B$ (#363위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 32.6x |
+| P/E (Forward)  | 16.1x |
+| P/B            | 4.8x |
+| EV/EBITDA      | 23.4x |
 
 CBRE Group은 미국, 영국 및 해외에서 상업용 부동산 서비스와 투자 사업을 운영한다. Advisory Services, Building Operations and Experience, Project Management, Real Estate Investments 부문을 통해 부동산 자문, 건물 운영, 프로젝트 관리, 투자 서비스를 제공한다.
 

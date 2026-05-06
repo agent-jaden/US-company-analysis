@@ -1,8 +1,16 @@
 # SOUTHWEST AIRLINES CO (LUV) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Airlines | 시총 19B$ (#653위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 26.5x |
+| P/E (Forward)  | 8.8x |
+| P/B            | 2.6x |
+| EV/EBITDA      | 10.2x |
+| 배당수익률     | 1.88% |
 
 Southwest Airlines Co.는 미국 국내선 및 일부 국제선에서 정기 여객 항공 운송 서비스를 제공하는 주요 항공사입니다. 항공권 예매 외에도 마일리지 프로그램인 Rapid Rewards와 기업용 온라인 예약 도구인 SWABIZ를 운영하며, 차별화된 기내 엔터테인먼트 플랫폼을 지원합니다.
 

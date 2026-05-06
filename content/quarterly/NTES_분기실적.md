@@ -1,8 +1,16 @@
 # NetEase, Inc. (NTES) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Electronic Gaming & Multimedia | 시총 71B$ (#241위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 15.0x |
+| P/E (Forward)  | 11.3x |
+| P/B            | 15.7x |
+| EV/EBITDA      | 5.6x |
+| 배당수익률     | 3.58% |
 
 NetEase, Inc.는 중국 및 글로벌 시장에서 온라인 게임, 음악 스트리밍, 온라인 지능형 학습 및 디지털 콘텐츠 비즈니스를 전개하는 기술 기업입니다. 게임 및 부가 서비스, Youdao 교육 플랫폼, NetEase Cloud Music 등 다양한 엔터테인먼트 플랫폼을 운영합니다.
 

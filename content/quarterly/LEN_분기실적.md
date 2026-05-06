@@ -1,8 +1,16 @@
 # LENNAR CORP /NEW/ (LEN) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Residential Construction | 시총 23B$ (#565위) | 결산월: 11월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 12.4x |
+| P/E (Forward)  | 11.4x |
+| P/B            | 1.0x |
+| EV/EBITDA      | 7.2x |
+| 배당수익률     | 2.37% |
 
 Lennar는 자회사를 통해 미국에서 Lennar 브랜드를 중심으로 주택건설 사업을 운영한다. 단독주택과 타운홈의 건설·판매, 주거용 토지 매입·개발·판매, 다가구 임대주택 개발·건설·관리를 수행하며 금융서비스와 Multifamily 부문도 운영한다.
 

@@ -1,8 +1,16 @@
 # TRACTOR SUPPLY CO /DE/ (TSCO) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Specialty Retail | 시총 19B$ (#647위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 16.1x |
+| P/E (Forward)  | 14.1x |
+| P/B            | 6.7x |
+| EV/EBITDA      | 12.0x |
+| 배당수익률     | 2.88% |
 
 Tractor Supply Company는 미국 전역에서 농촌 라이프스타일 상품을 전문으로 판매하는 소매업체입니다. 가축 및 반려동물 사료, 트랙터와 정원용품, 하드웨어 도구, 작업복 등을 취급하며 농장 운영과 전원생활에 필요한 다양한 제품 브랜드를 판매합니다.
 

@@ -1,8 +1,15 @@
 # FIVE BELOW, INC (FIVE) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Specialty Retail | 시총 13B$ (#822위) | 결산월: 1월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 35.1x |
+| P/E (Forward)  | 25.0x |
+| P/B            | 5.7x |
+| EV/EBITDA      | 21.0x |
 
 Five Below는 미국에서 specialty value retailer로 운영된다. 사탕·스낵·음료, 양말·주얼리·헤어 액세서리·의류, 개인관리·스킨케어·화장품, 파티용품, 장식품, gag gift, 카드, 일상·시즌 상품을 판매한다.
 

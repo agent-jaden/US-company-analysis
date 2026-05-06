@@ -1,8 +1,16 @@
 # Elevance Health, Inc. (ELV) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Healthcare Plans | 시총 77B$ (#217위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 15.7x |
+| P/E (Forward)  | 12.6x |
+| P/B            | 1.8x |
+| EV/EBITDA      | 8.8x |
+| 배당수익률     | 1.84% |
 
 Elevance Health, Inc.는 미국 내에서 종합적인 건강 혜택 및 보험 서비스를 제공하는 헬스케어 기업입니다. Medicare, Medicaid 가입자 및 일반 기업 고객을 대상으로 다양한 건강 보험 플랜을 제공하며 약국 혜택, 치과, 안과 등의 보충 건강 보험도 함께 지원합니다.
 

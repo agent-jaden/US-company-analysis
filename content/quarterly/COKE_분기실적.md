@@ -1,8 +1,16 @@
 # Coca-Cola Consolidated, Inc. (COKE) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Defensive | Beverages - Non-Alcoholic | 시총 13B$ (#828위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 31.6x |
+| P/E (Forward)  | 5.5x |
+| P/B            | 4.5x |
+| EV/EBITDA      | 2.6x |
+| 배당수익률     | 0.48% |
 
 Coca-Cola Consolidated는 자회사를 통해 미국에서 무알코올 음료를 제조·마케팅·유통한다. 탄산음료와 에너지 제품을 포함한 still beverages, 생수, ready-to-drink 커피·차, enhanced water, 주스, 스포츠음료 등 비탄산 음료를 제공한다.
 

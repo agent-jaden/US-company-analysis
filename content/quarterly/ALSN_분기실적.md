@@ -1,8 +1,16 @@
 # Allison Transmission Holdings Inc (ALSN) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Auto Parts | 시총 11B$ (#920위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 19.8x |
+| P/E (Forward)  | 11.1x |
+| P/B            | 5.7x |
+| EV/EBITDA      | 13.4x |
+| 배당수익률     | 91.00% |
 
 Allison Transmission은 전 세계에서 중대형 상용차, 미국 방산용 중대형 전술차량용 완전 자동변속기와 전동화 추진 시스템을 설계·제조·판매한다. 물류, 폐기물, 건설, 소방·응급 트럭, 스쿨버스·대중교통 버스, 캠핑카, 에너지·광산·건설 장비, 차륜·궤도형 방산 차량용 변속기를 공급한다.
 

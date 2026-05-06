@@ -1,8 +1,15 @@
 # MERCADOLIBRE INC (MELI) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Internet Retail | 시총 93B$ (#180위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 46.1x |
+| P/E (Forward)  | 26.8x |
+| P/B            | 13.7x |
+| EV/EBITDA      | 24.2x |
 
 MercadoLibre는 브라질, 멕시코, 아르헨티나 등에서 온라인 커머스 플랫폼을 운영한다. Mercado Libre Marketplace를 통해 모바일 앱과 웹 기반 전자상거래를 제공하고, Mercado Pago를 통해 이커머스 이용자와 외부 사용자에게 종합 핀테크 서비스를 제공한다.
 

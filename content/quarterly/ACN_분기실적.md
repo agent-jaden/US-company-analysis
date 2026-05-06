@@ -1,8 +1,16 @@
 # Accenture plc (ACN) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 8월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 8월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Information Technology Services | 시총 109B$ (#145위) | 결산월: 8월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 14.7x |
+| P/E (Forward)  | 12.0x |
+| P/B            | 3.5x |
+| EV/EBITDA      | 8.7x |
+| 배당수익률     | 3.54% |
 
 Accenture는 미주, 유럽, 중동, 아프리카, 아시아태평양에서 전략·컨설팅, Industry X, Song, 기술·운영 서비스를 제공한다. 시스템 통합, 애플리케이션 관리, 보안, 데이터·AI·클라우드, 자동화, 글로벌 딜리버리와 함께 재무, 조달, 공급망, 마케팅·영업, HR 등 기업 업무 프로세스와 산업별 서비스를 운영한다.
 

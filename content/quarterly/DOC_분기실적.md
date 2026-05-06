@@ -1,8 +1,16 @@
 # HEALTHPEAK PROPERTIES, INC. (DOC) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | REIT - Healthcare Facilities | 시총 11B$ (#908위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 165.1x |
+| P/E (Forward)  | 122.3x |
+| P/B            | 1.5x |
+| EV/EBITDA      | 14.1x |
+| 배당수익률     | 7.49% |
 
 Healthpeak Properties는 S&P 500에 포함된 헬스케어 부동산 기업으로, 미국에서 의료 연구와 진료 제공에 초점을 맞춘 고품질 부동산을 보유, 운영, 개발한다. 1985년에 설립된 헬스케어 중심 REIT다.
 

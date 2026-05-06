@@ -1,8 +1,15 @@
 # PTC INC. (PTC) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Application | 시총 16B$ (#721위) | 결산월: 9월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 20.3x |
+| P/E (Forward)  | 16.5x |
+| P/B            | 4.3x |
+| EV/EBITDA      | 14.3x |
 
 PTC Inc.는 미주, 유럽, 아시아 태평양 지역에서 제조 산업을 위한 디지털 혁신 소프트웨어를 제공합니다. 제품 수명주기 관리(PLM) 솔루션인 Windchill 및 Arena, 산업용 IoT 플랫폼인 ThingWorx, 현장 서비스 관리 시스템인 ServiceMax 등을 통해 제품 설계부터 제조, 유지보수까지 전 과정을 최적화합니다.
 

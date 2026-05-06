@@ -1,8 +1,15 @@
 # VEEVA SYSTEMS INC (VEEV) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Health Information Services | 시총 26B$ (#511위) | 결산월: 1월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 31.4x |
+| P/E (Forward)  | 17.3x |
+| P/B            | 3.9x |
+| EV/EBITDA      | 21.8x |
 
 Veeva Systems Inc.는 북미, 유럽, 아시아 태평양 등 전 세계 생명과학 산업을 위한 클라우드 기반 소프트웨어 솔루션을 제공합니다. 제약 및 생명공학 기업의 영업, 의료 콘텐츠 관리 및 데이터 분석을 돕기 위해 Veeva Vault CRM Suite, PromoMats 및 Crossix 플랫폼을 지원합니다.
 

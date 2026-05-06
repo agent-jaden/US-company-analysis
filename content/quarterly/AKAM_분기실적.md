@@ -1,8 +1,15 @@
 # AKAMAI TECHNOLOGIES INC (AKAM) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Infrastructure | 시총 14B$ (#782위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 38.4x |
+| P/E (Forward)  | 15.5x |
+| P/B            | 3.4x |
+| EV/EBITDA      | 18.3x |
 
 Akamai Technologies는 미국과 해외에서 보안, 전송, 클라우드 컴퓨팅 솔루션을 제공한다. 웹·API·모바일 트래픽 보호, bot 및 abuse 방어, 계정 탈취·credential stuffing 방지, API 보안, 스크래퍼 차단, 마이크로서비스와 애플리케이션 구성요소 보호 솔루션을 제공한다.
 

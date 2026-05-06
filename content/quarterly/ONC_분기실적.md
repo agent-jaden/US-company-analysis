@@ -1,8 +1,15 @@
 # BeOne Medicines Ltd. (ONC) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 33B$ (#435위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 120.4x |
+| P/E (Forward)  | 31.2x |
+| P/B            | 7.6x |
+| EV/EBITDA      | 735.3x |
 
 BeOne Medicines는 미국, 중국, 유럽 및 해외에서 암 환자를 위한 치료제를 발굴·개발하는 항암 전문 기업이다. BRUKINSA, TEVIMBRA, SYLVANT, BAITUOWEI, PARTRUVIX 등 상업화 제품을 보유하고 있으며 Bcl-2, BTK, EGFR, MAT2A, PRMT5, ADC, bispecific antibody 등 다양한 임상 파이프라인을 개발 중이다.
 

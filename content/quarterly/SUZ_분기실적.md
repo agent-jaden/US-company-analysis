@@ -1,8 +1,16 @@
 # Suzano S.A. (SUZ) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: BRL
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: BRL
 
 **Basic Materials | Paper & Paper Products | 시총 11B$ (#910위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 4.6x |
+| P/E (Forward)  | 5.8x |
+| P/B            | 1.2x |
+| EV/EBITDA      | 4.1x |
+| 배당수익률     | 13.11% |
 
 Suzano는 브라질과 해외에서 펄프와 종이 제품을 제조·판매한다. Cellulose와 Paper 부문을 통해 셀룰로오스 기반 원재료와 종이 제품을 공급한다.
 

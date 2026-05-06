@@ -1,8 +1,16 @@
 # ILLINOIS TOOL WORKS INC (ITW) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Specialty Industrial Machinery | 시총 78B$ (#215위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 23.6x |
+| P/E (Forward)  | 20.9x |
+| P/B            | 22.8x |
+| EV/EBITDA      | 17.3x |
+| 배당수익률     | 2.52% |
 
 Illinois Tool Works Inc.는 북미, 유럽, 아시아 태평양 등 전 세계 산업 현장에 특화된 제품 및 장비를 공급합니다. 자동차 OEM, 식품 장비, 테스트 및 측정기기, 용접, 고분자 및 유체, 건설 자재 등 7개의 전문화된 사업 부문을 통해 다각화된 포트폴리오를 운영합니다.
 

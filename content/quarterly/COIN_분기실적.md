@@ -1,8 +1,15 @@
 # Coinbase Global, Inc. (COIN) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Financial Data & Stock Exchanges | 시총 52B$ (#313위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 44.4x |
+| P/E (Forward)  | 41.6x |
+| P/B            | 3.6x |
+| EV/EBITDA      | 29.0x |
 
 Coinbase Global은 미국과 해외에서 암호자산 플랫폼을 운영한다. 소비자에게는 크립토 경제의 주요 금융 계정을, 기관에는 암호자산 시장의 유동성에 접근하는 중개 플랫폼을, 개발자에게는 onchain 구축을 위한 제품군을 제공한다.
 

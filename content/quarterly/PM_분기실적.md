@@ -1,8 +1,16 @@
 # Philip Morris International Inc. (PM) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Defensive | Tobacco | 시총 251B$ (#49위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 23.9x |
+| P/E (Forward)  | 18.5x |
+| P/B            | -26.4x |
+| EV/EBITDA      | 16.8x |
+| 배당수익률     | 3.40% |
 
 Philip Morris International Inc.는 일반 담배 및 궐련형 전자담배, 경구용 니코틴 제품 등을 제공하는 글로벌 담배 기업입니다. IQOS, VEEV, ZYN 브랜드의 무연 제품을 주력으로 판매하며 라이터, 성냥 등의 소비자 액세서리도 함께 제공합니다.
 

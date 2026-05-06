@@ -1,8 +1,16 @@
 # PROCTER & GAMBLE Co (PG) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Defensive | Household & Personal Products | 시총 346B$ (#33위) | 결산월: 6월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 21.2x |
+| P/E (Forward)  | 20.4x |
+| P/B            | 6.3x |
+| EV/EBITDA      | 14.5x |
+| 배당수익률     | 2.95% |
 
 The Procter & Gamble Company는 전 세계적으로 다양한 브랜드 소비재를 제공합니다. 미용, 뷰티, 헬스케어, 패브릭 및 홈케어, 유아 및 가족 케어 부문으로 운영되며 Head & Shoulders, Pantene, Old Spice, Olay 등의 유명 브랜드를 보유하고 있습니다.
 

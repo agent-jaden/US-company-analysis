@@ -1,8 +1,16 @@
 # PG&E Corp (PCG) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Utilities | Utilities - Regulated Electric | 시총 36B$ (#411위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 12.7x |
+| P/E (Forward)  | 9.1x |
+| P/B            | 1.2x |
+| EV/EBITDA      | 9.7x |
+| 배당수익률     | 0.93% |
 
 PG&E는 자회사 Pacific Gas and Electric Company를 통해 미국 북부·중부 캘리포니아 고객에게 전기와 천연가스를 판매·공급한다. 원자력, 수력, 화석연료, 연료전지, 태양광으로 전력을 생산하고 송전선, 변전소, 배전망, 천연가스 송전·저장·배급 시스템을 운영한다.
 

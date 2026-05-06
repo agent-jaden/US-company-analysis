@@ -1,8 +1,16 @@
 # Cheniere Energy, Inc. (LNG) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Midstream | 시총 55B$ (#306위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 11.2x |
+| P/E (Forward)  | 14.9x |
+| P/B            | 7.2x |
+| EV/EBITDA      | 8.3x |
+| 배당수익률     | 0.77% |
 
 Cheniere Energy는 미국에서 LNG 관련 사업을 주로 영위하는 에너지 인프라 기업이다. 루이지애나 Sabine Pass LNG 터미널과 텍사스 Corpus Christi LNG 터미널을 보유·운영하며, 각각의 터미널을 주요 주간·주내 천연가스 파이프라인과 연결하는 Creole Trail 파이프라인과 Corpus Christi 파이프라인도 운영한다.
 

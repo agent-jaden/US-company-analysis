@@ -1,8 +1,16 @@
 # LAS VEGAS SANDS CORP (LVS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Resorts & Casinos | 시총 36B$ (#412위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 19.3x |
+| P/E (Forward)  | 14.2x |
+| P/B            | 28.9x |
+| EV/EBITDA      | 9.8x |
+| 배당수익률     | 2.13% |
 
 Las Vegas Sands는 마카오와 싱가포르에서 복합리조트를 보유·개발·운영한다. The Venetian Macao, The Londoner Macao, The Parisian Macao, Marina Bay Sands 등을 운영하며 숙박, 카지노, 엔터테인먼트, 쇼핑몰, 컨벤션·전시, 유명 셰프 레스토랑 등 시설을 제공한다.
 

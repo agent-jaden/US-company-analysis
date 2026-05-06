@@ -1,8 +1,16 @@
 # Fidelity National Financial, Inc. (FNF) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance - Specialty | 시총 14B$ (#784위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 23.2x |
+| P/E (Forward)  | 7.9x |
+| P/B            | 1.9x |
+| EV/EBITDA      | 7.7x |
+| 배당수익률     | 3.95% |
 
 Fidelity National Financial은 자회사를 통해 미국에서 다양한 보험 상품을 제공한다. Title, F&G, Corporate and Other 부문을 운영하며 권원보험, 에스크로, 신탁 활동, trustee sale guarantee, 등기·재양도, 주택보증 등 권원 관련 서비스를 제공한다.
 

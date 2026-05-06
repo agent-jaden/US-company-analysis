@@ -1,8 +1,15 @@
 # Penumbra Inc (PEN) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Medical Devices | 시총 13B$ (#832위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 71.8x |
+| P/E (Forward)  | 50.9x |
+| P/B            | 8.9x |
+| EV/EBITDA      | 60.0x |
 
 Penumbra는 미국과 해외에서 의료기기를 설계·개발·제조·마케팅한다. 컴퓨터 보조 진공 혈전제거술, Indigo System, Lightning Flash, Lightning Bolt 7, CAT RX, Neuron·BENCHMARK 등 접근 카테터, Penumbra System, neuro embolization coil 시스템을 제공한다.
 

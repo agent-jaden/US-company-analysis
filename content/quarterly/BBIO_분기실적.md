@@ -1,8 +1,14 @@
 # BridgeBio Pharma, Inc. (BBIO) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 14B$ (#769위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 130.4x |
+| P/B            | -6.4x |
+| EV/EBITDA      | -29.4x |
 
 BridgeBio Pharma는 유전질환 환자를 위한 의약품을 발굴, 개발, 공급하는 바이오제약 기업이다. ATTR-CM 치료제 Attruby, NULIBRY 브랜드의 Fosdenopterin, 연골무형성증·저연골형성증 치료 후보 low-dose infigratinib과 Encaleret, BBP-418, BBP-812 등 임상 파이프라인을 보유한다.
 

@@ -4,6 +4,13 @@
 
 **Consumer Cyclical | Furnishings, Fixtures & Appliances | 시총 16B$ (#711위) | 결산월: 12월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 23.8x |
+| P/E (Forward)  | 16.9x |
+| P/B            | 6.2x |
+| EV/EBITDA      | 15.6x |
+
 SharkNinja, Inc.는 미국, 중국 등 전 세계 소비자를 위해 다양한 가정용 제품을 설계하고 판매하는 기술 기업입니다. 유무선 진공 청소기와 로봇 청소기 등 청소 가전을 비롯해 에어프라이어, 블렌더 등 주방 및 조리 가전을 폭넓게 제공합니다. 또한 공기청정기와 선풍기 등의 생활 가전과 헤어케어, 스킨케어 등 뷰티 가전 라인업도 함께 운영하고 있습니다.
 
 *SharkNinja, Inc., a product design and technology company, engages in the provision of various solutions for consumers in the United States, China, and internationally. It offers cleaning appliances, including corded and cordless vacuums, such as handheld and robotic vacuums, as well as other floorcare products comprising steam mops, wet/dry cleaning floor products, and carpet extraction; fans, coolers, frozen drink appliances, propane grills, and fire pits; and cooking and beverage appliances, such as air fryers, multi-cookers, outdoor and countertop grills and ovens, coffee systems, carbonation, cookware, cutlery, kettles, and toasters and bakeware products. The company also provides food preparation appliances, which include blenders, food processors, ice cream makers, juicers, and frozen drink appliances and coolers; haircare and skincare beauty appliances, as well as home environment products comprising air purifiers and fans.*

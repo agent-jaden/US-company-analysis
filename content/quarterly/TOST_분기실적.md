@@ -1,8 +1,15 @@
 # Toast, Inc. (TOST) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Infrastructure | 시총 17B$ (#707위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 51.0x |
+| P/E (Forward)  | 17.1x |
+| P/B            | 7.9x |
+| EV/EBITDA      | 40.2x |
 
 Toast, Inc.는 미국, 아일랜드, 인도 등 전 세계 레스토랑 산업을 위한 클라우드 기반 디지털 기술 플랫폼을 운영합니다. Toast POS, 대화형 AI인 Toast IQ, 주방 디스플레이 시스템 및 온라인 주문과 같은 서비스형 소프트웨어(SaaS)를 제공하여 레스토랑 운영 및 결제 관리를 지원합니다.
 

@@ -1,8 +1,16 @@
 # Western Midstream Partners, LP (WES) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Midstream | 시총 17B$ (#699위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 14.4x |
+| P/E (Forward)  | 11.6x |
+| P/B            | 4.3x |
+| EV/EBITDA      | 11.0x |
+| 배당수익률     | 8.55% |
 
 Western Midstream Partners는 주로 미국에서 미드스트림 에너지 사업을 운영한다. 천연가스의 수집·압축·처리·가공·운송, 콘덴세이트·NGL·원유의 수집·안정화·운송, produced water 수집·처분을 수행하며 residue gas, NGL, condensate 매매도 한다.
 

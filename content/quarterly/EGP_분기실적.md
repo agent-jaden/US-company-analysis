@@ -1,8 +1,16 @@
 # EASTGROUP PROPERTIES INC (EGP) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | REIT - Industrial | 시총 11B$ (#938위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 36.5x |
+| P/E (Forward)  | 36.3x |
+| P/B            | 3.0x |
+| EV/EBITDA      | 25.7x |
+| 배당수익률     | 3.05% |
 
 EastGroup Properties는 S&P Mid-Cap 400과 Russell 2000 지수에 포함된 자체 관리형 산업용 부동산 REIT다. Texas, Florida, California, Arizona, North Carolina 등 미국 고성장 시장에서 산업용 부동산을 개발, 취득, 운영하는 데 집중한다.
 

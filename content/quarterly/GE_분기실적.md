@@ -1,8 +1,16 @@
 # GENERAL ELECTRIC CO (GE) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Aerospace & Defense | 시총 297B$ (#44위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 35.6x |
+| P/E (Forward)  | 33.1x |
+| P/B            | 16.1x |
+| EV/EBITDA      | 28.1x |
+| 배당수익률     | 0.55% |
 
 General Electric Company(GE Aerospace)는 상업용 및 국방용 항공기 엔진, 통합 엔진 구성 요소, 전력 및 항공기 시스템을 설계하고 생산합니다. 상업용 엔진 및 서비스 부문과 국방 및 추진 기술 부문으로 나뉘어 제트 엔진의 유지보수, 수리, 오버홀(MRO) 서비스 및 예비 부품 판매를 수행합니다.
 

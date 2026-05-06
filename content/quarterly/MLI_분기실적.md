@@ -1,8 +1,16 @@
 # MUELLER INDUSTRIES INC (MLI) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Metal Fabrication | 시총 15B$ (#748위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 17.9x |
+| P/E (Forward)  | 15.6x |
+| P/B            | 4.7x |
+| EV/EBITDA      | 13.1x |
+| 배당수익률     | 0.84% |
 
 Mueller Industries, Inc.는 미국, 영국, 아시아 및 멕시코 등 전 세계적으로 구리, 황동 및 알루미늄 제품을 제조하여 판매합니다. 배관 시스템, 산업용 금속, 공조(Climate) 장치 부문을 통해 건설 및 다양한 산업용 애플리케이션에 필수적인 금속 피팅 및 튜브 솔루션을 제공합니다.
 

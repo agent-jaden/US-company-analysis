@@ -1,8 +1,14 @@
 # TAKE TWO INTERACTIVE SOFTWARE INC (TTWO) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Electronic Gaming & Multimedia | 시총 40B$ (#380위) | 결산월: 3월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 28.2x |
+| P/B            | 11.8x |
+| EV/EBITDA      | 51.6x |
 
 Take-Two Interactive Software는 전 세계 소비자를 대상으로 인터랙티브 엔터테인먼트 솔루션을 개발·퍼블리싱·마케팅한다. Grand Theft Auto, LA Noire, Max Payne, Midnight Club, Red Dead Redemption 등 액션·어드벤처 프랜차이즈와 기타 게임 IP를 운영한다.
 

@@ -1,8 +1,15 @@
 # DEUTSCHE BANK AKTIENGESELLSCHAFT (DB) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
 
 **Financial Services | Banks - Regional | 시총 61B$ (#276위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 8.3x |
+| P/E (Forward)  | 5.6x |
+| P/B            | 0.6x |
+| 배당수익률     | 3.31% |
 
 Deutsche Bank는 독일, 영국, 유럽, 미주, 아시아태평양, 중동, 아프리카에서 기업·투자은행, 개인금융, 자산관리 서비스를 제공한다. Corporate Bank, Investment Bank, Private Bank, Asset Management 부문을 운영하며 현금관리, 결제·FX, 무역금융, 대출, 예탁증서, 기업신탁, 증권 서비스를 제공한다.
 

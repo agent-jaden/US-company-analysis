@@ -1,8 +1,16 @@
 # ORACLE CORP (ORCL) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Infrastructure | 시총 497B$ (#22위) | 결산월: 5월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 33.3x |
+| P/E (Forward)  | 23.1x |
+| P/B            | 15.9x |
+| EV/EBITDA      | 24.1x |
+| 배당수익률     | 1.11% |
 
 Oracle Corporation은 전 세계 기업의 정보 기술 환경을 지원하는 다양한 제품과 서비스를 제공합니다. Oracle Fusion 클라우드 애플리케이션, NetSuite 앱 스위트, Oracle Health 등을 포함한 클라우드 SaaS 소프트웨어와 더불어 온프레미스 라이선스 및 산업별 솔루션을 공급합니다.
 

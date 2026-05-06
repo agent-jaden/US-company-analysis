@@ -1,8 +1,15 @@
 # Zoom Communications, Inc. (ZM) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Application | 시총 27B$ (#504위) | 결산월: 1월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 17.7x |
+| P/E (Forward)  | 17.8x |
+| P/B            | 3.3x |
+| EV/EBITDA      | 19.1x |
 
 미주, 아시아 태평양, 유럽 등 전 세계 시장에 인적 연결을 위한 AI 중심의 개방형 작업 플랫폼을 제공합니다. 화상 회의 시스템인 Zoom Meetings, 클라우드 전화인 Zoom Phone, 팀 협업 메신저인 Zoom Team Chat을 통해 원활한 통합 커뮤니케이션을 지원합니다.
 

@@ -1,8 +1,16 @@
 # NASDAQ, INC. (NDAQ) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Financial Data & Stock Exchanges | 시총 51B$ (#318위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 26.8x |
+| P/E (Forward)  | 20.1x |
+| P/B            | 4.2x |
+| EV/EBITDA      | 18.4x |
+| 배당수익률     | 1.18% |
 
 Nasdaq은 미국과 해외에서 자본시장 및 기타 산업에 기술을 제공하는 기업이다. Capital Access Platforms, Financial Technology, Market Services 부문을 통해 상장, 시장 인프라, 금융기술, 거래 및 데이터 관련 서비스를 제공한다.
 

@@ -1,8 +1,16 @@
 # CANADIAN NATIONAL RAILWAY CO (CNI) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Railroads | 시총 70B$ (#243위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 19.7x |
+| P/E (Forward)  | 17.1x |
+| P/B            | 4.2x |
+| EV/EBITDA      | 9.9x |
+| 배당수익률     | 3.27% |
 
 Canadian National Railway Company는 캐나다와 미국 전역을 연결하는 대규모 철도, 복합 운송 및 트럭 운송 비즈니스를 운영합니다. 철도 화물 운송뿐만 아니라 통관, 창고, 특수 화물 처리 및 공급망 물류 관리를 아우르는 종합 운송 솔루션을 지원합니다.
 

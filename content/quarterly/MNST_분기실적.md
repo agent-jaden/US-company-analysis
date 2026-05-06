@@ -1,8 +1,15 @@
 # Monster Beverage Corp (MNST) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Defensive | Beverages - Non-Alcoholic | 시총 75B$ (#227위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 39.1x |
+| P/E (Forward)  | 29.9x |
+| P/B            | 9.0x |
+| EV/EBITDA      | 26.9x |
 
 Monster Beverage Corporation은 미국 및 전 세계 시장에서 에너지 드링크와 농축액을 개발, 마케팅 및 유통하는 기업입니다. Monster Energy Drinks를 포함한 여러 브랜드를 통해 탄산 에너지 음료, 아이스티, 주스 칵테일 등 다양한 즉석 음료 라인업을 판매합니다.
 

@@ -1,8 +1,15 @@
 # COPART INC (CPRT) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Specialty Business Services | 시총 32B$ (#450위) | 결산월: 7월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 20.8x |
+| P/E (Forward)  | 19.7x |
+| P/B            | 3.3x |
+| EV/EBITDA      | 13.9x |
 
 Copart는 미국, 영국, 독일, 브라질, 캐나다, UAE, 스페인, 핀란드, 오만, 아일랜드, 바레인에서 온라인 경매와 차량 remarketing 서비스를 제공한다. 가상입찰 3세대 인터넷 경매 기술을 활용해 차량을 온라인으로 처리·판매하는 서비스를 운영한다.
 

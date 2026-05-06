@@ -1,8 +1,16 @@
 # CF Industries Holdings, Inc. (CF) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Agricultural Inputs | 시총 19B$ (#642위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 14.3x |
+| P/E (Forward)  | 13.8x |
+| P/B            | 4.1x |
+| EV/EBITDA      | 7.5x |
+| 배당수익률     | 1.59% |
 
 CF Industries Holdings, Inc.는 북미와 유럽을 비롯한 전 세계 시장에서 암모니아 및 질소 비료 제품을 생산하는 기업입니다. 암모니아, 입상 요소, UAN(요소질산암모늄) 등의 사업 부문을 통해 농업용 질소 제품은 물론 디젤 배기 유체(DEF) 및 질산 제품 등을 광범위하게 공급합니다.
 

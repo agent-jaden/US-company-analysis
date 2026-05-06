@@ -1,8 +1,16 @@
 # NEXTERA ENERGY INC (NEE) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Utilities | Utilities - Regulated Electric | 시총 198B$ (#68위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 24.4x |
+| P/E (Forward)  | 21.9x |
+| P/B            | 3.6x |
+| EV/EBITDA      | 22.2x |
+| 배당수익률     | 2.43% |
 
 NextEra Energy, Inc.는 북미 지역의 소매 및 도매 고객에게 전력을 생산, 저장, 전송 및 판매하는 에너지 기업입니다. 풍력, 태양광, 원자력, 천연가스 등 다양한 청정 에너지 자원을 활용하여 전력을 생산하며, FPL 및 NEER 부문을 통해 사업을 운영합니다.
 

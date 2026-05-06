@@ -4,6 +4,13 @@
 
 **Communication Services | Telecom Services | 시총 17B$ (#704위) | 결산월: 12월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 13.3x |
+| P/E (Forward)  | 10.9x |
+| P/B            | 0.0x |
+| 배당수익률     | 768.00% |
+
 Telekomunikasi Indonesia는 전 세계에서 ICT와 통신 네트워크 서비스를 제공한다. Mobile, Consumer, Enterprise, Wholesale and International Business 부문을 운영하며 Mobile 부문은 모바일 음성, SMS, 모바일 브로드밴드, 부가서비스를 제공한다.
 
 *Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk provides information and communications technology, and telecommunications network services worldwide. The company operates through Mobile, Consumer, Enterprise, Wholesale and International Business, and Other segments. The Mobile segment offers mobile voice, SMS, mobile broadband, and value added services.*

@@ -1,8 +1,14 @@
 # CoreWeave, Inc. (CRWV) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Infrastructure | 시총 59B$ (#288위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | -254.6x |
+| P/B            | 19.3x |
+| EV/EBITDA      | 38.5x |
 
 CoreWeave는 미국에서 클라우드 인프라 기술 기업으로 운영된다. CoreWeave Cloud 플랫폼은 대규모 AI 인프라를 관리하는 데 필요한 자동화와 효율성을 제공하는 독자 소프트웨어와 클라우드 서비스로 구성된다.
 

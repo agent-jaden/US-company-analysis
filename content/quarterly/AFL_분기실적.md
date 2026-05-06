@@ -1,8 +1,16 @@
 # AFLAC INC (AFL) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance - Life | 시총 59B$ (#289위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 13.1x |
+| P/E (Forward)  | 15.0x |
+| P/B            | 2.0x |
+| EV/EBITDA      | 10.3x |
+| 배당수익률     | 2.07% |
 
 Aflac은 자회사를 통해 보충 건강보험과 생명보험 상품을 제공한다. Aflac Japan과 Aflac U.S. 부문을 운영하며, 일본에서는 암보험, 의료보험, 간병보험, 종신보험, GIFT, WAYS, 자녀 교육자금, Tsumitasu 보험 상품을 판매한다.
 

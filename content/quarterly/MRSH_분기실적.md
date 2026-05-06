@@ -1,8 +1,16 @@
 # MARSH & MCLENNAN COMPANIES, INC. (MRSH) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance Brokers | 시총 82B$ (#201위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 20.9x |
+| P/E (Forward)  | 14.8x |
+| P/B            | 5.5x |
+| EV/EBITDA      | 13.3x |
+| 배당수익률     | 2.14% |
 
 Marsh & McLennan은 전 세계 고객에게 리스크, 전략, 인재 분야의 자문 서비스와 보험 솔루션을 제공하는 전문 서비스 기업이다. Risk and Insurance Services 부문은 리스크 관리, 보험 중개, 보험 프로그램 관리, 리스크 컨설팅, 분석 모델링, 대체 리스크 금융 서비스를 제공한다.
 

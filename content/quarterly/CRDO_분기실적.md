@@ -1,8 +1,15 @@
 # Credo Technology Group Holding Ltd (CRDO) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductors | 시총 33B$ (#432위) | 결산월: 4월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 106.4x |
+| P/E (Forward)  | 35.1x |
+| P/B            | 19.3x |
+| EV/EBITDA      | 98.3x |
 
 Credo Technology Group은 미국, 대만, 중국 본토, 홍콩 및 해외에서 광·전기 Ethernet과 PCIe용 고속 연결 솔루션을 제공한다. HiWire active electrical cable, optical PAM4 DSP, 저전력 line card PHY, SerDes chiplet, SerDes IP, 집적회로와 IP 라이선스를 공급한다.
 

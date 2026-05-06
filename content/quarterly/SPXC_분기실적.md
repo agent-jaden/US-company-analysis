@@ -1,8 +1,15 @@
 # SPX Technologies, Inc. (SPXC) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Building Products & Equipment | 시총 11B$ (#915위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 39.7x |
+| P/E (Forward)  | 23.0x |
+| P/B            | 4.6x |
+| EV/EBITDA      | 22.1x |
 
 SPX Technologies는 미국, 캐나다, 중국, 영국 및 해외에서 HVAC와 감지·측정 시장을 위한 엔지니어드 솔루션을 공급한다. HVAC와 Detection and Measurement 부문을 통해 냉난방·환기 장비와 측정·검출 관련 기술을 제공한다.
 

@@ -1,8 +1,16 @@
 # Toll Brothers, Inc. (TOL) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Residential Construction | 시총 14B$ (#787위) | 결산월: 10월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 9.9x |
+| P/E (Forward)  | 9.7x |
+| P/B            | 1.5x |
+| EV/EBITDA      | 7.8x |
+| 배당수익률     | 0.74% |
 
 Toll Brothers는 미국의 럭셔리 주거 커뮤니티에서 단독 및 연립주택을 설계, 건설, 마케팅, 판매하고 금융을 주선한다. Toll Brothers City Living을 통해 콘도미니엄을 개발·판매하며, 골프장·마리나·수영장·피트니스 등 편의시설을 갖춘 커뮤니티와 아파트·학생주택 개발·운영·임대도 수행한다.
 

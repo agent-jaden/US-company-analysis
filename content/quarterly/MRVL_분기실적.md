@@ -1,8 +1,16 @@
 # Marvell Technology, Inc. (MRVL) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductors | 시총 138B$ (#108위) | 결산월: 1월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 54.8x |
+| P/E (Forward)  | 31.0x |
+| P/B            | 10.0x |
+| EV/EBITDA      | 56.9x |
+| 배당수익률     | 0.15% |
 
 Marvell Technology는 데이터센터 코어부터 네트워크 엣지까지 활용되는 데이터 인프라 반도체 솔루션을 제공한다. 아날로그, mixed-signal, 디지털 신호처리 기능을 통합한 SoC 아키텍처를 개발하며 이더넷 컨트롤러, 네트워크 어댑터, 스위치, 프로세서, 맞춤형 ASIC 등을 공급한다.
 

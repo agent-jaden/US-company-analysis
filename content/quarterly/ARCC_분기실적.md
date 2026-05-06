@@ -1,8 +1,15 @@
 # ARES CAPITAL CORP (ARCC) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Asset Management | 시총 13B$ (#813위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 11.9x |
+| P/E (Forward)  | 10.1x |
+| P/B            | 1.0x |
+| 배당수익률     | 10.01% |
 
 Ares Capital은 중견기업 대상 성장자본, 인수금융, 자본재조정, 메자닌 부채, 구조조정, rescue financing, LBO 거래에 투자하는 BDC다. 제조, 비즈니스 서비스, 소비재, 헬스케어, IT 서비스 업종 기업에 성장자본과 리파이낸싱 자금을 제공한다.
 

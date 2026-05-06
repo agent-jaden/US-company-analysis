@@ -1,8 +1,15 @@
 # Chewy, Inc. (CHWY) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Internet Retail | 시총 11B$ (#950위) | 결산월: 2월**
+**Consumer Cyclical | Internet Retail | 시총 11B$ (#950위) | 결산월: 1월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 47.2x |
+| P/E (Forward)  | 12.5x |
+| P/B            | 20.5x |
+| EV/EBITDA      | 29.0x |
 
 Chewy는 자회사를 통해 미국에서 반려동물 이커머스 사업을 운영한다. 리테일 웹사이트와 모바일 앱, Autoship 구독 프로그램을 통해 반려동물 사료·간식, 용품, 의약품, 건강 제품과 관련 서비스를 제공한다.
 

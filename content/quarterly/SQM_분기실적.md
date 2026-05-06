@@ -4,6 +4,14 @@
 
 **Basic Materials | Specialty Chemicals | 시총 26B$ (#515위) | 결산월: 12월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 45.0x |
+| P/E (Forward)  | 16.6x |
+| P/B            | 4.6x |
+| EV/EBITDA      | 20.9x |
+| 배당수익률     | 111.00% |
+
 Sociedad Química y Minera de Chile S.A.는 칠레, 라틴 아메리카, 아시아 등 전 세계적으로 특수 식물 영양소와 요오드 및 그 파생물을 생산하고 판매하는 기업입니다. Ultrasol, Qrop 등의 브랜드를 통해 질산칼륨, 질산나트륨 및 특수 혼합 비료를 농업 및 산업 시장에 공급합니다.
 
 *Sociedad Química y Minera de Chile S.A. produces and sells specialty plant nutrients, and iodine and its derivatives in Chile, Latin America, the Caribbean, Europe, North America, Asia, and internationally. It offers potassium nitrate, sodium nitrate, specialty blends, and other specialty fertilizers under the Ultrasol, Qrop, Speedfol, Allganic, Ultrasoline, Prop, and Prohydric brands.*

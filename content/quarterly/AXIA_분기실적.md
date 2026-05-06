@@ -4,6 +4,14 @@
 
 **Utilities | Utilities - Renewable | 시총 28B$ (#491위) | 결산월: 12월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 18.8x |
+| P/E (Forward)  | 9.7x |
+| P/B            | 1.5x |
+| EV/EBITDA      | 8.2x |
+| 배당수익률     | 419.00% |
+
 자회사를 통해 브라질에서 전력의 생산, 송전, 배전 및 상업화 사업을 전개하는 에너지 기업입니다. 43,072.7MW 규모의 수력 발전소를 비롯해 풍력 및 태양광 발전 시설을 통해 에너지를 생산하며, 67,030.74km에 달하는 광범위한 송전선 네트워크를 소유하고 있습니다.
 
 *AXIA Energia SA, through its subsidiaries, engages in the generation, transmission, distribution, and commercialization of electricity in Brazil. The company generates electricity through hydroelectric, wind farms, and solar power plants. It also owns hydroelectric plants with a total capacity of 43,072.7 MW; 798.7 MW wind power plants; and 67,030.74 km of transmission lines.*

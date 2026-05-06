@@ -1,8 +1,15 @@
 # Uber Technologies, Inc (UBER) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Application | 시총 157B$ (#94위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 15.4x |
+| P/E (Forward)  | 16.9x |
+| P/B            | 5.6x |
+| EV/EBITDA      | 24.7x |
 
 Uber Technologies, Inc.는 미국, 아시아, 유럽 등 전 세계에서 독자적인 기술 애플리케이션을 개발하고 운영하는 모빌리티 기업입니다. 회사의 주요 사업은 모빌리티(차량 호출), 딜리버리(배달), 그리고 프레이트(화물 운송)의 3가지 핵심 부문으로 구성됩니다.
 

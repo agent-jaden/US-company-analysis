@@ -1,8 +1,14 @@
 # Flutter Entertainment plc (FLUT) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Gambling | 시총 19B$ (#637위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 10.6x |
+| P/B            | 2.0x |
+| EV/EBITDA      | 14.0x |
 
 Flutter Entertainment plc는 미국, 영국, 호주 등 전 세계적으로 스포츠 베팅 및 온라인 게이밍 비즈니스를 운영하는 엔터테인먼트 기업입니다. FanDuel, PokerStars, Betfair 등의 유명 브랜드를 통해 스포츠북, 데일리 판타지 스포츠, 경마 베팅을 비롯해 룰렛, 슬롯머신, 포커 등 다양한 iGaming 상품을 제공합니다.
 

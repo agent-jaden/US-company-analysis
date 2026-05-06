@@ -1,8 +1,15 @@
 # Palo Alto Networks Inc (PANW) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Infrastructure | 시총 148B$ (#98위) | 결산월: 7월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 102.2x |
+| P/E (Forward)  | 46.3x |
+| P/B            | 13.8x |
+| EV/EBITDA      | 95.1x |
 
 Palo Alto Networks, Inc.는 아메리카, 유럽, 아시아 태평양 등 전 세계에 차세대 사이버 보안 솔루션을 제공합니다. 보안 액세스 서비스 엣지 솔루션인 Prisma Access, 네트워크 보안 관리용 Strata Cloud Manager, AI 생태계를 보호하는 Prisma AIRS 등을 지원합니다.
 

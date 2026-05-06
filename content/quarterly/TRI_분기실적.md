@@ -1,8 +1,16 @@
 # THOMSON REUTERS CORP /CAN/ (TRI) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Specialty Business Services | 시총 39B$ (#381위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 27.5x |
+| P/E (Forward)  | 18.9x |
+| P/B            | 3.6x |
+| EV/EBITDA      | 21.3x |
+| 배당수익률     | 277.00% |
 
 Thomson Reuters는 미주, 유럽, 중동, 아프리카, 아시아태평양에서 콘텐츠와 기술 사업을 운영한다. Legal Professionals, Corporates, Tax, Audit & Accounting Professionals, Reuters News, Global Print 부문을 통해 법률 리서치, 워크플로, 세무·회계, 뉴스와 기업용 정보 서비스를 제공한다.
 

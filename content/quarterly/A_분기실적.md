@@ -1,8 +1,16 @@
 # AGILENT TECHNOLOGIES, INC. (A) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Diagnostics & Research | 시총 33B$ (#440위) | 결산월: 10월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 26.0x |
+| P/E (Forward)  | 17.9x |
+| P/B            | 4.8x |
+| EV/EBITDA      | 17.8x |
+| 배당수익률     | 0.89% |
 
 Agilent Technologies는 전 세계 생명과학, 진단, 응용화학 시장에 특화 솔루션을 제공한다. Life Sciences and Diagnostics Markets, Agilent CrossLab, Applied Markets 부문을 통해 분석기기, 진단·연구 솔루션, 실험실 서비스와 소모품을 공급한다.
 

@@ -1,8 +1,14 @@
 # QXO, Inc. (QXO) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Industrial Distribution | 시총 15B$ (#758위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 27.3x |
+| P/B            | 1.5x |
+| EV/EBITDA      | 32.1x |
 
 QXO는 미국과 캐나다에서 지붕재, 방수재, 보완적 건축자재를 유통한다. 주거용 건설 시장에 asphalt shingle, 금속·목재·타일·슬레이트 지붕재, 지붕 액세서리·단열재와 vinyl, aluminum, steel, fiber cement, wood, composite siding, trim, gutter 등을 공급한다.
 

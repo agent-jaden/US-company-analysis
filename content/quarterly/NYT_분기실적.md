@@ -1,8 +1,16 @@
 # NEW YORK TIMES CO (NYT) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Publishing | 시총 13B$ (#830위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 37.0x |
+| P/E (Forward)  | 24.6x |
+| P/B            | 6.1x |
+| EV/EBITDA      | 22.9x |
+| 배당수익률     | 0.92% |
 
 The New York Times Company는 자회사를 통해 전 세계에서 뉴스와 정보를 제작, 수집, 배포한다. The New York Times Group과 The Athletic 부문을 운영하며 모바일 앱, 웹사이트, 인쇄 신문, 팟캐스트 등으로 The New York Times 콘텐츠를 제공한다.
 

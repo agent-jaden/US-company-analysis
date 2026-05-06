@@ -1,8 +1,15 @@
 # Evercore Inc. (EVR) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Capital Markets | 시총 14B$ (#792위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 18.4x |
+| P/E (Forward)  | 14.2x |
+| P/B            | 6.2x |
+| 배당수익률     | 1.07% |
 
 Evercore는 미주, 유럽, 중동, 아프리카, 아시아태평양에서 독립 투자은행으로 운영된다. Investment Banking & Equities와 Investment Management 부문을 통해 M&A, 전략·방어·주주 자문, 특수위원회, 부동산 전략자문, 사모자본 조달, 헤지, 부채자문·구조조정, ECM, 리서치·세일즈·트레이딩 서비스를 제공한다.
 

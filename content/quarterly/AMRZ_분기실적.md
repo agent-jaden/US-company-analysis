@@ -1,8 +1,16 @@
 # Amrize Ltd (AMRZ) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Building Materials | 시총 32B$ (#448위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 26.3x |
+| P/E (Forward)  | 16.9x |
+| P/B            | 2.3x |
+| EV/EBITDA      | 12.5x |
+| 배당수익률     | 0.86% |
 
 Amrize는 북미 인프라, 상업, 주거 건설 시장을 위한 다양한 건축 솔루션을 제공한다. Building Materials와 Building Envelope 부문을 운영하며 Building Materials 부문은 시멘트, 골재, ready-mix concrete, asphalt 및 기타 건설자재를 공급한다.
 

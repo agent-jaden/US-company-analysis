@@ -1,8 +1,15 @@
 # GENMAB A/S (GMAB) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 16B$ (#715위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 17.9x |
+| P/E (Forward)  | 16.0x |
+| P/B            | 2.9x |
+| EV/EBITDA      | 4.2x |
 
 Genmab A/S는 덴마크 기반의 바이오테크 기업으로, 암 및 기타 질병 치료를 위한 항체 기반 의약품을 개발합니다. 재발성 림프종 치료제인 EPKINLY와 TEPKINLY, 전이성 자궁경부암 치료제인 Tivdak을 상용화하여 판매하고 있습니다. 또한 다양한 고형암 및 혈액암 치료를 위해 Epcoritamab, Acasunlimab 등 다수의 혁신적인 항암 신약 후보물질을 임상 개발 중입니다.
 

@@ -1,8 +1,16 @@
 # COCA-COLA EUROPACIFIC PARTNERS plc (CCEP) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
 
 **Consumer Defensive | Beverages - Non-Alcoholic | 시총 43B$ (#365위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 18.7x |
+| P/E (Forward)  | 16.3x |
+| P/B            | 4.6x |
+| EV/EBITDA      | 15.3x |
+| 배당수익률     | 2.21% |
 
 Coca-Cola Europacific Partners는 무알코올 ready-to-drink 음료를 생산·유통·판매한다. Coca-Cola Original Taste, Coca-Cola Zero Sugar, Diet Coke, Sprite, Fanta, Monster Energy, Dr Pepper, Fuze Tea, Minute Maid, Schweppes 등 다양한 브랜드로 탄산음료, 에너지음료, 물, 차·커피, 주스, 이온음료를 제공한다.
 

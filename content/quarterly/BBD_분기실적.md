@@ -4,6 +4,13 @@
 
 **Financial Services | Banks - Regional | 시총 41B$ (#369위) | 결산월: 12월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 8.9x |
+| P/E (Forward)  | 7.5x |
+| P/B            | 1.1x |
+| 배당수익률     | 32.21% |
+
 Banco Bradesco는 브라질과 해외에서 다양한 은행 상품과 서비스를 제공한다. Banking과 Insurance 부문을 운영하며 투자은행, 국내·국제·프라이빗뱅킹, 투자펀드 운용, 컨소시엄 관리, 중견·대기업 금융, 리스 사업을 수행한다.
 
 *Banco Bradesco S.A., together with its subsidiaries, provides various banking products and services in Brazil and internationally. The company operates in two segments, Banking and Insurance. It engages in banking operations, including investment, national, international, and private banking, as well as investment fund management, consortium administration, middle market and corporate activities, and leasing.*

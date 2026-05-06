@@ -1,8 +1,15 @@
 # INSULET CORP (PODD) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Medical Devices | 시총 13B$ (#818위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 48.1x |
+| P/E (Forward)  | 20.8x |
+| P/B            | 7.8x |
+| EV/EBITDA      | 21.4x |
 
 Insulet은 미국과 해외에서 인슐린 의존성 당뇨 환자를 위한 인슐린 전달 시스템을 개발·제조·판매한다. Omnipod 5 자동 인슐린 전달 시스템, Omnipod DASH, Omnipod Insulin Management System을 제공하며 Amgen의 Neulasta Onpro kit용 pod도 공급한다.
 

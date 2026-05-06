@@ -1,8 +1,14 @@
 # Cloudflare, Inc. (NET) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Infrastructure | 시총 75B$ (#228위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 169.5x |
+| P/B            | 58.9x |
+| EV/EBITDA      | -2013.3x |
 
 Cloudflare, Inc.는 전 세계 기업에 네트워크 성능 향상 및 클라우드 기반 보안 솔루션을 제공합니다. 퍼블릭 클라우드, SaaS 애플리케이션 및 IoT 기기를 보호하는 포괄적인 네트워크 인프라와 더불어 웹 방화벽(WAF), DDoS 방어 등 강력한 애플리케이션 보안 제품을 지원합니다.
 

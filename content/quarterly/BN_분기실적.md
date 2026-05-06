@@ -1,8 +1,16 @@
 # BROOKFIELD Corp /ON/ (BN) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Asset Management | 시총 100B$ (#160위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 93.6x |
+| P/E (Forward)  | 7.8x |
+| P/B            | 2.3x |
+| EV/EBITDA      | 15.5x |
+| 배당수익률     | 0.53% |
 
 Brookfield Corporation은 부동산, 신용, 재생에너지·전환, 인프라, 벤처캐피털, 사모펀드에 투자하는 멀티에셋 운용사다. 기관 및 개인 고객을 대상으로 공모·사모 투자상품을 운용하며, 지역과 자산군을 넘나드는 대형 우량자산에 주로 투자한다.
 

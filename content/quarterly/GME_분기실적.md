@@ -1,8 +1,15 @@
 # GameStop Corp. (GME) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Cyclical | Specialty Retail | 시총 11B$ (#902위) | 결산월: 2월**
+**Consumer Cyclical | Specialty Retail | 시총 11B$ (#902위) | 결산월: 1월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 31.5x |
+| P/E (Forward)  | 29.9x |
+| P/B            | 2.0x |
+| EV/EBITDA      | 20.7x |
 
 GameStop Corp.는 북미, 유럽 등지에서 매장과 전자상거래 플랫폼을 통해 비디오 게임, 콘솔, 수집품 등을 판매하는 게임 및 엔터테인먼트 전문 소매업체입니다. 신규 및 중고 게임 소프트웨어와 기기, 팝 컬처 애호가를 위한 한정판 굿즈 및 디지털 게임 다운로드 상품 등을 다양하게 제공합니다.
 

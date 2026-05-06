@@ -1,8 +1,14 @@
 # Guardant Health, Inc. (GH) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Diagnostics & Research | 시총 12B$ (#895위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | -129.5x |
+| P/B            | -117.8x |
+| EV/EBITDA      | -30.9x |
 
 Guardant Health, Inc.는 전 세계 의료진과 환자에게 정밀 종양학을 위한 혈액 및 조직 검사 서비스를 제공하는 생명공학 기업입니다. 분자 수준에서 암 돌연변이를 분석하는 Guardant360 액체 생검 및 조직 검사, 재발 모니터링을 위한 Reveal, 그리고 성인 대장암 스크리닝을 위한 Shield 혈액 검사를 상용화했습니다.
 

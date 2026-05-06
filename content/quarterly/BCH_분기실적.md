@@ -4,6 +4,13 @@
 
 **Financial Services | Banks - Regional | 시총 19B$ (#638위) | 결산월: 12월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 14.8x |
+| P/E (Forward)  | 11.8x |
+| P/B            | 0.6x |
+| 배당수익률     | 599.00% |
+
 Banco de Chile는 칠레 전역에서 광범위한 상업 은행 서비스를 제공하는 금융 기관입니다. 소매 금융, 도매 금융, 자금 및 자회사 부문을 통해 개인 및 기업 고객에게 당좌 예금, 모기지 대출, 신용카드, 소비자 신용 및 디지털 뱅킹 솔루션을 포괄적으로 지원합니다.
 
 *Banco de Chile, together with its subsidiaries, provides commercial banking services in Chile. It operates through four segments: Retail Banking, Wholesale Banking, Treasury, and Subsidiaries. The company offers current account and digital student plans; digital and checking accounts; mortgage loans; credit and debit cards; consumer credit; applications; deposits and savings; financing; autoleasing; online payments; cell phone top-ups; foreign currency; and income accreditation.*

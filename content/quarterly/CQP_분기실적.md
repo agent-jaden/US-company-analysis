@@ -1,8 +1,16 @@
 # Cheniere Energy Partners, L.P. (CQP) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Midstream | 시총 30B$ (#464위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 12.8x |
+| P/E (Forward)  | 15.0x |
+| P/B            | 10.2x |
+| EV/EBITDA      | 10.0x |
+| 배당수익률     | 4.95% |
 
 미국 루이지애나주의 Sabine Pass LNG Terminal에 위치한 천연가스 액화 및 수출 시설을 소유 및 운영하며 전 세계 에너지 기업에 액화천연가스(LNG)를 공급합니다. 또한, 해당 터미널을 다양한 상호 파이프라인과 연결하는 천연가스 공급망인 Creole Trail Pipeline도 소유하고 있습니다.
 

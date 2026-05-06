@@ -1,8 +1,16 @@
 # Johnson Controls International plc (JCI) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Building Products & Equipment | 시총 88B$ (#190위) | 결산월: 9월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 48.6x |
+| P/E (Forward)  | 26.0x |
+| P/B            | 6.7x |
+| EV/EBITDA      | 23.7x |
+| 배당수익률     | 1.07% |
 
 Johnson Controls는 미주, 유럽, 중동, 아프리카, 아시아태평양에서 건물 제품과 시스템을 설계·제조·시공·개조한다. HVAC, 제어, 빌딩관리, 냉동, 전자보안, 화재감지·진압, 디지털 솔루션과 에너지·기술 서비스, 점검·정비·수리 서비스를 제공한다.
 

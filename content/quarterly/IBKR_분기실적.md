@@ -1,8 +1,15 @@
 # Interactive Brokers Group, Inc. (IBKR) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Capital Markets | 시총 35B$ (#422위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 36.2x |
+| P/E (Forward)  | 29.4x |
+| P/B            | 6.7x |
+| 배당수익률     | 0.39% |
 
 Interactive Brokers Group은 미국과 해외에서 자동화 전자 브로커로 운영된다. 주식, 옵션, 선물, 외환, 채권, 귀금속, 암호화폐 거래의 실행·청산·결제를 제공하며 수탁, prime brokerage, 증권 및 마진 대출 서비스도 운영한다.
 

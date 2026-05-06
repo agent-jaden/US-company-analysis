@@ -1,8 +1,16 @@
 # UNITED PARCEL SERVICE INC (UPS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Integrated Freight & Logistics | 시총 92B$ (#184위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 15.9x |
+| P/E (Forward)  | 12.4x |
+| P/B            | 5.1x |
+| EV/EBITDA      | 8.9x |
+| 배당수익률     | 6.81% |
 
 United Parcel Service는 운송과 배송 서비스를 제공하는 글로벌 패키지 배송·물류 기업이다. U.S. Domestic Package와 International Package 부문을 통해 미국 내 및 국제 패키지 배송 서비스를 운영한다.
 

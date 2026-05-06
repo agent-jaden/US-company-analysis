@@ -1,8 +1,16 @@
 # JABIL INC (JBL) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 8월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 8월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Electronic Components | 시총 36B$ (#415위) | 결산월: 8월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 45.5x |
+| P/E (Forward)  | 23.2x |
+| P/B            | 26.6x |
+| EV/EBITDA      | 16.1x |
+| 배당수익률     | 0.09% |
 
 Jabil은 전 세계에서 엔지니어링, 제조, 공급망 솔루션을 제공한다. Regulated Industries, Intelligent Infrastructure, Connected Living and Digital Commerce 부문을 통해 다양한 산업 고객의 제품 설계·생산·공급망 운영을 지원한다.
 

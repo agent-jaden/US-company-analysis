@@ -1,8 +1,16 @@
 # ELECTRONIC ARTS INC. (EA) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Electronic Gaming & Multimedia | 시총 51B$ (#319위) | 결산월: 3월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 57.4x |
+| P/E (Forward)  | 21.9x |
+| P/B            | 8.2x |
+| EV/EBITDA      | 37.0x |
+| 배당수익률     | 0.38% |
 
 Electronic Arts는 전 세계 콘솔, PC, 모바일용 게임, 콘텐츠, 서비스를 개발·마케팅·퍼블리싱·제공한다. 스포츠, 레이싱, FPS, 액션, RPG, 시뮬레이션 장르의 게임과 EA SPORTS College Football, EA SPORTS Madden NFL, The Sims, Apex Legends, Battlefield 기반 라이브 서비스, 추가 콘텐츠, 구독 서비스를 운영한다.
 

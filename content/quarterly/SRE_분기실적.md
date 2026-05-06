@@ -1,8 +1,16 @@
 # SEMPRA (SRE) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Utilities | Utilities - Diversified | 시총 60B$ (#280위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 34.3x |
+| P/E (Forward)  | 17.1x |
+| P/B            | 1.9x |
+| EV/EBITDA      | 19.5x |
+| 배당수익률     | 2.73% |
 
 Sempra는 미국과 멕시코에서 규제 유틸리티 사업을 운영한다. Sempra California, Sempra Texas Utilities, Sempra Infrastructure 부문을 통해 전기·가스 유틸리티와 에너지 인프라에 투자하고 고객에게 에너지 서비스를 제공한다.
 

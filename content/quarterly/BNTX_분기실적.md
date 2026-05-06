@@ -4,6 +4,12 @@
 
 **Healthcare | Biotechnology | 시총 26B$ (#523위) | 결산월: 12월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | -21.4x |
+| P/B            | 1.1x |
+| EV/EBITDA      | -9.2x |
+
 BioNTech SE는 독일을 기반으로 다양한 질환에 대한 면역 치료제를 개발하고 상용화하는 생명공학 기업입니다. 코로나19 mRNA 백신인 BNT162를 개발했으며, 현재 전이성 비소세포폐암 및 유방암 등을 표적으로 하는 다수의 3상 임상 항암제 후보 물질(Gotistobart, Pumitamig 등)을 연구하고 있습니다.
 
 *BioNTech SE, together with its subsidiaries, engages in the development and commercialization of immunotherapies in Germany. The company offers BNT162, an mRNA vaccine for the treatment of SARS-CoV-2 virus. It also develops oncology drugs under Phase III clinical trial, including Gotistobart for metastatic non-small cell lung cancer, Pumitamig for small cell lung cancer and advanced/metastatic triple-negative breast cancer, and Trastuzumab pamirtecan for metastatic breast cancer and epirubicin and cyclophosphamide; and drugs under Phase 2/3 clinical trial, such as BNT113 for human papillomavirus and head and neck squamous cell carcinoma, as well as Pumitamig for metastatic colorectal and non-small cell lung cancer.*

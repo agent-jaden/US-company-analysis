@@ -1,8 +1,15 @@
 # Performance Food Group Co (PFGC) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
 
-**Consumer Defensive | Food Distribution | 시총 14B$ (#789위) | 결산월: 6월**
+**Consumer Defensive | Food Distribution | 시총 14B$ (#789위) | 결산월: 7월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 39.4x |
+| P/E (Forward)  | 14.8x |
+| P/B            | 2.9x |
+| EV/EBITDA      | 13.2x |
 
 Performance Food Group은 자회사를 통해 북미에서 식품과 식품 관련 제품을 마케팅·유통한다. Foodservice, Convenience, Specialty 부문을 통해 육류·해산물, 냉동·냉장식품, 식료품, 청소·주방용품, 사탕·스낵·음료, 신선식품, 유제품, 잡화, 헬스·뷰티 제품 등을 공급한다.
 

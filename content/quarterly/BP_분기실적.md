@@ -1,8 +1,16 @@
 # BP PLC (BP) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: GBP
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: GBP
 
 **Energy | Oil & Gas Integrated | 시총 118B$ (#134위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 37.5x |
+| P/E (Forward)  | 11.4x |
+| P/B            | 9.0x |
+| EV/EBITDA      | 22.7x |
+| 배당수익률     | 0.71% |
 
 BP는 전 세계에서 석유와 가스 사업을 영위하는 종합 에너지 기업이다. Gas & Low Carbon Energy, Oil Production & Operations, Customers & Products 부문을 통해 천연가스 생산, 마케팅·트레이딩, 태양광·풍력·수소 등 저탄소 에너지 사업도 수행한다.
 

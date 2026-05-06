@@ -1,8 +1,16 @@
 # REGAL REXNORD CORP (RRX) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Specialty Industrial Machinery | 시총 14B$ (#781위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 52.7x |
+| P/E (Forward)  | 16.5x |
+| P/B            | 2.2x |
+| EV/EBITDA      | 16.0x |
+| 배당수익률     | 0.66% |
 
 Regal Rexnord는 북미, 아시아, 유럽 및 해외에서 동력 전달과 모션 제어 제품을 위한 지속가능 솔루션을 제공한다. Automation & Motion Control, Industrial Powertrain Solutions, Power Efficiency Solutions 부문을 통해 컨베이어, 자동화 서브시스템, 항공우주 부품, 정밀 모션 제어, 서보모터, 드라이브, 리니어 액추에이터, 전력관리 제품을 공급한다.
 

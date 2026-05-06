@@ -1,8 +1,16 @@
 # GE Vernova Inc. (GEV) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Specialty Industrial Machinery | 시총 301B$ (#43위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 32.1x |
+| P/E (Forward)  | 45.2x |
+| P/B            | 21.1x |
+| EV/EBITDA      | 84.8x |
+| 배당수익률     | 0.14% |
 
 GE Vernova Inc.는 미국, 유럽, 아시아 등 전 세계에서 전력을 생성, 변환 및 저장하는 다양한 제품과 서비스를 제공하는 에너지 기업입니다. 전력, 풍력, 전기화(Electrification) 세 가지 부문으로 운영되며 가스, 원자력, 수력 및 증기 기술을 설계하고 유지보수합니다.
 

@@ -1,8 +1,16 @@
 # Qnity Electronics, Inc. (Q) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductor Equipment & Materials | 시총 30B$ (#467위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 44.4x |
+| P/E (Forward)  | 33.4x |
+| P/B            | 4.3x |
+| EV/EBITDA      | 24.8x |
+| 배당수익률     | 0.04% |
 
 미국, 유럽, 아시아 태평양 등 전 세계 반도체 및 전자 산업을 위한 첨단 소재와 솔루션을 제공합니다. 반도체 기술(Semiconductor Technologies) 부문과 상호 연결 솔루션(Interconnect Solutions)의 두 가지 주요 사업 부문을 통해 제품을 공급합니다.
 

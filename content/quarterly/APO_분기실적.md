@@ -1,8 +1,15 @@
 # Apollo Global Management, Inc. (APO) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Asset Management | 시총 71B$ (#240위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 23.5x |
+| P/E (Forward)  | 12.3x |
+| P/B            | 3.4x |
+| 배당수익률     | 1.58% |
 
 Apollo Global Management, Inc.는 신용, 사모펀드, 인프라 및 부동산 시장 투자에 특화된 선도적인 글로벌 대체 자산 운용사입니다. 공공 및 민간 시장 전반에 걸친 공격적인 자본 배분을 통해 다각화된 투자 포트폴리오를 구축하고 관리합니다.
 

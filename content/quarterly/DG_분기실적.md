@@ -1,8 +1,16 @@
 # DOLLAR GENERAL CORP (DG) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Defensive | Discount Stores | 시총 26B$ (#518위) | 결산월: 1월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 17.1x |
+| P/E (Forward)  | 14.6x |
+| P/B            | 3.0x |
+| EV/EBITDA      | 12.2x |
+| 배당수익률     | 2.06% |
 
 Dollar General Corporation은 미국 남부, 중서부, 동부 등지에서 소비재, 포장 식품, 신선 식품 및 계절 상품을 판매하는 대규모 할인 소매 체인입니다. 식료품과 생활용품부터 의류, 가정용품, 처방전 없이 살 수 있는 일반 의약품(OTC)까지 다양한 생필품을 합리적인 가격에 제공합니다.
 

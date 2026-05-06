@@ -1,8 +1,15 @@
 # Corebridge Financial, Inc. (CRBG) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Asset Management | 시총 12B$ (#861위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 4.8x |
+| P/B            | 1.1x |
+| EV/EBITDA      | 10.8x |
+| 배당수익률     | 3.58% |
 
 Corebridge Financial, Inc.는 미국 내에서 은퇴 솔루션과 생명보험 상품을 제공하는 선도적인 금융 기업입니다. 개인 은퇴, 그룹 은퇴, 생명보험 및 기관 시장의 4개 사업 부문을 통해 광범위한 자산 관리 및 보호 서비스를 지원합니다.
 

@@ -1,8 +1,15 @@
 # Autodesk, Inc. (ADSK) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Application | 시총 50B$ (#328위) | 결산월: 1월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 47.6x |
+| P/E (Forward)  | 17.7x |
+| P/B            | 17.4x |
+| EV/EBITDA      | 27.7x |
 
 Autodesk는 전 세계에서 3D 설계, 엔지니어링, 엔터테인먼트 기술 솔루션을 제공한다. AutoCAD Civil 3D, Autodesk Build, Revit, Autodesk BIM Collaborate Pro, BuildingConnected, Tandem 등을 통해 설계·시공·문서관리·BIM 협업·건설 자산 수명주기 관리를 지원한다.
 

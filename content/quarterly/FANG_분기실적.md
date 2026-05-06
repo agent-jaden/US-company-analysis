@@ -1,8 +1,16 @@
 # Diamondback Energy, Inc. (FANG) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas E&P | 시총 55B$ (#302위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 208.3x |
+| P/E (Forward)  | 11.9x |
+| P/B            | 1.6x |
+| EV/EBITDA      | 7.7x |
+| 배당수익률     | 213.00% |
 
 Diamondback Energy는 미국 서부 텍사스 Permian Basin에서 비전통 육상 원유와 천연가스 매장지를 취득, 개발, 탐사, 생산하는 독립 에너지 기업이다. Midland Basin의 Spraberry·Wolfcamp 지층과 텍사스·뉴멕시코 Delaware Basin의 Wolfcamp·Bone Spring 지층 개발에 주력한다.
 

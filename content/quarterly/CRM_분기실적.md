@@ -1,8 +1,16 @@
 # Salesforce, Inc. (CRM) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Application | 시총 147B$ (#101위) | 결산월: 1월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 24.0x |
+| P/E (Forward)  | 12.5x |
+| P/B            | 2.9x |
+| EV/EBITDA      | 14.4x |
+| 배당수익률     | 0.90% |
 
 Salesforce는 미국, 유럽, 아시아태평양 지역에서 기업과 고객을 연결하는 CRM 기술 서비스를 제공한다. Agentforce, Data 360, Informatica, Slack 등을 통해 기업용 AI 에이전트 구축·운영, 영업·고객서비스 자동화, 데이터 통합·관리, 실시간 협업 환경을 지원한다.
 

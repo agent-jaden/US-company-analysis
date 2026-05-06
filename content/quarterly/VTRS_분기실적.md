@@ -1,8 +1,15 @@
 # Viatris Inc (VTRS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Drug Manufacturers - Specialty & Generic | 시총 17B$ (#683위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 5.8x |
+| P/B            | 1.2x |
+| EV/EBITDA      | 7.8x |
+| 배당수익률     | 3.16% |
 
 Viatris는 북미, 유럽, 중국, 대만, 홍콩, 일본, 호주, 뉴질랜드, 아시아, 아프리카, 라틴아메리카, 중동에서 헬스케어 사업을 운영한다. Developed Markets, Greater China, JANZ, Emerging Markets 부문을 통해 브랜드 처방약, 제네릭, complex generic, 바이오시밀러를 제공한다.
 

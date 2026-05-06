@@ -1,8 +1,15 @@
 # AXON ENTERPRISE, INC. (AXON) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Aerospace & Defense | 시총 32B$ (#443위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 250.4x |
+| P/E (Forward)  | 36.4x |
+| P/B            | 9.4x |
+| EV/EBITDA      | 575.3x |
 
 Axon Enterprise는 미국과 해외에서 공공안전 기술 솔루션을 제공한다. Software and Services, Connected Devices 부문을 통해 법집행 및 공공안전 기관을 위한 소프트웨어, 서비스, 연결 기기 기반 솔루션을 운영한다.
 

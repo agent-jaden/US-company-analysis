@@ -1,8 +1,16 @@
 # BARRICK MINING CORP (B) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Gold | 시총 68B$ (#249위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 13.2x |
+| P/E (Forward)  | 8.5x |
+| P/B            | 2.4x |
+| EV/EBITDA      | 7.3x |
+| 배당수익률     | 1.30% |
 
 Barrick Mining Corporation은 금, 구리, 은 및 에너지 광물을 탐사, 개발, 생산 및 판매하는 글로벌 광업 기업입니다. 과거 Barrick Gold Corporation으로 알려졌으나 2025년 5월 사명을 변경하고 에너지 자원으로 포트폴리오를 확장하여 사업을 전개하고 있습니다.
 

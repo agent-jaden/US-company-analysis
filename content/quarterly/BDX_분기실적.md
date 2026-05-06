@@ -1,8 +1,16 @@
 # BECTON DICKINSON & CO (BDX) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Medical Instruments & Supplies | 시총 43B$ (#364위) | 결산월: 9월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 23.6x |
+| P/E (Forward)  | 10.7x |
+| P/B            | 1.6x |
+| EV/EBITDA      | 9.9x |
+| 배당수익률     | 2.85% |
 
 Becton, Dickinson and Company는 전 세계 의료기관, 의사, 생명과학 연구자, 임상검사실, 제약업계, 일반 고객에게 의료용품, 의료기기, 실험실 장비, 진단 제품을 개발·제조·판매한다. IV 카테터, 중심정맥관, 주사기·바늘, 약물전달·주입 시스템, 약국 자동화, 혈역학 모니터링, prefillable drug delivery system 등을 제공한다.
 

@@ -1,8 +1,15 @@
 # Li Auto Inc. (LI) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
 
 **Consumer Cyclical | Auto Manufacturers | 시총 18B$ (#657위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 111.1x |
+| P/E (Forward)  | 19.1x |
+| P/B            | 1.7x |
+| EV/EBITDA      | -11.1x |
 
 Li Auto는 중국 신에너지차 시장에서 사업을 운영한다. 프리미엄 스마트 전기차를 설계, 개발, 제조, 판매하는 자동차 기업이다.
 

@@ -1,8 +1,15 @@
 # Hewlett Packard Enterprise Co (HPE) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Communication Equipment | 시총 38B$ (#393위) | 결산월: 10월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 11.0x |
+| P/B            | 1.6x |
+| EV/EBITDA      | 11.6x |
+| 배당수익률     | 1.86% |
 
 Hewlett Packard Enterprise는 미국, 미주, 유럽, 중동, 아프리카, 아시아태평양, 일본 등에서 지능형 IT 솔루션을 개발한다. Server, Hybrid Cloud, Networking, Financial Services 부문을 통해 HPE ProLiant, HPE Synergy, HPE Scale Up, HPE Edgeline, HPE Cray EX/XD, HPE NonStop 등 서버와 통합 시스템을 제공한다.
 

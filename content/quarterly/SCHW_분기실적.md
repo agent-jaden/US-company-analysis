@@ -1,8 +1,15 @@
 # SCHWAB CHARLES CORP (SCHW) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Capital Markets | 시총 159B$ (#91위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 18.4x |
+| P/E (Forward)  | 13.2x |
+| P/B            | 3.3x |
+| 배당수익률     | 1.24% |
 
 The Charles Schwab Corporation은 미국 및 전 세계에서 자산 관리, 증권 중개, 은행업 및 금융 자문 서비스를 제공하는 저축 대부 지주 회사입니다. 투자자 및 자문 서비스 부문을 통해 주식 및 옵션 거래, 뮤추얼 펀드, 모기지 대출 및 맞춤형 포트폴리오 관리 등 종합적인 금융 솔루션을 지원합니다.
 

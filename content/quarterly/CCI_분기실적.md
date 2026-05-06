@@ -1,8 +1,16 @@
 # CROWN CASTLE INC. (CCI) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | REIT - Specialty | 시총 36B$ (#408위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 37.6x |
+| P/E (Forward)  | 30.1x |
+| P/B            | -20.2x |
+| EV/EBITDA      | 25.2x |
+| 배당수익률     | 4.71% |
 
 Crown Castle은 약 40,000개의 통신 타워와 약 90,000 route miles의 광섬유망을 보유·운영·임대한다. 미국 주요 시장에서 통신사업자의 small cell과 fiber 솔루션 구축을 지원하는 통신 인프라 REIT다.
 

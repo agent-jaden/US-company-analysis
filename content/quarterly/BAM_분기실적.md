@@ -1,8 +1,16 @@
 # Brookfield Asset Management Ltd. (BAM) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Asset Management | 시총 77B$ (#219위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 31.4x |
+| P/E (Forward)  | 22.1x |
+| P/B            | 9.6x |
+| EV/EBITDA      | 26.5x |
+| 배당수익률     | 3.68% |
 
 Brookfield Asset Management Ltd.는 기업 인수 및 성장 자본 투자에 특화된 글로벌 대체 자산 운용사입니다. 주로 기관 투자자, 고액 자산가, 연기금 및 국부 펀드를 대상으로 인프라, 부동산 및 사모펀드 형태의 자산 관리 서비스를 제공합니다.
 

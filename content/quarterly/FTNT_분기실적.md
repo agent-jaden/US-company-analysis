@@ -1,8 +1,15 @@
 # Fortinet, Inc. (FTNT) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Infrastructure | 시총 63B$ (#268위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 37.2x |
+| P/E (Forward)  | 27.2x |
+| P/B            | 54.0x |
+| EV/EBITDA      | 28.8x |
 
 Fortinet은 전 세계에서 사이버보안과 네트워크·보안 융합 솔루션을 제공한다. FortiOS, FortiASIC, FortiCloud, FortiAI, FortiEndpoint, OT Security 등을 통해 사이버 위협 대응, 보안 처리, 클라우드 보안, 엔드포인트 보호, 산업 인프라 보안을 지원한다.
 

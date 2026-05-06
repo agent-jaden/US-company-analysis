@@ -1,8 +1,16 @@
 # CENOVUS ENERGY INC. (CVE) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Integrated | 시총 50B$ (#321위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 19.3x |
+| P/E (Forward)  | 12.6x |
+| P/B            | 2.5x |
+| EV/EBITDA      | 7.2x |
+| 배당수익률     | 2.60% |
 
 Cenovus Energy는 캐나다, 미국, 중국에서 원유, 천연가스, 정제 석유제품을 개발·생산·정제·운송·마케팅한다. Upstream과 Downstream 부문을 운영하며 bitumen과 heavy oil 개발·생산, 파이프라인 수집 시스템과 터미널 운영, Alberta와 British Columbia의 NGL·천연가스 자산, 캐나다 동해안과 아시아태평양 해상 사업을 수행한다.
 

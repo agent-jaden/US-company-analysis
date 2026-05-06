@@ -1,8 +1,15 @@
 # BITMINE IMMERSION TECHNOLOGIES, INC. (BMNR) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 8월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 8월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Capital Markets | 시총 12B$ (#859위) | 결산월: 8월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 24.6x |
+| P/B            | 1.2x |
+| EV/EBITDA      | -38.6x |
+| 배당수익률     | 0.04% |
 
 Bitmine Immersion Technologies, Inc.는 미국을 중심으로 활동하는 블록체인 기술 기업입니다. 자체적인 비트코인(BTC) 채굴은 축소하는 대신 ETH 재무 운영, BTC 생태계 컨설팅, 장비 임대, 제3자 데이터 센터 호스팅 지원 등 자본 관리와 서비스 최적화 비즈니스에 주력하고 있습니다.
 

@@ -1,8 +1,15 @@
 # Edwards Lifesciences Corp (EW) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Medical Devices | 시총 48B$ (#334위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 44.8x |
+| P/E (Forward)  | 24.7x |
+| P/B            | 4.7x |
+| EV/EBITDA      | 23.5x |
 
 Edwards Lifesciences는 미국, 유럽, 일본 등에서 중증 심혈관질환 치료 제품과 기술을 제공한다. Edwards SAPIEN 계열의 경피적 대동맥판막 치환 제품, PASCAL·EVOQUE 브랜드의 승모판·삼첨판 치료 제품, INSPIRIS, KONECT RESILIA, MITRIS RESILIA 등 외과적 구조심장 솔루션을 공급한다.
 

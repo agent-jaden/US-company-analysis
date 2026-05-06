@@ -1,8 +1,15 @@
 # KRATOS DEFENSE & SECURITY SOLUTIONS, INC. (KTOS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Aerospace & Defense | 시총 12B$ (#882위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 456.2x |
+| P/E (Forward)  | 54.9x |
+| P/B            | 5.0x |
+| EV/EBITDA      | 129.5x |
 
 Kratos Defense & Security Solutions, Inc.는 전 세계 국방, 국가 안보 및 상업 시장에 첨단 군사 기술과 하드웨어를 제공합니다. 제트 추진 무인 드론 시스템, 극초음속 로켓, 위성 및 우주 차량을 위한 지상 관제 소프트웨어와 무인 항공기 요격용 지향성 에너지 시스템을 주력으로 개발합니다.
 

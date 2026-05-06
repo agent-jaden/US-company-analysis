@@ -1,8 +1,15 @@
 # CHECK POINT SOFTWARE TECHNOLOGIES LTD (CHKP) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Infrastructure | 시총 14B$ (#771위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 12.1x |
+| P/E (Forward)  | 10.3x |
+| P/B            | 4.4x |
+| EV/EBITDA      | 13.2x |
 
 Check Point Software Technologies는 전 세계에서 IT 보안 제품과 서비스를 개발, 마케팅, 지원한다. 클라우드, 네트워크, 모바일 기기, 엔드포인트, 정보, IoT 솔루션을 보호하는 다층 보안 아키텍처를 제공한다.
 

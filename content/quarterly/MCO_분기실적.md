@@ -1,8 +1,16 @@
 # MOODYS CORP /DE/ (MCO) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Financial Data & Stock Exchanges | 시총 80B$ (#205위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 32.6x |
+| P/E (Forward)  | 24.5x |
+| P/B            | 26.5x |
+| EV/EBITDA      | 22.4x |
+| 배당수익률     | 0.86% |
 
 Moody's Corporation은 미국, 유럽, 아시아 태평양 등 전 세계에서 통합 위험 평가 기업으로 운영됩니다. Moody's Analytics(MA)와 Moody's Investors Services(MIS) 두 부문을 통해 금융 시장 참여자의 위험 관리 활동을 지원하는 데이터, 솔루션 및 신용 평가 서비스를 제공합니다.
 

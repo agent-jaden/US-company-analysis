@@ -1,8 +1,16 @@
 # RTX Corp (RTX) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Aerospace & Defense | 시총 233B$ (#57위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 32.5x |
+| P/E (Forward)  | 22.9x |
+| P/B            | 3.6x |
+| EV/EBITDA      | 17.5x |
+| 배당수익률     | 1.57% |
 
 RTX Corporation은 전 세계 상업용, 군사용 및 정부 고객에게 시스템과 서비스를 제공하는 항공우주 및 방위 산업 기업입니다. Collins Aerospace, Pratt & Whitney, Raytheon 세 가지 부문을 통해 민간 및 군용 항공기 제조업체, 상업용 항공사 및 방위 우주 작전을 위한 제품과 애프터마켓 서비스를 제공합니다.
 

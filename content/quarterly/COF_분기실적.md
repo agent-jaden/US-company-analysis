@@ -1,8 +1,15 @@
 # CAPITAL ONE FINANCIAL CORP (COF) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Credit Services | 시총 123B$ (#129위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 58.5x |
+| P/E (Forward)  | 7.9x |
+| P/B            | 1.1x |
+| 배당수익률     | 1.47% |
 
 Capital One Financial은 미국, 캐나다, 영국에서 다양한 금융 상품과 서비스를 제공하는 금융지주회사다. Credit Card, Consumer Banking, Commercial Banking 부문을 운영하며 당좌·저축·정기예금, 머니마켓 예금, sweep account 등 예금 상품을 취급한다.
 

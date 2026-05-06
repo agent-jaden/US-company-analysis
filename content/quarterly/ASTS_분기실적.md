@@ -1,8 +1,14 @@
 # AST SpaceMobile, Inc. (ASTS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Communication Equipment | 시총 23B$ (#575위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | -422.8x |
+| P/B            | 9.9x |
+| EV/EBITDA      | -80.9x |
 
 AST SpaceMobile은 자회사를 통해 미국에서 BlueBird 위성군을 설계·개발한다. 지상 셀룰러 커버리지를 벗어난 이용자에게 스마트폰으로 직접 접속 가능한 우주 기반 셀룰러 브로드밴드 네트워크를 상업·정부용으로 제공하는 것을 목표로 한다.
 

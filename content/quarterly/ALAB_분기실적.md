@@ -1,8 +1,15 @@
 # Astera Labs, Inc. (ALAB) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductors | 시총 34B$ (#427위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 144.8x |
+| P/E (Forward)  | 60.0x |
+| P/B            | 26.9x |
+| EV/EBITDA      | 197.3x |
 
 Astera Labs는 클라우드와 AI 인프라용 반도체 기반 연결 솔루션을 설계·제조·판매한다. 고속 mixed-signal 연결 제품, 마이크로컨트롤러와 센서를 통합한 지능형 연결 플랫폼, COSMOS를 제공한다.
 

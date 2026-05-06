@@ -1,8 +1,16 @@
 # CONSOLIDATED EDISON INC (ED) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Utilities | Utilities - Regulated Electric | 시총 40B$ (#377위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 19.4x |
+| P/E (Forward)  | 16.8x |
+| P/B            | 1.6x |
+| EV/EBITDA      | 11.0x |
+| 배당수익률     | 3.10% |
 
 Consolidated Edison은 자회사를 통해 미국에서 규제 전력, 가스, 증기 공급 사업을 운영한다. 뉴욕시와 Westchester County의 약 3.7 million 전력 고객, Manhattan·Bronx·Queens 일부와 Westchester County의 약 1.1 million 가스 고객, Manhattan 일부의 증기 고객에게 서비스를 제공한다.
 

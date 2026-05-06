@@ -4,6 +4,14 @@
 
 **Real Estate | Real Estate Services | 시총 18B$ (#673위) | 결산월: 12월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 47.7x |
+| P/E (Forward)  | 18.1x |
+| P/B            | 2.2x |
+| EV/EBITDA      | 10.5x |
+| 배당수익률     | 11.06% |
+
 KE Holdings는 자회사를 통해 중국에서 주택 거래와 서비스를 위한 통합 온·오프라인 플랫폼을 운영한다. Beike 플랫폼, 부동산 중개 브랜드 Lianjia, Agent Cooperation Network를 기반으로 기존주택·신축주택 거래, 주택 리노베이션·인테리어, 임대 및 기타 서비스를 제공한다.
 
 *KE Holdings Inc., through its subsidiaries, engages in operating an integrated online and offline platform for housing transactions and services in the People's Republic of China. The company operates through five segments: Existing Home Transaction Services, New Home Transaction Services, Home Renovation and Furnishing, Home rental services, and Emerging and Other Services. It operates Beike, an integrated online and offline platform for housing transactions and services; Lianjia, a real estate brokerage brand; Agent Cooperation Network, an operating system that fosters reciprocity and bonding among various service providers.*

@@ -1,8 +1,15 @@
 # UNITED THERAPEUTICS Corp (UTHR) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Drug Manufacturers - Specialty & Generic | 시총 25B$ (#532위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 20.5x |
+| P/E (Forward)  | 16.8x |
+| P/B            | 3.5x |
+| EV/EBITDA      | 13.8x |
 
 United Therapeutics Corporation은 미국 및 국제 시장에서 미충족 의료 수요가 높은 만성 질환 치료제를 개발하고 상용화합니다. 폐동맥 고혈압(PAH) 증상 개선을 위한 흡입형 치료제인 Tyvaso DPI 및 Nebulized Tyvaso, 주사제인 Remodulin, 그리고 고위험 신경모세포종 치료제인 Unituxin 등을 시장에 공급하고 있습니다.
 

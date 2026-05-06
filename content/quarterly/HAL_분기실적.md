@@ -1,8 +1,16 @@
 # HALLIBURTON CO (HAL) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Equipment & Services | 시총 34B$ (#430위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 23.0x |
+| P/E (Forward)  | 14.6x |
+| P/B            | 3.2x |
+| EV/EBITDA      | 9.9x |
+| 배당수익률     | 1.62% |
 
 Halliburton은 전 세계 에너지 산업에 제품과 서비스를 제공한다. Completion and Production, Drilling and Evaluation 부문을 운영하며 생산성 향상, 자극·모래제어, 시멘팅, 케이싱 장비, 지하 완결 솔루션, intelligent well completion, liner hanger, 서비스 툴 등을 제공한다.
 

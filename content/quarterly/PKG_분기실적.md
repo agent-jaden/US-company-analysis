@@ -1,8 +1,16 @@
 # PACKAGING CORP OF AMERICA (PKG) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Packaging & Containers | 시총 19B$ (#643위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 27.0x |
+| P/E (Forward)  | 18.3x |
+| P/B            | 4.3x |
+| EV/EBITDA      | 12.4x |
+| 배당수익률     | 1.72% |
 
 Packaging Corporation of America는 북미 지역에서 컨테이너보드 및 비도포 백상지(UFS) 제품을 제조하고 판매하는 종이 패키징 전문 기업입니다. 골판지 운송용 상자, 소매점 진열용 다색 박스, 식음료 및 공산품 보호를 위한 다용도 맞춤형 포장재 솔루션을 폭넓게 제공합니다.
 

@@ -1,8 +1,15 @@
 # CACI INTERNATIONAL INC /DE/ (CACI) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Information Technology Services | 시총 11B$ (#922위) | 결산월: 6월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 20.4x |
+| P/E (Forward)  | 15.8x |
+| P/B            | 2.6x |
+| EV/EBITDA      | 14.8x |
 
 CACI International은 미국, 영국, 유럽 및 해외에서 전문기술과 기술 솔루션을 제공한다. 지휘·통제·통신·정보 네트워크, 공격·방어 사이버 솔루션, 디지털 전환, 연방기관용 보안 IT, 플랫폼 통합·현대화, 우주·ISR·전자전·스펙트럼 우위 기술을 지원한다.
 

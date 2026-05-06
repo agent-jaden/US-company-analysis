@@ -1,8 +1,16 @@
 # HARTFORD INSURANCE GROUP, INC. (HIG) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance - Diversified | 시총 37B$ (#397위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 9.4x |
+| P/E (Forward)  | 9.3x |
+| P/B            | 2.0x |
+| EV/EBITDA      | 6.7x |
+| 배당수익률     | 1.67% |
 
 The Hartford는 미국, 영국 및 해외에서 개인과 기업 고객에게 보험 및 금융 서비스를 제공한다. Business Insurance, Personal Insurance, Employee Benefits, Hartford Funds 부문 등을 통해 산재, 재산, 자동차, 일반·전문직 책임, umbrella, fidelity and surety, 해상, 가축, 사고·건강, 재보험 상품을 판매한다.
 

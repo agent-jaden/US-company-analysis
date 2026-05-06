@@ -1,8 +1,15 @@
 # CAVA GROUP, INC. (CAVA) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Restaurants | 시총 11B$ (#928위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 167.3x |
+| P/E (Forward)  | 124.4x |
+| P/B            | 13.5x |
+| EV/EBITDA      | 79.1x |
 
 CAVA Group은 미국에서 CAVA 브랜드 레스토랑 체인을 소유·운영한다. 지중해식 메뉴를 중심으로 외식 사업을 전개하며, 식료품 매장을 통해 dips, spreads, dressings도 판매한다.
 

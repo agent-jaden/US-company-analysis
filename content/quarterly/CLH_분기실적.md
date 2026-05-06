@@ -1,8 +1,15 @@
 # CLEAN HARBORS INC (CLH) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Waste Management | 시총 16B$ (#714위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 43.1x |
+| P/E (Forward)  | 33.6x |
+| P/B            | 6.0x |
+| EV/EBITDA      | 16.9x |
 
 Clean Harbors, Inc.는 미국과 캐나다에서 환경 및 산업 서비스를 제공하는 전문 기업입니다. 환경 서비스 부문과 Safety-Kleen 지속 가능성 솔루션의 두 가지 핵심 사업 부문을 통해 폐기물 관리 및 자원 재활용 비즈니스를 운영합니다.
 

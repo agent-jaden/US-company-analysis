@@ -1,8 +1,16 @@
 # MASCO CORP /DE/ (MAS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Building Products & Equipment | 시총 15B$ (#752위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 17.4x |
+| P/E (Forward)  | 15.0x |
+| P/B            | -58.7x |
+| EV/EBITDA      | 12.0x |
+| 배당수익률     | 1.83% |
 
 Masco Corporation은 북미 및 유럽 등 전 세계 시장에 인테리어 및 건축 자재를 제공하는 주택 개조 용품 제조 기업입니다. DELTA, HANSGROHE, AXOR 등 다양한 브랜드를 통해 수전, 샤워기, 욕조, 수영장, 온천 설비 등 고품질의 배관 시스템과 욕실 및 주방 부속품을 설계하여 유통합니다.
 

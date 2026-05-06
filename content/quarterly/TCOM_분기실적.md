@@ -4,6 +4,14 @@
 
 **Consumer Cyclical | Travel Services | 시총 35B$ (#420위) | 결산월: 12월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 7.5x |
+| P/E (Forward)  | 11.2x |
+| P/B            | 1.4x |
+| EV/EBITDA      | -0.3x |
+| 배당수익률     | 57.00% |
+
 Trip.com Group은 중국과 해외에서 숙박 예약, 교통 티켓, 패키지여행, 현지 여행, 기업 출장관리 등 여행 서비스를 제공한다. 호텔·항공권 중개, 철도·버스·페리 티켓, 여행보험, 온라인 체크인, 좌석 선택, 실시간 항공편 추적, 공항 VIP 라운지, 단체·맞춤형 패키지 투어를 운영한다.
 
 *Trip.com Group Limited, through its subsidiaries, operates as a travel service provider for accommodation reservation, transportation ticketing, packaged tours, in-destination, corporate travel management, and other travel-related services in China and internationally. The company acts as an agent for hotel-related transactions and selling air tickets, as well as provides train, long-distance bus, and ferry tickets; travel insurance products, such as flight delay, air accident, and baggage loss coverage; and air-ticket delivery, online check-in and seat selection, express security screening, real-time flight status tracker, and airport VIP lounge services. It also provides travelers bundled packaged-tour products, such as group, semi-group, and customized and packaged tours with various transportation arrangements, including air, cruise, bus, and car rental services.*

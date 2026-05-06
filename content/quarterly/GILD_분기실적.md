@@ -1,8 +1,16 @@
 # GILEAD SCIENCES, INC. (GILD) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Drug Manufacturers - General | 시총 159B$ (#92위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 19.7x |
+| P/E (Forward)  | 13.9x |
+| P/B            | 7.3x |
+| EV/EBITDA      | 12.5x |
+| 배당수익률     | 2.38% |
 
 Gilead Sciences, Inc.는 미국 및 전 세계의 미충족 의료 수요 분야에서 의약품을 연구, 개발 및 상용화하는 바이오 제약 기업입니다. Biktarvy를 포함한 HIV 치료제와 만성 C형 간염 바이러스 치료제, 그리고 성인 환자를 위한 CAR T세포 치료제 등을 제공합니다.
 

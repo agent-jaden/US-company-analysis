@@ -1,8 +1,16 @@
 # SIMON PROPERTY GROUP INC. (SPG) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | REIT - Retail | 시총 77B$ (#221위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 14.3x |
+| P/E (Forward)  | 29.3x |
+| P/B            | 12.7x |
+| EV/EBITDA      | 20.3x |
+| 배당수익률     | 4.24% |
 
 Simon Property Group, Inc.는 자체적으로 자산을 운영 및 관리하는 글로벌 부동산 투자 신탁(REIT) 기업입니다. 자회사인 Simon Property Group, L.P.를 통해 쇼핑몰과 프리미엄 아울렛 등 대규모 상업용 부동산의 소유권과 지분을 적극적으로 관리합니다.
 

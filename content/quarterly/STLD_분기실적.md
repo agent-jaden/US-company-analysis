@@ -1,8 +1,16 @@
 # STEEL DYNAMICS INC (STLD) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Steel | 시총 33B$ (#442위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 25.5x |
+| P/E (Forward)  | 13.8x |
+| P/B            | 3.8x |
+| EV/EBITDA      | 16.3x |
+| 배당수익률     | 0.88% |
 
 Steel Dynamics는 미국에서 철강 생산과 금속 재활용 사업을 운영한다. Steel Operations, Metals Recycling, Steel Fabrication, Aluminum Operations 부문을 통해 열연·냉연·도금강, 형강, 철근, 레일, 특수봉강, merchant bar, 경량 구조용 강재 등을 생산한다.
 

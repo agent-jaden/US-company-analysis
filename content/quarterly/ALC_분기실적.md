@@ -4,6 +4,14 @@
 
 **Healthcare | Medical Instruments & Supplies | 시총 38B$ (#392위) | 결산월: 12월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 37.6x |
+| P/E (Forward)  | 19.0x |
+| P/B            | 1.6x |
+| EV/EBITDA      | 17.1x |
+| 배당수익률     | 0.48% |
+
 Alcon은 전 세계에서 안과 치료 제품을 연구·개발·제조·유통·판매한다. Surgical과 Vision Care 부문을 통해 안과 수술 장비·소모품과 시력관리 제품을 제공한다.
 
 *Alcon Inc. researches, develops, manufactures, distributes, and sells eye care products worldwide. The company operates through two segments, Surgical and Vision Care.*

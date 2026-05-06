@@ -1,8 +1,14 @@
 # Revolution Medicines, Inc. (RVMD) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 28B$ (#495위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | -28.1x |
+| P/B            | 17.8x |
+| EV/EBITDA      | -23.5x |
 
 RAS 변이 암 치료를 위한 혁신적인 표적 치료제를 개발하는 임상 단계의 정밀 종양학 생명공학 기업입니다. 고형암 치료를 위한 daraxonrasib(RMC-6236) 및 elironrasib(RMC-6291) 등 다양한 RAS(ON) 억제제와 병용 요법 후보물질의 임상 시험을 적극적으로 진행하고 있습니다.
 

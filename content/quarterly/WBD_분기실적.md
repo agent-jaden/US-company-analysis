@@ -1,8 +1,15 @@
 # Warner Bros. Discovery, Inc. (WBD) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Entertainment | 시총 67B$ (#254위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 93.9x |
+| P/E (Forward)  | -1555.4x |
+| P/B            | 1.9x |
+| EV/EBITDA      | 13.7x |
 
 Warner Bros. Discovery는 전 세계에서 미디어와 엔터테인먼트 사업을 운영하는 기업이다. 콘텐츠 제작, 배급, 방송, 스트리밍 등 다양한 엔터테인먼트 플랫폼과 브랜드를 통해 글로벌 시청자에게 영상 콘텐츠를 제공한다.
 

@@ -1,8 +1,16 @@
 # CASEYS GENERAL STORES INC (CASY) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Specialty Retail | 시총 30B$ (#476위) | 결산월: 4월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 49.5x |
+| P/E (Forward)  | 43.0x |
+| P/B            | 8.3x |
+| EV/EBITDA      | 24.7x |
+| 배당수익률     | 0.26% |
 
 미국 전역에서 Casey's 및 Casey's General Store 브랜드로 편의점 체인을 운영하고 있습니다. 자체 매장에서 피자, 도넛, 샌드위치 등의 신선 식품을 제공하며 주류, 음료, 자동차 용품 및 담배 등 광범위한 생활용품을 판매합니다.
 

@@ -1,8 +1,16 @@
 # LAMAR ADVERTISING CO/NEW (LAMR) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | REIT - Specialty | 시총 14B$ (#794위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 24.0x |
+| P/E (Forward)  | 22.8x |
+| P/B            | 13.9x |
+| EV/EBITDA      | 18.4x |
+| 배당수익률     | 4.44% |
 
 Lamar Advertising은 미국과 캐나다 전역에 362,000개 이상의 디스플레이를 보유한 북미 최대 옥외광고 기업 중 하나다. 빌보드, interstate logo, 교통·공항 광고 등 다양한 포맷을 제공하며 미국 내 5,400개 이상의 디지털 빌보드 네트워크도 운영한다.
 

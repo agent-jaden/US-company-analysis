@@ -1,8 +1,15 @@
 # Maplebear Inc. (CART) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Internet Retail | 시총 10B$ (#968위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 27.3x |
+| P/E (Forward)  | 9.7x |
+| P/B            | 4.2x |
+| EV/EBITDA      | 19.0x |
 
 Maplebear는 Instacart라는 이름으로 미국과 해외 식료품 산업의 기술 및 enablement 파트너로 운영된다. Instacart Marketplace, Instacart Enterprise, Instacart Ads를 통해 리테일러의 온라인 주문·풀필먼트, 엔드투엔드 기술 운영, 광고 최적화와 sponsored product ads, display ads, coupons, brand pages, SaaS 솔루션을 제공한다.
 

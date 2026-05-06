@@ -1,8 +1,14 @@
 # Planet Labs PBC (PL) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Aerospace & Defense | 시총 12B$ (#860위) | 결산월: 1월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | -1650.2x |
+| P/B            | 66.1x |
+| EV/EBITDA      | -281.8x |
 
 Planet Labs PBC는 고빈도 지형 공간 데이터를 온라인 플랫폼을 통해 글로벌 고객에게 제공하기 위해 인공위성을 설계, 제작 및 발사하는 기업입니다. SuperDove 위성을 통해 매일 최대 3.5m 해상도로 지구 전체를 촬영하며, SkySat 및 Pelican 위성을 이용해 특정 위치를 하루 여러 번 고해상도(최대 50cm)로 집중 모니터링합니다.
 

@@ -1,8 +1,15 @@
 # DoorDash, Inc. (DASH) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Internet Retail | 시총 76B$ (#224위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 78.0x |
+| P/E (Forward)  | 21.9x |
+| P/B            | 7.2x |
+| EV/EBITDA      | 57.4x |
 
 DoorDash, Inc.는 미국 및 전 세계에서 식당 가맹점, 소비자, 배달원을 연결하는 커머스 플랫폼을 운영합니다. DoorDash 및 Wolt 마켓플레이스를 통해 음식 배달 및 결제 처리 서비스를 제공하며, 구독형 멤버십인 DashPass와 가맹점용 주문 관리 솔루션도 지원합니다.
 

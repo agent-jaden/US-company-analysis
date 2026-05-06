@@ -1,8 +1,14 @@
 # Rocket Companies, Inc. (RKT) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Mortgage Finance | 시총 44B$ (#357위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 12.9x |
+| P/B            | 1.7x |
+| EV/EBITDA      | 79.3x |
 
 Rocket Companies는 미국과 캐나다에서 모기지, 부동산, 개인금융 사업을 운영하는 핀테크 기업이다. Rocket Mortgage, Redfin, Rocket Close, Rocket Money, Rocket Loans 등을 통해 주택대출, 디지털 부동산 중개·검색, 감정·정산·권원 서비스, 금융관리 앱, 개인대출 플랫폼을 제공한다.
 

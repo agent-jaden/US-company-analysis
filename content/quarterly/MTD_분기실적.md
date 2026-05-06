@@ -1,8 +1,15 @@
 # METTLER TOLEDO INTERNATIONAL INC/ (MTD) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Diagnostics & Research | 시총 26B$ (#522위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 31.0x |
+| P/E (Forward)  | 25.4x |
+| P/B            | -1121.8x |
+| EV/EBITDA      | 23.7x |
 
 Mettler-Toledo International Inc.는 미주, 유럽, 아시아 등 전 세계 산업, 실험실 및 소매 시장에 고정밀 기기와 관련 서비스를 제조하고 공급하는 글로벌 기업입니다.
 

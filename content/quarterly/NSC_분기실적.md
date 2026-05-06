@@ -1,8 +1,16 @@
 # NORFOLK SOUTHERN CORP (NSC) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Railroads | 시총 72B$ (#235위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 26.4x |
+| P/E (Forward)  | 23.3x |
+| P/B            | 4.5x |
+| EV/EBITDA      | 15.5x |
+| 배당수익률     | 1.73% |
 
 Norfolk Southern Corporation은 미국 내에서 원자재, 중간재 및 완제품의 철도 화물 운송 사업을 전개합니다. 농업 자재, 화학 물질, 석탄 및 자동차 부품 등 다양한 산업용 화물을 운송하며, 주요 항구를 연결하는 방대한 복합 운송 철도 네트워크를 운영합니다.
 

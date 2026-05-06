@@ -1,8 +1,14 @@
 # EchoStar CORP (SATS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Telecom Services | 시총 35B$ (#418위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | -79.9x |
+| P/B            | 5.9x |
+| EV/EBITDA      | 41.4x |
 
 EchoStar는 미국, 멕시코, 캐나다, 중남미, 아시아, 아프리카, 호주, 유럽, 인도, 중동에서 유료 TV 서비스를 제공한다. 위성·광섬유 기반 방송 인프라, OTT 스트리밍, 수신기 시스템을 운영하고 Wireless 부문에서는 무선통신 서비스와 기기를 제공한다.
 

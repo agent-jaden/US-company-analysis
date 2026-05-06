@@ -1,8 +1,16 @@
 # INTUIT INC. (INTU) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Application | 시총 109B$ (#146위) | 결산월: 7월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 25.9x |
+| P/E (Forward)  | 15.0x |
+| P/B            | 5.8x |
+| EV/EBITDA      | 18.7x |
+| 배당수익률     | 1.10% |
 
 Intuit은 미국에서 재무관리, 결제·자본, 컴플라이언스, 마케팅 관련 제품과 서비스를 제공한다. 사업은 Global Business Solutions, Consumer, Credit Karma, ProTax 부문으로 구성된다.
 

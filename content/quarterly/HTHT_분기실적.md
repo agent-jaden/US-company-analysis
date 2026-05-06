@@ -1,8 +1,16 @@
 # H World Group Ltd (HTHT) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Lodging | 시총 15B$ (#744위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 20.9x |
+| P/E (Forward)  | 15.7x |
+| P/B            | 8.0x |
+| EV/EBITDA      | 21.2x |
+| 배당수익률     | 30.79% |
 
 H World Group Limited는 중국에서 직영 및 프랜차이즈 형태의 호텔을 개발하고 운영하는 대규모 호스피탈리티 기업입니다. HanTing Hotel, JI Hotel 등 이코노미 브랜드부터 Ibis, Novotel 등 파트너십 브랜드, 그리고 고급 리조트까지 다양한 포트폴리오를 제공합니다. 구 Huazhu Group Limited에서 2022년 사명을 변경하며 다국적 브랜드 호텔 사업을 확장하고 있습니다.
 

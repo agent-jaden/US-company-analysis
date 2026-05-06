@@ -1,8 +1,15 @@
 # Owens Corning (OC) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Building Products & Equipment | 시총 10B$ (#975위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 10.6x |
+| P/B            | 2.6x |
+| EV/EBITDA      | 6.8x |
+| 배당수익률     | 2.45% |
 
 Owens Corning은 미국, 유럽, 아시아태평양 및 해외에서 주거용·상업용 건축 제품을 제공한다. Roofing, Insulation, Doors 부문을 통해 asphalt roofing shingle, 지붕 부품, oxidized asphalt, 단열재와 문 제품을 공급한다.
 

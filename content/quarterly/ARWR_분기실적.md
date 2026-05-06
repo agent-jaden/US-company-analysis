@@ -1,8 +1,15 @@
 # ARROWHEAD PHARMACEUTICALS, INC. (ARWR) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 10B$ (#962위) | 결산월: 9월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 46.8x |
+| P/E (Forward)  | -17.5x |
+| P/B            | 18.1x |
+| EV/EBITDA      | 31.5x |
 
 Arrowhead Pharmaceuticals는 미국에서 난치성 질환 치료제를 개발하는 제약사다. apolipoprotein C-III 생산을 줄이는 Plozasiran, angiopoietin-like protein 3 생산을 줄이는 Zodasiran, 이중 기능 RNAi 분자 ARO-DIMER-PA, RNAi 치료제 ARO-PNPLA3 등을 임상 개발 중이다.
 

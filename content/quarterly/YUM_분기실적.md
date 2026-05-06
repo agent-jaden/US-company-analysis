@@ -1,8 +1,16 @@
 # YUM BRANDS INC (YUM) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Restaurants | 시총 43B$ (#362위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 24.8x |
+| P/E (Forward)  | 20.5x |
+| P/B            | -5.8x |
+| EV/EBITDA      | 18.0x |
+| 배당수익률     | 1.89% |
 
 Yum! Brands는 미국, 중국 및 해외에서 전통적·비전통적 quick service restaurant을 개발, 운영, 프랜차이즈한다. KFC, Taco Bell, Pizza Hut, Habit Burger & Grill 부문을 통해 글로벌 외식 브랜드 포트폴리오를 운영한다.
 

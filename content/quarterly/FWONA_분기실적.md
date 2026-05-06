@@ -1,8 +1,15 @@
 # Liberty Media Corp (FWONA) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Entertainment | 시총 20B$ (#625위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 34.8x |
+| P/E (Forward)  | 26.1x |
+| P/B            | 2.6x |
+| EV/EBITDA      | 25.0x |
 
 Formula One Group은 전 세계적으로 모터스포츠 비즈니스를 전개하며 FIA Formula One World Championship의 독점적 상업권을 보유하고 있습니다. 경주 대회의 글로벌 방송 제작, 디지털 미디어 운영, 물류 및 기술 지원을 총괄하며, Formula 1 Paddock Club 및 F2, F3 레이스 시리즈 등의 관련 부가 사업도 함께 운영합니다.
 

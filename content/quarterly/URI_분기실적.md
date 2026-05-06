@@ -1,8 +1,16 @@
 # UNITED RENTALS, INC. (URI) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Rental & Leasing Services | 시총 60B$ (#283위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 23.9x |
+| P/E (Forward)  | 17.4x |
+| P/B            | 6.6x |
+| EV/EBITDA      | 16.1x |
+| 배당수익률     | 0.79% |
 
 United Rentals는 미국, 캐나다, 유럽, 호주, 뉴질랜드에서 장비 렌털 사업을 운영한다. General Rentals와 Specialty 부문을 통해 굴착기, 스키드로더, 지게차, 토공·자재취급 장비, 고소작업대, 압력세척기, 펌프, 전동공구 등을 건설·산업 기업, 제조업체, 유틸리티, 지자체, 주택소유자, 정부기관에 임대한다.
 

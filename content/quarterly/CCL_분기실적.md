@@ -1,8 +1,16 @@
 # CARNIVAL CORP (CCL) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Travel Services | 시총 37B$ (#400위) | 결산월: 11월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 11.4x |
+| P/E (Forward)  | 9.9x |
+| P/B            | 2.7x |
+| EV/EBITDA      | 8.4x |
+| 배당수익률     | 0.58% |
 
 Carnival Corporation & plc는 북미, 호주, 유럽 및 해외에서 크루즈 기반 레저 여행 서비스를 제공한다. North America Cruise Operations, Europe Cruise Operations, Cruise Support, Tour and Other 부문을 운영하며 항구 목적지와 섬, 호텔, 로지, 유리돔 열차, 모터코치를 보유·운영한다.
 

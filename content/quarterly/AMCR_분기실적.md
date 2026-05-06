@@ -1,8 +1,16 @@
 # Amcor plc (AMCR) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Packaging & Containers | 시총 18B$ (#669위) | 결산월: 6월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 28.3x |
+| P/E (Forward)  | 8.6x |
+| P/B            | 1.5x |
+| EV/EBITDA      | 11.4x |
+| 배당수익률     | 6.98% |
 
 Amcor는 유럽, 북미, 라틴아메리카, 아시아태평양에서 포장 제품을 생산·판매한다. Global Flexible Packaging Solutions와 Global Rigid Packaging Solutions 부문을 운영하며 식음료, 의료·제약, 신선식품, 스낵, 퍼스널케어 산업에 폴리머 수지, 알루미늄, 섬유 기반 flexible packaging 제품을 공급한다.
 

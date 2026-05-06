@@ -1,8 +1,14 @@
 # Bilibili Inc. (BLBLF) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Internet Content & Information | 시총 11B$ (#941위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 60.9x |
+| P/B            | 4.7x |
+| EV/EBITDA      | -0.5x |
 
 Bilibili는 중국 젊은 세대를 대상으로 온라인 엔터테인먼트 서비스를 제공한다. PUGV, 모바일 게임, 라이브 방송, 전문 제작 영상, Maoer 오디오드라마, Bilibili Comic, 팬 과금 콘텐츠, 프리미엄 강의, 커뮤니티 아바타 장식 등 다양한 디지털 콘텐츠를 제공한다.
 

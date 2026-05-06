@@ -1,8 +1,16 @@
 # Warner Music Group Corp. (WMG) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Entertainment | 시총 15B$ (#753위) | 결산월: 9월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 50.0x |
+| P/E (Forward)  | 16.1x |
+| P/B            | 20.6x |
+| EV/EBITDA      | 12.7x |
+| 배당수익률     | 2.63% |
 
 Warner Music Group Corp.는 미국, 영국 등 전 세계를 무대로 활동하는 글로벌 음악 엔터테인먼트 기업입니다. 주로 녹음된 음악의 제작 및 유통과 음악 판권 관리(퍼블리싱)의 두 부문을 통해 아티스트를 지원하고 글로벌 음악 콘텐츠를 배급합니다.
 

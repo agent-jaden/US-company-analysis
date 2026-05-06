@@ -4,6 +4,13 @@
 
 **Technology | Communication Equipment | 시총 37B$ (#402위) | 결산월: 12월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 14.5x |
+| P/E (Forward)  | 16.7x |
+| P/B            | 0.4x |
+| 배당수익률     | 262.00% |
+
 Ericsson은 미주, 유럽, 중동, 아프리카, 동북아, 동남아, 오세아니아, 인도에서 통신사업자, 기업, 공공부문에 모바일 연결 솔루션을 제공한다. Networks, Cloud Software and Services, Enterprise 부문 등을 운영하며 Networks 부문은 지능적이고 안정적인 5G 네트워크용 하드웨어, 소프트웨어, 서비스를 제공한다.
 
 *Telefonaktiebolaget LM Ericsson (publ), together with its subsidiaries, provides mobile connectivity solutions to communications service providers, enterprises, and the public sector in the Americas, Europe, the Middle East, Africa, Northeast Asia, Southeast Asia, Oceania, and India. It operates through Networks; Cloud Software and Services; Enterprise; and Other segments. The Networks segment offers hardware, software, and service offerings for intelligent, reliable and flexible 5G networks.*

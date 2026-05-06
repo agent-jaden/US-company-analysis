@@ -4,6 +4,13 @@
 
 **Technology | Software - Infrastructure | 시총 17B$ (#693위) | 결산월: 12월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 7.0x |
+| P/E (Forward)  | 0.0x |
+| P/B            | 0.0x |
+| 배당수익률     | 213.00% |
+
 Kaspi.kz는 자회사를 통해 카자흐스탄, 아제르바이잔, 우크라이나에서 소비자와 가맹점을 위한 결제, 마켓플레이스, 핀테크 솔루션을 제공한다. Payments, Marketplace, Fintech 부문을 운영하며 Payments 부문은 가맹점과 소비자 간 거래를 가능하게 하는 플랫폼을 제공한다.
 
 *Joint Stock Company Kaspi.kz, together with its subsidiaries, provides payments, marketplace, and fintech solutions for consumers and merchants in Kazakhstan, Azerbaijan, and Ukraine. The company operates through three segments: Payments, Marketplace, and Fintech. The Payments segment offers a platform that facilities transactions between and among merchants and consumers.*

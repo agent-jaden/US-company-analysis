@@ -1,8 +1,16 @@
 # TEXAS INSTRUMENTS INC (TXN) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductors | 시총 245B$ (#54위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 48.1x |
+| P/E (Forward)  | 30.5x |
+| P/B            | 15.2x |
+| EV/EBITDA      | 30.5x |
+| 배당수익률     | 1.98% |
 
 Texas Instruments Incorporated는 미국, 아시아, 유럽 등 전 세계의 전자제품 설계자 및 제조업체를 대상으로 반도체를 설계, 제조 및 판매합니다. 아날로그 및 임베디드 프로세싱 부문을 통해 배터리 관리 솔루션, 전압 조정기 등 다양한 전력 관리 제품을 제공합니다.
 

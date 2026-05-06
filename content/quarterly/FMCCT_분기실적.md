@@ -1,8 +1,13 @@
 # FEDERAL HOME LOAN MORTGAGE CORP (FMCCT) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Mortgage Finance | 시총 59B$ (#291위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 271.0x |
+| P/B            | -3.6x |
 
 Federal Home Loan Mortgage Corporation은 미국 2차 모기지 시장에서 사업을 운영한다. Single-Family와 Multifamily 부문으로 구성되며, Single-Family 부문은 단독주택 대출을 매입·증권화·보증하고 모기지 신용·시장 리스크, 관련 투자 포트폴리오, 증권화 및 재무 기능을 관리한다.
 

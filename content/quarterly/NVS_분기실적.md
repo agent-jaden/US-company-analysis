@@ -1,8 +1,16 @@
 # NOVARTIS AG (NVS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Drug Manufacturers - General | 시총 278B$ (#46위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 20.8x |
+| P/E (Forward)  | 14.6x |
+| P/B            | 6.0x |
+| EV/EBITDA      | 13.9x |
+| 배당수익률     | 3.23% |
 
 Novartis AG는 스위스 및 전 세계에서 제약 의약품을 연구, 개발, 제조 및 판매합니다. 심부전 치료제 Entresto, 건선 치료제 Cosentyx, 표적항암제 Kisqali, 백혈병 치료제 Tasigna 등을 포함해 면역 및 종양학 분야의 다양한 혁신 의약품을 제공합니다.
 

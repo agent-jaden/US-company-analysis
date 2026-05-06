@@ -1,8 +1,16 @@
 # JD.com, Inc. (JD) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
 
 **Consumer Cyclical | Internet Retail | 시총 41B$ (#373위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 15.7x |
+| P/E (Forward)  | 7.1x |
+| P/B            | 1.2x |
+| EV/EBITDA      | 3.3x |
+| 배당수익률     | 23.28% |
 
 JD.com은 중국과 유럽에서 공급망 기반 기술 및 서비스 제공업체로 운영된다. JD Retail, JD Logistics, New Businesses 부문을 통해 온라인 리테일, 물류, 신규 사업을 운영한다.
 

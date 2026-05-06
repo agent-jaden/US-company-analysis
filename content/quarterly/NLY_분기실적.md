@@ -1,8 +1,15 @@
 # ANNALY CAPITAL MANAGEMENT INC (NLY) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | REIT - Mortgage | 시총 17B$ (#705위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 7.2x |
+| P/E (Forward)  | 7.5x |
+| P/B            | 1.1x |
+| 배당수익률     | 12.53% |
 
 Annaly Capital Management는 주거용 모기지 금융 사업을 영위하는 다각화된 자본 운용사다. Agency MBS, non-agency 주거용 whole loan과 증권화 상품, mortgage servicing rights, agency CMBS, TBA forward contract, RMBS, 주거용 모기지 대출, 신용위험 이전 증권에 투자하며 REIT 과세 지위를 선택했다.
 

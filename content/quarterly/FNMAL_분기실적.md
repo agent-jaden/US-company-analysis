@@ -1,8 +1,13 @@
 # FEDERAL NATIONAL MORTGAGE ASSOCIATION FANNIE MAE (FNMAL) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Mortgage Finance | 시총 12B$ (#873위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 2160.0x |
+| P/B            | -2.8x |
 
 Fannie Mae로 알려진 Federal National Mortgage Association은 미국 내 주거용 모기지에 자금을 조달하는 정부 후원 금융 기관입니다. 단독 주택 및 다세대 주택의 모기지를 매입하여 유동화하고 신용 위험을 관리함으로써 주택 시장의 안정성을 도모합니다.
 

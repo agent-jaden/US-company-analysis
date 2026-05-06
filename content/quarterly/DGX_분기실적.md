@@ -1,8 +1,16 @@
 # QUEST DIAGNOSTICS INC (DGX) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Diagnostics & Research | 시총 22B$ (#591위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 21.1x |
+| P/E (Forward)  | 16.4x |
+| P/B            | 2.9x |
+| EV/EBITDA      | 12.4x |
+| 배당수익률     | 1.70% |
 
 Quest Diagnostics는 미국에서 진단검사와 관련 서비스를 제공한다. 일반·특수·고급 임상검사, 해부병리 검사와 진단정보 서비스를 제공하며 Quest Diagnostics, AmeriPath, Dermpath Diagnostics, ExamOne, Quanum 브랜드로 의료기관, 환자, 보험사, 정부, 제약사 등에 서비스를 제공한다.
 

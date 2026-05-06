@@ -1,8 +1,16 @@
 # JACK HENRY & ASSOCIATES INC (JKHY) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Information Technology Services | 시총 11B$ (#932위) | 결산월: 6월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 21.4x |
+| P/E (Forward)  | 21.3x |
+| P/B            | 4.9x |
+| EV/EBITDA      | 15.5x |
+| 배당수익률     | 1.52% |
 
 Jack Henry & Associates는 기술 솔루션과 결제 처리 서비스를 통해 사람과 금융기관을 연결하는 핀테크 기업이다. Core, Payments, Complementary, Corporate and Other 부문을 통해 금융기관용 코어 시스템, 결제, 보완 소프트웨어와 서비스를 제공한다.
 

@@ -1,8 +1,15 @@
 # HOULIHAN LOKEY, INC. (HLI) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Capital Markets | 시총 11B$ (#917위) | 결산월: 3월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 23.0x |
+| P/E (Forward)  | 17.6x |
+| P/B            | 4.6x |
+| 배당수익률     | 1.58% |
 
 Houlihan Lokey는 전 세계에서 M&A, 자본시장, 재무구조조정·부채관리, 재무·가치평가 자문을 제공하는 투자은행이다. Corporate Finance, Financial Restructuring, Financial and Valuation Advisory 부문을 통해 공공·민간기업과 금융 스폰서에 인수합병, 채권·주식 조달, 기업금융 자문 서비스를 제공한다.
 

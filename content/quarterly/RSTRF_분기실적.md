@@ -1,8 +1,15 @@
 # Restaurant Brands International Limited Partnership (RSTRF) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Restaurants | 시총 26B$ (#512위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 32.6x |
+| P/B            | 5.6x |
+| EV/EBITDA      | 15.5x |
+| 배당수익률     | 3.03% |
 
 Restaurant Brands International Limited Partnership은 미국 및 전 세계에서 대규모 퀵 서비스 레스토랑(QSR) 브랜드를 직접 운영하거나 프랜차이즈 권한을 부여합니다. Tim Hortons, Burger King, Popeyes Louisiana Kitchen 및 Firehouse Subs 브랜드를 통해 커피, 햄버거, 치킨, 샌드위치 등 다양한 식음료를 제공합니다.
 

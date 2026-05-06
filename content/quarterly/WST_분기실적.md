@@ -1,8 +1,16 @@
 # WEST PHARMACEUTICAL SERVICES INC (WST) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Medical Instruments & Supplies | 시총 21B$ (#604위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 41.5x |
+| P/E (Forward)  | 32.4x |
+| P/B            | 7.3x |
+| EV/EBITDA      | 24.9x |
+| 배당수익률     | 0.29% |
 
 West Pharmaceutical Services는 미주, 유럽, 중동, 아프리카, 아시아태평양에서 주사제와 헬스케어 제품용 containment 및 delivery system을 설계·제조·판매한다. Proprietary Products와 Contract-Manufactured Products 부문을 통해 자체 제품과 위탁생산 제품을 제공한다.
 

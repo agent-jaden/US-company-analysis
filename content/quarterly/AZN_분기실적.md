@@ -1,8 +1,16 @@
 # ASTRAZENECA PLC (AZN) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: GBP
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: GBP
 
 **Healthcare | Drug Manufacturers - General | 시총 291B$ (#45위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 27.3x |
+| P/E (Forward)  | 20.8x |
+| P/B            | 5.9x |
+| EV/EBITDA      | 15.4x |
+| 배당수익률     | 1.74% |
 
 AstraZeneca PLC는 처방약의 발견, 개발, 제조 및 상업화에 집중하는 바이오 제약 기업입니다. Tagrisso, Imfinzi, Farxiga/Forxiga, Symbicort Turbuhaler 등 종양학, 호흡기 질환 및 다양한 치료 영역에 걸친 폭넓은 의약품 라인업을 제공합니다.
 

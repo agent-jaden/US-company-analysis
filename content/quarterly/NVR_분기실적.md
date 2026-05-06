@@ -1,8 +1,15 @@
 # NVR INC (NVR) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Residential Construction | 시총 18B$ (#678위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 14.7x |
+| P/E (Forward)  | 14.3x |
+| P/B            | 4.3x |
+| EV/EBITDA      | 9.5x |
 
 NVR은 미국에서 주택건설 사업을 운영한다. Homebuilding과 Mortgage Banking 부문을 통해 주거용 주택 개발·건설·판매와 모기지 금융 서비스를 제공한다.
 

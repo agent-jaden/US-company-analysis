@@ -1,8 +1,15 @@
 # Baidu, Inc. (BIDU) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CNY
 
 **Communication Services | Internet Content & Information | 시총 44B$ (#358위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 73.4x |
+| P/E (Forward)  | 13.7x |
+| P/B            | 1.1x |
+| EV/EBITDA      | 14.1x |
 
 Baidu는 중국에서 인터넷 콘텐츠, 부가통신 기반 서비스, 인터넷 지도, 온라인 오디오·비디오 서비스를 제공한다. Baidu General Business와 iQIYI 부문을 통해 검색·콘텐츠·지도·동영상 플랫폼 사업을 운영한다.
 

@@ -1,8 +1,16 @@
 # NIKE, Inc. (NKE) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Footwear & Accessories | 시총 67B$ (#257위) | 결산월: 5월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 28.3x |
+| P/E (Forward)  | 23.3x |
+| P/B            | 4.5x |
+| EV/EBITDA      | 17.3x |
+| 배당수익률     | 3.76% |
 
 NIKE는 북미, 유럽, 중동, 아프리카, 중화권, 아시아태평양, 라틴아메리카에서 남성·여성·아동용 운동 및 캐주얼 신발, 의류, 장비, 액세서리와 서비스를 설계·개발·판매한다. NIKE, Jordan, Jumpman, Converse, Chuck Taylor, All Star 등 브랜드를 운영하며 스포츠 장비, 라이선스 의류, 대학·프로팀 로고 상품도 판매한다.
 

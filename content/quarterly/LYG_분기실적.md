@@ -1,8 +1,15 @@
 # Lloyds Banking Group plc (LYG) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Banks - Regional | 시총 78B$ (#214위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 12.7x |
+| P/E (Forward)  | 9.8x |
+| P/B            | 1.3x |
+| 배당수익률     | 0.71% |
 
 Lloyds Banking Group plc는 영국에서 소매 및 상업용 고객에게 광범위한 은행 및 금융 서비스를 제공합니다. 소매, 상업 뱅킹, 보험 및 연금·투자의 3개 부문을 통해 개인 고객의 당좌 예금, 모기지, 신용카드 및 자동차 금융 솔루션을 폭넓게 지원합니다.
 

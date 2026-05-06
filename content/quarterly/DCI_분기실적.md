@@ -1,8 +1,16 @@
 # DONALDSON Co INC (DCI) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Specialty Industrial Machinery | 시총 10B$ (#953위) | 결산월: 7월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 27.0x |
+| P/E (Forward)  | 19.7x |
+| P/B            | 6.3x |
+| EV/EBITDA      | 15.7x |
+| 배당수익률     | 1.41% |
 
 Donaldson은 전 세계에서 여과 시스템과 교체부품을 제조·판매한다. Mobile Solutions, Industrial Solutions, Life Sciences 부문을 통해 이동장비, 산업설비, 생명과학 분야의 필터와 관련 솔루션을 제공한다.
 

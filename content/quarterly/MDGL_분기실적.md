@@ -1,8 +1,14 @@
 # MADRIGAL PHARMACEUTICALS, INC. (MDGL) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 12B$ (#875위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 39.3x |
+| P/B            | 19.0x |
+| EV/EBITDA      | -36.5x |
 
 Madrigal Pharmaceuticals, Inc.는 미국에서 대사이상 관련 지방간염(MASH) 등 간 질환을 표적으로 하는 혁신 치료제를 개발하는 바이오 제약 기업입니다. 간 지향성 갑상선 호르몬 수용체 베타 작용제인 Rezdiffra를 MASH 치료제로 상용화하는 데 주력하고 있습니다.
 

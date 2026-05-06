@@ -1,8 +1,15 @@
 # COHERENT CORP. (COHR) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Scientific & Technical Instruments | 시총 60B$ (#282위) | 결산월: 6월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 332.4x |
+| P/E (Forward)  | 44.0x |
+| P/B            | 7.4x |
+| EV/EBITDA      | 54.6x |
 
 Coherent는 전 세계 산업, 통신, 전자, 계측 시장에 쓰이는 엔지니어드 소재, 광전자 부품·장치, 레이저 시스템을 개발·제조·판매한다. Networking, Materials, Lasers 부문을 통해 광통신·소재·레이저 기반 솔루션을 제공한다.
 

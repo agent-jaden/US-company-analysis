@@ -1,8 +1,15 @@
 # CELESTICA INC (CLS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Electronic Components | 시총 49B$ (#333위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 50.5x |
+| P/E (Forward)  | 27.8x |
+| P/B            | 22.9x |
+| EV/EBITDA      | 35.2x |
 
 Celestica는 아시아, 북미 등에서 공급망 솔루션을 제공한다. Advanced Technology Solutions와 Connectivity and Cloud Solutions 부문을 통해 설계·개발, 신제품 도입, 엔지니어링, 부품 조달, 전자 제조·조립, 테스트, 정밀가공, 물류, 자산관리, 사후 수리·반품 서비스를 제공한다.
 

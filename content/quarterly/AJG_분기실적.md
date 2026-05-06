@@ -1,8 +1,16 @@
 # Arthur J. Gallagher & Co. (AJG) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance Brokers | 시총 55B$ (#300위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 33.4x |
+| P/E (Forward)  | 13.8x |
+| P/B            | 2.2x |
+| EV/EBITDA      | 16.5x |
+| 배당수익률     | 1.28% |
 
 Arthur J. Gallagher는 전 세계 기업과 개인에게 보험·재보험 중개, 컨설팅, 제3자 재산·상해보험 청구 정산 및 관리 서비스를 제공한다. Brokerage와 Risk Management 부문을 통해 보험 중개와 리스크 관리 솔루션을 운영한다.
 

@@ -4,6 +4,12 @@
 
 **Energy | Oil & Gas Integrated | 시총 18B$ (#665위) | 결산월: 12월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 8.2x |
+| P/B            | 1.5x |
+| EV/EBITDA      | 2.4x |
+
 YPF는 아르헨티나와 남미에서 석유·가스 업스트림과 다운스트림 사업을 운영하는 에너지 기업이다. 원유·천연가스 탐사·생산, 정제제품의 정제·운송·상업화, 석유화학 제품 생산·운송·판매, 원유 거래, 농업용 특수제품과 곡물·부산물 판매를 수행한다.
 
 *YPF Sociedad Anónima, an energy company, engages in the oil and gas upstream and downstream activities in South America and Argentina. The company operates through the Upstream, Midstream and Downstream, LNG and Integrated Gas, and New Energies segments. It is involved in the exploration and exploitation of hydrocarbon fields and production of crude oil and natural gas; the refining, transportation and commercialization of refined products; the production, transportation, and commercialization of petrochemical products; the transportation and commercialization of crude oil; and the commercialization of specialties for the agribusiness industry, and of grains and their by-products.*

@@ -1,8 +1,16 @@
 # UNIVERSAL HEALTH SERVICES INC (UHS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Medical Care Facilities | 시총 11B$ (#931위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 6.9x |
+| P/E (Forward)  | 6.5x |
+| P/B            | 1.4x |
+| EV/EBITDA      | 5.7x |
+| 배당수익률     | 0.48% |
 
 Universal Health Services는 자회사를 통해 미국에서 급성기 병원, 외래 및 행동건강 시설을 보유·운영한다. Acute Care Hospital Services와 Behavioral Health Care Services 부문을 통해 일반·전문 수술, 내과, 산부인과, 응급, 방사선, 종양, 진단·관상동맥 치료, 소아, 약국, 행동건강 서비스를 제공한다.
 

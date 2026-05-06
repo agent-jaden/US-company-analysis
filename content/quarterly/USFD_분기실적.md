@@ -1,8 +1,15 @@
 # US Foods Holding Corp. (USFD) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Defensive | Food Distribution | 시총 20B$ (#623위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 31.3x |
+| P/E (Forward)  | 16.3x |
+| P/B            | 4.7x |
+| EV/EBITDA      | 15.2x |
 
 US Foods Holding Corp.는 미국 전역의 외식업체 및 식음료 고객에게 신선 식품, 냉동 식품 및 비식품류를 유통하는 주요 식품 공급 기업입니다. 독립 레스토랑, 대형 체인, 병원, 학교, 호텔 등 다양한 식음료 서비스 매장에 제품을 공급하며, 올인원 외식 비즈니스 애플리케이션인 MOXe를 통해 고객의 운영을 돕습니다.
 

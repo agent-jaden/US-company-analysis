@@ -1,8 +1,16 @@
 # Howmet Aerospace Inc. (HWM) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Aerospace & Defense | 시총 97B$ (#169위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 65.4x |
+| P/E (Forward)  | 43.2x |
+| P/B            | 18.2x |
+| EV/EBITDA      | 41.8x |
+| 배당수익률     | 0.18% |
 
 Howmet Aerospace는 미국, 일본, 프랑스, 독일, 영국, 멕시코 등에서 항공우주와 운송 산업용 첨단 엔지니어링 솔루션을 제공한다. Engine Products, Fastening Systems, Engineered Structures, Forged Wheels 부문을 운영한다.
 

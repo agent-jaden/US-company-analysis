@@ -1,8 +1,16 @@
 # BCE INC (BCE) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CAD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CAD
 
 **Communication Services | Telecom Services | 시총 22B$ (#587위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 4.8x |
+| P/E (Forward)  | 12.0x |
+| P/B            | 1.5x |
+| EV/EBITDA      | 7.8x |
+| 배당수익률     | 9.65% |
 
 BCE는 캐나다에서 주거, 기업, 도매 고객에게 무선, 유선, 인터넷, 스트리밍, TV 서비스를 제공하는 통신회사다. Bell Communication and Technology Services Canada 부문은 모바일 데이터·음성 요금제, 기기, 인터넷, IPTV, 클라우드, AI 기반 비즈니스 솔루션, 위성 TV와 연결 서비스를 제공한다.
 

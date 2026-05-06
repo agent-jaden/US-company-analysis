@@ -1,8 +1,16 @@
 # Restaurant Brands International Inc. (QSR) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Restaurants | 시총 27B$ (#499위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 31.1x |
+| P/E (Forward)  | 18.5x |
+| P/B            | 7.8x |
+| EV/EBITDA      | 15.9x |
+| 배당수익률     | 3.10% |
 
 캐나다, 미국 및 전 세계에서 대규모 퀵 서비스 레스토랑(QSR) 브랜드를 운영하는 글로벌 외식 기업입니다. Tim Hortons, Burger King, Popeyes Louisiana Kitchen, Firehouse Subs 등의 핵심 브랜드를 통해 글로벌 프랜차이즈 사업을 전개하고 있습니다.
 

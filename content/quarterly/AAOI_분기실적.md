@@ -1,8 +1,14 @@
 # APPLIED OPTOELECTRONICS, INC. (AAOI) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Communication Equipment | 시총 12B$ (#889위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 56.5x |
+| P/B            | 18.5x |
+| EV/EBITDA      | -506.2x |
 
 Applied Optoelectronics, Inc.는 미국, 대만, 중국 등지에서 광섬유 네트워킹 장비를 설계, 제조 및 판매하는 첨단 기술 기업입니다. 데이터 센터 및 통신 네트워크 구축에 필수적인 광 모듈, 레이저 부품, 광 트랜시버, 증폭기 및 케이블 TV 네트워크 장비 등을 포괄적으로 공급합니다.
 

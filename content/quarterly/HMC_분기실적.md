@@ -4,6 +4,14 @@
 
 **Consumer Cyclical | Auto Manufacturers | 시총 32B$ (#452위) | 결산월: 3월**
 
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 10.1x |
+| P/E (Forward)  | 4.9x |
+| P/B            | 0.4x |
+| EV/EBITDA      | 7.8x |
+| 배당수익률     | 289.19% |
+
 Honda Motor는 일본, 북미, 유럽, 아시아 및 해외에서 모터사이클, 자동차, power products를 개발·제조·유통한다. Motorcycle Business, Automobile Business, Financial Services Business, Power Product and Other Businesses 부문을 운영한다.
 
 *Honda Motor Co., Ltd. develops, manufactures, and distributes motorcycles, automobiles, and power products in Japan, North America, Europe, Asia, and internationally. It operates through four segments: Motorcycle Business, Automobile Business, Financial Services Business, and Power Product and Other Businesses.*

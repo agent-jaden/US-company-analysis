@@ -1,8 +1,15 @@
 # AppLovin Corp (APP) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Advertising Agencies | 시총 155B$ (#95위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 47.6x |
+| P/E (Forward)  | 22.5x |
+| P/B            | 75.8x |
+| EV/EBITDA      | 38.0x |
 
 AppLovin Corporation은 미국 및 전 세계 기업에 인공지능 기반의 엔드투엔드 광고 솔루션을 제공합니다. 광고 및 앱 부문을 통해 캠페인을 최적화하는 Axon Ads Manager, 실시간 입찰 기술인 MAX, 마케팅 분석 플랫폼인 Adjust 등을 운영합니다.
 

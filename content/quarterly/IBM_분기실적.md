@@ -1,8 +1,16 @@
 # INTERNATIONAL BUSINESS MACHINES CORP (IBM) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Information Technology Services | 시총 214B$ (#62위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 20.3x |
+| P/E (Forward)  | 17.0x |
+| P/B            | 6.5x |
+| EV/EBITDA      | 16.5x |
+| 배당수익률     | 2.93% |
 
 International Business Machines Corporation(IBM)은 아메리카, 유럽, 아시아 태평양 등 전 세계에서 통합 IT 솔루션과 서비스를 제공합니다. 소프트웨어, 컨설팅, 인프라 및 파이낸싱 부문을 통해 운영되며, 특히 하이브리드 클라우드 및 AI 플랫폼을 제공하여 고객의 디지털 전환을 지원합니다.
 

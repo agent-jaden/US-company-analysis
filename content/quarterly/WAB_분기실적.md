@@ -1,8 +1,16 @@
 # WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP (WAB) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Railroads | 시총 45B$ (#345위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 37.3x |
+| P/E (Forward)  | 21.7x |
+| P/B            | 4.0x |
+| EV/EBITDA      | 20.3x |
+| 배당수익률     | 0.40% |
 
 Westinghouse Air Brake Technologies는 전 세계 화물철도와 여객 운송 산업에 기관차, 장비, 시스템, 서비스를 제공한다. Freight와 Transit 부문을 운영하며 디젤전기 및 LNG 동력 기관차, 엔진, 전기모터, 추진 시스템, 해양·광산용 제품을 공급한다.
 

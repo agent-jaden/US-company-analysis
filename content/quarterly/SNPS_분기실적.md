@@ -1,8 +1,15 @@
 # SYNOPSYS INC (SNPS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Infrastructure | 시총 96B$ (#174위) | 결산월: 10월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 77.0x |
+| P/E (Forward)  | 29.5x |
+| P/B            | 3.1x |
+| EV/EBITDA      | 65.0x |
 
 Synopsys는 반도체와 전자 산업을 위한 설계 IP 솔루션을 제공한다. Design Automation과 Design IP 부문을 통해 칩 설계 자동화, 검증, 시뮬레이션, 반도체 설계자산을 공급한다.
 

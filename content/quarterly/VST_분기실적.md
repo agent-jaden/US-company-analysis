@@ -1,8 +1,16 @@
 # Vistra Corp. (VST) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Utilities | Utilities - Independent Power Producers | 시총 56B$ (#297위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 73.6x |
+| P/E (Forward)  | 14.3x |
+| P/B            | 20.7x |
+| EV/EBITDA      | 14.6x |
+| 배당수익률     | 0.56% |
 
 Vistra는 미국에서 소매 전력과 발전을 통합 운영하는 에너지 기업이다. Retail, Texas, East, West, Asset Closure 부문을 통해 미국 여러 주와 워싱턴 D.C.의 주거·상업·산업 고객에게 전력과 천연가스를 소매 판매한다.
 

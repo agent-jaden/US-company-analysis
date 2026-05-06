@@ -1,8 +1,16 @@
 # STRYKER CORP (SYK) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Medical Devices | 시총 126B$ (#124위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 35.1x |
+| P/E (Forward)  | 17.7x |
+| P/B            | 5.0x |
+| EV/EBITDA      | 18.0x |
+| 배당수익률     | 1.18% |
 
 Stryker는 미국과 해외에서 의료기술 제품을 제공하는 기업이다. MedSurg and Neurotechnology, Orthopaedics 부문을 통해 수술 장비, 환자·의료진 안전 기술, 내비게이션·내시경 시스템, 응급·중환자 소모품, AI 기반 가상진료 플랫폼, 뇌졸중·혈전 치료용 최소침습 제품, 정형외과·바이오서저리 제품을 공급한다.
 

@@ -1,8 +1,16 @@
 # NRG ENERGY, INC. (NRG) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Utilities | Utilities - Independent Power Producers | 시총 34B$ (#424위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 39.3x |
+| P/E (Forward)  | 13.9x |
+| P/B            | 29.1x |
+| EV/EBITDA      | 15.6x |
+| 배당수익률     | 1.16% |
 
 NRG Energy는 미국과 캐나다에서 에너지와 홈서비스 사업을 운영한다. Texas, East, West/Other, Vivint Smart Home 부문 등을 통해 소매 전력, 에너지 관리, 수요반응, 가상발전소 프로그램, 탄소상쇄, 스마트홈 보안·자동화 서비스를 제공한다.
 

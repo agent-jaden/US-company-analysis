@@ -1,8 +1,15 @@
 # Airbnb, Inc. (ABNB) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Travel Services | 시총 84B$ (#197위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 34.8x |
+| P/E (Forward)  | 24.3x |
+| P/B            | 10.3x |
+| EV/EBITDA      | 29.1x |
 
 Airbnb는 전 세계에서 숙박, 경험, 서비스 예약 플랫폼을 운영한다. 온라인과 모바일 기반 마켓플레이스를 통해 호스트와 게스트를 연결해 공간, 체험, 서비스를 예약할 수 있게 하며 gift card도 제공한다.
 

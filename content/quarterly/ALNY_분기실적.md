@@ -1,8 +1,15 @@
 # ALNYLAM PHARMACEUTICALS, INC. (ALNY) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 41B$ (#371위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 75.8x |
+| P/E (Forward)  | 21.7x |
+| P/B            | 37.4x |
+| EV/EBITDA      | 49.8x |
 
 Alnylam Pharmaceuticals는 미국, 유럽 및 해외에서 RNA interference 기반 치료제를 발굴·개발·제조·상업화한다. ONPATTRO, AMVUTTRA, Leqvio, Qfitlia, GIVLAARI, OXLUMO 등을 통해 hATTR amyloidosis, ATTR, 고콜레스테롤혈증, 혈우병, 급성 간성 포르피린증, 원발성 고옥살산뇨증 치료제를 제공한다.
 

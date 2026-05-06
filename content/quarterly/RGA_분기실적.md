@@ -1,8 +1,16 @@
 # REINSURANCE GROUP OF AMERICA INC (RGA) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance - Reinsurance | 시총 14B$ (#796위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 12.1x |
+| P/E (Forward)  | 7.4x |
+| P/B            | 1.0x |
+| EV/EBITDA      | 7.9x |
+| 배당수익률     | 1.72% |
 
 Reinsurance Group of America는 미국, 라틴아메리카, 캐나다, 유럽, 중동, 아프리카, 아시아, 호주에서 생명·건강 및 자산집약형 재보험을 제공한다. 개인·단체 생명·건강, 장애, 장기요양, 중대질병 재보험과 longevity reinsurance, pension risk transfer, stable value, 자본 솔루션 등을 운영한다.
 

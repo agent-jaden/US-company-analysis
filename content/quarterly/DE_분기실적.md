@@ -1,8 +1,16 @@
 # DEERE & CO (DE) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 11월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Farm & Heavy Construction Machinery | 시총 153B$ (#96위) | 결산월: 11월**
+**Industrials | Farm & Heavy Construction Machinery | 시총 153B$ (#96위) | 결산월: 10월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 32.5x |
+| P/E (Forward)  | 25.0x |
+| P/B            | 5.9x |
+| EV/EBITDA      | 22.7x |
+| 배당수익률     | 1.12% |
 
 Deere & Company는 전 세계적으로 다양한 산업용 및 농업용 장비를 제조하고 유통합니다. 정밀 농업 기계, 소형 농기구, 건설 및 임업 장비, 금융 서비스 등 4개 부문을 통해 트랙터, 수확기, 파종기 및 관련 부품을 제공합니다.
 

@@ -1,8 +1,16 @@
 # UNILEVER PLC (UL) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: EUR
 
 **Consumer Defensive | Household & Personal Products | 시총 126B$ (#125위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 19.2x |
+| P/E (Forward)  | 14.9x |
+| P/B            | 7.0x |
+| EV/EBITDA      | 14.1x |
+| 배당수익률     | 3.37% |
 
 Unilever는 아시아태평양, 아프리카, 미주, 유럽에서 빠르게 회전하는 소비재를 판매하는 글로벌 기업이다. Beauty & Wellbeing, Personal Care, Home Care, Foods 부문을 운영하며 샴푸·컨디셔너 등 헤어케어, 스킨케어, Prestige Beauty and Wellbeing 제품 등을 제공한다.
 

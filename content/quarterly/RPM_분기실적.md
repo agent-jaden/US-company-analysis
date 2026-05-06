@@ -1,8 +1,16 @@
 # RPM INTERNATIONAL INC/DE/ (RPM) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Specialty Chemicals | 시총 13B$ (#805위) | 결산월: 5월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 19.2x |
+| P/E (Forward)  | 17.0x |
+| P/B            | 4.0x |
+| EV/EBITDA      | 13.3x |
+| 배당수익률     | 2.14% |
 
 RPM International은 건설, 산업, specialty, 소비자 시장용 특수화학 제품을 제공한다. CPG, PCG, Consumer, SPG 부문을 통해 코팅, 실란트, 방수재, 보수·보호 소재 등 다양한 화학 제품을 공급한다.
 

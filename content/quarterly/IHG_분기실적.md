@@ -1,8 +1,16 @@
 # INTERCONTINENTAL HOTELS GROUP PLC /NEW/ (IHG) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Lodging | 시총 21B$ (#599위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 29.2x |
+| P/E (Forward)  | 21.3x |
+| P/B            | -46.7x |
+| EV/EBITDA      | 20.0x |
+| 배당수익률     | 1.32% |
 
 InterContinental Hotels Group은 영국, 미국 및 해외에서 호텔을 소유, 관리, 프랜차이즈, 임대한다. Six Senses, Regent, InterContinental Hotels & Resorts, Kimpton, Hotel Indigo, Crowne Plaza, Holiday Inn, Staybridge Suites, Candlewood Suites 등 브랜드와 IHG Rewards 로열티 프로그램을 운영한다.
 

@@ -1,8 +1,16 @@
 # Sunoco LP (SUN) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Refining & Marketing | 시총 12B$ (#850위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 17.8x |
+| P/E (Forward)  | 38.5x |
+| P/B            | 1.5x |
+| EV/EBITDA      | 14.7x |
+| 배당수익률     | 549.00% |
 
 Sunoco는 자회사를 통해 미국에서 에너지 인프라와 자동차 연료 유통 사업을 운영한다. Fuel Distribution, Pipeline Systems, Refinery, Terminals 부문을 통해 제3자 딜러·유통업체, 독립 운영자, 상업 고객, 리테일 지점에 자동차 연료, 프로판, 윤활유 등을 공급하고 부동산도 임대한다.
 

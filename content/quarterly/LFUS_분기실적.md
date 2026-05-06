@@ -1,8 +1,15 @@
 # LITTELFUSE INC /DE (LFUS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Electronic Components | 시총 10B$ (#971위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 27.1x |
+| P/B            | 4.3x |
+| EV/EBITDA      | 22.2x |
+| 배당수익률     | 0.68% |
 
 Littelfuse는 전자 부품, 모듈, 서브어셈블리를 설계·제조·판매한다. Electronics, Transportation, Industrial 부문을 통해 회로 보호, 전력 제어, 센싱 등 다양한 전자·자동차·산업용 솔루션을 제공한다.
 

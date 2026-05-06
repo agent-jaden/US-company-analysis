@@ -1,8 +1,14 @@
 # MP Materials Corp. / DE (MP) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Other Industrial Metals & Mining | 시총 12B$ (#897위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 53.4x |
+| P/B            | 6.1x |
+| EV/EBITDA      | -323.5x |
 
 MP Materials Corp.는 자회사를 통해 서반구에서 희토류 재료를 생산하고 가공하는 핵심 광물 기업입니다. 캘리포니아 샌버나디노 카운티에 위치한 Mountain Pass 광산 및 가공 시설을 직접 소유하고 운영하며, 전기차와 첨단 산업에 필수적인 자석 및 희토류 솔루션을 공급합니다.
 

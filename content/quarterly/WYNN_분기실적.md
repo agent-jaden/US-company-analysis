@@ -1,8 +1,16 @@
 # WYNN RESORTS LTD (WYNN) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Resorts & Casinos | 시총 11B$ (#927위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 33.8x |
+| P/E (Forward)  | 18.5x |
+| P/B            | -39.5x |
+| EV/EBITDA      | 11.7x |
+| 배당수익률     | 0.97% |
 
 Wynn Resorts는 복합리조트를 설계, 개발, 운영한다. Wynn Palace, Wynn Macau, Las Vegas Operations, Encore Boston Harbor 부문을 운영하며 카지노, 고급 호텔, 스파, 식음료, 리테일, 컨벤션, 공연·엔터테인먼트 시설을 제공한다.
 

@@ -1,8 +1,15 @@
 # DYCOM INDUSTRIES INC (DY) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Engineering & Construction | 시총 12B$ (#846위) | 결산월: 1월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 47.9x |
+| P/E (Forward)  | 26.6x |
+| P/B            | 7.4x |
+| EV/EBITDA      | 22.4x |
 
 Dycom Industries는 미국에서 디지털 인프라, 통신 인프라, 유틸리티 산업에 특수 계약 서비스를 제공한다. Communications와 Building Systems 부문을 통해 네트워크 구축, 유지보수, 통신·건물 시스템 관련 서비스를 수행한다.
 

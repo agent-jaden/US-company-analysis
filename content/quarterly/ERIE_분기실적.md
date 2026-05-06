@@ -1,8 +1,16 @@
 # ERIE INDEMNITY CO (ERIE) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance Brokers | 시총 12B$ (#867위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 20.2x |
+| P/E (Forward)  | 15.8x |
+| P/B            | 4.9x |
+| EV/EBITDA      | 13.7x |
+| 배당수익률     | 2.68% |
 
 Erie Indemnity Company는 1925년 펜실베이니아에 설립되어 Erie Insurance Exchange 가입자를 위한 관리 대리인 역할을 수행하는 기업입니다. 보험 증권 발행 및 갱신, 대리점 보상, 보험 인수, IT 시스템 관리 및 고객 행정 지원 등 보험 운영 전반에 필요한 종합적인 백오피스 서비스를 제공합니다.
 

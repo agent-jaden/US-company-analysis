@@ -1,8 +1,15 @@
 # Datadog, Inc. (DDOG) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Application | 시총 47B$ (#339위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 470.1x |
+| P/E (Forward)  | 55.1x |
+| P/B            | 13.8x |
+| EV/EBITDA      | 6399.9x |
 
 Datadog은 미국과 해외에서 클라우드 애플리케이션을 위한 observability 및 보안 플랫폼을 운영한다. 인프라·애플리케이션 성능 모니터링, 로그 관리, synthetic·real user monitoring, 제품 분석, 데이터베이스·LLM observability, 오류 추적, 네트워크 모니터링, incident response, 클라우드 비용·보안, SIEM, 위협관리, CI visibility 등을 제공한다.
 

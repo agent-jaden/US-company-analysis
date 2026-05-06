@@ -1,8 +1,16 @@
 # PLAINS ALL AMERICAN PIPELINE LP (PAA) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Midstream | 시총 15B$ (#739위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 20.2x |
+| P/E (Forward)  | 12.6x |
+| P/B            | 2.0x |
+| EV/EBITDA      | 13.8x |
+| 배당수익률     | 6.88% |
 
 Plains All American Pipeline, L.P.는 자회사를 통해 미국과 캐나다에서 원유 및 천연가스 액체(NGL)의 파이프라인 운송, 터미널 운영, 저장 및 수집 사업을 전개합니다. 원유 및 NGL 부문을 통해 파이프라인, 트럭, 바지선 등을 활용하여 에너지 자원을 안전하게 운송하고 집하하는 물류 네트워크를 제공합니다.
 

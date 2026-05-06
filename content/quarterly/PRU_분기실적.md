@@ -1,8 +1,16 @@
 # PRUDENTIAL FINANCIAL INC (PRU) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance - Life | 시총 33B$ (#434위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 10.3x |
+| P/E (Forward)  | 6.8x |
+| P/B            | 1.1x |
+| EV/EBITDA      | 7.9x |
+| 배당수익률     | 5.53% |
 
 Prudential Financial은 미국, 일본 및 해외에서 금융 상품과 서비스를 제공한다. PGIM, Retirement Strategies, Group Insurance, Individual Life, International Businesses 부문을 운영하며 PGIM은 공모 채권·주식, 부동산, 사모신용, 대체투자, 멀티에셋 전략 관련 투자관리 서비스를 제공한다.
 

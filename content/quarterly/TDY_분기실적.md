@@ -1,8 +1,15 @@
 # TELEDYNE TECHNOLOGIES INC (TDY) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Scientific & Technical Instruments | 시총 30B$ (#463위) | 결산월: 1월**
+**Technology | Scientific & Technical Instruments | 시총 30B$ (#463위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 32.1x |
+| P/E (Forward)  | 24.3x |
+| P/B            | 2.8x |
+| EV/EBITDA      | 20.3x |
 
 미국, 유럽, 아시아 등 전 세계 산업 성장 시장을 위한 첨단 기술 장비를 제공합니다. 센서, 적외선 및 X선 카메라 시스템을 포함한 디지털 이미징 기기와 더불어 무인 시스템, 레이더, 화학 및 생물학 탐지기 등 광학 및 전자기계 솔루션을 개발하고 제조합니다.
 

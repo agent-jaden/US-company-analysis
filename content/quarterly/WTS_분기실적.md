@@ -1,8 +1,16 @@
 # WATTS WATER TECHNOLOGIES INC (WTS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Specialty Industrial Machinery | 시총 10B$ (#970위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 28.7x |
+| P/E (Forward)  | 22.8x |
+| P/B            | 4.8x |
+| EV/EBITDA      | 18.2x |
+| 배당수익률     | 0.69% |
 
 Watts Water Technologies는 상업·산업·주거용 건물에서 유체와 에너지 흐름을 관리·보존하는 제품과 솔루션을 공급한다. 역류방지기, 수압조절기, 온도·압력 안전밸브, 누수 감지·보호, 상업용 화장실·음수 솔루션, 비상안전 장비와 보일러, 온수기, 복사난방, HVAC·가스 제품을 제공한다.
 

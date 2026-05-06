@@ -1,8 +1,16 @@
 # COMFORT SYSTEMS USA INC (FIX) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Engineering & Construction | 시총 63B$ (#269위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 56.8x |
+| P/E (Forward)  | 37.6x |
+| P/B            | 107.2x |
+| EV/EBITDA      | 41.4x |
+| 배당수익률     | 0.12% |
 
 Comfort Systems USA는 미국에서 기계·전기 설비의 설치, 개조, 유지보수, 수리, 교체 서비스를 제공한다. Mechanical과 Electrical 부문을 통해 HVAC, 배관, 전기, 파이핑·제어, 오프사이트 시공, 모니터링, 화재방지 서비스를 수행한다.
 

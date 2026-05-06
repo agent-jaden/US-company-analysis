@@ -1,8 +1,16 @@
 # ADVANCED DRAINAGE SYSTEMS, INC. (WMS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Building Products & Equipment | 시총 12B$ (#879위) | 결산월: 3월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 23.7x |
+| P/E (Forward)  | 21.3x |
+| P/B            | 5.4x |
+| EV/EBITDA      | 12.9x |
+| 배당수익률     | 0.50% |
 
 Advanced Drainage Systems, Inc.는 미국, 캐나다 등지에서 열가소성 골판지 파이프와 수자원 관리 제품을 설계 및 제조하는 선도 기업입니다. 빗물 및 폐수를 안전하게 관리하기 위해 파이프, 스톰워터(우수) 저장 챔버 등 지속 가능한 배수 인프라 솔루션을 제공합니다.
 

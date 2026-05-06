@@ -1,8 +1,15 @@
 # GLOBUS MEDICAL INC (GMED) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Medical Devices | 시총 13B$ (#838위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 23.0x |
+| P/E (Forward)  | 18.2x |
+| P/B            | 2.7x |
+| EV/EBITDA      | 13.4x |
 
 Globus Medical은 미국과 해외에서 근골격계 질환 환자를 위한 헬스케어 솔루션을 개발·상업화한다. 척추 유합 임플란트, 동적 안정화·인공디스크 등 motion preservation 제품, 척추압박골절 중재 솔루션, allograft와 합성 대체재 등 biologic 솔루션을 제공한다.
 

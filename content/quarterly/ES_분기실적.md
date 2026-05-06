@@ -1,8 +1,16 @@
 # EVERSOURCE ENERGY (ES) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Utilities | Utilities - Regulated Electric | 시총 26B$ (#520위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 15.1x |
+| P/E (Forward)  | 13.8x |
+| P/B            | 1.6x |
+| EV/EBITDA      | 12.0x |
+| 배당수익률     | 4.33% |
 
 Eversource Energy는 전력 송배전 및 천연가스 유통 비즈니스를 운영하는 공익사업 지주 회사입니다. 전기 배전 및 송전, 천연가스 배전, 그리고 상수도 서비스 부문을 통해 에너지를 공급하며 태양광 발전 시설도 함께 운영합니다.
 

@@ -1,8 +1,15 @@
 # FIRST HORIZON CORP (FHN) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Banks - Regional | 시총 12B$ (#886위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 12.5x |
+| P/E (Forward)  | 10.5x |
+| P/B            | 1.4x |
+| 배당수익률     | 2.52% |
 
 First Horizon Corporation은 First Horizon Bank의 지주 회사로, 지역 금융, 특수 금융 및 기업 금융 부문을 통해 포괄적인 금융 솔루션을 제공합니다. 상업 및 소비자 뱅킹뿐만 아니라 기업 대출, 자산 관리, 국제 금융, 의료 및 물류 산업에 특화된 재무 장비 리스 서비스를 폭넓게 지원합니다.
 

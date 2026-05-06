@@ -1,8 +1,16 @@
 # CINCINNATI FINANCIAL CORP (CINF) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance - Property & Casualty | 시총 26B$ (#524위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 9.2x |
+| P/E (Forward)  | 17.5x |
+| P/B            | 1.6x |
+| EV/EBITDA      | 6.7x |
+| 배당수익률     | 2.22% |
 
 Cincinnati Financial Corporation은 미국 내에서 상업용 라인, 개인용 라인, 초과 및 잉여 보험 라인 등을 통해 다양한 손해 보험 상품을 제공합니다. 상업용 재산 보장, 상업용 자동차 및 산재 보험을 주력으로 하며 생명 보험 및 투자 사업 부문도 함께 운영합니다.
 

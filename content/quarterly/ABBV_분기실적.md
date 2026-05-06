@@ -1,8 +1,16 @@
 # AbbVie Inc. (ABBV) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Drug Manufacturers - General | 시총 349B$ (#31위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 101.0x |
+| P/E (Forward)  | 12.7x |
+| P/B            | -111.4x |
+| EV/EBITDA      | 14.3x |
+| 배당수익률     | 3.24% |
 
 AbbVie Inc.는 전 세계적으로 의약품과 치료제를 연구 개발, 제조 및 상업화하는 연구 기반 바이오 제약 기업입니다. 자가면역질환 치료제인 Skyrizi, Rinvoq를 비롯해 각종 암 치료제, 편두통 치료제, 그리고 미용 및 치료 목적의 Botox 등 다양한 제품군을 제공합니다.
 

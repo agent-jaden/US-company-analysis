@@ -1,8 +1,16 @@
 # CDW Corp (CDW) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Information Technology Services | 시총 17B$ (#687위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 16.9x |
+| P/E (Forward)  | 12.1x |
+| P/B            | 6.8x |
+| EV/EBITDA      | 11.8x |
+| 배당수익률     | 1.85% |
 
 CDW는 미국, 영국, 캐나다에서 IT 솔루션을 제공한다. Commercial, Government, Education 부문을 통해 하드웨어·소프트웨어 제품과 서비스, 하이브리드 인프라, 디지털 경험, 보안 영역의 온프레미스·클라우드 통합 IT 솔루션을 제공한다.
 

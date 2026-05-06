@@ -1,8 +1,15 @@
 # AMERICAN EXPRESS CO (AXP) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Credit Services | 시총 218B$ (#60위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 19.7x |
+| P/E (Forward)  | 15.7x |
+| P/B            | 6.3x |
+| 배당수익률     | 1.07% |
 
 American Express Company는 미국, 유럽, 아시아 태평양 등 전 세계에서 통합 결제 기업으로 운영되고 있습니다. 미국 소비자 서비스, 상업 서비스, 국제 카드 서비스 및 글로벌 가맹점 및 네트워크 서비스의 4개 부문을 통해 다양한 금융 결제 솔루션을 제공합니다.
 

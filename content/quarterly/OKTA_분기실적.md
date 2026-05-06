@@ -1,8 +1,15 @@
 # Okta, Inc. (OKTA) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Infrastructure | 시총 13B$ (#804위) | 결산월: 1월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 59.4x |
+| P/E (Forward)  | 18.4x |
+| P/B            | 2.0x |
+| EV/EBITDA      | 46.8x |
 
 Okta는 미국과 해외에서 ID 관리 파트너로 운영된다. Single Sign-On, Adaptive MFA, API Access Management, Access Gateway, Okta Device Access, Universal Directory 등을 통해 클라우드·온프레미스 애플리케이션 접근 보안, API 보호, 하이브리드 IT 환경 확장, 기기 로그인 보안, 클라우드 기반 사용자 디렉터리를 제공한다.
 

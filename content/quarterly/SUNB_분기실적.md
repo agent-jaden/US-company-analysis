@@ -1,8 +1,16 @@
 # Sunbelt Rentals Holdings, Inc. (SUNB) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Rental & Leasing Services | 시총 31B$ (#456위) | 결산월: 4월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 23.0x |
+| P/E (Forward)  | 17.6x |
+| P/B            | 4.1x |
+| EV/EBITDA      | 8.9x |
+| 배당수익률     | 1.46% |
 
 Sunbelt Rentals 브랜드로 미국, 영국, 캐나다에서 건설 및 산업용 일반 장비 임대 사업을 운영합니다. 펌프, 발전기, 비계 및 트렌치 쇼어링 등 다양한 장비를 제공하여 건설 현장, 엔터테인먼트 행사, 재난 복구 및 정부 시설 등 광범위한 시장의 요구를 충족합니다.
 

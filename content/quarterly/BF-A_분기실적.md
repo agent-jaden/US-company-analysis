@@ -1,8 +1,15 @@
 # BROWN FORMAN CORP (BF-A) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Defensive | Beverages - Wineries & Distilleries | 시총 13B$ (#829위) | 결산월: 4월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 15.6x |
+| P/B            | 3.0x |
+| EV/EBITDA      | 12.1x |
+| 배당수익률     | 3.62% |
 
 Brown-Forman은 자회사를 통해 다양한 주류를 제조, 증류, 병입, 수입, 수출, 마케팅, 판매한다. Jack Daniel's, Woodford Reserve, Old Forester, Gentleman Jack, Herradura, el Jimador, Fords Gin, The Glendronach, Benriach, Glenglassaugh, Slane 브랜드로 위스키, RTD 칵테일, 보드카, 테킬라, 진, 브랜디, 럼, 리큐어 등을 제공한다.
 

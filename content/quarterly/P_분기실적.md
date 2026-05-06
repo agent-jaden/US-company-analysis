@@ -1,8 +1,15 @@
 # Everpure, Inc. (P) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
 
-**Technology | Computer Hardware | 시총 24B$ (#537위) | 결산월: 1월**
+**Technology | Computer Hardware | 시총 24B$ (#537위) | 결산월: 2월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 135.7x |
+| P/E (Forward)  | 26.3x |
+| P/B            | 17.1x |
+| EV/EBITDA      | 92.7x |
 
 Everpure, Inc.는 미국 및 전 세계에서 활동하며 엔터프라이즈급 데이터 저장 및 관리 기술, 제품, 서비스를 제공합니다. 회사의 핵심인 Purity 소프트웨어는 상시 데이터 압축, 암호화 등의 고급 데이터 서비스를 지원하며 블록, 파일, 객체 등 다양한 스토리지 프로토콜을 아우릅니다.
 

@@ -1,8 +1,14 @@
 # Elanco Animal Health Inc (ELAN) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Drug Manufacturers - Specialty & Generic | 시총 11B$ (#923위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Forward)  | 19.7x |
+| P/B            | 1.7x |
+| EV/EBITDA      | 16.9x |
 
 Elanco Animal Health는 전 세계에서 반려동물과 농장동물용 제품을 혁신, 개발, 제조, 마케팅하는 동물헬스 기업이다. Seresto, K-9 Advantage, Advantix, Advocate, Credelio, Interceptor Plus, Drontal, Galliprant 등 브랜드로 기생충 예방, 백신, 치료제와 축산 동물 건강 제품을 제공한다.
 

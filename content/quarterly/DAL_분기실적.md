@@ -1,8 +1,16 @@
 # DELTA AIR LINES, INC. (DAL) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Airlines | 시총 45B$ (#351위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 10.3x |
+| P/E (Forward)  | 8.9x |
+| P/B            | 2.3x |
+| EV/EBITDA      | 8.1x |
+| 배당수익률     | 1.09% |
 
 Delta Air Lines는 미국과 해외에서 여객과 화물의 정기 항공 운송 서비스를 제공한다. Airline과 Refinery 부문을 통해 항공 운항과 정유 관련 사업을 운영한다.
 

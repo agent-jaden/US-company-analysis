@@ -1,8 +1,14 @@
 # FIRST CITIZENS BANCSHARES INC /DE/ (FCNCB) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Banks - Regional | 시총 19B$ (#648위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 9.5x |
+| P/B            | 0.9x |
+| 배당수익률     | 0.50% |
 
 First Citizens BancShares, Inc.는 First-Citizens Bank & Trust Company의 지주 회사로, 미국 및 국제 시장의 개인, 기업, 전문가에게 광범위한 소매 및 상업 은행 서비스를 제공합니다. 일반 은행(General Bank), 상업 은행(Commercial Bank), 철도 금융(Rail) 부문을 운영하여 종합 금융 솔루션을 지원합니다.
 

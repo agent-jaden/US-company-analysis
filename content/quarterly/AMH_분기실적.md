@@ -1,8 +1,16 @@
 # American Homes 4 Rent (AMH) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | REIT - Residential | 시총 11B$ (#924위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 27.4x |
+| P/E (Forward)  | 48.0x |
+| P/B            | 1.7x |
+| EV/EBITDA      | 18.3x |
+| 배당수익률     | 3.75% |
 
 American Homes 4 Rent는 내부 관리형 Maryland REIT로, 주거용 임대주택 자산을 보유·운영한다. American Homes 4 Rent, L.P.를 통해 대부분의 사업을 수행하고 자산을 직접 또는 자회사를 통해 보유한다.
 

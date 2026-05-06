@@ -1,8 +1,16 @@
 # TAIWAN SEMICONDUCTOR MANUFACTURING CO LTD (TSM) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: TWD
+> 생성일: 2026-05-06 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: TWD
 
 **Technology | Semiconductors | 시총 2100B$ (#7위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 34.0x |
+| P/E (Forward)  | 20.4x |
+| P/B            | 60.3x |
+| EV/EBITDA      | 2.8x |
+| 배당수익률     | 4.23% |
 
 Taiwan Semiconductor Manufacturing Company Limited는 대만, 미국, 유럽 등 전 세계를 대상으로 집적 회로 및 반도체 소자를 제조, 패키징, 테스트 및 판매합니다. CMOS 로직, 혼합 신호, 무선 주파수 등 다양한 웨이퍼 제조 공정을 제공하며 고객 지원 및 마스크 제조 서비스도 함께 수행합니다.
 

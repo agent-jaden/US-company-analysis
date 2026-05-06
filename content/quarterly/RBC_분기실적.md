@@ -1,8 +1,15 @@
 # RBC Bearings INC (RBC) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 4월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Tools & Accessories | 시총 19B$ (#652위) | 결산월: 3월**
+**Industrials | Tools & Accessories | 시총 19B$ (#652위) | 결산월: 4월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 71.4x |
+| P/E (Forward)  | 43.4x |
+| P/B            | 5.9x |
+| EV/EBITDA      | 37.5x |
 
 RBC Bearings Incorporated는 미국 및 전 세계에서 첨단 정밀 베어링, 부품 및 시스템을 제조하고 판매하는 기업입니다. 항공우주/국방 및 산업 부문을 통해 산업용 기계 및 군용 항공기에 사용되는 구면 플레인 베어링, 롤러 베어링, 고정밀 볼 베어링 등 마찰을 줄이는 핵심 기계 부품을 공급합니다.
 

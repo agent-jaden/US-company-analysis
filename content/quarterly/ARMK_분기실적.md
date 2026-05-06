@@ -1,8 +1,16 @@
 # Aramark (ARMK) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 10월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
-**Industrials | Specialty Business Services | 시총 12B$ (#872위) | 결산월: 10월**
+**Industrials | Specialty Business Services | 시총 12B$ (#872위) | 결산월: 9월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 38.0x |
+| P/E (Forward)  | 17.3x |
+| P/B            | 3.7x |
+| EV/EBITDA      | 13.5x |
+| 배당수익률     | 1.00% |
 
 Aramark는 전 세계 학교, 병원, 기업, 스포츠 시설 등 다양한 기관에 식품 및 시설 관리 서비스를 제공하는 글로벌 기업입니다. 구내식당 운영 및 케이터링 등의 맞춤형 푸드 서비스뿐만 아니라 건물 청소, 조경, 에너지 관리 등 종합적인 비임상 시설 운영(FM) 솔루션을 함께 제공합니다.
 

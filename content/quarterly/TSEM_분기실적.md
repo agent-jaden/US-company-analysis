@@ -1,8 +1,15 @@
 # TOWER SEMICONDUCTOR LTD (TSEM) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductors | 시총 24B$ (#543위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 116.3x |
+| P/E (Forward)  | 46.3x |
+| P/B            | 8.7x |
+| EV/EBITDA      | 49.0x |
 
 Tower Semiconductor Ltd.는 미국, 일본, 유럽 등지에서 집적 회로(IC)의 제조 기술 및 공정 플랫폼을 제공하는 독립적인 반도체 파운드리 기업입니다. SiGe, 혼합 신호 CMOS, RF CMOS 등 맞춤형 특수 공정 기술을 제공하며, 팹리스 회사 및 종합 반도체 기업(IDM)을 위한 설계 지원과 공정 이전 및 최적화 서비스를 지원합니다.
 

@@ -1,8 +1,15 @@
 # Liberty Media Corp (FWONK) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Entertainment | 시총 22B$ (#592위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 37.8x |
+| P/E (Forward)  | 41.7x |
+| P/B            | 2.8x |
+| EV/EBITDA      | 26.7x |
 
 Formula One Group은 미국, 영국, 스페인 및 해외에서 모터스포츠 사업을 운영한다. FIA Formula One World Championship의 상업권을 보유하고 있으며 TV 제작, 디지털·소셜미디어, 물류·여행 지원, Formula 1 Paddock Club, F2·F3, F1 Academy 운영도 수행한다.
 

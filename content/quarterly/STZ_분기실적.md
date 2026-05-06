@@ -1,8 +1,16 @@
 # CONSTELLATION BRANDS, INC. (STZ) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 2월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Defensive | Beverages - Brewers | 시총 27B$ (#505위) | 결산월: 2월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 15.6x |
+| P/E (Forward)  | 12.0x |
+| P/B            | 3.2x |
+| EV/EBITDA      | 11.0x |
+| 배당수익률     | 2.75% |
 
 미국, 캐나다, 멕시코 등지에서 프리미엄 맥주, 와인 및 증류주를 생산, 수입, 마케팅 및 판매하는 주류 기업입니다. Corona, Modelo 등 세계적인 맥주 브랜드를 비롯해 다양한 프리미엄 와인과 증류주 라인업을 제공합니다.
 

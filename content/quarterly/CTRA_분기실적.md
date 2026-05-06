@@ -1,8 +1,16 @@
 # Coterra Energy Inc. (CTRA) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas E&P | 시총 26B$ (#526위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 15.9x |
+| P/E (Forward)  | 12.0x |
+| P/B            | 1.8x |
+| EV/EBITDA      | 6.4x |
+| 배당수익률     | 2.45% |
 
 Coterra Energy Inc.는 미국 내 주요 분지에서 석유, 천연가스 및 천연가스 액체(NGL)를 탐사, 개발 및 생산하는 독립 에너지 기업입니다. 텍사스 및 뉴멕시코의 Permian Basin, 펜실베이니아의 Marcellus Shale, 오클라호마의 Anadarko Basin에 광범위한 시추 자산을 보유하고 있으며, 텍사스에서 가스 수집 및 폐수 처리 시스템도 운영합니다.
 

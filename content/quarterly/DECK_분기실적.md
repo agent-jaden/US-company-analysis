@@ -1,8 +1,15 @@
 # DECKERS OUTDOOR CORP (DECK) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Footwear & Accessories | 시총 15B$ (#747위) | 결산월: 3월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 14.0x |
+| P/E (Forward)  | 13.4x |
+| P/B            | 5.4x |
+| EV/EBITDA      | 9.0x |
 
 Deckers Outdoor Corporation은 캐주얼 라이프스타일 및 고성능 스포츠 활동을 위한 신발, 의류 및 액세서리를 전 세계에 디자인하고 유통합니다. 프리미엄 패션 브랜드인 UGG와 고성능 러닝화 브랜드인 HOKA를 필두로, 아웃도어 샌들인 Teva 등 다양한 라인업을 제공하여 폭넓은 소비자층을 확보하고 있습니다.
 

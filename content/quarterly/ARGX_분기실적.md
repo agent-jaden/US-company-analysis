@@ -1,8 +1,15 @@
 # ARGENX SE (ARGX) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: Alpha Vantage | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 49B$ (#330위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 40.6x |
+| P/E (Forward)  | 24.0x |
+| P/B            | 167.9x |
+| EV/EBITDA      | 42.3x |
 
 argenx는 미국, 일본, 중국, 네덜란드 등에서 자가면역질환 치료제를 개발하는 상업화 단계 바이오제약 기업이다. VYVGART와 VYVGART HYTRULO를 gMG, ITP, CIDP 등에 제공하며 efgartigimod, empasiprubart, adimanebart를 다양한 자가면역·신경근육 질환 적응증으로 개발 중이다.
 

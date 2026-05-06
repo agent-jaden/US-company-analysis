@@ -1,8 +1,15 @@
 # UBS Group AG (UBS) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Banks - Diversified | 시총 130B$ (#119위) | 결산월: 12월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 15.8x |
+| P/E (Forward)  | 11.0x |
+| P/B            | 1.5x |
+| 배당수익률     | 2.54% |
 
 UBS Group은 전 세계에서 자산관리와 은행 서비스를 제공하는 글로벌 금융그룹이다. Global Wealth Management, Personal & Corporate Banking, Asset Management, Investment Bank, Non-Core and Legacy 부문을 통해 고액자산가, 기관, 기업 고객에게 투자관리, 상속·자산계획, 은행 상품과 자문 서비스를 제공한다.
 

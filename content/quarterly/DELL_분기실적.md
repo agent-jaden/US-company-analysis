@@ -1,8 +1,16 @@
 # Dell Technologies Inc. (DELL) 분기 실적 히스토리
 
-> 생성일: 2026-04-30 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Computer Hardware | 시총 140B$ (#106위) | 결산월: 1월**
+
+| 지표 | 값 |
+|:-----|----:|
+| P/E (Trailing) | 25.0x |
+| P/E (Forward)  | 14.7x |
+| P/B            | -57.1x |
+| EV/EBITDA      | 14.0x |
+| 배당수익률     | 0.99% |
 
 Dell Technologies는 미주, 유럽, 중동, 아시아 등 글로벌 시장에서 통합 IT 솔루션, 제품, 서비스를 설계·개발·제조·판매·지원한다. 사업은 서버·스토리지 등 인프라 중심의 Infrastructure Solutions Group과 PC·주변기기 중심의 Client Solutions Group으로 구성된다.
 
