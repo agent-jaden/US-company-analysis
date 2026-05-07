@@ -1,15 +1,15 @@
 # IDEXX LABORATORIES INC /DE (IDXX) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Diagnostics & Research | 시총 46B$ (#342위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 41.5x |
-| P/E (Forward)  | 34.3x |
-| P/B            | 28.0x |
-| EV/EBITDA      | 29.4x |
+| P/E (Trailing) | 42.6x |
+| P/E (Forward)  | 35.1x |
+| P/B            | 28.8x |
+| EV/EBITDA      | 30.1x |
 
 IDEXX Laboratories는 미국과 해외에서 반려동물 수의, 축산·가금, 유제품, 수질검사 산업용 제품을 개발·제조·유통한다. Companion Animal Group, Water Quality Products, Livestock, Poultry and Dairy 부문을 통해 진단, 검사, 관리 솔루션을 제공한다.
 

@@ -1,6 +1,6 @@
 # ARCH CAPITAL GROUP LTD. (ACGLO) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance - Diversified | 시총 12B$ (#874위) | 결산월: 12월**
 
@@ -9,7 +9,7 @@
 | P/E (Trailing) | 4.3x |
 | P/B            | 0.3x |
 | EV/EBITDA      | 1.2x |
-| 배당수익률     | 674.00% |
+| 배당수익률     | 671.00% |
 
 Arch Capital Group Ltd.는 미국, 캐나다, 유럽, 호주 등 전 세계적으로 보험, 재보험 및 모기지 보험 상품을 제공하는 다국적 금융 기업입니다. 상업용 자동차, 산재, 전문인 배상 책임 보험을 비롯해 재산 및 특수 상해 보험 등 광범위한 위험 관리 솔루션을 운영합니다.
 

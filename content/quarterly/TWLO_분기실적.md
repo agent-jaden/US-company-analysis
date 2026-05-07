@@ -1,15 +1,15 @@
 # TWILIO INC (TWLO) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Infrastructure | 시총 22B$ (#595위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 296.3x |
-| P/E (Forward)  | 29.8x |
-| P/B            | 3.8x |
-| EV/EBITDA      | 64.6x |
+| P/E (Trailing) | 290.0x |
+| P/E (Forward)  | 29.1x |
+| P/B            | 3.7x |
+| EV/EBITDA      | 63.1x |
 
 Twilio는 미국과 해외에서 고객 참여 플랫폼 솔루션을 제공한다. 메시징, 음성, 이메일, 비디오, 디지털 참여센터, 마케팅 캠페인, 사용자 인증·ID 솔루션을 위한 API와 소프트웨어를 제공하며, Segment를 통해 고객 여정 데이터를 통합해 개인화된 고객 관계 구축을 지원한다.
 

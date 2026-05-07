@@ -1,15 +1,15 @@
 # CADENCE DESIGN SYSTEMS INC (CDNS) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Application | 시총 93B$ (#181위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 82.6x |
-| P/E (Forward)  | 37.7x |
+| P/E (Trailing) | 82.9x |
+| P/E (Forward)  | 37.8x |
 | P/B            | 14.7x |
-| EV/EBITDA      | 49.2x |
+| EV/EBITDA      | 49.4x |
 
 Cadence Design Systems는 계산 기반·AI 기반 소프트웨어, 하드웨어, silicon IP 제품과 솔루션을 개발한다. Jasper, Xcelium, Verisium, Palladium, Protium 등 검증 플랫폼과 Innovus 디지털 IC 설계·signoff 제품, Virtuoso 아날로그 설계·검증 플랫폼을 제공한다.
 

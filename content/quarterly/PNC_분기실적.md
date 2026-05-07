@@ -1,6 +1,6 @@
 # PNC FINANCIAL SERVICES GROUP, INC. (PNC) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Banks - Regional | 시총 89B$ (#187위) | 결산월: 12월**
 
@@ -9,7 +9,7 @@
 | P/E (Trailing) | 12.9x |
 | P/E (Forward)  | 10.6x |
 | P/B            | 1.4x |
-| 배당수익률     | 3.07% |
+| 배당수익률     | 3.02% |
 
 PNC Financial Services Group은 미국에서 다양한 금융 서비스를 제공하는 종합 금융회사다. Retail Banking, Corporate & Institutional Banking, Asset Management Group 부문을 통해 개인금융, 기업·기관금융, 자산관리 서비스를 운영한다.
 

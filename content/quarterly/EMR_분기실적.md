@@ -1,16 +1,16 @@
 # EMERSON ELECTRIC CO (EMR) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Specialty Industrial Machinery | 시총 80B$ (#206위) | 결산월: 9월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 32.0x |
-| P/E (Forward)  | 19.4x |
-| P/B            | 3.8x |
-| EV/EBITDA      | 15.3x |
-| 배당수익률     | 1.58% |
+| P/E (Trailing) | 34.3x |
+| P/E (Forward)  | 20.7x |
+| P/B            | 4.1x |
+| EV/EBITDA      | 16.2x |
+| 배당수익률     | 150.00% |
 
 Emerson Electric Co.는 미주, 아시아, 유럽 등지에서 산업용 기술 및 소프트웨어 솔루션을 제공하는 기업입니다. 제어 및 측정 기기, 안전 및 생산성 솔루션을 비롯해 Fisher, Keystone 등의 브랜드를 통해 공정 산업용 밸브 및 조절기 제품을 공급합니다.
 

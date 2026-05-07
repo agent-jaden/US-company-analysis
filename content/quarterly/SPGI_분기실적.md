@@ -1,6 +1,6 @@
 # S&P Global Inc. (SPGI) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Financial Data & Stock Exchanges | 시총 131B$ (#117위) | 결산월: 12월**
 

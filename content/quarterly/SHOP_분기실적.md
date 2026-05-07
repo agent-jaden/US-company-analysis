@@ -1,15 +1,15 @@
 # SHOPIFY INC. (SHOP) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Application | 시총 162B$ (#87위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 105.5x |
-| P/E (Forward)  | 46.9x |
-| P/B            | 10.4x |
-| EV/EBITDA      | 83.3x |
+| P/E (Trailing) | 103.4x |
+| P/E (Forward)  | 45.9x |
+| P/B            | 10.2x |
+| EV/EBITDA      | 61.1x |
 
 Shopify Inc.는 다양한 규모의 기업이 사업을 시작하고 운영할 수 있도록 도구를 제공하는 커머스 기술 기업입니다. 가맹점이 제품 관리, 주문 및 결제 처리, 배송, 재고 관리를 단일 플랫폼에서 수행할 수 있게 하는 Shopify 플랫폼과 통합 결제 서비스인 Shopify Payments를 지원합니다.
 

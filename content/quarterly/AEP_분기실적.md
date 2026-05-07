@@ -1,16 +1,16 @@
 # AMERICAN ELECTRIC POWER CO INC (AEP) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Utilities | Utilities - Regulated Electric | 시총 73B$ (#231위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 20.6x |
-| P/E (Forward)  | 19.9x |
-| P/B            | 2.4x |
-| EV/EBITDA      | 13.8x |
-| 배당수익률     | 282.00% |
+| P/E (Trailing) | 19.6x |
+| P/E (Forward)  | 19.3x |
+| P/B            | 2.3x |
+| EV/EBITDA      | 13.6x |
+| 배당수익률     | 287.00% |
 
 American Electric Power Company, Inc.는 미국 내 소매 및 도매 고객에게 전력을 생산, 전송 및 배분하는 대규모 전력 공익사업 지주 회사입니다. 천연가스, 원자력, 재생 에너지 등 다양한 에너지원으로 전력을 생산하며 광범위한 송전 인프라 운영 및 에너지 거래 사업을 영위합니다.
 

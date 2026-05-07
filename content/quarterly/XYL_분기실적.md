@@ -1,16 +1,16 @@
 # Xylem Inc. (XYL) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Specialty Industrial Machinery | 시총 30B$ (#471위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 29.0x |
-| P/E (Forward)  | 19.1x |
+| P/E (Trailing) | 29.5x |
+| P/E (Forward)  | 19.5x |
 | P/B            | 2.5x |
-| EV/EBITDA      | 15.3x |
-| 배당수익률     | 1.42% |
+| EV/EBITDA      | 15.5x |
+| 배당수익률     | 1.40% |
 
 전 세계 유틸리티, 산업, 상업 및 주거용 건물을 위한 수처리 엔지니어링 제품과 솔루션을 설계, 제조 및 서비스합니다. Flygt, Goulds Water Technology 등의 브랜드를 통해 상하수도 펌프, 여과 및 소독 장비, 제어 시스템 등 광범위한 수자원 관리 인프라를 지원합니다.
 

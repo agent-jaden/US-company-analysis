@@ -1,16 +1,16 @@
 # IMPERIAL OIL LTD (IMO) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CAD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CAD
 
 **Energy | Oil & Gas Integrated | 시총 63B$ (#271위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 30.6x |
-| P/E (Forward)  | 17.3x |
-| P/B            | 4.0x |
-| EV/EBITDA      | 10.3x |
-| 배당수익률     | 2.32% |
+| P/E (Trailing) | 29.5x |
+| P/E (Forward)  | 16.6x |
+| P/B            | 3.8x |
+| EV/EBITDA      | 9.9x |
+| 배당수익률     | 2.28% |
 
 Imperial Oil은 캐나다에서 원유와 천연가스의 탐사, 생산, 판매를 수행한다. Upstream, Downstream, Chemical 부문을 운영하며 Upstream 부문은 원유, 천연가스, synthetic crude oil, bitumen을 탐사·생산한다.
 

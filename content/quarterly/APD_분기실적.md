@@ -1,16 +1,16 @@
 # Air Products & Chemicals, Inc. (APD) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Specialty Chemicals | 시총 67B$ (#253위) | 결산월: 9월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 32.1x |
-| P/E (Forward)  | 21.3x |
+| P/E (Trailing) | 31.7x |
+| P/E (Forward)  | 21.1x |
 | P/B            | 4.3x |
-| EV/EBITDA      | 22.6x |
-| 배당수익률     | 2.41% |
+| EV/EBITDA      | 22.4x |
+| 배당수익률     | 2.36% |
 
 Air Products and Chemicals는 미주, 아시아, 유럽, 중동, 인도 등에서 산업용 가스, 공정·특수가스, 장비와 관련 서비스를 제공한다. 산소·질소·아르곤 같은 대기가스와 수소·헬륨·이산화탄소·일산화탄소·합성가스, 특수가스를 생산해 정유, 화학, 금속, 제조, 전자, 에너지, 의료, 식품, 석유·가스, 철강 산업 고객에게 공급한다.
 

@@ -1,16 +1,16 @@
 # ALLIANT ENERGY CORP (LNT) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Utilities | Utilities - Regulated Electric | 시총 19B$ (#651위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 23.0x |
-| P/E (Forward)  | 19.9x |
+| P/E (Trailing) | 22.7x |
+| P/E (Forward)  | 19.7x |
 | P/B            | 2.5x |
-| EV/EBITDA      | 16.5x |
-| 배당수익률     | 2.79% |
+| EV/EBITDA      | 16.4x |
+| 배당수익률     | 2.82% |
 
 Alliant Energy Corporation은 미국 내에서 규제 대상 전기 및 천연가스 서비스를 제공하는 유틸리티 지주 회사입니다. IPL 및 WPL 자회사를 통해 아이오와와 위스콘신 지역의 소매 고객을 대상으로 전력을 발전하여 배분하고 천연가스를 안정적으로 유통합니다.
 

@@ -1,15 +1,15 @@
 # STERLING INFRASTRUCTURE, INC. (STRL) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Engineering & Construction | 시총 16B$ (#737위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 72.0x |
-| P/E (Forward)  | 42.3x |
-| P/B            | 22.3x |
-| EV/EBITDA      | 50.3x |
+| P/E (Trailing) | 79.3x |
+| P/E (Forward)  | 43.1x |
+| P/B            | 24.5x |
+| EV/EBITDA      | 55.3x |
 
 Sterling Infrastructure, Inc.는 미국 전역에서 전자 인프라, 운송 및 건축 솔루션을 제공하는 인프라 건설 기업입니다. e-인프라 구축, 교량 및 고속도로 운송 건설, 상업용 건축 솔루션의 세 가지 핵심 부문을 통해 대규모 프로젝트를 수행합니다.
 

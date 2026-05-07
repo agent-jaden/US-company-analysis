@@ -1,15 +1,15 @@
 # Palantir Technologies Inc. (PLTR) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Infrastructure | 시총 343B$ (#34위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 154.4x |
-| P/E (Forward)  | 67.6x |
-| P/B            | 44.0x |
-| EV/EBITDA      | 157.4x |
+| P/E (Trailing) | 148.7x |
+| P/E (Forward)  | 65.8x |
+| P/B            | 43.3x |
+| EV/EBITDA      | 155.1x |
 
 Palantir Technologies Inc.는 미국 및 전 세계의 정보 기관이 대테러 조사 및 작전을 수행할 수 있도록 지원하는 소프트웨어 플랫폼을 구축하고 배포합니다. 실시간 센서 데이터를 통합해 전장 상황을 파악하고 신속한 의사결정을 돕는 Palantir Gotham을 제공하여 작전 실행을 지원합니다.
 

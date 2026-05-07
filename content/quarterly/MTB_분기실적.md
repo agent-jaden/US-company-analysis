@@ -1,15 +1,15 @@
 # M&T BANK CORP (MTB) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Banks - Regional | 시총 32B$ (#444위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 12.1x |
-| P/E (Forward)  | 10.3x |
-| P/B            | 1.2x |
-| 배당수익률     | 2.73% |
+| P/E (Trailing) | 12.2x |
+| P/E (Forward)  | 10.4x |
+| P/B            | 1.3x |
+| 배당수익률     | 2.71% |
 
 M&T Bank는 Manufacturers and Traders Trust Company와 Wilmington Trust의 은행지주회사로 미국에서 리테일·상업은행 상품과 서비스를 제공한다. Commercial Bank, Retail Bank, Institutional Services and Wealth Management 부문을 통해 상업대출·리스, 신용장, 예금, 현금관리, 상업용 부동산 대출, 자산관리와 신탁 서비스를 제공한다.
 

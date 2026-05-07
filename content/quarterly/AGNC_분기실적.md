@@ -1,6 +1,6 @@
 # AGNC Investment Corp. (AGNC) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | REIT - Mortgage | 시총 13B$ (#836위) | 결산월: 12월**
 
@@ -9,7 +9,7 @@
 | P/E (Trailing) | 8.4x |
 | P/E (Forward)  | 7.1x |
 | P/B            | 1.2x |
-| 배당수익률     | 13.52% |
+| 배당수익률     | 13.43% |
 
 AGNC Investment는 미국 주택시장에 민간 자본을 제공한다. 미국 정부후원기관 또는 정부기관이 원리금 지급을 보증하는 residential mortgage pass-through securities와 CMO에 투자한다.
 

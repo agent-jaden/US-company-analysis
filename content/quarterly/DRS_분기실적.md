@@ -1,16 +1,16 @@
 # Leonardo DRS, Inc. (DRS) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Aerospace & Defense | 시총 11B$ (#935위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 37.1x |
-| P/E (Forward)  | 28.2x |
-| P/B            | 3.9x |
-| EV/EBITDA      | 22.5x |
-| 배당수익률     | 91.00% |
+| P/E (Trailing) | 39.1x |
+| P/E (Forward)  | 29.4x |
+| P/B            | 4.1x |
+| EV/EBITDA      | 23.7x |
+| 배당수익률     | 0.68% |
 
 Leonardo DRS는 전 세계에서 방산 전자 제품·시스템과 군사 지원 서비스를 제공한다. Advanced Sensing and Computing과 Integrated Mission Systems 부문을 통해 실시간 상황인식, 정밀 표적, 감시·정찰, 전자전, 지상차량 센싱, AESA 전술 레이더, 우주 센싱 관련 기술을 공급한다.
 

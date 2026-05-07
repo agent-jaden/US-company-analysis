@@ -1,16 +1,16 @@
 # UL Solutions Inc. (ULS) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Specialty Business Services | 시총 18B$ (#674위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 60.9x |
-| P/E (Forward)  | 41.4x |
+| P/E (Trailing) | 61.0x |
+| P/E (Forward)  | 40.6x |
 | P/B            | 15.8x |
-| EV/EBITDA      | 30.8x |
-| 배당수익률     | 0.43% |
+| EV/EBITDA      | 30.9x |
+| 배당수익률     | 0.37% |
 
 UL Solutions는 전 세계에서 시험, 검사, 인증 서비스와 관련 소프트웨어·자문 서비스를 제공한다. Industrial, Consumer, Software and Advisory 부문을 운영하며 에너지, 산업 자동화, 엔지니어드 소재, 건축 환경 등 다양한 시장에서 제조사, 자산 소유자, 사용자, 규제기관을 지원한다.
 

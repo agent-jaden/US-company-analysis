@@ -1,16 +1,16 @@
 # STANLEY BLACK & DECKER, INC. (SWK) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Tools & Accessories | 시총 12B$ (#852위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 31.7x |
-| P/E (Forward)  | 12.5x |
-| P/B            | 1.3x |
-| EV/EBITDA      | 11.2x |
-| 배당수익률     | 4.42% |
+| P/E (Trailing) | 33.2x |
+| P/E (Forward)  | 13.1x |
+| P/B            | 1.4x |
+| EV/EBITDA      | 11.5x |
+| 배당수익률     | 4.27% |
 
 Stanley Black & Decker는 미국, 캐나다, 기타 미주, 유럽, 아시아에서 수공구, 전동공구, 야외용 제품과 관련 액세서리를 제공한다. 전문가용 유·무선 전동공구, 공압공구와 fastener, 레이아웃·측정 공구, 산업·자동차 공구, 공구함·저장 솔루션, 전기·가스식 잔디·정원 제품을 공급한다.
 

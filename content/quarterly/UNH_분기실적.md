@@ -1,16 +1,16 @@
 # UNITEDHEALTH GROUP INC (UNH) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Healthcare Plans | 시총 322B$ (#39위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 27.4x |
-| P/E (Forward)  | 17.5x |
+| P/E (Trailing) | 27.6x |
+| P/E (Forward)  | 17.7x |
 | P/B            | 3.5x |
-| EV/EBITDA      | 17.7x |
-| 배당수익률     | 2.38% |
+| EV/EBITDA      | 17.8x |
+| 배당수익률     | 2.43% |
 
 UnitedHealth Group Incorporated는 미국 및 국제적으로 운영되는 헬스케어 기업입니다. Optum Health, Optum Insight, Optum Rx 및 UnitedHealthcare의 네 가지 주요 부문을 통해 환자, 고용주, 의료 제공자 등에게 진료 전달, 건강 관리 및 금융 서비스를 제공합니다.
 

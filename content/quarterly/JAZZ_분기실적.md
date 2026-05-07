@@ -1,14 +1,14 @@
 # Jazz Pharmaceuticals plc (JAZZ) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 13B$ (#842위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 1929.6x |
-| P/E (Forward)  | 8.4x |
-| P/B            | 3.0x |
+| P/E (Trailing) | 2077.9x |
+| P/E (Forward)  | 9.0x |
+| P/B            | 3.3x |
 | EV/EBITDA      | 9.4x |
 
 Jazz Pharmaceuticals는 미국, 유럽 및 해외에서 의약품을 발굴·개발·상업화한다. Xywav, Epidiolex, Rylaze, Enrylaze, Zepzelca, Ziihera, Modeyso, Defitelio 등을 통해 기면증, 특발성 과다수면증, 발작, 급성림프구성백혈병, 소세포폐암, 담도암, diffuse midline glioma, severe veno-occlusive disease 등을 치료하며 Zanidatamab, Dordaviprone, Vyxeos도 개발한다.

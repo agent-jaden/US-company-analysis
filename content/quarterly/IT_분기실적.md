@@ -1,15 +1,15 @@
 # GARTNER INC (IT) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Information Technology Services | 시총 10B$ (#977위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 14.8x |
-| P/E (Forward)  | 10.2x |
-| P/B            | 33.1x |
-| EV/EBITDA      | 8.8x |
+| P/E (Trailing) | 14.9x |
+| P/E (Forward)  | 10.3x |
+| P/B            | 33.5x |
+| EV/EBITDA      | 8.9x |
 
 Gartner는 미국, 캐나다, 유럽, 중동, 아프리카 및 해외에서 기업의 핵심 의사결정과 성과 개선을 위한 비즈니스·기술 인사이트를 제공한다. Insights, Conferences, Consulting 부문을 통해 리서치, 컨퍼런스, 자문 서비스를 운영한다.
 

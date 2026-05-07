@@ -1,15 +1,15 @@
 # EMCOR Group, Inc. (EME) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Engineering & Construction | 시총 39B$ (#382위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 31.3x |
-| P/E (Forward)  | 28.8x |
-| P/B            | 11.3x |
-| EV/EBITDA      | 22.2x |
+| P/E (Trailing) | 31.7x |
+| P/E (Forward)  | 29.1x |
+| P/B            | 11.4x |
+| EV/EBITDA      | 22.4x |
 | 배당수익률     | 0.14% |
 
 EMCOR Group은 미국과 영국에서 전기·기계 건설, 시설, 건물, 산업 서비스를 제공한다. 송배전·발전 시스템, 에너지 솔루션, 전기·조명, 통신, 도로·교통 조명·신호, HVAC/R, 클린룸 환기, 화재방지, 배관·공정 파이핑, 수처리, 크레인·리깅, 철골 제작·설치·용접 서비스를 수행한다.

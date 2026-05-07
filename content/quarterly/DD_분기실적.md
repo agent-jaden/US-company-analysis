@@ -1,16 +1,16 @@
 # DuPont de Nemours, Inc. (DD) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Specialty Chemicals | 시총 19B$ (#639위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 129.6x |
-| P/E (Forward)  | 19.1x |
-| P/B            | 1.4x |
-| EV/EBITDA      | 14.7x |
-| 배당수익률     | 162.00% |
+| P/E (Trailing) | 131.8x |
+| P/E (Forward)  | 19.2x |
+| P/B            | 1.5x |
+| EV/EBITDA      | 15.0x |
+| 배당수익률     | 2.07% |
 
 DuPont de Nemours, Inc.는 미국, 캐나다, 아시아 태평양 등 전 세계 산업에 첨단 기술 기반의 소재 및 솔루션을 제공하는 글로벌 화학 기업입니다. 헬스케어 및 수처리 기술(Healthcare & Water Technologies) 부문과 다각화된 산업(Diversified Industrials) 부문을 통해 고기능성 혁신 재료를 시장에 공급합니다.
 

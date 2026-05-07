@@ -1,16 +1,16 @@
 # CNH Industrial N.V. (CNH) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Farm & Heavy Construction Machinery | 시총 13B$ (#837위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 32.2x |
-| P/E (Forward)  | 14.0x |
-| P/B            | 1.6x |
-| EV/EBITDA      | 34.9x |
-| 배당수익률     | 0.98% |
+| P/E (Trailing) | 33.8x |
+| P/E (Forward)  | 14.7x |
+| P/B            | 1.7x |
+| EV/EBITDA      | 35.5x |
+| 배당수익률     | 0.97% |
 
 CNH Industrial은 북미, 유럽, 중동, 아프리카, 남미, 아시아태평양에서 농업 및 건설 장비를 개발·제조·판매한다. Agriculture, Construction, Financial Services 부문을 운영하며 Case IH, New Holland, STEYR, Raven 브랜드로 트랙터, 수확기, 건초·사료 장비, 파종·식재 장비, 자주식 분무기와 정밀농업 솔루션을 제공한다.
 

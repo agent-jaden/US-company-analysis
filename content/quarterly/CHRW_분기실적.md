@@ -1,16 +1,16 @@
 # C. H. ROBINSON WORLDWIDE, INC. (CHRW) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Integrated Freight & Logistics | 시총 22B$ (#584위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 33.8x |
-| P/E (Forward)  | 23.0x |
-| P/B            | 11.6x |
-| EV/EBITDA      | 23.9x |
-| 배당수익률     | 1.55% |
+| P/E (Trailing) | 34.1x |
+| P/E (Forward)  | 23.2x |
+| P/B            | 11.7x |
+| EV/EBITDA      | 24.1x |
+| 배당수익률     | 1.50% |
 
 C.H. Robinson Worldwide는 미국과 해외에서 화물 운송, 물류, 공급망 서비스를 제공한다. North American Surface Transportation과 Global Forwarding 부문을 통해 육상 운송, 포워딩, 물류관리 서비스를 운영한다.
 

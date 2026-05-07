@@ -1,15 +1,15 @@
 # Reddit, Inc. (RDDT) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Internet Content & Information | 시총 31B$ (#457위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 49.0x |
-| P/E (Forward)  | 19.5x |
-| P/B            | 11.2x |
-| EV/EBITDA      | 47.5x |
+| P/E (Trailing) | 47.6x |
+| P/E (Forward)  | 18.9x |
+| P/B            | 10.9x |
+| EV/EBITDA      | 46.0x |
 
 미국 및 전 세계에서 디지털 커뮤니티 플랫폼인 Reddit을 운영하고 있습니다. 사용자가 관심사를 탐색하고, 새로운 커뮤니티를 형성하며, 대화와 정보 교환에 참여할 수 있는 열린 공간을 제공합니다.
 

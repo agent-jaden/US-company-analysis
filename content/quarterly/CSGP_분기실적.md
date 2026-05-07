@@ -1,15 +1,15 @@
 # COSTAR GROUP, INC. (CSGP) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | Real Estate Services | 시총 15B$ (#743위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 498.6x |
-| P/E (Forward)  | 19.7x |
+| P/E (Trailing) | 486.7x |
+| P/E (Forward)  | 19.2x |
 | P/B            | 1.7x |
-| EV/EBITDA      | 52.3x |
+| EV/EBITDA      | 51.1x |
 
 CoStar Group, Inc.는 미국, 유럽, 아시아 등 전 세계 부동산 커뮤니티에 데이터 분석 및 온라인 마켓플레이스 서비스를 제공합니다. CoStar Property, Leasing, Sales 등의 플랫폼을 통해 상업용 부동산의 재고, 임대 및 매매 거래 데이터, 포트폴리오 정보 및 임차인 동향 등 심층적인 시장 인텔리전스를 지원합니다.
 

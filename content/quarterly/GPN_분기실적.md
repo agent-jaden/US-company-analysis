@@ -1,16 +1,16 @@
 # GLOBAL PAYMENTS INC (GPN) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Specialty Business Services | 시총 19B$ (#645위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 15.7x |
+| P/E (Trailing) | 28.9x |
 | P/E (Forward)  | 4.3x |
 | P/B            | 0.7x |
-| EV/EBITDA      | 9.9x |
-| 배당수익률     | 1.39% |
+| EV/EBITDA      | 10.9x |
+| 배당수익률     | 144.00% |
 
 Global Payments Inc.는 미주, 유럽 및 아시아 태평양 지역에서 카드, 수표 및 디지털 결제를 위한 결제 기술 및 소프트웨어 솔루션을 제공합니다. 가맹점 결제 승인, 정산 및 자금 조달을 비롯해 단말기 대여, 지불 보안 및 고객 분쟁 관리(차지백) 등 포괄적인 결제 처리 서비스를 지원합니다.
 

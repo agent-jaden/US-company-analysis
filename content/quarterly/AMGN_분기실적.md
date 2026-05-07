@@ -1,16 +1,16 @@
 # AMGEN INC (AMGN) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Drug Manufacturers - General | 시총 183B$ (#73위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 22.9x |
-| P/E (Forward)  | 14.0x |
-| P/B            | 20.5x |
+| P/E (Trailing) | 23.0x |
+| P/E (Forward)  | 14.1x |
+| P/B            | 19.4x |
 | EV/EBITDA      | 13.2x |
-| 배당수익률     | 2.98% |
+| 배당수익률     | 2.93% |
 
 Amgen Inc.는 전 세계적으로 인체 치료제를 발견, 개발, 제조 및 유통하는 바이오 제약 기업입니다. Enbrel, Prolia, Repatha 등 류마티스 관절염, 골다공증, 심혈관 질환 및 각종 암을 치료하기 위한 다양한 혁신 의약품 포트폴리오를 제공합니다.
 

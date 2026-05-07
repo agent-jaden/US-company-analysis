@@ -1,16 +1,16 @@
 # ENTERGY CORP /DE/ (ETR) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Utilities | Utilities - Regulated Electric | 시총 52B$ (#314위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 29.9x |
-| P/E (Forward)  | 23.5x |
-| P/B            | 3.1x |
-| EV/EBITDA      | 15.4x |
-| 배당수익률     | 2.13% |
+| P/E (Trailing) | 28.8x |
+| P/E (Forward)  | 22.5x |
+| P/B            | 3.0x |
+| EV/EBITDA      | 15.0x |
+| 배당수익률     | 2.11% |
 
 Entergy는 자회사를 통해 미국에서 전력 생산과 소매 배전 사업을 영위한다. Arkansas, Louisiana, Mississippi, Texas 일부 지역과 New Orleans에서 전력을 생산·송전·배전·판매하며, 비원전 발전소 지분 보유와 원전 해체 서비스도 수행한다.
 

@@ -1,16 +1,16 @@
 # Duke Energy CORP (DUK) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Utilities | Utilities - Regulated Electric | 시총 99B$ (#163위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 19.6x |
-| P/E (Forward)  | 17.8x |
-| P/B            | 2.0x |
-| EV/EBITDA      | 11.6x |
-| 배당수익률     | 334.00% |
+| P/E (Trailing) | 19.3x |
+| P/E (Forward)  | 17.5x |
+| P/B            | 1.8x |
+| EV/EBITDA      | 11.5x |
+| 배당수익률     | 2.49% |
 
 Duke Energy는 자회사를 통해 미국에서 에너지 사업을 운영한다. Electric Utilities and Infrastructure 부문은 미국 남동부와 중서부 지역 고객에게 전력을 생산, 송전, 배전, 판매하고 Gas Utilities and Infrastructure 부문도 함께 운영한다.
 

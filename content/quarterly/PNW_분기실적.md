@@ -1,16 +1,16 @@
 # PINNACLE WEST CAPITAL CORP (PNW) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Utilities | Utilities - Regulated Electric | 시총 12B$ (#853위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 18.9x |
-| P/E (Forward)  | 18.2x |
+| P/E (Trailing) | 18.7x |
+| P/E (Forward)  | 18.0x |
 | P/B            | 1.7x |
-| EV/EBITDA      | 12.9x |
-| 배당수익률     | 3.55% |
+| EV/EBITDA      | 12.8x |
+| 배당수익률     | 3.56% |
 
 Pinnacle West Capital은 자회사를 통해 Arizona 주에서 소매 및 도매 전력 서비스를 제공한다. 원자력, 가스, 석유, 석탄, 태양광 발전설비를 활용해 전력을 생산·송전·배전하며 지상·지중 송전선과 배전 설비를 운영한다.
 

@@ -1,15 +1,15 @@
 # Aptiv PLC (APTV) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Auto Parts | 시총 15B$ (#749위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 32.6x |
-| P/E (Forward)  | 8.2x |
+| P/E (Trailing) | 33.8x |
+| P/E (Forward)  | 8.5x |
 | P/B            | 1.3x |
-| EV/EBITDA      | 5.9x |
+| EV/EBITDA      | 6.0x |
 
 Aptiv PLC는 자동차 및 산업 전반에 걸쳐 하드웨어 및 소프트웨어 솔루션을 제공하는 글로벌 산업 기술 기업입니다. 능동형 안전 장치, 스마트 차량 컴퓨팅, 전기 배전 시스템을 통해 자율주행, 지능형 센서 및 차량 보안 기술을 최적화하는 데 주력하고 있습니다.
 

@@ -1,16 +1,16 @@
 # SYSCO CORP (SYY) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Defensive | Food Distribution | 시총 36B$ (#413위) | 결산월: 7월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 20.2x |
-| P/E (Forward)  | 14.7x |
-| P/B            | 15.3x |
+| P/E (Trailing) | 20.4x |
+| P/E (Forward)  | 14.8x |
+| P/B            | 15.4x |
 | EV/EBITDA      | 10.6x |
-| 배당수익률     | 2.98% |
+| 배당수익률     | 2.97% |
 
 Sysco는 자회사를 통해 미국, 캐나다, 영국, 프랑스 및 해외의 외식·푸드서비스 산업에 식품과 관련 제품을 마케팅·유통한다. U.S. Foodservice Operations, International Foodservice Operations, SYGMA, Other 부문을 통해 식자재 공급망 서비스를 운영한다.
 

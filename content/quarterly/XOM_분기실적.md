@@ -1,16 +1,16 @@
 # EXXON MOBIL CORP (XOM) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Integrated | 시총 616B$ (#16위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 26.0x |
-| P/E (Forward)  | 15.3x |
-| P/B            | 2.5x |
-| EV/EBITDA      | 12.3x |
-| 배당수익률     | 2.63% |
+| P/E (Trailing) | 25.1x |
+| P/E (Forward)  | 14.6x |
+| P/B            | 2.4x |
+| EV/EBITDA      | 11.8x |
+| 배당수익률     | 2.61% |
 
 Exxon Mobil Corporation은 미국, 캐나다 및 전 세계에서 원유 및 천연가스의 탐사와 생산을 진행합니다. 주요 사업 부문은 원유 및 천연가스를 생산하는 Upstream 부문과 Energy Products, Chemical Products, Specialty Products 부문으로 나뉩니다.
 

@@ -1,15 +1,15 @@
 # VERTEX PHARMACEUTICALS INC / MA (VRTX) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 108B$ (#147위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 25.2x |
-| P/E (Forward)  | 19.7x |
-| P/B            | 5.8x |
-| EV/EBITDA      | 20.6x |
+| P/E (Trailing) | 25.4x |
+| P/E (Forward)  | 19.8x |
+| P/B            | 5.6x |
+| EV/EBITDA      | 20.7x |
 
 Vertex Pharmaceuticals는 미국, 유럽 등에서 중증 질환 치료제를 개발·판매하는 바이오테크 기업이다. 낭포성 섬유증, 겸상적혈구병, 수혈 의존성 베타 지중해빈혈, 급성통증 등 전문 시장에 집중하며 TRIKAFTA/KAFTRIO, ALYFTREK, SYMDEKO/SYMKEVI, ORKAMBI, KALYDECO 등을 판매한다.
 

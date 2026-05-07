@@ -1,16 +1,16 @@
 # Avery Dennison Corp (AVY) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Packaging & Containers | 시총 13B$ (#839위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 18.2x |
-| P/E (Forward)  | 14.5x |
-| P/B            | 5.6x |
-| EV/EBITDA      | 11.1x |
-| 배당수익률     | 2.34% |
+| P/E (Trailing) | 18.8x |
+| P/E (Forward)  | 14.9x |
+| P/B            | 5.7x |
+| EV/EBITDA      | 11.3x |
+| 배당수익률     | 2.32% |
 
 Avery Dennison은 북미, 유럽, 중동, 북아프리카, 아시아, 라틴아메리카에서 소재과학 및 디지털 식별 솔루션 기업으로 운영된다. 감압 라벨 소재, performance tape, 접착 기반 소재와 가공 제품, 건축·상업 간판·디지털 프린팅·자동차·교통 안전용 그래픽 및 반사 필름을 Avery Dennison, Mactac 등 브랜드로 제공한다.
 

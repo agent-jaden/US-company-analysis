@@ -1,15 +1,15 @@
 # GoDaddy Inc. (GDDY) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Infrastructure | 시총 11B$ (#909위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 13.9x |
-| P/E (Forward)  | 8.1x |
-| P/B            | 54.8x |
-| EV/EBITDA      | 10.8x |
+| P/E (Trailing) | 13.5x |
+| P/E (Forward)  | 7.9x |
+| P/B            | 53.4x |
+| EV/EBITDA      | 10.5x |
 
 GoDaddy는 미국과 해외에서 클라우드 기반 제품을 설계·개발한다. Applications and Commerce와 Core Platform 부문을 통해 웹사이트 구축, 도메인, 커머스, 온라인 비즈니스 운영 관련 솔루션을 제공한다.
 

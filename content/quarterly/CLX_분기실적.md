@@ -1,16 +1,16 @@
 # CLOROX CO /DE/ (CLX) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Defensive | Household & Personal Products | 시총 12B$ (#888위) | 결산월: 6월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 14.0x |
-| P/E (Forward)  | 13.6x |
-| P/B            | -155.5x |
-| EV/EBITDA      | 10.9x |
-| 배당수익률     | 5.74% |
+| P/E (Trailing) | 14.6x |
+| P/E (Forward)  | 14.3x |
+| P/B            | -162.5x |
+| EV/EBITDA      | 11.3x |
+| 배당수익률     | 5.76% |
 
 The Clorox Company는 전 세계 소비자와 전문가를 위해 생활용품과 소독 제품을 제조하고 마케팅하는 소비재 기업입니다. Clorox, Pine-Sol 등의 청소 용품, CloroxHealthcare의 전문가용 소독제, 그리고 Hidden Valley 등의 식품 브랜드를 통해 위생과 일상생활에 밀접한 제품을 판매합니다.
 

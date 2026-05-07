@@ -1,14 +1,14 @@
 # CENTENE CORP (CNC) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Healthcare Plans | 시총 21B$ (#603위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Forward)  | 11.9x |
-| P/B            | 1.2x |
-| EV/EBITDA      | 6.5x |
+| P/E (Forward)  | 12.4x |
+| P/B            | 1.3x |
+| EV/EBITDA      | 6.9x |
 
 Centene은 미국에서 보험 보장이 부족한 가정과 상업 조직에 프로그램과 서비스를 제공하는 managed care 기업이다. Medicaid, Medicare, Commercial, Other 부문을 운영하며 Medicaid 부문은 저소득층 지원, Medicaid expansion, 고령·시각장애·장애인, 아동 건강보험, 장기요양, 위탁보호, Medicare-Medicaid 플랜을 제공한다.
 

@@ -1,16 +1,16 @@
 # AMERICAN INTERNATIONAL GROUP, INC. (AIG) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance - Diversified | 시총 40B$ (#379위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 13.8x |
-| P/E (Forward)  | 8.9x |
+| P/E (Trailing) | 13.7x |
+| P/E (Forward)  | 8.8x |
 | P/B            | 1.0x |
-| EV/EBITDA      | 5.0x |
-| 배당수익률     | 2.32% |
+| EV/EBITDA      | 4.9x |
+| 배당수익률     | 2.29% |
 
 American International Group은 북미와 해외에서 상업, 기관, 개인 고객에게 보험 상품을 제공한다. North America Commercial, International Commercial, Global Personal 부문을 통해 손해보험과 개인보험 중심의 글로벌 보험 사업을 운영한다.
 

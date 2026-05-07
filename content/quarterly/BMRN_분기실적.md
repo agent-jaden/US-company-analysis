@@ -1,15 +1,15 @@
 # BIOMARIN PHARMACEUTICAL INC (BMRN) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 10B$ (#954위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 38.3x |
-| P/E (Forward)  | 8.2x |
+| P/E (Trailing) | 39.3x |
+| P/E (Forward)  | 8.5x |
 | P/B            | 1.7x |
-| EV/EBITDA      | 15.1x |
+| EV/EBITDA      | 15.5x |
 
 BioMarin Pharmaceutical은 미국, 유럽, 라틴아메리카, 중동, 아시아태평양 및 해외에서 생명을 위협하는 희귀질환 치료제를 개발·상업화하는 바이오테크 기업이다. VIMIZIM, VOXZOGO, NAGLAZYME, PALYNZIQ, BRINEURA, ALDURAZYME, KUVAN 등을 통해 MPS, achondroplasia, phenylketonuria 등 희귀 유전질환과 대사질환 치료제를 제공한다.
 

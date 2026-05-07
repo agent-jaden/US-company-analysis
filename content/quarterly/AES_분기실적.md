@@ -1,16 +1,16 @@
 # AES CORP (AES) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Utilities | Utilities - Diversified | 시총 10B$ (#960위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 11.0x |
+| P/E (Trailing) | 7.5x |
 | P/E (Forward)  | 6.0x |
 | P/B            | 2.5x |
-| EV/EBITDA      | 13.7x |
-| 배당수익률     | 4.93% |
+| EV/EBITDA      | 12.8x |
+| 배당수익률     | 491.00% |
 
 AES는 자회사와 함께 발전 및 유틸리티 사업을 운영한다. Renewables, Utilities, Energy Infrastructure, New Energy Technologies 부문을 통해 발전소를 보유·운영해 전력을 생산·판매하고, 주거·상업·산업·정부 고객에게 전력 송배전 서비스를 제공하며 친환경 에너지 기술에도 투자한다.
 

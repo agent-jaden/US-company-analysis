@@ -1,16 +1,16 @@
 # CARRIER GLOBAL Corp (CARR) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Building Products & Equipment | 시총 52B$ (#316위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 42.8x |
-| P/E (Forward)  | 20.1x |
-| P/B            | 4.0x |
-| EV/EBITDA      | 20.6x |
-| 배당수익률     | 1.41% |
+| P/E (Trailing) | 45.3x |
+| P/E (Forward)  | 21.2x |
+| P/B            | 4.2x |
+| EV/EBITDA      | 21.6x |
+| 배당수익률     | 1.45% |
 
 Carrier Global은 미국, 유럽, 아시아태평양 등에서 지능형 기후·에너지 솔루션을 제공한다. 에어컨, 난방 시스템, 히트펌프, 주택·빌딩 에너지관리 시스템, 자동화 시스템, 애프터마켓 부품, 수리·유지보수·렌털, 현대화·업그레이드 서비스를 통해 주거·상업 고객의 냉난방·환기 수요를 지원한다.
 

@@ -1,16 +1,16 @@
 # Meta Platforms, Inc. (META) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Internet Content & Information | 시총 1723B$ (#9위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 22.0x |
-| P/E (Forward)  | 16.7x |
-| P/B            | 7.0x |
-| EV/EBITDA      | 14.1x |
-| 배당수익률     | 0.34% |
+| P/E (Trailing) | 22.3x |
+| P/E (Forward)  | 16.9x |
+| P/B            | 7.1x |
+| EV/EBITDA      | 14.3x |
+| 배당수익률     | 0.35% |
 
 Meta Platforms, Inc.는 모바일 기기, PC, 가상현실(VR) 헤드셋, AI 안경 등을 통해 사람들이 연결되고 소통할 수 있는 제품을 개발합니다. 사업 부문은 Family of Apps (FoA)와 Reality Labs (RL) 두 가지로 나뉘어 전 세계적으로 운영됩니다.
 

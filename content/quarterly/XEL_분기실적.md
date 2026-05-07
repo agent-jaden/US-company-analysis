@@ -1,16 +1,16 @@
 # XCEL ENERGY INC (XEL) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Utilities | Utilities - Regulated Electric | 시총 50B$ (#329위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 23.5x |
-| P/E (Forward)  | 18.0x |
-| P/B            | 2.2x |
-| EV/EBITDA      | 14.6x |
-| 배당수익률     | 2.84% |
+| P/E (Trailing) | 23.2x |
+| P/E (Forward)  | 17.8x |
+| P/B            | 2.1x |
+| EV/EBITDA      | 14.5x |
+| 배당수익률     | 2.83% |
 
 Xcel Energy는 자회사를 통해 미국에서 전기와 천연가스 공급 사업을 운영한다. Regulated Electric Utility와 Regulated Natural Gas Utility 부문을 통해 풍력, 원자력, 수력, 바이오매스, 태양광, 석탄, 천연가스 발전과 PPA 기반 전력을 생산·구매·송전·배전·판매하고 도매 송전 및 에너지 거래도 수행한다.
 

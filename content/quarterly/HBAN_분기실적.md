@@ -1,15 +1,15 @@
 # HUNTINGTON BANCSHARES INC /MD/ (HBAN) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Banks - Regional | 시총 34B$ (#431위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 12.6x |
-| P/E (Forward)  | 8.6x |
+| P/E (Trailing) | 12.8x |
+| P/E (Forward)  | 8.7x |
 | P/B            | 1.1x |
-| 배당수익률     | 3.84% |
+| 배당수익률     | 3.78% |
 
 Huntington Bancshares는 The Huntington National Bank의 은행지주회사로 상업, 소비자, 모기지 뱅킹 서비스를 제공한다. 예금, 대출, 결제, 모기지, 딜러 금융, 투자관리, 신탁, 브로커리지, 보험, 디지털 금융 솔루션, 프라이빗뱅킹과 자산관리 서비스를 운영한다.
 

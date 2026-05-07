@@ -1,6 +1,6 @@
 # LABCORP HOLDINGS INC. (LH) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Diagnostics & Research | 시총 22B$ (#593위) | 결산월: 12월**
 
@@ -10,7 +10,7 @@
 | P/E (Forward)  | 13.2x |
 | P/B            | 2.5x |
 | EV/EBITDA      | 12.2x |
-| 배당수익률     | 1.14% |
+| 배당수익률     | 1.12% |
 
 Labcorp Holdings는 실험실 서비스를 제공하는 헬스케어 기업이다. Diagnostics Laboratories와 Biopharma Laboratory Services 부문을 통해 진단검사와 바이오파마 연구개발 지원 실험실 서비스를 운영한다.
 

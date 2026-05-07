@@ -1,16 +1,16 @@
 # QUALCOMM INC/DE (QCOM) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductors | 시총 160B$ (#89위) | 결산월: 9월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 20.0x |
-| P/E (Forward)  | 17.6x |
-| P/B            | 8.7x |
-| EV/EBITDA      | 15.5x |
-| 배당수익률     | 2.11% |
+| P/E (Trailing) | 20.7x |
+| P/E (Forward)  | 18.1x |
+| P/B            | 9.0x |
+| EV/EBITDA      | 16.0x |
+| 배당수익률     | 1.91% |
 
 QUALCOMM Incorporated는 전 세계 무선 산업을 위한 기초 기술을 개발하고 상용화합니다. 모바일 기기, 자동차 연결 시스템 및 IoT 제품에 사용되는 칩셋과 시스템 소프트웨어를 공급하며, 무선 기술 라이선스 사업도 함께 운영합니다.
 

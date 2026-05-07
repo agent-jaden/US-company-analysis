@@ -1,16 +1,16 @@
 # W. P. Carey Inc. (WPC) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | REIT - Diversified | 시총 16B$ (#728위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 31.3x |
-| P/E (Forward)  | 26.3x |
+| P/E (Trailing) | 31.6x |
+| P/E (Forward)  | 26.6x |
 | P/B            | 2.0x |
-| EV/EBITDA      | 17.1x |
-| 배당수익률     | 5.05% |
+| EV/EBITDA      | 17.2x |
+| 배당수익률     | 5.00% |
 
 W. P. Carey Inc.는 상업용 부동산을 전문으로 하는 글로벌 부동산 투자 신탁(REIT) 기업입니다.
 

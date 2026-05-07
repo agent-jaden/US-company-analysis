@@ -1,14 +1,14 @@
 # Atlassian Corp (TEAM) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Software - Application | 시총 18B$ (#660위) | 결산월: 6월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Forward)  | 14.6x |
-| P/B            | 15.4x |
-| EV/EBITDA      | -454.8x |
+| P/E (Forward)  | 14.1x |
+| P/B            | 14.8x |
+| EV/EBITDA      | -437.4x |
 
 Atlassian은 전 세계 조직이 팀을 연결하고 생산성을 높일 수 있도록 협업 소프트웨어를 제공한다. Jira, Confluence, Loom, Jira Service Management, Rovo, Bitbucket, Compass, Jira Product Discovery, Jira Align 등 프로젝트 관리, 문서 협업, 비동기 영상 커뮤니케이션, IT 서비스관리, AI 검색·챗·에이전트 기능을 제공한다.
 

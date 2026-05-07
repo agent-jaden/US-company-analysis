@@ -1,15 +1,15 @@
 # INCYTE CORP (INCY) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 19B$ (#641위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 13.8x |
-| P/E (Forward)  | 10.8x |
-| P/B            | 3.7x |
-| EV/EBITDA      | 10.0x |
+| P/E (Trailing) | 14.1x |
+| P/E (Forward)  | 11.0x |
+| P/B            | 3.8x |
+| EV/EBITDA      | 10.3x |
 
 Incyte Corporation은 미국, 유럽, 일본 등 전 세계 시장에서 혁신 치료제를 발굴, 개발 및 상용화하는 바이오 제약 기업입니다. 혈액암 치료제 JAKAFI, 만성 골수성 백혈병 치료제 ICLUSIG, 림프종 치료제 MONJUVI 등 다양한 표적 항암제 및 골수 증식성 종양(MPN) 치료제를 시장에 공급하고 임상을 전개합니다.
 

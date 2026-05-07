@@ -1,15 +1,15 @@
 # PINTEREST, INC. (PINS) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Internet Content & Information | 시총 13B$ (#819위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 46.4x |
-| P/E (Forward)  | 9.9x |
-| P/B            | 3.1x |
-| EV/EBITDA      | 35.5x |
+| P/E (Trailing) | 44.1x |
+| P/E (Forward)  | 9.4x |
+| P/B            | 3.0x |
+| EV/EBITDA      | 33.7x |
 
 Pinterest는 미국, 캐나다, 유럽 및 해외에서 비주얼 검색·발견 플랫폼을 운영한다. 사용자가 레시피, 홈·스타일 영감 등 아이디어를 찾고, 검색·저장·쇼핑할 수 있도록 지원한다.
 

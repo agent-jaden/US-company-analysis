@@ -1,16 +1,16 @@
 # ENTEGRIS INC (ENTG) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductor Equipment & Materials | 시총 24B$ (#549위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 86.3x |
-| P/E (Forward)  | 32.4x |
-| P/B            | 5.7x |
-| EV/EBITDA      | 29.6x |
-| 배당수익률     | 0.29% |
+| P/E (Trailing) | 90.1x |
+| P/E (Forward)  | 33.8x |
+| P/B            | 6.0x |
+| EV/EBITDA      | 30.8x |
+| 배당수익률     | 0.27% |
 
 Entegris, Inc.는 북미, 대만, 한국, 일본 등 전 세계 반도체 및 첨단 기술 산업을 위한 고성능 소재 및 프로세스 솔루션을 제공합니다. 재료 솔루션(MS) 부문과 고급 순도 솔루션(APS) 부문을 통해 민감한 제조 환경에서의 수율 향상과 오염 제어 시스템을 지원합니다.
 

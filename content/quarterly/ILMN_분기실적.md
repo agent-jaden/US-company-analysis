@@ -1,15 +1,15 @@
 # ILLUMINA, INC. (ILMN) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Diagnostics & Research | 시총 20B$ (#632위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 25.3x |
-| P/E (Forward)  | 23.5x |
-| P/B            | 8.0x |
-| EV/EBITDA      | 19.4x |
+| P/E (Trailing) | 25.9x |
+| P/E (Forward)  | 24.1x |
+| P/B            | 8.2x |
+| EV/EBITDA      | 19.9x |
 
 Illumina, Inc.는 전 세계적으로 유전학 및 유전체 분석을 위한 시퀀싱 및 어레이 기반 솔루션을 제공하는 생명공학 선도 기업입니다. 다양한 크기의 전체 유전체를 시퀀싱하는 키트부터 표적 재시퀀싱 키트까지 연구자와 의료기관이 필요로 하는 차세대 염기서열 분석(NGS) 장비와 관련 시약 및 소모품을 공급합니다.
 

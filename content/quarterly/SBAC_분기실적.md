@@ -1,16 +1,16 @@
 # SBA COMMUNICATIONS CORP (SBAC) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | REIT - Specialty | 시총 23B$ (#572위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 22.9x |
-| P/E (Forward)  | 26.8x |
-| P/B            | -4.7x |
+| P/E (Trailing) | 23.0x |
+| P/E (Forward)  | 27.0x |
+| P/B            | -4.8x |
 | EV/EBITDA      | 21.0x |
-| 배당수익률     | 2.10% |
+| 배당수익률     | 2.11% |
 
 SBA Communications는 무선통신 인프라를 보유·운영하는 독립 사업자다. 타워, 건물, 옥상, 분산안테나시스템, small cell을 포함해 미주와 아프리카 전역에 46,000개 이상의 통신 사이트 포트폴리오를 보유한다.
 

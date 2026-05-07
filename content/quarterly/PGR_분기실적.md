@@ -1,16 +1,16 @@
 # PROGRESSIVE CORP/OH/ (PGR) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance - Property & Casualty | 시총 118B$ (#137위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 10.1x |
-| P/E (Forward)  | 12.3x |
+| P/E (Trailing) | 10.0x |
+| P/E (Forward)  | 12.2x |
 | P/B            | 3.6x |
 | EV/EBITDA      | 8.0x |
-| 배당수익률     | 6.93% |
+| 배당수익률     | 7.03% |
 
 Progressive는 미국에서 보험 사업을 영위하는 회사다. 개인용 자동차, 오토바이, RV, 수상레저기구, 주택·임차인 보험을 제공하며 상업용 차량, 소기업 일반배상·상업재산, 운송업 산재보험도 취급한다.
 

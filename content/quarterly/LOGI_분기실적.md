@@ -1,14 +1,14 @@
 # LOGITECH INTERNATIONAL S.A. (LOGI) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 3월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Computer Hardware | 시총 14B$ (#788위) | 결산월: 3월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 22.0x |
-| P/E (Forward)  | 16.9x |
-| P/B            | 6.6x |
+| P/E (Trailing) | 21.5x |
+| P/E (Forward)  | 16.7x |
+| P/B            | 6.5x |
 | EV/EBITDA      | 16.3x |
 | 배당수익률     | 151.00% |
 

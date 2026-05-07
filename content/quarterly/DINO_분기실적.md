@@ -1,16 +1,16 @@
 # HF Sinclair Corp (DINO) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Refining & Marketing | 시총 11B$ (#918위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 11.2x |
-| P/E (Forward)  | 12.6x |
-| P/B            | 1.5x |
-| EV/EBITDA      | 6.9x |
-| 배당수익률     | 2.79% |
+| P/E (Trailing) | 10.7x |
+| P/E (Forward)  | 12.0x |
+| P/B            | 1.4x |
+| EV/EBITDA      | 6.7x |
+| 배당수익률     | 2.68% |
 
 HF Sinclair는 미국에서 독립 에너지 기업으로 운영된다. Refining, Renewables, Marketing, Lubricants & Specialties, Midstream 부문을 통해 휘발유, 디젤, 항공유, 재생디젤, 특수 윤활유, 특수화학, 아스팔트 제품 등을 생산·판매한다.
 

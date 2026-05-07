@@ -1,15 +1,15 @@
 # CARVANA CO. (CVNA) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Auto & Truck Dealerships | 시총 58B$ (#295위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 43.9x |
-| P/E (Forward)  | 36.2x |
-| P/B            | 14.6x |
-| EV/EBITDA      | 24.7x |
+| P/E (Trailing) | 45.1x |
+| P/E (Forward)  | 37.1x |
+| P/B            | 15.0x |
+| EV/EBITDA      | 25.4x |
 
 Carvana는 중고차 매매를 위한 전자상거래 플랫폼을 운영한다. 차량 매입, 검사·상품화, 온라인 검색·구매 경험, 금융, 부가상품, 물류 네트워크, 차량 인도, 판매 후 고객지원 서비스를 제공하며 경매 사이트도 운영한다.
 

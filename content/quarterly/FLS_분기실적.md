@@ -1,15 +1,15 @@
 # FLOWSERVE CORP (FLS) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Specialty Industrial Machinery | 시총 11B$ (#911위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 25.8x |
-| P/E (Forward)  | 15.2x |
-| P/B            | 4.1x |
-| EV/EBITDA      | 13.7x |
+| P/E (Trailing) | 27.0x |
+| P/E (Forward)  | 15.9x |
+| P/B            | 4.3x |
+| EV/EBITDA      | 14.2x |
 | 배당수익률     | 1.21% |
 
 Flowserve는 미국, 캐나다, 멕시코, 유럽, 중동, 아프리카, 아시아태평양에서 산업용 유체 관리 장비를 설계·제조·유통·서비스한다. 맞춤형 펌프, 산업용 펌프, 펌프 시스템, 기계식 씰, 보조 시스템, 교체부품과 관련 서비스를 제공하며 에너지·공정 시장용 가스 윤활식 기계식 씰도 제조한다.

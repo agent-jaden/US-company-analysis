@@ -1,15 +1,15 @@
 # EVEREST GROUP, LTD. (EG) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance - Reinsurance | 시총 14B$ (#795위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 7.1x |
+| P/E (Trailing) | 7.2x |
 | P/E (Forward)  | 5.8x |
 | P/B            | 0.9x |
-| 배당수익률     | 2.30% |
+| 배당수익률     | 2.29% |
 
 Everest Group은 미국, 유럽 및 해외에서 재보험과 보험 상품을 제공한다. Insurance와 Reinsurance 부문을 통해 재산·상해 재보험, treaty·facultative 재보험, specialty line, 재산·상해보험을 브로커, surplus line, general agent 및 직접 채널로 인수한다.
 

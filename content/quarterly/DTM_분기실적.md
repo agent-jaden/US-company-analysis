@@ -1,16 +1,16 @@
 # DT Midstream, Inc. (DTM) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Midstream | 시총 14B$ (#793위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 32.5x |
-| P/E (Forward)  | 29.4x |
+| P/E (Trailing) | 32.1x |
+| P/E (Forward)  | 29.0x |
 | P/B            | 3.1x |
-| EV/EBITDA      | 20.4x |
-| 배당수익률     | 2.27% |
+| EV/EBITDA      | 20.2x |
+| 배당수익률     | 2.28% |
 
 DT Midstream은 자회사를 통해 미국에서 통합 천연가스 서비스를 제공한다. Pipeline과 Gathering 부문을 운영하며 Pipeline 부문은 주간·주내 천연가스 파이프라인, 저장 시스템, 천연가스 수집 lateral pipeline을 보유·운영한다.
 

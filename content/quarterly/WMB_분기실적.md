@@ -1,16 +1,16 @@
 # WILLIAMS COMPANIES, INC. (WMB) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Midstream | 시총 88B$ (#191위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 33.4x |
-| P/E (Forward)  | 29.4x |
-| P/B            | 7.3x |
-| EV/EBITDA      | 18.2x |
-| 배당수익률     | 276.00% |
+| P/E (Trailing) | 32.4x |
+| P/E (Forward)  | 28.5x |
+| P/B            | 7.1x |
+| EV/EBITDA      | 17.8x |
+| 배당수익률     | 2.63% |
 
 Williams Companies는 주로 미국에서 천연가스 중심의 에너지 인프라를 운영한다. Transmission, Power & Gulf 부문은 Transco, NWP, Mountain West 주간 천연가스 파이프라인과 저장시설, 천연가스 수집·처리, 걸프코스트 원유 처리·운송 자산을 포함한다.
 

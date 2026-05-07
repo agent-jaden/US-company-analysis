@@ -1,15 +1,15 @@
 # MARKEL GROUP INC. (MKL) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance - Property & Casualty | 시총 24B$ (#550위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 12.8x |
-| P/E (Forward)  | 14.1x |
+| P/E (Trailing) | 12.9x |
+| P/E (Forward)  | 14.3x |
 | P/B            | 1.2x |
-| EV/EBITDA      | 7.1x |
+| EV/EBITDA      | 7.2x |
 
 Markel Group Inc.는 미국, 영국, 독일, 아시아 태평양 등 글로벌 시장에서 광범위한 특수 보험 비즈니스를 전개합니다. Markel Insurance 본연의 보험업 외에도 산업, 금융, 소비자 및 기타 부문을 통해 다각화된 투자 및 벤처 사업을 운영하고 있습니다.
 

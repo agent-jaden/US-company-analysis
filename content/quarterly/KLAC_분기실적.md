@@ -1,15 +1,15 @@
 # KLA CORP (KLAC) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductor Equipment & Materials | 시총 250B$ (#51위) | 결산월: 6월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 49.1x |
-| P/E (Forward)  | 34.9x |
-| P/B            | 41.6x |
-| EV/EBITDA      | 38.9x |
+| P/E (Trailing) | 51.4x |
+| P/E (Forward)  | 36.6x |
+| P/B            | 43.6x |
+| EV/EBITDA      | 40.8x |
 | 배당수익률     | 0.44% |
 
 KLA Corporation은 전 세계 반도체 및 관련 전자 산업을 위한 공정 제어 및 수율 관리 솔루션을 설계, 제조 및 판매합니다. 이 회사는 웨이퍼 결함 검사 및 계측 시스템, 레티클 검사 장비, 반도체 소프트웨어 솔루션 등을 제공하여 생산 위험을 줄이고 수율을 향상시킵니다.

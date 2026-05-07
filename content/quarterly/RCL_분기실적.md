@@ -1,16 +1,16 @@
 # ROYAL CARIBBEAN CRUISES LTD (RCL) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Travel Services | 시총 70B$ (#244위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 16.1x |
-| P/E (Forward)  | 13.2x |
-| P/B            | 7.2x |
-| EV/EBITDA      | 13.4x |
-| 배당수익률     | 1.64% |
+| P/E (Trailing) | 17.5x |
+| P/E (Forward)  | 14.4x |
+| P/B            | 7.8x |
+| EV/EBITDA      | 14.3x |
+| 배당수익률     | 1.61% |
 
 Royal Caribbean Cruises Ltd.는 글로벌 규모의 선단을 운영하는 세계적인 크루즈 여행 기업입니다. Royal Caribbean International, Celebrity Cruises 등의 프리미엄 브랜드를 통해 전 세계 다양한 목적지를 탐험하는 폭넓은 크루즈 일정을 제공합니다.
 

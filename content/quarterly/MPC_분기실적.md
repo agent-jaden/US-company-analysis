@@ -1,16 +1,15 @@
 # Marathon Petroleum Corp (MPC) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Refining & Marketing | 시총 67B$ (#255위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 17.2x |
-| P/E (Forward)  | 12.7x |
-| P/B            | 4.4x |
-| EV/EBITDA      | 11.8x |
-| 배당수익률     | 155.00% |
+| P/E (Trailing) | 16.2x |
+| P/E (Forward)  | 11.6x |
+| P/B            | 4.2x |
+| 배당수익률     | 1.12% |
 
 Marathon Petroleum은 미국에서 통합 다운스트림 에너지 사업을 운영한다. Refining & Marketing, Midstream, Renewable Diesel 부문을 통해 원유와 원료를 정제하고, 정제제품과 에탄올의 구매·재판매, 운송·저장·유통·마케팅 서비스를 제공한다.
 

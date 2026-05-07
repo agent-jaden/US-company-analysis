@@ -1,15 +1,16 @@
 # INTERNATIONAL FLAVORS & FRAGRANCES INC (IFF) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Specialty Chemicals | 시총 18B$ (#667위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Forward)  | 14.9x |
-| P/B            | 1.3x |
+| P/E (Trailing) | 25.7x |
+| P/E (Forward)  | 17.5x |
+| P/B            | 1.5x |
 | EV/EBITDA      | 13.0x |
-| 배당수익률     | 2.28% |
+| 배당수익률     | 226.00% |
 
 International Flavors & Fragrances는 미국과 해외에서 식품, 음료, 헬스·바이오사이언스, 향료 및 인접 제품을 제조·마케팅한다. Taste, Food Ingredients, Health & Biosciences, Scent 부문을 통해 수프·소스·육류·스낵, 음료, 제과·베이커리, 유제품, 향신료·시즈닝, 대체단백·푸드서비스용 원료를 공급한다.
 

@@ -1,15 +1,15 @@
 # EQUINIX INC (EQIX) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | REIT - Specialty | 시총 107B$ (#149위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 74.6x |
-| P/E (Forward)  | 57.3x |
+| P/E (Trailing) | 75.2x |
+| P/E (Forward)  | 57.8x |
 | P/B            | 7.5x |
-| EV/EBITDA      | 30.0x |
+| EV/EBITDA      | 30.2x |
 | 배당수익률     | 1.78% |
 
 Equinix는 전 세계 디지털 인프라와 데이터센터 네트워크를 기반으로 기업의 연결성을 지원한다. 글로벌 데이터센터 footprint와 상호연결 생태계를 통해 업무, 생활, 지구 환경에 기여하는 디지털 혁신을 가능하게 한다.

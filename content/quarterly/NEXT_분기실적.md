@@ -1,14 +1,14 @@
 # NextDecade Corp (NEXT) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Energy | Oil & Gas Equipment & Services | 시총 2B$ (#984위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Forward)  | 112.7x |
-| P/B            | 21.9x |
-| EV/EBITDA      | -60.7x |
+| P/E (Forward)  | 106.9x |
+| P/B            | 20.8x |
+| EV/EBITDA      | -60.2x |
 
 ---
 

@@ -1,15 +1,15 @@
 # Ferguson Enterprises Inc. /DE/ (FERG) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 7월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Industrial Distribution | 시총 53B$ (#311위) | 결산월: 7월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 24.9x |
-| P/E (Forward)  | 20.3x |
+| P/E (Trailing) | 24.8x |
+| P/E (Forward)  | 20.2x |
 | P/B            | 8.4x |
-| EV/EBITDA      | 17.7x |
+| EV/EBITDA      | 17.6x |
 | 배당수익률     | 141.00% |
 
 Ferguson Enterprises는 미국과 캐나다의 전문 고객에게 필수적인 물과 공기 관련 솔루션을 유통한다. 주거용 및 비주거용 고객을 대상으로 배관, 파이프·밸브·피팅, HVAC, 가전, 조명, 상하수도 솔루션과 관련 서비스를 제공한다.

@@ -1,15 +1,15 @@
 # LyondellBasell Industries N.V. (LYB) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Basic Materials | Specialty Chemicals | 시총 23B$ (#567위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Forward)  | 10.6x |
-| P/B            | 2.5x |
-| EV/EBITDA      | 16.6x |
-| 배당수익률     | 6.31% |
+| P/E (Forward)  | 9.9x |
+| P/B            | 2.3x |
+| EV/EBITDA      | 16.0x |
+| 배당수익률     | 6.17% |
 
 LyondellBasell은 미국, 독일, 중국, 멕시코, 이탈리아, 일본, 프랑스, 폴란드, 네덜란드 등에서 화학 사업을 운영한다. Olefins and Polyolefins, Intermediates and Derivatives, Advanced Polymer Solutions, Technology 부문을 통해 폴리머와 화학 중간재, 고기능 소재와 공정 기술을 제공한다.
 

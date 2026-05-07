@@ -1,16 +1,16 @@
 # AMKOR TECHNOLOGY, INC. (AMKR) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductor Equipment & Materials | 시총 19B$ (#650위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 44.1x |
-| P/E (Forward)  | 31.3x |
+| P/E (Trailing) | 44.4x |
+| P/E (Forward)  | 31.5x |
 | P/B            | 4.2x |
-| EV/EBITDA      | 15.7x |
-| 배당수익률     | 0.47% |
+| EV/EBITDA      | 15.9x |
+| 배당수익률     | 0.43% |
 
 Amkor Technology, Inc.는 미국, 아시아, 유럽 등에서 반도체 외주 패키징 및 테스트(OSAT) 서비스를 제공하는 글로벌 선도 기업입니다. 웨이퍼 범핑부터 최종 시스템 테스트에 이르는 턴키 솔루션과 더불어, 스마트폰 및 통신 기기에 사용되는 플립칩 BGA, 칩 스케일 패키지 등 고도화된 반도체 패키징 기술을 지원합니다.
 

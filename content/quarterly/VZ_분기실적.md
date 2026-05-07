@@ -1,16 +1,16 @@
 # VERIZON COMMUNICATIONS INC (VZ) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Telecom Services | 시총 197B$ (#70위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 11.5x |
+| P/E (Trailing) | 11.6x |
 | P/E (Forward)  | 9.0x |
 | P/B            | 1.9x |
 | EV/EBITDA      | 7.7x |
-| 배당수익률     | 5.81% |
+| 배당수익률     | 5.84% |
 
 Verizon Communications Inc.는 전 세계 소비자, 기업 및 정부 기관에 통신, 기술, 정보 및 스트리밍 서비스를 제공합니다. 소비자 그룹과 비즈니스 그룹 두 부문으로 나뉘어 무선 통신 서비스, 고정 무선 접속(FWA) 브로드밴드 및 관련 스마트 기기를 판매합니다.
 

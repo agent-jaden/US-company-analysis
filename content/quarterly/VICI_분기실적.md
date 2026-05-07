@@ -1,16 +1,16 @@
 # VICI PROPERTIES INC. (VICI) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | REIT - Diversified | 시총 30B$ (#462위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 9.7x |
-| P/E (Forward)  | 9.6x |
+| P/E (Trailing) | 9.8x |
+| P/E (Forward)  | 9.7x |
 | P/B            | 1.1x |
-| EV/EBITDA      | 12.0x |
-| 배당수익률     | 6.35% |
+| EV/EBITDA      | 12.1x |
+| 배당수익률     | 6.31% |
 
 미국과 캐나다 전역에서 Caesars Palace Las Vegas, MGM Grand, Venetian Resort Las Vegas 등 시장을 선도하는 게이밍 및 엔터테인먼트 목적지를 소유한 S&P 500 체험형 부동산 투자 신탁(REIT)입니다. 54개의 게이밍 시설을 포함해 총 93개의 다각화된 체험형 호스피탈리티 및 웰니스 자산 포트폴리오를 운영하고 있습니다.
 

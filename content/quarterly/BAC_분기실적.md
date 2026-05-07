@@ -1,15 +1,15 @@
 # BANK OF AMERICA CORP /DE/ (BAC) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Banks - Diversified | 시총 375B$ (#28위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 13.2x |
-| P/E (Forward)  | 10.5x |
+| P/E (Trailing) | 13.3x |
+| P/E (Forward)  | 10.6x |
 | P/B            | 1.4x |
-| 배당수익률     | 2.11% |
+| 배당수익률     | 2.07% |
 
 Bank of America Corporation은 자회사를 통해 전 세계 개인, 기업, 기관 투자자 및 정부에 다양한 금융 상품과 서비스를 제공합니다. 소비자 뱅킹, 글로벌 자산 및 투자 관리(GWIM), 글로벌 뱅킹, 글로벌 마켓 등 네 가지 부문을 통해 예적금, 대출, 투자 상품 등을 운영합니다.
 

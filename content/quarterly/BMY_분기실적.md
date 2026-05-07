@@ -1,16 +1,16 @@
 # BRISTOL MYERS SQUIBB CO (BMY) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Drug Manufacturers - General | 시총 118B$ (#138위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 16.0x |
-| P/E (Forward)  | 9.3x |
+| P/E (Trailing) | 15.9x |
+| P/E (Forward)  | 9.2x |
 | P/B            | 5.8x |
 | EV/EBITDA      | 8.0x |
-| 배당수익률     | 4.36% |
+| 배당수익률     | 4.39% |
 
 Bristol-Myers Squibb은 전 세계에서 바이오의약품을 발굴, 개발, 라이선스, 제조, 판매하는 제약사다. 항암, 혈액질환, 면역, 심혈관, 신경과학 분야 제품을 보유하며 Opdivo, Opdivo Qvantig, Orencia, Yervoy, Reblozyl, Breyanzi, Opdualag, Camzyos 등을 판매한다.
 

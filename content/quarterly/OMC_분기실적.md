@@ -1,15 +1,15 @@
 # OMNICOM GROUP INC. (OMC) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Advertising Agencies | 시총 24B$ (#556위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Forward)  | 6.2x |
+| P/E (Forward)  | 6.1x |
 | P/B            | 2.3x |
-| EV/EBITDA      | 9.6x |
-| 배당수익률     | 3.93% |
+| EV/EBITDA      | 9.5x |
+| 배당수익률     | 3.86% |
 
 Omnicom Group은 자회사를 통해 광고, 마케팅, 기업 커뮤니케이션 서비스를 제공한다. 미디어·광고, 정밀 마케팅, PR, 헬스케어, 브랜딩·리테일 커머스, 경험 마케팅, 데이터 분석, CRM, 디지털 전환, 이커머스 최적화, 스포츠·이벤트 마케팅 등 폭넓은 서비스를 운영한다.
 

@@ -1,16 +1,16 @@
 # Paramount Skydance Corp (PSKY) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Communication Services | Entertainment | 시총 12B$ (#885위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 355.3x |
-| P/E (Forward)  | 11.6x |
+| P/E (Trailing) | 363.7x |
+| P/E (Forward)  | 12.6x |
 | P/B            | 1.0x |
-| EV/EBITDA      | 8.9x |
-| 배당수익률     | 188.00% |
+| EV/EBITDA      | 9.0x |
+| 배당수익률     | 1.87% |
 
 Paramount Skydance Corporation은 전 세계적으로 텔레비전 네트워크, 영화 스튜디오 및 디지털 스트리밍 플랫폼을 운영하는 글로벌 미디어 및 엔터테인먼트 기업입니다. CBS, MTV, Nickelodeon 등의 주요 방송망과 Paramount+ 스트리밍 서비스, 그리고 헐리우드 영화 제작 스튜디오를 통해 광범위한 프리미엄 콘텐츠를 배급합니다.
 

@@ -1,15 +1,15 @@
 # ON SEMICONDUCTOR CORP (ON) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductors | 시총 39B$ (#385위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 75.5x |
-| P/E (Forward)  | 24.1x |
-| P/B            | 5.3x |
-| EV/EBITDA      | 18.8x |
+| P/E (Trailing) | 77.8x |
+| P/E (Forward)  | 24.8x |
+| P/B            | 5.5x |
+| EV/EBITDA      | 19.4x |
 
 ON Semiconductor는 홍콩, 싱가포르, 영국, 미국 및 해외에서 지능형 센싱과 전력 솔루션을 제공한다. Power Solutions, Analog and Mixed-Signal, Intelligent Sensing 부문을 운영하며 전력 변환, 스위칭, 신호 조절, 회로 보호용 discrete·module·integrated semiconductor device를 공급한다.
 

@@ -1,15 +1,15 @@
 # FORMFACTOR INC (FORM) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductor Equipment & Materials | 시총 11B$ (#913위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 166.7x |
-| P/E (Forward)  | 52.8x |
-| P/B            | 10.9x |
-| EV/EBITDA      | 81.3x |
+| P/E (Trailing) | 171.4x |
+| P/E (Forward)  | 54.3x |
+| P/B            | 11.2x |
+| EV/EBITDA      | 83.7x |
 
 FormFactor는 미국, 한국, 대만, 중국, 일본, 싱가포르, 유럽, 말레이시아 및 해외에서 probe card, analytical probe, probe station, thermal system, cryogenic system과 관련 서비스를 설계·제조·판매한다. Probe Cards와 Systems 부문을 통해 반도체 테스트와 계측용 솔루션을 제공한다.
 

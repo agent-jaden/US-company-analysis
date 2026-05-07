@@ -1,15 +1,15 @@
 # NEUROCRINE BIOSCIENCES INC (NBIX) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Drug Manufacturers - Specialty & Generic | 시총 13B$ (#831위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 20.8x |
-| P/E (Forward)  | 10.6x |
-| P/B            | 4.2x |
-| EV/EBITDA      | 18.8x |
+| P/E (Trailing) | 22.7x |
+| P/E (Forward)  | 13.5x |
+| P/B            | 4.5x |
+| EV/EBITDA      | 16.7x |
 
 Neurocrine Biosciences는 미국과 해외에서 신경계, 정신질환, 내분비, 면역질환 치료제를 발굴·개발·상업화한다. INGREZZA, Orilissa, Oriahnn, CRENESSITY와 ALKINDI, Efmody 제품을 통해 지연성 운동이상증, 헌팅턴병 관련 무도증, 자궁내막증, 자궁근종, 선천성 부신과형성증 등을 치료한다.
 

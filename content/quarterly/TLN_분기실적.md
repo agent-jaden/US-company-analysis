@@ -1,13 +1,13 @@
 # Talen Energy Corp (TLN) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Utilities | Utilities - Independent Power Producers | 시총 17B$ (#695위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Forward)  | 12.3x |
-| P/B            | 16.1x |
+| P/E (Forward)  | 11.8x |
+| P/B            | 17.1x |
 | EV/EBITDA      | 73.9x |
 
 Talen Energy는 미국 도매 전력시장에 전력, 용량, 보조서비스를 생산·판매하는 독립 발전 및 인프라 기업이다. 원자력, 화석연료, 석유, 천연가스, 석탄 등 다양한 연료 기반 발전소를 운영하며 약 13.1 GW 규모의 전력 인프라를 보유한다.

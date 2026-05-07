@@ -1,14 +1,14 @@
 # EXELIXIS, INC. (EXEL) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 11B$ (#904위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 14.7x |
-| P/E (Forward)  | 11.2x |
-| P/B            | 5.4x |
+| P/E (Trailing) | 16.1x |
+| P/E (Forward)  | 12.0x |
+| P/B            | 5.9x |
 | EV/EBITDA      | 11.6x |
 
 Exelixis, Inc.는 미국에서 치료가 어려운 난치성 암을 표적으로 하는 혁신 항암제를 발굴, 개발 및 상용화하는 종양학 전문 제약 기업입니다. 다중 타이로신 키나제 억제제인 카보잔티닙(cabozantinib)을 기반으로 한 신장세포암 치료제 CABOMETYX와 갑상선 수질암 치료제 COMETRIQ를 시장에 공급합니다.

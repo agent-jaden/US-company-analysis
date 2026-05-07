@@ -1,16 +1,16 @@
 # Apple Inc. (AAPL) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Consumer Electronics | 시총 3929B$ (#4위) | 결산월: 9월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 34.4x |
-| P/E (Forward)  | 29.7x |
-| P/B            | 47.4x |
-| EV/EBITDA      | 26.2x |
-| 배당수익률     | 0.38% |
+| P/E (Trailing) | 34.8x |
+| P/E (Forward)  | 30.0x |
+| P/B            | 47.9x |
+| EV/EBITDA      | 26.5x |
+| 배당수익률     | 0.37% |
 
 Apple Inc.는 전 세계적으로 스마트폰, 개인용 컴퓨터, 태블릿, 웨어러블 기기 및 액세서리를 설계하고 제조 및 판매합니다. 주요 제품으로는 iPhone, Mac, iPad를 비롯해 AirPods, Apple Vision Pro, Apple Watch 등의 웨어러블 및 홈 액세서리가 있습니다.
 

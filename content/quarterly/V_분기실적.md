@@ -1,16 +1,16 @@
 # VISA INC. (V) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Credit Services | 시총 597B$ (#17위) | 결산월: 9월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 28.1x |
-| P/E (Forward)  | 21.7x |
-| P/B            | 16.1x |
-| EV/EBITDA      | 20.5x |
-| 배당수익률     | 0.80% |
+| P/E (Trailing) | 27.8x |
+| P/E (Forward)  | 21.5x |
+| P/B            | 15.9x |
+| EV/EBITDA      | 20.3x |
+| 배당수익률     | 0.81% |
 
 Visa Inc.는 미국 및 전 세계에서 활동하는 결제 기술 기업입니다. 결제 거래의 승인, 청산 및 결제를 가능하게 하는 거래 처리 네트워크인 VisaNet을 운영하고 있습니다.
 

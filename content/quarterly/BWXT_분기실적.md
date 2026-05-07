@@ -1,16 +1,16 @@
 # BWX Technologies, Inc. (BWXT) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Aerospace & Defense | 시총 20B$ (#621위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 55.0x |
-| P/E (Forward)  | 39.9x |
-| P/B            | 15.3x |
-| EV/EBITDA      | 47.8x |
-| 배당수익률     | 0.47% |
+| P/E (Trailing) | 57.5x |
+| P/E (Forward)  | 41.5x |
+| P/B            | 16.0x |
+| EV/EBITDA      | 45.7x |
+| 배당수익률     | 0.49% |
 
 BWX Technologies, Inc.는 미국, 캐나다 및 전 세계 시장에서 원자력 발전 부품을 제조하고 판매하는 기업입니다. 정부 사업 부문과 상업 사업 부문을 통해 군사 및 상업용 원자력 시스템에 필요한 핵심 장비와 솔루션을 제공하고 있습니다.
 

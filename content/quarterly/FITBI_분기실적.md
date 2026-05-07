@@ -1,6 +1,6 @@
 # FIFTH THIRD BANCORP (FITBI) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Banks - Regional | 시총 18B$ (#677위) | 결산월: 12월**
 
@@ -8,7 +8,7 @@
 |:-----|----:|
 | P/E (Trailing) | 7.3x |
 | P/B            | 1.0x |
-| 배당수익률     | 5.52% |
+| 배당수익률     | 5.51% |
 
 Fifth Third Bancorp는 Fifth Third Bank의 은행지주회사로 미국에서 다양한 금융 상품과 서비스를 제공한다. Commercial Banking, Consumer and Small Business Banking, Wealth and Asset Management 부문을 운영하며 기업·정부·전문직 고객에게 대출, 예금, 현금관리, 외환·무역금융, 파생상품, 자본시장, 부동산금융, 리스, 신디케이트 금융을 제공한다.
 

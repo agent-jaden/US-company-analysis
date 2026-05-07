@@ -1,16 +1,16 @@
 # HUNTINGTON INGALLS INDUSTRIES, INC. (HII) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Aerospace & Defense | 시총 14B$ (#783위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 21.2x |
-| P/E (Forward)  | 16.1x |
+| P/E (Trailing) | 20.7x |
+| P/E (Forward)  | 15.5x |
 | P/B            | 2.5x |
-| EV/EBITDA      | 13.7x |
-| 배당수익률     | 1.50% |
+| EV/EBITDA      | 13.5x |
+| 배당수익률     | 1.67% |
 
 Huntington Ingalls Industries는 미국에서 군함을 설계, 건조, 오버홀, 수리한다. Ingalls, Newport News, Mission Technologies 부문을 통해 해군 함정 건조와 방산 기술 서비스를 제공한다.
 

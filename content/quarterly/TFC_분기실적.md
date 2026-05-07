@@ -1,15 +1,15 @@
 # TRUIST FINANCIAL CORP (TFC) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Banks - Regional | 시총 64B$ (#266위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 12.4x |
-| P/E (Forward)  | 9.7x |
-| P/B            | 1.0x |
-| 배당수익률     | 4.20% |
+| P/E (Trailing) | 12.6x |
+| P/E (Forward)  | 9.9x |
+| P/B            | 1.1x |
+| 배당수익률     | 4.16% |
 
 Truist Financial은 미국 남동부와 중부 대서양 지역에서 은행 및 신탁 서비스를 제공하는 금융회사다. Consumer and Small Business Banking, Wholesale Banking 부문을 운영하며 무이자·이자부 당좌계좌, 저축·머니마켓 예금, 양도성예금증서, 개인퇴직계좌 등을 제공한다.
 

@@ -1,14 +1,14 @@
 # TransDigm Group INC (TDG) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Aerospace & Defense | 시총 65B$ (#261위) | 결산월: 9월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 38.3x |
-| P/E (Forward)  | 26.0x |
-| P/B            | -7.2x |
+| P/E (Trailing) | 38.5x |
+| P/E (Forward)  | 26.9x |
+| P/B            | -7.5x |
 
 TransDigm Group은 미국과 해외에서 항공기 부품을 설계·생산·공급한다. Power & Control 부문은 액추에이터, 제어장치, 점화시스템, 펌프·밸브, 전력장치, 모터, 배터리, 센서, 스위치 등을 제공하고 Airframe 부문은 잠금장치, 커넥터, 실링, 조종석 부품, 디스플레이, 안전장치, 내장재, 조명, 시험장비, 오디오·무선·안테나 시스템 등을 공급한다.
 

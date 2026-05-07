@@ -1,16 +1,16 @@
 # REGENERON PHARMACEUTICALS, INC. (REGN) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Biotechnology | 시총 78B$ (#211위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 17.1x |
-| P/E (Forward)  | 13.0x |
-| P/B            | 2.3x |
-| EV/EBITDA      | 14.9x |
-| 배당수익률     | 0.50% |
+| P/E (Trailing) | 17.6x |
+| P/E (Forward)  | 13.4x |
+| P/B            | 2.4x |
+| EV/EBITDA      | 15.4x |
+| 배당수익률     | 0.51% |
 
 Regeneron Pharmaceuticals, Inc.는 전 세계적으로 다양한 질병을 치료하기 위한 의약품을 발굴, 개발, 제조 및 상용화하는 생명공학 기업입니다. 안과, 알레르기 및 염증, 심혈관, 대사 질환뿐만 아니라 암과 희귀 질환을 치료하는 신약 후보 물질을 중점적으로 연구합니다.
 

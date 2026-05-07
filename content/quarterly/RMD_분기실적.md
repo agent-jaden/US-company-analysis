@@ -1,16 +1,16 @@
 # RESMED INC (RMD) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 6월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Medical Instruments & Supplies | 시총 32B$ (#445위) | 결산월: 6월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 20.0x |
-| P/E (Forward)  | 17.1x |
+| P/E (Trailing) | 20.2x |
+| P/E (Forward)  | 17.2x |
 | P/B            | 4.8x |
-| EV/EBITDA      | 13.8x |
-| 배당수익률     | 1.11% |
+| EV/EBITDA      | 14.0x |
+| 배당수익률     | 1.12% |
 
 ResMed는 미국과 해외에서 호흡기 질환의 진단, 치료, 관리를 위한 의료기기와 클라우드 기반 소프트웨어를 개발·제조·유통·마케팅한다. Sleep and Breathing Health, Residential Care Software 부문을 통해 수면·호흡 건강 기기와 재택·요양 소프트웨어 솔루션을 제공한다.
 
