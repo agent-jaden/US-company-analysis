@@ -1,16 +1,16 @@
 # Knight-Swift Transportation Holdings Inc. (KNX) 분기 실적 히스토리
 
-> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-11 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Trucking | 시총 11B$ (#949위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 306.0x |
-| P/E (Forward)  | 20.0x |
+| P/E (Trailing) | 305.0x |
+| P/E (Forward)  | 19.9x |
 | P/B            | 1.5x |
 | EV/EBITDA      | 12.7x |
-| 배당수익률     | 1.20% |
+| 배당수익률     | 1.17% |
 
 Knight-Swift Transportation은 자회사를 통해 미국과 멕시코에서 화물 운송 사업을 운영한다. Truckload, LTL, Logistics, Intermodal 부문을 통해 irregular route, dedicated, refrigerated, flatbed, expedited, cross-border 운송 서비스를 제공한다.
 

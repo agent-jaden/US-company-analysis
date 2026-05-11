@@ -1,16 +1,16 @@
 # W.W. GRAINGER, INC. (GWW) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-11 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Industrial Distribution | 시총 55B$ (#304위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 32.0x |
-| P/E (Forward)  | 23.4x |
-| P/B            | 14.4x |
-| EV/EBITDA      | 19.0x |
-| 배당수익률     | 0.77% |
+| P/E (Trailing) | 33.2x |
+| P/E (Forward)  | 24.7x |
+| P/B            | 13.4x |
+| EV/EBITDA      | 19.7x |
+| 배당수익률     | 0.73% |
 
 W.W. Grainger는 자회사를 통해 주로 북미, 일본, 영국에서 유지보수·수리·운영용 제품과 서비스를 유통한다. High-Touch Solutions North America와 Endless Assortment 부문을 통해 산업 현장 고객에게 MRO 제품과 관련 솔루션을 제공한다.
 
