@@ -1,15 +1,15 @@
 # ADVANCED MICRO DEVICES INC (AMD) 분기 실적 히스토리
 
-> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-19 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Semiconductors | 시총 546B$ (#20위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 140.9x |
-| P/E (Forward)  | 33.3x |
-| P/B            | 10.9x |
-| EV/EBITDA      | 84.9x |
+| P/E (Trailing) | 132.0x |
+| P/E (Forward)  | 30.5x |
+| P/B            | 10.0x |
+| EV/EBITDA      | 91.2x |
 
 Advanced Micro Devices, Inc.는 전 세계적으로 운영되는 글로벌 반도체 기업입니다. 주요 사업 부문은 Data Center, Client and Gaming, Embedded 세 가지로 나뉩니다.
 

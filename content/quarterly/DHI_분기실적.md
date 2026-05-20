@@ -1,16 +1,16 @@
 # HORTON D R INC /DE/ (DHI) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-19 | 출처: SEC EDGAR XBRL | 결산월: 9월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Residential Construction | 시총 45B$ (#346위) | 결산월: 9월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 13.8x |
-| P/E (Forward)  | 12.2x |
-| P/B            | 1.8x |
-| EV/EBITDA      | 11.0x |
-| 배당수익률     | 1.18% |
+| P/E (Trailing) | 12.8x |
+| P/E (Forward)  | 11.3x |
+| P/B            | 1.6x |
+| EV/EBITDA      | 10.4x |
+| 배당수익률     | 1.24% |
 
 D.R. Horton은 미국 동부, 북부, 남동부, 중남부, 남서부, 북서부 지역에서 주택건설 사업을 운영한다. 다양한 지역 시장에서 주거용 주택을 개발·건설·판매하는 미국 대표 홈빌더다.
 

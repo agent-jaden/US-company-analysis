@@ -1,16 +1,16 @@
 # COGNIZANT TECHNOLOGY SOLUTIONS CORP (CTSH) 분기 실적 히스토리
 
-> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-19 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Technology | Information Technology Services | 시총 26B$ (#514위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 11.1x |
-| P/E (Forward)  | 8.3x |
-| P/B            | 1.6x |
-| EV/EBITDA      | 6.1x |
-| 배당수익률     | 2.47% |
+| P/E (Trailing) | 11.5x |
+| P/E (Forward)  | 8.6x |
+| P/B            | 1.7x |
+| EV/EBITDA      | 6.2x |
+| 배당수익률     | 2.49% |
 
 Cognizant Technology Solutions Corporation은 북미, 유럽 등지에서 컨설팅, 기술 및 IT 아웃소싱 서비스를 제공하는 전문 서비스 기업입니다. 금융 서비스, 보건 과학, 제품 및 자원, 통신 등의 부문을 통해 인공지능(AI), 시스템 통합, 품질 엔지니어링 및 비즈니스 프로세스 자동화를 지원합니다.
 

@@ -1,15 +1,15 @@
 # DOLLAR TREE, INC. (DLTR) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-19 | 출처: SEC EDGAR XBRL | 결산월: 1월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Defensive | Discount Stores | 시총 19B$ (#635위) | 결산월: 1월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 15.8x |
-| P/E (Forward)  | 12.7x |
-| P/B            | 5.0x |
-| EV/EBITDA      | 10.7x |
+| P/E (Trailing) | 15.3x |
+| P/E (Forward)  | 12.3x |
+| P/B            | 4.8x |
+| EV/EBITDA      | 10.5x |
 
 Dollar Tree, Inc.는 미국과 캐나다에서 Dollar Tree 및 Dollar Tree Canada 브랜드로 소매 할인점을 운영하는 유통 기업입니다. 식료품, 가정용 화학 제품, 개인 생활용품과 같은 일상 소비재부터 장난감, 문구류, 파티 용품 및 계절별 기획 상품 등 다양한 품목을 초저가에 제공합니다.
 

@@ -1,16 +1,16 @@
 # CATERPILLAR INC (CAT) 분기 실적 히스토리
 
-> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-19 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Industrials | Farm & Heavy Construction Machinery | 시총 386B$ (#26위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 46.1x |
-| P/E (Forward)  | 31.6x |
-| P/B            | 23.0x |
-| EV/EBITDA      | 32.3x |
-| 배당수익률     | 0.67% |
+| P/E (Trailing) | 42.5x |
+| P/E (Forward)  | 28.6x |
+| P/B            | 21.0x |
+| EV/EBITDA      | 30.1x |
+| 배당수익률     | 0.70% |
 
 Caterpillar Inc.는 전 세계적으로 건설 및 광산 장비, 오프하이웨이 디젤 및 천연가스 엔진, 산업용 가스 터빈 등을 제공합니다. 건설 산업 부문을 통해 굴착기, 로더, 아스팔트 포장기 등 다양한 중장비와 관련 부품을 공급합니다.
 

@@ -1,16 +1,16 @@
 # AMERICAN TOWER CORP /MA/ (AMT) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-19 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Real Estate | REIT - Specialty | 시총 82B$ (#202위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 28.7x |
-| P/E (Forward)  | 25.8x |
-| P/B            | 23.6x |
+| P/E (Trailing) | 29.3x |
+| P/E (Forward)  | 26.3x |
+| P/B            | 24.0x |
 | EV/EBITDA      | 19.0x |
-| 배당수익률     | 3.81% |
+| 배당수익률     | 3.89% |
 
 American Tower는 세계 최대 규모의 글로벌 REIT 중 하나로, 다중 임차 통신 부동산을 소유·운영·개발하는 독립 사업자다. 주요 사업은 무선통신사, 라디오·TV 방송사, 무선 데이터 제공업체, 정부기관, 지자체 등에게 통신 사이트 공간을 임대하는 것이다.
 

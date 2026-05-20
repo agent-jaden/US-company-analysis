@@ -1,16 +1,16 @@
 # CNA FINANCIAL CORP (CNA) 분기 실적 히스토리
 
-> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-19 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Financial Services | Insurance - Property & Casualty | 시총 13B$ (#821위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 9.7x |
-| P/E (Forward)  | 9.0x |
-| P/B            | 1.0x |
-| EV/EBITDA      | 7.3x |
-| 배당수익률     | 4.18% |
+| P/E (Trailing) | 10.0x |
+| P/E (Forward)  | 9.3x |
+| P/B            | 1.1x |
+| EV/EBITDA      | 7.4x |
+| 배당수익률     | 4.19% |
 
 CNA Financial은 미국, 캐나다, 영국, 유럽 대륙 및 해외에서 주로 상업용 재산·손해보험을 제공하는 보험지주회사다. Specialty, Commercial, International, Life & Group 부문을 통해 전문직 책임, D&O, E&O, 고용관행, 신탁, 사이버, 헬스케어 책임, 보증·신용, warranty 및 대체위험 상품을 제공한다.
 

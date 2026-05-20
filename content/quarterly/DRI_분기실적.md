@@ -1,16 +1,16 @@
 # DARDEN RESTAURANTS INC (DRI) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-19 | 출처: SEC EDGAR XBRL | 결산월: 5월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Cyclical | Restaurants | 시총 23B$ (#573위) | 결산월: 5월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 20.5x |
-| P/E (Forward)  | 17.1x |
-| P/B            | 10.6x |
+| P/E (Trailing) | 20.3x |
+| P/E (Forward)  | 17.0x |
+| P/B            | 10.5x |
 | EV/EBITDA      | 15.0x |
-| 배당수익률     | 3.07% |
+| 배당수익률     | 3.05% |
 
 Darden Restaurants는 자회사를 통해 미국과 캐나다에서 풀서비스 레스토랑을 소유·운영한다. Olive Garden, LongHorn Steakhouse, Cheddar's Scratch Kitchen, Chuy's, Yard House, Ruth's Chris Steak House, The Capital Grille, Seasons 52, Eddie V's Prime Seafood, Bahama Breeze 등 브랜드를 운영한다.
 

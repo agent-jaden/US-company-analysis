@@ -1,16 +1,16 @@
 # CVS HEALTH Corp (CVS) 분기 실적 히스토리
 
-> 생성일: 2026-05-07 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-19 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Healthcare | Healthcare Plans | 시총 100B$ (#159위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 38.1x |
-| P/E (Forward)  | 10.6x |
-| P/B            | 1.5x |
-| EV/EBITDA      | 11.8x |
-| 배당수익률     | 330.00% |
+| P/E (Trailing) | 41.4x |
+| P/E (Forward)  | 11.3x |
+| P/B            | 1.6x |
+| EV/EBITDA      | 12.3x |
+| 배당수익률     | 2.77% |
 
 CVS Health는 미국에서 건강관리 솔루션을 제공하는 헬스케어 기업이다. Health Care Benefits, Health Services, Pharmacy & Consumer Wellness 부문을 통해 의료·약국·치과·행동건강 보험, Medicare Advantage, Medicare Supplement, Medicaid 관리 서비스와 약국·소비자 건강 서비스를 제공한다.
 

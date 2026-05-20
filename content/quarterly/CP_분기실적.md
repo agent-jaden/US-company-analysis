@@ -1,16 +1,16 @@
 # CANADIAN PACIFIC KANSAS CITY LTD/CN (CP) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CAD
+> 생성일: 2026-05-19 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: CAD
 
 **Industrials | Railroads | 시총 78B$ (#210위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 25.3x |
-| P/E (Forward)  | 19.3x |
-| P/B            | 2.2x |
-| EV/EBITDA      | 12.3x |
-| 배당수익률     | 1.10% |
+| P/E (Trailing) | 26.4x |
+| P/E (Forward)  | 20.1x |
+| P/B            | 2.3x |
+| EV/EBITDA      | 12.6x |
+| 배당수익률     | 1.06% |
 
 Canadian Pacific Kansas City Limited는 캐나다, 미국, 멕시코를 잇는 대륙횡단 화물 철도 네트워크를 소유 및 운영합니다. 약 20,000마일의 철도망을 통해 곡물, 석탄 등의 대량 화물과 산업용 화학 제품, 소비재 및 해외 컨테이너 화물의 복합 운송 서비스를 제공합니다.
 

@@ -1,16 +1,16 @@
 # COLGATE PALMOLIVE CO (CL) 분기 실적 히스토리
 
-> 생성일: 2026-05-06 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
+> 생성일: 2026-05-19 | 출처: SEC EDGAR XBRL | 결산월: 12월 | 분기 기준: 캘린더 | 통화: USD
 
 **Consumer Defensive | Household & Personal Products | 시총 68B$ (#252위) | 결산월: 12월**
 
 | 지표 | 값 |
 |:-----|----:|
-| P/E (Trailing) | 33.5x |
-| P/E (Forward)  | 21.3x |
-| P/B            | 1288.5x |
-| EV/EBITDA      | 15.4x |
-| 배당수익률     | 2.44% |
+| P/E (Trailing) | 35.1x |
+| P/E (Forward)  | 22.4x |
+| P/B            | 1352.5x |
+| EV/EBITDA      | 16.0x |
+| 배당수익률     | 2.31% |
 
 Colgate-Palmolive Company는 미국 및 전 세계에서 다양한 일상 소비재를 제조하고 판매하는 글로벌 기업입니다. 구강, 개인 및 홈 케어 부문을 통해 치약, 비누, 세제 등의 생활용품을 공급하며, 반려동물 영양 부문을 통해 전문적인 반려동물 사료도 판매합니다.
 
