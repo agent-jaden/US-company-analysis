@@ -19,8 +19,8 @@ jobs:
       - name: Install dependencies
         run: pip install -r scripts/requirements.txt
 
-      - name: Compute today's date (KST)
-        run: echo "TODAY=$(TZ='Asia/Seoul' date +%Y%m%d)" >> "$GITHUB_ENV"
+      - name: Compute today's date (UTC = US Eastern business date)
+        run: echo "TODAY=$(date -u +%Y%m%d)" >> "$GITHUB_ENV"
 
       - name: Run daily earnings check
         env:
