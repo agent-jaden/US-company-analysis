@@ -1,0 +1,30 @@
+name: US Earnings Telegram Notifier
+
+on:
+  schedule:
+    # 08:00 KST = 23:00 UTC (전날)
+    - cron: "0 23 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Compute today's date (KST)
+        run: echo "TODAY=$(TZ='Asia/Seoul' date +%Y%m%d)" >> "$GITHUB_ENV"
+
+      - name: Run daily earnings check
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        run: |
+          cd scripts
+          python us_earnings_telegram.py --from "$TODAY" --to "$TODAY" --no-update
